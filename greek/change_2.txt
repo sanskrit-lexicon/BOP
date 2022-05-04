@@ -1,0 +1,9 @@
+9759 old <L>1715<pc>061-a<k1>o<k2>o,
+9759 new <L>1715<pc>061-a<k1>o<k2>o
+;
+11937 old <L>2132<pc>073-b<k1>kinnu<k2>kinnu (kima + nu)
+11937 new <L>2132<pc>073-b<k1>kinnu<k2>kinnu (kim + nu)
+;
+46934 old <L>7472<pc>327-a<k1>viha<k2>viha,
+46934 new <L>7472<pc>327-a<k1>viha<k2>viha
+;

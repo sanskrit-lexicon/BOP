@@ -1,0 +1,1855 @@
+; <L>2<pc>001-a<k1>a
+140 old et cf. gr. <lang n="greek"></lang> lat. {%in,%} goth. et germ. {%un%}).
+;
+140 new et cf. gr. <lang n="greek">ἀ, ἀν</lang> lat. {%in,%} goth. et germ. {%un%}).
+; ---------------------------
+; <L>14<pc>001-a<k1>aMhas
+196 old {#gas#} et gr. <lang n="greek"></lang>).
+;
+196 new {#gas#} et gr. <lang n="greek">ἄγος</lang>).
+; ---------------------------
+; <L>16<pc>001-a<k1>ak
+205 old xuose, tortuose ire (cf. gr. <lang n="greek"></lang> lat.
+;
+205 new xuose, tortuose ire (cf. gr. <lang n="greek">ἀγϰή, ἀγϰαί, ἀγϰών</lang> lat.
+; ---------------------------
+; <L>51<pc>002-b<k1>agADa
+415 old fortasse pertinent gr. <lang n="greek"></lang> et goth. {%gôths%} (Th. {%gôda,%}
+;
+415 new fortasse pertinent gr. <lang n="greek">ἀγαϑός</lang> et goth. {%gôths%} (Th. {%gôda,%}
+; ---------------------------
+; <L>58<pc>003-a<k1>agra
+458 old coram, c. {%gen.%} N. 23. 21. (cf. gr. <lang n="greek"></lang>). 2) {%Adj.%} insi-
+;
+458 new coram, c. {%gen.%} N. 23. 21. (cf. gr. <lang n="greek">ἄϰϱον</lang>). 2) {%Adj.%} insi-
+; ---------------------------
+; <L>64<pc>003-a<k1>aNka
+491 old huc pertinet gr. <lang n="greek"></lang>): IN. 1. 27. 2. 21. N. 23. 25. SA.
+;
+491 new huc pertinet gr. <lang n="greek">ὄγϰος</lang>): IN. 1. 27. 2. 21. N. 23. 25. SA.
+; ---------------------------
+; <L>67<pc>003-a<k1>aNg
+506 old (gr. <lang n="greek"></lang>).
+;
+506 new (gr. <lang n="greek">ἐγγύς, ἐγγίζω</lang>).
+; ---------------------------
+; <L>93<pc>004-a<k1>aj
+645 old {#aj#}¦ 1. {%P.%} ({#gatO#} {%K.%} {#kzepe gate#} {%v.%}) ire, conjicere (gr. <lang n="greek"></lang>
+;
+645 new {#aj#}¦ 1. {%P.%} ({#gatO#} {%K.%} {#kzepe gate#} {%v.%}) ire, conjicere (gr. <lang n="greek">ἄγω</lang>
+; ---------------------------
+; <L>168<pc>006-b<k1>ad
+1069 old 3. p. pl. {%jadjatj,%} gr. comp. 460.; gr. <lang n="greek"></lang> lat. {%edo,%} goth.
+;
+1069 new 3. p. pl. {%jadjatj,%} gr. comp. 460.; gr. <lang n="greek">ἔδω</lang> lat. {%edo,%} goth.
+; ---------------------------
+; <L>224<pc>008-b<k1>an
+1367 old serto euphonico {%s,%} v. gr. comp. 95.); gr. <lang n="greek"></lang> lat.
+;
+1367 new serto euphonico {%s,%} v. gr. comp. 95.); gr. <lang n="greek">ἄνεμος</lang> lat.
+; ---------------------------
+; <L>226<pc>008-b<k1>ana
+1378 old gr. <lang n="greek"></lang> lat. {%an, in;%} goth.
+;
+1378 new gr. <lang n="greek">ἄν, ἀνά, ἐν, ἔν-ϑα, ἔν-ϑεν, εἰ-ς</lang> lat. {%an, in;%} goth.
+; ---------------------------
+; <L>350<pc>012-a<k1>antika
+2027 old {#antika#}¦ {%n.%} (fortasse a perdita voce {#anti#} = gr. <lang n="greek"></lang> lat.
+;
+2027 new {#antika#}¦ {%n.%} (fortasse a perdita voce {#anti#} = gr. <lang n="greek">αντί</lang> lat.
+; ---------------------------
+; <L>365<pc>012-b<k1>anyonya
+2103 old casibus solum usurpatur; cf. {%einander%} et <lang n="greek"></lang>) mu-
+;
+2103 new casibus solum usurpatur; cf. {%einander%} et <lang n="greek">ἀλλήλων</lang>) mu-
+; ---------------------------
+; <L>366<pc>012-b<k1>anvac
+2111 old in debilissimis {#anUc,#} ad analogiam <lang n="greek"></lang> {#pratyac, pratyaYc,#}
+;
+2111 new in debilissimis {#anUc,#} ad analogiam <lang n="greek">τᴕ̃</lang> {#pratyac, pratyaYc,#}
+; ---------------------------
+; <L>374<pc>013-a<k1>ap
+2155 old retulerim gr. <lang n="greek"></lang>).
+;
+2155 new retulerim gr. <lang n="greek">ἀϕϱός</lang>).
+; ---------------------------
+; <L>394<pc>013-b<k1>aparedyus
+2263 old {#aparedyus#}¦ (ex {#apare#} locat. <lang n="greek"></lang> {#apara#} alius et {#dyus,#} quod ex
+;
+2263 new {#aparedyus#}¦ (ex {#apare#} locat. <lang n="greek">τᴕ̃</lang> {#apara#} alius et {#dyus,#} quod ex
+; ---------------------------
+; <L>409<pc>014-a<k1>api
+2342 old abjicitur (gr. <lang n="greek"></lang> lith. {%ap%} insepar.).
+;
+2342 new abjicitur (gr. <lang n="greek">ἐπί</lang> lith. {%ap%} insepar.).
+; ---------------------------
+; <L>433<pc>014-b<k1>aBava
+2469 old {#aBava#}¦ {%m.%} ({%KARM.%} ex {#a#} priv. et {#Bava#} existentia) <lang n="greek"></lang> non esse
+;
+2469 new {#aBava#}¦ {%m.%} ({%KARM.%} ex {#a#} priv. et {#Bava#} existentia) <lang n="greek">τὸ</lang> non esse
+; ---------------------------
+; <L>493<pc>016-a<k1>aBra
+2765 old et {#a#} <sup>(*)</sup> cf. {#ambuda#} et {#jalada#}) nubes (gr. <lang n="greek"></lang> lat.
+;
+2765 new et {#a#} <sup>(*)</sup> cf. {#ambuda#} et {#jalada#}) nubes (gr. <lang n="greek">ὄμβϱος</lang> lat.
+; ---------------------------
+; <L>539<pc>017-b<k1>ayasmaya
+3002 old {#ayasmaya#}¦ (ab {#ayas#} s. {#maya#} contra gr. 58. et analogiam <lang n="greek"></lang>
+;
+3002 new {#ayasmaya#}¦ (ab {#ayas#} s. {#maya#} contra gr. 58. et analogiam <lang n="greek">τᴕ̃</lang>
+; ---------------------------
+; <L>575<pc>018-b<k1>arjana
+3183 old {#arjana#}¦ {%n.%} (r. {#arj#} s. {#ana#}) {%Nom. actionis%} <lang n="greek"></lang> {#arj#} sgnf. 1.
+;
+3183 new {#arjana#}¦ {%n.%} (r. {#arj#} s. {#ana#}) {%Nom. actionis%} <lang n="greek">τᴕ̃</lang> {#arj#} sgnf. 1.
+; ---------------------------
+; <L>578<pc>018-b<k1>arT
+3198 old {#arT#}¦ 10. {%P.%} (v. {#arTa#}) petere, postulare (gr. <lang n="greek"></lang> dissoluto
+;
+3198 new {#arT#}¦ 10. {%P.%} (v. {#arTa#}) petere, postulare (gr. <lang n="greek">αἰτέω</lang> dissoluto
+; ---------------------------
+; <L>579<pc>018-b<k1>arTa
+3216 old SA. 4. 25. (gr. <lang n="greek"></lang>).
+;
+3216 new SA. 4. 25. (gr. <lang n="greek">αἰτία</lang>).
+; ---------------------------
+; <L>593<pc>019-a<k1>arBa
+3295 old v. sq. (Huc referri possint lat. {%orbus,%} gr. <lang n="greek"></lang>)
+;
+3295 new v. sq. (Huc referri possint lat. {%orbus,%} gr. <lang n="greek">ὀϱϕανός</lang>)
+; ---------------------------
+; <L>599<pc>019-b<k1>arvAc
+3325 old {%n.%} {#arvAk#} secundum analogium <lang n="greek"></lang> {#prAc#} gr. 197.) pro-
+;
+3325 new {%n.%} {#arvAk#} secundum analogium <lang n="greek">τᴕ̃</lang> {#prAc#} gr. 197.) pro-
+; ---------------------------
+; <L>600<pc>019-b<k1>arh
+3340 old jus radicis ex {#G#} orta esse videtur, cf. {#arG#} et gr. <lang n="greek"></lang>
+;
+3340 new jus radicis ex {#G#} orta esse videtur, cf. {#arG#} et gr. <lang n="greek">ἄϱχω</lang>
+; ---------------------------
+; <L>700<pc>022-b<k1>avi
+3852 old {#avi#}¦ {%m.%} ovis (lith. {%awi-s,%} slav. {%ovjza,%} lat. {%ovis,%} gr. <lang n="greek"></lang>; goth.
+;
+3852 new {#avi#}¦ {%m.%} ovis (lith. {%awi-s,%} slav. {%ovjza,%} lat. {%ovis,%} gr. <lang n="greek">ὄϊς</lang>; goth.
+; ---------------------------
+; <L>762<pc>024-b<k1>asatI
+4219 old {#asatI#}¦ {%f.%} (ex {#a#} priv. et {#satI#} fem. <lang n="greek"></lang> {#sat#} bonus) femina
+;
+4219 new {#asatI#}¦ {%f.%} (ex {#a#} priv. et {#satI#} fem. <lang n="greek">τᴕ̃</lang> {#sat#} bonus) femina
+; ---------------------------
+; <L>784<pc>025-b<k1>asfj
+4337 old quod ad nasalem <lang n="greek"></lang> {%sanguis%} attinet, respicias formam
+;
+4337 new quod ad nasalem <lang n="greek">τοῦ</lang> {%sanguis%} attinet, respicias formam
+; ---------------------------
+; <L>789<pc>025-b<k1>asTi
+4373 old {%ostis,%} gr. <lang n="greek"></lang> slav. {%kostj%} Th. {%kosti,%} anteposito {%k.%})
+;
+4373 new {%ostis,%} gr. <lang n="greek">ὀστέον</lang> slav. {%kostj%} Th. {%kosti,%} anteposito {%k.%})
+; ---------------------------
+; <L>808<pc>026-b<k1>aham
+4510 old {#aham#}¦ ego (v. {#asmat#} et gr. 264. et cf. gr. <lang n="greek"></lang> lat.
+;
+4510 new {#aham#}¦ ego (v. {#asmat#} et gr. 264. et cf. gr. <lang n="greek">ἐγών, ἐγώ</lang> lat.
+; ---------------------------
+; <L>854<pc>028-a<k1>Agas
+4753 old  v. gr. 645. s. {#a#} - s. {#a#}) peccatum (gr. <lang n="greek"></lang> cf. {#aMhas#}).
+;
+4753 new  v. gr. 645. s. {#a#} - s. {#a#}) peccatum (gr. <lang n="greek">ἄγος</lang> cf. {#aMhas#}).
+; ---------------------------
+; <L>939<pc>031-b<k1>ApIna
+5260 old uber, <lang n="greek"></lang> AM.
+;
+5260 new uber, <lang n="greek">οὖϑαϱ</lang> AM.
+; ---------------------------
+; <L>950<pc>032-a<k1>ABaraRa
+5321 old 2. 23. SA. 3. 19. (Sic gr. <lang n="greek"></lang> pallium a ferendo no-
+;
+5321 new 2. 23. SA. 3. 19. (Sic gr. <lang n="greek">ϕᾶϱος</lang> pallium a ferendo no-
+; ---------------------------
+; <L>992<pc>033-a<k1>ArAma
+5530 old 24. 2) hortus. AM. (Gr. <lang n="greek"></lang> v. r. {#ram#} praef.
+;
+5530 new 24. 2) hortus. AM. (Gr. <lang n="greek">ἠϱέμα, ἔϱημος</lang> v. r. {#ram#} praef.
+; ---------------------------
+; <L>1004<pc>033-b<k1>Ardra
+5595 old vel simile quid significaverit et accurate cum gr. <lang n="greek"></lang>
+;
+5595 new vel simile quid significaverit et accurate cum gr. <lang n="greek">ἄϱδω</lang>
+; ---------------------------
+; <L>1032<pc>034-a<k1>AvAm
+5729 old {#AvAm#}¦ <lang n="greek"></lang> v. gr. 264.
+;
+5729 new {#AvAm#}¦ <lang n="greek">νῶϊ</lang> v. gr. 264.
+; ---------------------------
+; <L>1062<pc>035-b<k1>As
+5928 old {#zRIm AsyatAm#}. (Gr. <lang n="greek"></lang> e lat. lin-
+;
+5928 new {#zRIm AsyatAm#}. (Gr. <lang n="greek">ἧ(σ)-μαι, ἧσ-ται</lang> e lat. lin-
+; ---------------------------
+; <L>1101<pc>037-b<k1>iK
+6216 old {#iK#}¦ 1. {%P.%} ({#gatO#}) ire (cf. <lang n="greek"></lang> et v. sq.).
+;
+6216 new {#iK#}¦ 1. {%P.%} ({#gatO#}) ire (cf. <lang n="greek">εἴϰω</lang> et v. sq.).
+; ---------------------------
+; <L>1104<pc>038-a<k1>iNga
+6234 old gr. <lang n="greek"></lang> et v. {#iK#}).
+;
+6234 new gr. <lang n="greek">ἐπείγω</lang> et v. {#iK#}).
+; ---------------------------
+; <L>1146<pc>040-a<k1>iBa
+6533 old gr. <lang n="greek"></lang> praefixo articulo semitico, et lat. {%ebur.%}).
+;
+6533 new gr. <lang n="greek">ἐλ-έϕας</lang> praefixo articulo semitico, et lat. {%ebur.%}).
+; ---------------------------
+; <L>1156<pc>040-b<k1>il
+6584 old strum {%eile;%} cambro - brit. {%il%} progressio, motus; gr. <lang n="greek"></lang>
+;
+6584 new strum {%eile;%} cambro - brit. {%il%} progressio, motus; gr. <lang n="greek">ἐλάω</lang>
+; ---------------------------
+; <L>1163<pc>041-b<k1>izu
+6662 old {#izu#}¦ {%m. f.%} (r. {#iz#} ire s. {#u#}) sagitta (cf. gr. <lang n="greek"></lang> quo scr.
+;
+6662 new {#izu#}¦ {%m. f.%} (r. {#iz#} ire s. {#u#}) sagitta (cf. gr. <lang n="greek">ἰ(σ)ός</lang> quo scr.
+; ---------------------------
+; <L>1174<pc>041-1b<k1>Ikz
+6735 old lus et radix gr. <lang n="greek"></lang> videre, intueri, spectare. BH. 6. 29.
+;
+6735 new lus et radix gr. <lang n="greek">ὈΠ</lang> videre, intueri, spectare. BH. 6. 29.
+; ---------------------------
+; <L>1201<pc>043-b<k1>IS
+6936 old ratâ, quam ex scr. {#S#} et gr. <lang n="greek"></lang> - v. {#ISvara#} - exspectave-
+;
+6936 new ratâ, quam ex scr. {#S#} et gr. <lang n="greek">ϰ</lang> - v. {#ISvara#} - exspectave-
+; ---------------------------
+; <L>1278<pc>046-a<k1>uttara
+7373 old N. 17. 30. (gr. <lang n="greek"></lang> v. {#ut#}).
+;
+7373 new N. 17. 30. (gr. <lang n="greek">ἵστεϱος</lang> v. {#ut#}).
+; ---------------------------
+; <L>1328<pc>047-b<k1>udIcI
+7634 old {#udIcI#}¦ {%f.%} ({%Fem.%} <lang n="greek"></lang> {#udac#} q. v.) septentrionalis plaga.
+;
+7634 new {#udIcI#}¦ {%f.%} ({%Fem.%} <lang n="greek">τοῦ</lang> {#udac#} q. v.) septentrionalis plaga.
+; ---------------------------
+; <L>1437<pc>050-b<k1>upari
+8173 old vet. {%obar,%} nostrum {%über,%} gr. <lang n="greek"></lang> lat. {%super,%} v. {#upa;#}
+;
+8173 new vet. {%obar,%} nostrum {%über,%} gr. <lang n="greek">ὑπέϱ</lang> lat. {%super,%} v. {#upa;#}
+; ---------------------------
+; <L>1515<pc>052-b<k1>uru
+8563 old superl. {#varizWa,#} v. gr. 251.) magnus (gr. <lang n="greek"></lang>; hib. {%ur%}
+;
+8563 new superl. {#varizWa,#} v. gr. 251.) magnus (gr. <lang n="greek">εὐϱύς</lang>; hib. {%ur%}
+; ---------------------------
+; <L>1537<pc>053-b<k1>uzas
+8698 old gothicum {%h%} respondet, cf. {%ašṭâu,%} <lang n="greek"></lang> {%ahtau.%}</F>
+;
+8698 new gothicum {%h%} respondet, cf. {%ašṭâu,%} <lang n="greek">ὀϰτώ</lang> {%ahtau.%}</F>
+; ---------------------------
+; <L>1573<pc>054-b<k1>UrRA
+8879 old lat. {%villus,%} gr. <lang n="greek"></lang> hib. {%olann.%})
+;
+8879 new lat. {%villus,%} gr. <lang n="greek">ἔϱος, ἔϱιον, ἐϱέα, εἶϱος, εἶϱιον</lang> hib. {%olann.%})
+; ---------------------------
+; <L>1577<pc>054-b<k1>UrdDva
+8901 old <lang n="greek"></lang> hib. {%ard%} «a height, top, summit»)
+;
+8901 new <lang n="greek">ὀϱϑός</lang> hib. {%ard%} «a height, top, summit»)
+; ---------------------------
+; <L>1589<pc>055-1a<k1>f
+9007 old minata sint; cf. Graff I. 402. Etiam gr. 'AP, <lang n="greek"></lang> a mo-
+;
+9007 new minata sint; cf. Graff I. 402. Etiam gr. 'AP, <lang n="greek">ἈΡ, αἴϱω</lang> a mo-
+; ---------------------------
+; <L>1594<pc>056-a<k1>fkza
+9042 old <lang n="greek">ἄρκτος</lang> hib. {%art,%} lat. {%ursus,%} ejecto {#k;#} lith. {%lokys%} per me-
+;
+9042 new <lang n="greek">ἄρϰτος</lang> hib. {%art,%} lat. {%ursus,%} ejecto {#k;#} lith. {%lokys%} per me-
+; ---------------------------
+; <L>1600<pc>056-a<k1>fj
+9079 old nostrum {%recht,%} v. sq., gr. <lang n="greek"></lang> hib. {%righim%} «I reach,
+;
+9079 new nostrum {%recht,%} v. sq., gr. <lang n="greek">ὀ-ϱέγω</lang> hib. {%righim%} «I reach,
+; ---------------------------
+; <L>1624<pc>057-b<k1>fzaBa
+9234 old Indi). H. 1. 17. (V. {#f#} et cf. gr. <lang n="greek"></lang>)
+;
+9234 new Indi). H. 1. 17. (V. {#f#} et cf. gr. <lang n="greek">ἄϱσην</lang>)
+; ---------------------------
+; <L>1632<pc>058-a<k1>ekatara
+9294 old 10. (Gr. <lang n="greek"></lang> hib. {%n'-eachtar%} neuter.)
+;
+9294 new 10. (Gr. <lang n="greek">ἑϰάτεϱος</lang> hib. {%n'-eachtar%} neuter.)
+; ---------------------------
+; <L>1699<pc>060-1b<k1>Ezamas
+9673 old tur gr. <lang n="greek"></lang> v. {#tat#} et gr. comp. 345.)
+;
+9673 new tur gr. <lang n="greek">σῆτες, σήμεϱον</lang> v. {#tat#} et gr. comp. 345.)
+; ---------------------------
+; <L>1701<pc>060-2a<k1>oka
+9686 old de gr. <lang n="greek"></lang> v. {#veSa#}.)
+;
+9686 new de gr. <lang n="greek">οἶϰος</lang> v. {#veSa#}.)
+; ---------------------------
+; <L>1708<pc>060-2b<k1>ojas
+9724 old {#svitA#}. (Cf. gr. <lang n="greek"></lang> hib. {%og%} «young, yuvenile,
+;
+9724 new {#svitA#}. (Cf. gr. <lang n="greek">ὑγιής</lang> hib. {%og%} «young, yuvenile,
+; ---------------------------
+; <L>1716<pc>061-b<k1>oza
+9769 old lum servatum sit; respicias gr. <lang n="greek"></lang> quod item cum
+;
+9769 new lum servatum sit; respicias gr. <lang n="greek">τέϕϱα</lang> quod item cum
+; ---------------------------
+; <L>1748<pc>062-a<k1>kaK
+9939 old {#kaK#}¦ 1. {%P.%} ({#hasane#}) ridere. (Gr. <lang n="greek"></lang> lat.
+;
+9939 new {#kaK#}¦ 1. {%P.%} ({#hasane#}) ridere. (Gr. <lang n="greek">ϰαχάζω, ϰαγχάζω</lang> lat.
+; ---------------------------
+; <L>1794<pc>063-a<k1>kaRa
+10151 old {#yas, kaRizWa#}. (Gr. <lang n="greek"></lang>.)
+;
+10151 new {#yas, kaRizWa#}. (Gr. <lang n="greek">ϰενός</lang>.)
+; ---------------------------
+; <L>1796<pc>063-a<k1>kaRizWa
+10159 old {#kaRizWa#}¦ {%Superl.%} <lang n="greek"></lang> {#kaRa,#} v. {#kanizWa#}.
+;
+10159 new {#kaRizWa#}¦ {%Superl.%} <lang n="greek">τᴕ̃</lang> {#kaRa,#} v. {#kanizWa#}.
+; ---------------------------
+; <L>1797<pc>063-a<k1>kaRIyas
+10163 old {#kaRIyas#}¦ {%Compar.%} <lang n="greek"></lang> {#kaRa,#} v. {#kanIyas#}.
+;
+10163 new {#kaRIyas#}¦ {%Compar.%} <lang n="greek">τᴕ̃</lang> {#kaRa,#} v. {#kanIyas#}.
+; ---------------------------
+; <L>1802<pc>063-b<k1>kaRWa
+10196 old {%l;%} respicias rationem quam gr. <lang n="greek"></lang> et scr. {#anya#} q. v.
+;
+10196 new {%l;%} respicias rationem quam gr. <lang n="greek">ἄλλος</lang> et scr. {#anya#} q. v.
+; ---------------------------
+; <L>1814<pc>064-a<k1>katipaya
+10264 old labialem, sicut in gr. <lang n="greek"></lang> quod formâ accurate cum
+;
+10264 new labialem, sicut in gr. <lang n="greek">ποῖος</lang> quod formâ accurate cum
+; ---------------------------
+; <L>1818<pc>064-a<k1>kaT
+10291 old neralem regulam; gr. <lang n="greek"></lang> v. {#katT#}.)
+;
+10291 new neralem regulam; gr. <lang n="greek">ϰωτίλος, ϰωτίλλω</lang> v. {#katT#}.)
+; ---------------------------
+; <L>1821<pc>064-a<k1>kaTam
+10306 old quomodo. N. 11. 24. (Huc trahimus gr. <lang n="greek"></lang> cum
+;
+10306 new quomodo. N. 11. 24. (Huc trahimus gr. <lang n="greek">ϰατά</lang> cum
+; ---------------------------
+; <L>1824<pc>064-b<k1>kad
+10329 old {#kadana#}. (Gr. <lang n="greek"></lang> huc etiam traxerim goth.
+;
+10329 new {#kadana#}. (Gr. <lang n="greek">ϰῆδος, ϰήδω</lang> huc etiam traxerim goth.
+; ---------------------------
+; <L>1837<pc>064-b<k1>kan
+10398 old <lang n="greek"></lang> mutatâ tenui in mediam; hib.
+;
+10398 new <lang n="greek">γάνος, γανάω, γανόω</lang> mutatâ tenui in mediam; hib.
+; ---------------------------
+; <L>1868<pc>065-b<k1>kapAla
+10541 old {#kapAla#}¦ {%m. n.%} cranium (Gr. <lang n="greek"></lang> lat. {%caput,%} goth {%hau-%}
+;
+10541 new {#kapAla#}¦ {%m. n.%} cranium (Gr. <lang n="greek">ϰεϕαλή</lang> lat. {%caput,%} goth {%hau-%}
+; ---------------------------
+; <L>1869<pc>065-b<k1>kapi
+10546 old {#kapi#}¦ {%m.%} (r. {#kamp#} s. {#i#}) simia (Gr. <lang n="greek"></lang> anglo-
+;
+10546 new {#kapi#}¦ {%m.%} (r. {#kamp#} s. {#i#}) simia (Gr. <lang n="greek">ϰῆπος, ϰεῖπος</lang> anglo-
+; ---------------------------
+; <L>1898<pc>066-b<k1>karaBa
+10725 old {#pamorUH#}. (Cf. gr. <lang n="greek"></lang>.)
+;
+10725 new {#pamorUH#}. (Cf. gr. <lang n="greek">ϰάϱπος</lang>.)
+; ---------------------------
+; <L>1909<pc>067-a<k1>karkawa
+10777 old {#karkawa#}¦ {%m.%} cancer. (Cf. gr. <lang n="greek"></lang>, lat. {%cancer.%})
+;
+10777 new {#karkawa#}¦ {%m.%} cancer. (Cf. gr. <lang n="greek">ϰαϱϰῖνος</lang>, lat. {%cancer.%})
+; ---------------------------
+; <L>1927<pc>067-b<k1>kard
+10867 old {%intestinis.%} (Cf. {#pard;#} fortasse huc pertinet gr. <lang n="greek"></lang>.)
+;
+10867 new {%intestinis.%} (Cf. {#pard;#} fortasse huc pertinet gr. <lang n="greek">χοϱδή</lang>.)
+; ---------------------------
+; <L>1931<pc>067-b<k1>karpAsa
+10883 old {#karpAsa#}¦ {%m. n.%} erioxylon. (Gr. <lang n="greek"></lang> lat. {%carbasus.%})
+;
+10883 new {#karpAsa#}¦ {%m. n.%} erioxylon. (Gr. <lang n="greek">ϰάϱπασος</lang> lat. {%carbasus.%})
+; ---------------------------
+; <L>1956<pc>068-a<k1>kalaSa
+11022 old {#kalaSa#}¦ {%m. n.%} urna fictilis. HIT. 101. 8. (Gr. <lang n="greek"></lang> lat. {%calix.%})
+;
+11022 new {#kalaSa#}¦ {%m. n.%} urna fictilis. HIT. 101. 8. (Gr. <lang n="greek">ϰάλιξ</lang> lat. {%calix.%})
+; ---------------------------
+; <L>2006<pc>069-b<k1>kastIra
+11271 old {#kastIra#}¦ {%n.%} plumbum album. HEM. (Gr. <lang n="greek"></lang>).
+;
+11271 new {#kastIra#}¦ {%n.%} plumbum album. HEM. (Gr. <lang n="greek">ϰασσίτεϱος</lang>).
+; ---------------------------
+; <L>2008<pc>069-b<k1>kastUrI
+11279 old {#kastUrI#}¦ {%f.%} moschus. AM. (Cf. <lang n="greek"></lang>)
+;
+11279 new {#kastUrI#}¦ {%f.%} moschus. AM. (Cf. <lang n="greek">ϰάστωϱ, ϰαστόϱιον</lang>)
+; ---------------------------
+; <L>2089<pc>072-a<k1>kAlaka
+11691 old 2) jecur. HEM. (Cf. gr. <lang n="greek"></lang>, v. {#kAla#}.)
+;
+11691 new 2) jecur. HEM. (Cf. gr. <lang n="greek">ϰηλίς</lang>, v. {#kAla#}.)
+; ---------------------------
+; <L>2105<pc>072-a<k1>kAs
+11769 old fax; Benary huc refert <lang n="greek"></lang>). 2) tussire. (Lith. {%kòs-tu%}
+;
+11769 new fax; Benary huc refert <lang n="greek">Κάσ-τωϱ</lang>). 2) tussire. (Lith. {%kòs-tu%}
+; ---------------------------
+; <L>2148<pc>074-a<k1>kirmIra
+12041 old malus aurantia. (Cf. gr. <lang n="greek"></lang>.)
+;
+12041 new malus aurantia. (Cf. gr. <lang n="greek">ϰιϱϱός</lang>.)
+; ---------------------------
+; <L>2163<pc>074-b<k1>kIwa
+12109 old {#kIwa#}¦ {%m.%} insectum, vermis. HIT. 8. 7. (Gr. <lang n="greek"></lang>.)
+;
+12109 new {#kIwa#}¦ {%m.%} insectum, vermis. HIT. 8. 7. (Gr. <lang n="greek">ϰίς</lang>.)
+; ---------------------------
+; <L>2164<pc>074-b<k1>kIdfSa
+12114 old {%ko-lik,%} Th. {%ko-liko,%} gr. <lang n="greek"></lang>, goth. {%hvê-leiks,%} Th.
+;
+12114 new {%ko-lik,%} Th. {%ko-liko,%} gr. <lang n="greek">πη-λίϰος</lang>, goth. {%hvê-leiks,%} Th.
+; ---------------------------
+; <L>2185<pc>075-a<k1>kukzi
+12213 old gr. <lang n="greek"></lang>? germ. vet. {%bûh,%} nostrum {%Bauch,%} mutatâ
+;
+12213 new gr. <lang n="greek">ϰοχώνη</lang>? germ. vet. {%bûh,%} nostrum {%Bauch,%} mutatâ
+; ---------------------------
+; <L>2253<pc>076-b<k1>kubja
+12551 old {%tas%} gibbosus, gr. <lang n="greek"></lang> lat. {%gibbus, gibba, gib-%}
+;
+12551 new {%tas%} gibbosus, gr. <lang n="greek">ϰυϕός, ϰύπτω</lang> lat. {%gibbus, gibba, gib-%}
+; ---------------------------
+; <L>2267<pc>077-a<k1>kumBa
+12630 old <lang n="greek"></lang>)
+;
+12630 new <lang n="greek">ϰύμβη</lang>)
+; ---------------------------
+; <L>2302<pc>078-a<k1>kuS
+12795 old <lang n="greek"></lang> abjectâ consonante finali.)
+;
+12795 new <lang n="greek">ϰύω, ϰυ-νέω</lang> abjectâ consonante finali.)
+; ---------------------------
+; <L>2323<pc>078-b<k1>kU
+12895 old (Cf. {#kUj,#} <lang n="greek"></lang>.)
+;
+12895 new (Cf. {#kUj,#} <lang n="greek">ϰωϰύω</lang>.)
+; ---------------------------
+; <L>2360<pc>081-b<k1>kftam
+13217 old {#kftam#}¦ (Acc. <lang n="greek"></lang> {#kfta#}) {%particula prohibitiva, c. instrumen-%}
+;
+13217 new {#kftam#}¦ (Acc. <lang n="greek">τοῦ</lang> {#kfta#}) {%particula prohibitiva, c. instrumen-%}
+; ---------------------------
+; <L>2376<pc>082-a<k1>kfp
+13312 old transeat in {#kalp#}) misereri. (Cf. gr. <lang n="greek"></lang>.)
+;
+13312 new transeat in {#kalp#}) misereri. (Cf. gr. <lang n="greek">ἔλπω</lang>.)
+; ---------------------------
+; <L>2382<pc>082-a<k1>kfS
+13348 old {%parco, parcus, parum, parvus, paucus,%} gr. <lang n="greek"></lang>, goth.
+;
+13348 new {%parco, parcus, parum, parvus, paucus,%} gr. <lang n="greek">παῦϱος</lang>, goth.
+; ---------------------------
+; <L>2395<pc>083-a<k1>kF
+13462 old {#kIryamARaH#}. (Gr. <lang n="greek"></lang> quorum
+;
+13462 new {#kIryamARaH#}. (Gr. <lang n="greek">ϰεϱάω, ϰεϱάννυμι, ϰίϱνημι</lang> quorum
+; ---------------------------
+; <L>2396<pc>083-b<k1>kF
+13509 old 2. {#kF#}¦ 9. {%P.:%} {#kfRAmi#} (= <lang n="greek"></lang>, v. {#kF#} cl. 6., {#hiMsAyAm#} {%K.%}
+;
+13509 new 2. {#kF#}¦ 9. {%P.:%} {#kfRAmi#} (= <lang n="greek">ϰίϱνημι</lang>, v. {#kF#} cl. 6., {#hiMsAyAm#} {%K.%}
+; ---------------------------
+; <L>2397<pc>084-a<k1>kF
+13516 old 3. {#kF#}¦ 10. {%A.:%} {#kAraye#} ({#vijYAne#} {%v.%}) noscere. (Gr. <lang n="greek"></lang>, lat.
+;
+13516 new 3. {#kF#}¦ 10. {%A.:%} {#kAraye#} ({#vijYAne#} {%v.%}) noscere. (Gr. <lang n="greek">ϰϱίνω</lang>, lat.
+; ---------------------------
+; <L>2444<pc>086-a<k1>kola
+13821 old aper; gr. <lang n="greek"></lang>.)
+;
+13821 new aper; gr. <lang n="greek">χοῖϱος</lang>.)
+; ---------------------------
+; <L>2470<pc>086-b<k1>kratu
+13952 old tia. RIGV. {%P.%} 28. 1. (Cf. gr. <lang n="greek"></lang>.)
+;
+13952 new tia. RIGV. {%P.%} 28. 1. (Cf. gr. <lang n="greek">ϰϱάτος</lang>.)
+; ---------------------------
+; <L>2477<pc>087-a<k1>kram
+14007 old novem convenit cum {#navan,#} et gr. <lang n="greek"></lang> cum {#mfta#}
+;
+14007 new novem convenit cum {#navan,#} et gr. <lang n="greek">βϱοτός</lang> cum {#mfta#}
+; ---------------------------
+; <L>2513<pc>090-a<k1>klam
+14319 old idem valens {#Sram,#} cujus {#S#} ortum est e {#k;#} gr. <lang n="greek"></lang>
+;
+14319 new idem valens {#Sram,#} cujus {#S#} ortum est e {#k;#} gr. <lang n="greek">ϰάμνω</lang>
+; ---------------------------
+; <L>2576<pc>093-a<k1>kzi
+14760 old trahi possent, a quâ e gramm. r. 495. {%Pass.%} <lang n="greek"></lang> {#kzi#} non
+;
+14760 new trahi possent, a quâ e gramm. r. 495. {%Pass.%} <lang n="greek">τοῦ</lang> {#kzi#} non
+; ---------------------------
+; <L>2584<pc>094-a<k1>kzipra
+14855 old <lang n="greek"></lang> v. {#kzapas#}.)
+;
+14855 new <lang n="greek">ϰϱαιπ-νός</lang> v. {#kzapas#}.)
+; ---------------------------
+; <L>2596<pc>094-b<k1>kzuD
+14928 old in lat. crepusculum = {#kzapas,#} in gr. <lang n="greek"></lang> = {#kzip,#}
+;
+14928 new in lat. crepusculum = {#kzapas,#} in gr. <lang n="greek">ϱ̔ίπτω</lang> = {#kzip,#}
+; ---------------------------
+; <L>2602<pc>094-b<k1>kzuB
+14964 old fert gr. <lang n="greek"></lang>, ejecto {#z;#} huc etiam trahimus nostrum
+;
+14964 new fert gr. <lang n="greek">ϰοῦϕος</lang>, ejecto {#z;#} huc etiam trahimus nostrum
+; ---------------------------
+; <L>2603<pc>095-a<k1>kzur
+14977 old scalpere, fodere; v. {#kzura#} {%et cf.%} {#Kur#}. (Gr. <lang n="greek"></lang> v.
+;
+14977 new scalpere, fodere; v. {#kzura#} {%et cf.%} {#Kur#}. (Gr. <lang n="greek">ξυϱ-όν</lang> v.
+; ---------------------------
+; <L>2604<pc>095-a<k1>kzura
+14984 old 2) ungula, {%cf.%} {#Kura#}. (Gr. <lang n="greek"></lang> v. {#kzur#}.)
+;
+14984 new 2) ungula, {%cf.%} {#Kura#}. (Gr. <lang n="greek">ξυϱόν</lang> v. {#kzur#}.)
+; ---------------------------
+; <L>2612<pc>095-a<k1>kzepizWa
+15021 old {#kzepizWa#}¦ {%Superl.%} <lang n="greek"></lang> {#kzipra#} {%v.%} gr. 251.
+;
+15021 new {#kzepizWa#}¦ {%Superl.%} <lang n="greek">τοῦ</lang> {#kzipra#} {%v.%} gr. 251.
+; ---------------------------
+; <L>2613<pc>095-a<k1>kzepIyas
+15025 old {#kzepIyas#}¦ {%Compar.%} <lang n="greek"></lang> {#kzipra,#} {%v.%} gr. 251.
+;
+15025 new {#kzepIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#kzipra,#} {%v.%} gr. 251.
+; ---------------------------
+; <L>2633<pc>096-a<k1>Ka
+15119 old {#Ka#}¦ {%n.%} aër, coelum. N. 12. 53. (Cf. gr. <lang n="greek"></lang> et lat. {%ha-%}
+;
+15119 new {#Ka#}¦ {%n.%} aër, coelum. N. 12. 53. (Cf. gr. <lang n="greek">χάος</lang> et lat. {%ha-%}
+; ---------------------------
+; <L>2634<pc>096-a<k1>KakK
+15129 old radicem {#SI,#} <lang n="greek"></lang> referimus; nostrum {%lache%} initialem
+;
+15129 new radicem {#SI,#} <lang n="greek">ϰεί-μαι</lang> referimus; nostrum {%lache%} initialem
+; ---------------------------
+; <L>2657<pc>096-b<k1>Kan
+15256 old {%Pass.%} {#Kanye#} vel {#KAye#}. (Gr. <lang n="greek"></lang> germ. vet.
+;
+15256 new {%Pass.%} {#Kanye#} vel {#KAye#}. (Gr. <lang n="greek">χαίνω, χανῶ</lang> germ. vet.
+; ---------------------------
+; <L>2701<pc>098-b<k1>Keda
+15515 old <lang n="greek"></lang> v. {#Kid#}.)
+;
+15515 new <lang n="greek">ϰῆδος</lang> v. {#Kid#}.)
+; ---------------------------
+; <L>2711<pc>098-b<k1>Kol
+15567 old gr. <lang n="greek"></lang>)
+;
+15567 new gr. <lang n="greek">χωλός</lang>)
+; ---------------------------
+; <L>2712<pc>098-b<k1>KyA
+15584 old <lang n="greek"></lang> quod tamen radice ab {%inquam%} place alienum est
+;
+15584 new <lang n="greek">ἐν-έπω</lang> quod tamen radice ab {%inquam%} place alienum est
+; ---------------------------
+; <L>2764<pc>102-a<k1>garizWa
+15983 old {#garizWa#}¦ ({%Superl.%} <lang n="greek"></lang> {#guru,#} gr. 251.) gravissimus.
+;
+15983 new {#garizWa#}¦ ({%Superl.%} <lang n="greek">τοῦ</lang> {#guru,#} gr. 251.) gravissimus.
+; ---------------------------
+; <L>2848<pc>106-a<k1>guD
+16509 old {#guh, Cad;#} gr. <lang n="greek"></lang> nostrum {%Haut,%} germ. vet.
+;
+16509 new {#guh, Cad;#} gr. <lang n="greek">ϰεύϑω</lang> nostrum {%Haut,%} germ. vet.
+; ---------------------------
+; <L>2907<pc>109-a<k1>godAvarI
+16925 old {#godAvarI#}¦ {%f.%} (e praec. et {#varI;#} fem. <lang n="greek"></lang> {#vara#}) {%id.%} RAGH. 13.
+;
+16925 new {#godAvarI#}¦ {%f.%} (e praec. et {#varI;#} fem. <lang n="greek">τοῦ</lang> {#vara#}) {%id.%} RAGH. 13.
+; ---------------------------
+; <L>2938<pc>110-a<k1>gras
+17110 old q. v., et {%gra-men%} mutilatum sit e {%gras-men;%} gr. <lang n="greek"></lang>.)
+;
+17110 new q. v., et {%gra-men%} mutilatum sit e {%gras-men;%} gr. <lang n="greek">γϱάω</lang>.)
+; ---------------------------
+; <L>2971<pc>113-1a<k1>GagG
+17421 old gr. <lang n="greek"></lang> goth. {%hlaha,%} v. {#KakK#}.
+;
+17421 new gr. <lang n="greek">ϰαχάζω, ϰαγχάζω</lang> goth. {%hlaha,%} v. {#KakK#}.
+; ---------------------------
+; <L>2984<pc>114-a<k1>Gas
+17530 old {%mis,%} v. {#kfmi;#} gr. <lang n="greek"></lang> huc etiam traxerim nostrum
+;
+17530 new {%mis,%} v. {#kfmi;#} gr. <lang n="greek">γασ-τήϱ</lang> huc etiam traxerim nostrum
+; ---------------------------
+; <L>3026<pc>116-b<k1>GrARa
+17797 old 2. 12. (Gr. <lang n="greek"></lang> abjectâ gutturali, attenuato {%â%} in {%î.%})
+;
+17797 new 2. 12. (Gr. <lang n="greek">ϱ̔ῑν</lang> abjectâ gutturali, attenuato {%â%} in {%î.%})
+; ---------------------------
+; <L>3041<pc>116-2b<k1>cakz
+17894 old significationem attinet, respiciatur, graecum <lang n="greek"></lang> ori-
+;
+17894 new significationem attinet, respiciatur, graecum <lang n="greek">ϕημί</lang> ori-
+; ---------------------------
+; <L>3063<pc>118-a<k1>cat
+18037 old plicare. (Gr. <lang n="greek"></lang> mutatâ tenui in aspi-
+;
+18037 new plicare. (Gr. <lang n="greek">χατέω, χατίζω</lang> mutatâ tenui in aspi-
+; ---------------------------
+; <L>3107<pc>119-b<k1>cay
+18297 old mivocales facile inter se mutentur; gr. <lang n="greek"></lang>
+;
+18297 new mivocales facile inter se mutentur; gr. <lang n="greek">ϰίω, ϰινέω</lang>
+; ---------------------------
+; <L>3110<pc>119-b<k1>car
+18333 old <lang n="greek"></lang> goth. {%fara%} proficiscor, nostrum {%fahre,%}
+;
+18333 new <lang n="greek">ϰύϱω, ϰυϱέω</lang> goth. {%fara%} proficiscor, nostrum {%fahre,%}
+; ---------------------------
+; <L>3139<pc>122-b<k1>cAtaka
+18621 old {%cot-urnix,%} cujus pars altera graeco <lang n="greek"></lang> re-
+;
+18621 new {%cot-urnix,%} cujus pars altera graeco <lang n="greek">ὄϱνις, ὄϱνιχ-ος</lang> re-
+; ---------------------------
+; <L>3227<pc>126-a<k1>cut
+19156 old exspectaveris, gr. comp. 87.; gr. <lang n="greek"></lang>
+;
+19156 new exspectaveris, gr. comp. 87.; gr. <lang n="greek">ΧΥ, χεύω, χύ-σις</lang>
+; ---------------------------
+; <L>3233<pc>127-a<k1>cur
+19227 old et gr. <lang n="greek"></lang> abjecto {%r%} finali, nituntur
+;
+19227 new et gr. <lang n="greek">ΚΑΥ, ϰαύ-σω, ϰαῦ-μα</lang> abjecto {%r%} finali, nituntur
+; ---------------------------
+; <L>3251<pc>127-b<k1>cet
+19353 old {#vfTABogA Bavantu tAH#}. (Gr. <lang n="greek"></lang>)
+;
+19353 new {#vfTABogA Bavantu tAH#}. (Gr. <lang n="greek">ϰαί</lang>)
+; ---------------------------
+; <L>3285<pc>129-1b<k1>Cad
+19604 old in scr. {#CAyA#} umbra q. v.; gr. <lang n="greek"></lang> etiam in
+;
+19604 new in scr. {#CAyA#} umbra q. v.; gr. <lang n="greek">σϰιά, σϰο-τός</lang> etiam in
+; ---------------------------
+; <L>3297<pc>130-b<k1>Camp
+19696 old v. e. c. {#car;#} fortasse etiam gr. <lang n="greek"></lang> quae
+;
+19696 new v. e. c. {#car;#} fortasse etiam gr. <lang n="greek">σϰήπτω, σϰίμπτω</lang> quae
+; ---------------------------
+; <L>3309<pc>131-a<k1>CAyA
+19765 old 12. 50. (Gr. <lang n="greek"></lang> v. r. {#Cad#}.)
+;
+19765 new 12. 50. (Gr. <lang n="greek">σϰιά</lang> v. r. {#Cad#}.)
+; ---------------------------
+; <L>3364<pc>135-a<k1>janitf
+20221 old <lang n="greek"></lang> hib. {%genteoir%} «a begetter, sower,
+;
+20221 new <lang n="greek">γενέτωϱ, γενετήϱ</lang> hib. {%genteoir%} «a begetter, sower,
+; ---------------------------
+; <L>3365<pc>135-a<k1>janitrI
+20227 old (Lat. {%genitrî-x,%} gr. <lang n="greek"></lang> v. gr. comp. 119.)
+;
+20227 new (Lat. {%genitrî-x,%} gr. <lang n="greek">γενέτειϱα</lang> v. gr. comp. 119.)
+; ---------------------------
+; <L>3371<pc>135-a<k1>janya
+20264 old lat., sicut in syllabâ redupl. <lang n="greek"></lang> {#jaGAna#}) proelium. RAGH.
+;
+20264 new lat., sicut in syllabâ redupl. <lang n="greek">τοῦ</lang> {#jaGAna#}) proelium. RAGH.
+; ---------------------------
+; <L>3372<pc>135-a<k1>janyA
+20269 old {#janyA#}¦ {%f.%} ({%Fem.%} <lang n="greek"></lang> {#janya#} {%m.%}) paranympha, {%Brautführerin.%}
+;
+20269 new {#janyA#}¦ {%f.%} ({%Fem.%} <lang n="greek">τοῦ</lang> {#janya#} {%m.%}) paranympha, {%Brautführerin.%}
+; ---------------------------
+; <L>3386<pc>136-a<k1>jamB
+20359 old <lang n="greek"></lang> v. sq.)
+;
+20359 new <lang n="greek">γαμϕηλαί</lang> v. sq.)
+; ---------------------------
+; <L>3387<pc>136-a<k1>jamBa
+20364 old <lang n="greek"></lang>.)
+;
+20364 new <lang n="greek">γαμϕηλαί</lang>.)
+; ---------------------------
+; <L>3391<pc>136-a<k1>jarat
+20386 old firmus. AM. (Gr. <lang n="greek"></lang> hib. {%gearait%} «a saint, a holy,
+;
+20386 new firmus. AM. (Gr. <lang n="greek">γέϱων</lang> hib. {%gearait%} «a saint, a holy,
+; ---------------------------
+; <L>3429<pc>137-a<k1>jAgf
+20594 old (Gr. <lang n="greek"></lang> lat. {%vigil, vigilo,%} e {%guigil, guigilo?%} mutato
+;
+20594 new (Gr. <lang n="greek">(γ)εγείϱω</lang> lat. {%vigil, vigilo,%} e {%guigil, guigilo?%} mutato
+; ---------------------------
+; <L>3527<pc>143-b<k1>jyA
+21371 old {#jyA#}¦ {%f.%} nervus arcûs. (Cf. gr. <lang n="greek"></lang> v. {#jIv#}.)
+;
+21371 new {#jyA#}¦ {%f.%} nervus arcûs. (Cf. gr. <lang n="greek">βιός</lang> v. {#jIv#}.)
+; ---------------------------
+; <L>3618<pc>147-b<k1>tatas
+21907 old <lang n="greek"></lang> slav. {%ot-tûdû;%} v. gr. comp. §. 421.)
+;
+21907 new <lang n="greek">τόϑεν</lang> slav. {%ot-tûdû;%} v. gr. comp. §. 421.)
+; ---------------------------
+; <L>3637<pc>148-b<k1>tan
+22022 old {#tatam#}. (Gr. <lang n="greek"></lang> lat. {%tendo,%} adjecto {%d, te-%}
+;
+22022 new {#tatam#}. (Gr. <lang n="greek">τάνυμαι, τείνω</lang> lat. {%tendo,%} adjecto {%d, te-%}
+; ---------------------------
+; <L>3663<pc>150-b<k1>tam
+22250 old sali in mediam ejusdem organi, sicut in gr. <lang n="greek"></lang> in
+;
+22250 new sali in mediam ejusdem organi, sicut in gr. <lang n="greek">βϱοτός</lang> in
+; ---------------------------
+; <L>3689<pc>151-b<k1>tarman
+22411 old <lang n="greek"></lang> lat. {%ter-minus;%} v. {#tF#}.)
+;
+22411 new <lang n="greek">τέϱ-μα</lang> lat. {%ter-minus;%} v. {#tF#}.)
+; ---------------------------
+; <L>3721<pc>152-b<k1>tAvat
+22577 old {%tavantu-s,%} adjecto {%u;%} de gr. <lang n="greek"></lang> v. gr. comp. 412.)
+;
+22577 new {%tavantu-s,%} adjecto {%u;%} de gr. <lang n="greek">τόσος</lang> v. gr. comp. 412.)
+; ---------------------------
+; <L>3770<pc>154-a<k1>tuNga
+22860 old {%meo;%} gr. <lang n="greek"></lang> lith. {%tunkù%} pinguesco; russ. {%tućnyĭ%} pin-
+;
+22860 new {%meo;%} gr. <lang n="greek">τύ-λος</lang> lith. {%tunkù%} pinguesco; russ. {%tućnyĭ%} pin-
+; ---------------------------
+; <L>3785<pc>155-a<k1>tup
+22948 old <lang n="greek"></lang>).
+;
+22948 new <lang n="greek">ΤΥΠ, τύπτω</lang>).
+; ---------------------------
+; <L>3800<pc>155-a<k1>tul
+23022 old <lang n="greek"></lang> (v. {#tulA#}); goth. {%thula%} to-
+;
+23022 new <lang n="greek">πλάω, τελάμων, τάλαντον</lang> (v. {#tulA#}); goth. {%thula%} to-
+; ---------------------------
+; <L>3826<pc>156-a<k1>tfMh
+23165 old ({%Cf.%} {#dfMh, dfh,#} gr. TPIX, <lang n="greek"></lang> {%v.%} Ben-
+;
+23165 new ({%Cf.%} {#dfMh, dfh,#} gr. TPIX, <lang n="greek">ΤΡΙΧ, ϑϱίξ, τέϱχνος</lang> {%v.%} Ben-
+; ---------------------------
+; <L>3827<pc>156-a<k1>tfkz
+23171 old quod fortasse e {#santfkz;#} gr. <lang n="greek"></lang> goth. {%thragja%}
+;
+23171 new quod fortasse e {#santfkz;#} gr. <lang n="greek">τϱέχω</lang> goth. {%thragja%}
+; ---------------------------
+; <L>3834<pc>157-a<k1>tfpti
+23255 old {#tfpti#}¦ {%f.%} (r. {#tfp#} s. {#ti#}) satietas. BH. 10. 18. (Gr. <lang n="greek"></lang>.)
+;
+23255 new {#tfpti#}¦ {%f.%} (r. {#tfp#} s. {#ti#}) satietas. BH. 10. 18. (Gr. <lang n="greek">τέϱψις</lang>.)
+; ---------------------------
+; <L>3838<pc>157-a<k1>tfz
+23277 old gr. <lang n="greek"></lang> lat. {%torreo%} e {%torseo, tos-tum%} e {%tors-tum.%})
+;
+23277 new gr. <lang n="greek">τέϱσομαι</lang> lat. {%torreo%} e {%torseo, tos-tum%} e {%tors-tum.%})
+; ---------------------------
+; <L>3875<pc>159-b<k1>traya
+23549 old tas, <lang n="greek"></lang> BH. 11. 20. 43.
+;
+23549 new tas, <lang n="greek">τϱιάς</lang> BH. 11. 20. 43.
+; ---------------------------
+; <L>3878<pc>159-b<k1>trayodaSan
+23563 old {%m.%} <lang n="greek"></lang> {#tri,#} et {#daSan,#} v. gr. 254.) tredecim. (Lat. {%trede-%}
+;
+23563 new {%m.%} <lang n="greek">τοῦ</lang> {#tri,#} et {#daSan,#} v. gr. 254.) tredecim. (Lat. {%trede-%}
+; ---------------------------
+; <L>3887<pc>160-a<k1>triMSat
+23631 old ginta. (Lat. {%triginta,%} gr. <lang n="greek"></lang> hib. {%triochat.%})
+;
+23631 new ginta. (Lat. {%triginta,%} gr. <lang n="greek">τϱιάϰοντα</lang> hib. {%triochat.%})
+; ---------------------------
+; <L>3907<pc>160-b<k1>tris
+23729 old {#tris#}¦ (a {#tri#} s. {#s#}) ter. (Gr. <lang n="greek"></lang> lat. {%ter.%})
+;
+23729 new {#tris#}¦ (a {#tri#} s. {#s#}) ter. (Gr. <lang n="greek">τϱίς</lang> lat. {%ter.%})
+; ---------------------------
+; <L>3908<pc>160-b<k1>truw
+23736 old {#krIqAtruwattantukam muktAjAlam#}. (Cf. gr. <lang n="greek"></lang>)
+;
+23736 new {#krIqAtruwattantukam muktAjAlam#}. (Cf. gr. <lang n="greek">τϱύω</lang>)
+; ---------------------------
+; <L>3932<pc>161-a<k1>tvam
+23855 old goth. {%thu,%} slav. {%ty,%} gr. <lang n="greek"></lang>.)
+;
+23855 new goth. {%thu,%} slav. {%ty,%} gr. <lang n="greek">τούν, τύ, σύ</lang>.)
+; ---------------------------
+; <L>3972<pc>163-a<k1>dat
+24099 old dens. (Gr. <lang n="greek"></lang> lat. {%DENT;%} v. {#danta#}.)
+;
+24099 new dens. (Gr. <lang n="greek">ΟΔΟΝΤ</lang> lat. {%DENT;%} v. {#danta#}.)
+; ---------------------------
+; <L>3974<pc>163-a<k1>datti
+24108 old donum. RAGH. 8. 85. (Gr. <lang n="greek"></lang> lat. {%do-s,%} quod e {%do-%}
+;
+24108 new donum. RAGH. 8. 85. (Gr. <lang n="greek">δό-σις</lang> lat. {%do-s,%} quod e {%do-%}
+; ---------------------------
+; <L>3978<pc>163-a<k1>danta
+24136 old hib. {%déad;%} de lat. {%dens%} et gr. <lang n="greek"></lang> v. {#dat;#} de russ.
+;
+24136 new hib. {%déad;%} de lat. {%dens%} et gr. <lang n="greek">ὀδούς</lang> v. {#dat;#} de russ.
+; ---------------------------
+; <L>3982<pc>163-a<k1>danv
+24157 old {#DAv;#} gr. <lang n="greek"></lang> = {%Caus.%} {#danvayAmi#}.
+;
+24157 new {#DAv;#} gr. <lang n="greek">δονέω</lang> = {%Caus.%} {#danvayAmi#}.
+; ---------------------------
+; <L>3985<pc>163-b<k1>dam
+24189 old ritus. SA. 6. 3. (V. 2. {#jam#} et cf. gr. <lang n="greek"></lang>)
+;
+24189 new ritus. SA. 6. 3. (V. 2. {#jam#} et cf. gr. <lang n="greek">δάμαϱ</lang>)
+; ---------------------------
+; <L>3986<pc>163-b<k1>dama
+24196 old domitor. 4) {%nom. pr.%} N. 1. 9. (Gr. <lang n="greek"></lang>
+;
+24196 new domitor. 4) {%nom. pr.%} N. 1. 9. (Gr. <lang n="greek">-δαμος, ἱππόδαμος</lang>
+; ---------------------------
+; <L>4017<pc>164-b<k1>daSan
+24376 old {#daSan#}¦ (v. gr. 256.) decem. (Graec. <lang n="greek"></lang> lat. {%decem%} - pro-
+;
+24376 new {#daSan#}¦ (v. gr. 256.) decem. (Graec. <lang n="greek">δέϰα</lang> lat. {%decem%} - pro-
+; ---------------------------
+; <L>4030<pc>167-a<k1>dA
+24576 old dere. (Cf. {#do, dal;#} gr. <lang n="greek"></lang> nisi
+;
+24576 new dere. (Cf. {#do, dal;#} gr. <lang n="greek">δαίομαι, δαίς, δαΐζω</lang> nisi
+; ---------------------------
+; <L>4034<pc>167-a<k1>dAtf
+24601 old <lang n="greek"></lang> lat. {%datôr.%}) SA. 1. 3. N. 6. 10.
+;
+24601 new <lang n="greek">δοτήϱ</lang> lat. {%datôr.%}) SA. 1. 3. N. 6. 10.
+; ---------------------------
+; <L>4040<pc>167-a<k1>dAman
+24631 old <lang n="greek"></lang> hib. {%damhnadh%} «a band or tye».)
+;
+24631 new <lang n="greek">δέω, δια-δή-μα</lang> hib. {%damhnadh%} «a band or tye».)
+; ---------------------------
+; <L>4049<pc>167-b<k1>dAru
+24674 old {#dAru#}¦ {%m. n.%} (ut videtur, a r. {#dF#} s. {#u#}) lignum. AM. (Gr. <lang n="greek"></lang>
+;
+24674 new {#dAru#}¦ {%m. n.%} (ut videtur, a r. {#dF#} s. {#u#}) lignum. AM. (Gr. <lang n="greek">δόϱυ</lang>
+; ---------------------------
+; <L>4111<pc>171-a<k1>dIpa
+25125 old <lang n="greek"></lang>.)
+;
+25125 new <lang n="greek">λαμπάς</lang>.)
+; ---------------------------
+; <L>4121<pc>171-b<k1>du
+25195 old 2. {#du#}¦ 1. {%P.%} ({#gatO#}) ire. (Cf. {#danv, dru;#} gr. <lang n="greek"></lang> v.
+;
+25195 new 2. {#du#}¦ 1. {%P.%} ({#gatO#}) ire. (Cf. {#danv, dru;#} gr. <lang n="greek">ύω, δονέω</lang> v.
+; ---------------------------
+; <L>4132<pc>172-a<k1>dugDa
+25255 old e. c. in infin. {#dogDum;#} gr. <lang n="greek"></lang> v. {#go#}.)
+;
+25255 new e. c. in infin. {#dogDum;#} gr. <lang n="greek">ΓΑ-ΛΑΚΤ</lang> v. {#go#}.)
+; ---------------------------
+; <L>4198<pc>175-a<k1>dfh
+25695 old gr. <lang n="greek"></lang> v. Benf. I. 96.)
+;
+25695 new gr. <lang n="greek">δϱιάω, δϱίος</lang> v. Benf. I. 96.)
+; ---------------------------
+; <L>4199<pc>175-a<k1>dF
+25706 old {#dal#} q. v.; cf. gr. <lang n="greek"></lang> slav. {%derû%} excorio; russ. {%dra-tj%}
+;
+25706 new {#dal#} q. v.; cf. gr. <lang n="greek">δέϱω</lang> slav. {%derû%} excorio; russ. {%dra-tj%}
+; ---------------------------
+; <L>4204<pc>175-b<k1>deva
+25749 old lat. {%deus;%} gr. <lang n="greek"></lang> hib. {%dia%} deus.)
+;
+25749 new lat. {%deus;%} gr. <lang n="greek">ϑεός</lang> hib. {%dia%} deus.)
+; ---------------------------
+; <L>4209<pc>175-b<k1>devara
+25772 old mutato {%v%} in gutturalem, v. gr. comp. 19.; gr. <lang n="greek"></lang> per-
+;
+25772 new mutato {%v%} in gutturalem, v. gr. comp. 19.; gr. <lang n="greek">δαήϱ</lang> per-
+; ---------------------------
+; <L>4213<pc>175-b<k1>devf
+25792 old {#devf#}¦ {%m. i. q.%} {#devara#}. (Gr. <lang n="greek"></lang> v. {#devara#}.)
+;
+25792 new {#devf#}¦ {%m. i. q.%} {#devara#}. (Gr. <lang n="greek">δαήϱ</lang> v. {#devara#}.)
+; ---------------------------
+; <L>4248<pc>176-b<k1>dyAvApfTivyO
+25958 old {#dyAvApfTivyO#}¦ {%f.%} ({%DVANDV.%} e {#dyAvA,#} {%dual, Vêd.%} <lang n="greek"></lang> {#dyo,#} et
+;
+25958 new {#dyAvApfTivyO#}¦ {%f.%} ({%DVANDV.%} e {#dyAvA,#} {%dual, Vêd.%} <lang n="greek">τοῦ</lang> {#dyo,#} et
+; ---------------------------
+; <L>4264<pc>177-a<k1>drA
+26052 old {#drA#}¦ 2. {%P.%} fugere. (Gr. <lang n="greek"></lang> {%cf.%} {#dru#}.)
+;
+26052 new {#drA#}¦ 2. {%P.%} fugere. (Gr. <lang n="greek">διδϱάσϰω, ἔδϱᾱν</lang> {%cf.%} {#dru#}.)
+; ---------------------------
+; <L>4281<pc>178-b<k1>drE
+26204 old {#drE#}¦ 1. {%P.%} dormire; v. {#nidrA#}. (Lat. {%dor-mio;%} gr. <lang n="greek"></lang>
+;
+26204 new {#drE#}¦ 1. {%P.%} dormire; v. {#nidrA#}. (Lat. {%dor-mio;%} gr. <lang n="greek">δαϱϑάνω</lang>
+; ---------------------------
+; <L>4300<pc>179-a<k1>dviDA
+26308 old 10. 27. SA. 4. 33. (Cf. gr. <lang n="greek"></lang>.)
+;
+26308 new 10. 27. SA. 4. 33. (Cf. gr. <lang n="greek">δίχα, δίχϑα</lang>.)
+; ---------------------------
+; <L>4302<pc>179-a<k1>dvipad
+26318 old (Lat. {%bipes,%} gr. <lang n="greek"></lang>.)
+;
+26318 new (Lat. {%bipes,%} gr. <lang n="greek">δίπους</lang>.)
+; ---------------------------
+; <L>4307<pc>179-b<k1>dvis
+26356 old {#dvis#}¦ (a {#dvi#} s. {#s#}) bis. (Gr. <lang n="greek"></lang> lat. et zend. {%bis;%} etiam
+;
+26356 new {#dvis#}¦ (a {#dvi#} s. {#s#}) bis. (Gr. <lang n="greek">δίς</lang> lat. et zend. {%bis;%} etiam
+; ---------------------------
+; <L>4335<pc>180-a<k1>DarA
+26486 old {#DarA#}¦ {%f.%} ({%fem.%} <lang n="greek"></lang> {#Dara#}) terra. (Cambro-brit. {%daiar%} id.; armor.
+;
+26486 new {#DarA#}¦ {%f.%} ({%fem.%} <lang n="greek">τοῦ</lang> {#Dara#}) terra. (Cambro-brit. {%daiar%} id.; armor.
+; ---------------------------
+; <L>4352<pc>180-b<k1>DA
+26594 old lus, felicitas. BR. 2. 4. 25. (Gr. <lang n="greek"></lang> lat. {%do%} in com-
+;
+26594 new lus, felicitas. BR. 2. 4. 25. (Gr. <lang n="greek">τίϑημι</lang> lat. {%do%} in com-
+; ---------------------------
+; <L>4393<pc>185-a<k1>DUpa
+27022 old thus, suffimentum. (Gr. <lang n="greek"></lang> v. 1. {#DUp#}.)
+;
+27022 new thus, suffimentum. (Gr. <lang n="greek">τῦϕος</lang> v. 1. {#DUp#}.)
+; ---------------------------
+; <L>4394<pc>185-a<k1>DUma
+27029 old {%fûmus;%} gr. <lang n="greek"></lang>)
+;
+27029 new {%fûmus;%} gr. <lang n="greek">ϑῡμός</lang>)
+; ---------------------------
+; <L>4402<pc>185-a<k1>Df
+27083 old gr. <lang n="greek"></lang> lat. {%fera,%} quae fortasse a portando dicta,
+;
+27083 new gr. <lang n="greek">ϑήϱ, ϕήϱ</lang> lat. {%fera,%} quae fortasse a portando dicta,
+; ---------------------------
+; <L>4409<pc>186-a<k1>Dfz
+27152 old 2. {#Dfz#} et cf. gr. <lang n="greek"></lang>
+;
+27152 new 2. {#Dfz#} et cf. gr. <lang n="greek">ϑάϱσος, ϑαϱσέω, ϑϱάσος, ϑϱασύς</lang>
+; ---------------------------
+; <L>4493<pc>190-b<k1>naBas
+27729 old v. gr. comp. 264.; gr. <lang n="greek"></lang> v. gr. comp.
+;
+27729 new v. gr. comp. 264.; gr. <lang n="greek">νέϕος, νέϕε(σ)-ος</lang> v. gr. comp.
+; ---------------------------
+; <L>4526<pc>192-b<k1>nah
+27994 old cis vocali, v. {#naS;#} gr. <lang n="greek"></lang> goth. {%nêhva%} prope;
+;
+27994 new cis vocali, v. {#naS;#} gr. <lang n="greek">νέω, νήϑω</lang> goth. {%nêhva%} prope;
+; ---------------------------
+; <L>4543<pc>193-b<k1>nAma
+28118 old {#nAma#}¦ ({%accus.%} <lang n="greek"></lang> {#nAman#}) 1) {%Adv.%} nomine. H. 2. 1. SU. 1.
+;
+28118 new {#nAma#}¦ ({%accus.%} <lang n="greek">τοῦ</lang> {#nAman#}) 1) {%Adv.%} nomine. H. 2. 1. SU. 1.
+; ---------------------------
+; <L>4598<pc>195-b<k1>nij
+28414 old {%vis%} e {%niguis, ninguo, ningo;%} graec. <lang n="greek"></lang>
+;
+28414 new {%vis%} e {%niguis, ninguo, ningo;%} graec. <lang n="greek">νίζω, νίψω, νίπτω, ΧΕΡ-ΝΙΒ</lang>
+; ---------------------------
+; <L>4602<pc>195-b<k1>nitambinI
+28443 old praedita femina, <lang n="greek"></lang>. RITU-S. 1. 5.
+;
+28443 new praedita femina, <lang n="greek">ϰαλλίπυγος</lang>. RITU-S. 1. 5.
+; ---------------------------
+; <L>4615<pc>196-a<k1>niDana
+28512 old <lang n="greek"></lang> s. {#a;#} v. gr. 104.) mors, exitium. BR. 2. 2. N. 2. 17.
+;
+28512 new <lang n="greek">ΘΑΝ</lang> s. {#a;#} v. gr. 104.) mors, exitium. BR. 2. 2. N. 2. 17.
+; ---------------------------
+; <L>4801<pc>203-b<k1>nO
+29610 old <lang n="greek"></lang> lat. {%navis;%} anglo-sax. {%naca;%} germ. vet. {%nacho,%} mu-
+;
+29610 new <lang n="greek">ναῦς</lang> lat. {%navis;%} anglo-sax. {%naca;%} germ. vet. {%nacho,%} mu-
+; ---------------------------
+; <L>4823<pc>204-a<k1>paYcatva
+29739 old {#paYcatva#}¦ {%n.%} (a {#paYcan#} s. {#tva#}) <lang n="greek"></lang> {%praesertim quinque%}
+;
+29739 new {#paYcatva#}¦ {%n.%} (a {#paYcan#} s. {#tva#}) <lang n="greek">πεντάς</lang> {%praesertim quinque%}
+; ---------------------------
+; <L>4828<pc>204-a<k1>paYcASat
+29766 old quaginta. (Gr. <lang n="greek"></lang> lat. {%quinquaginta;%} hib. {%cao-%}
+;
+29766 new quaginta. (Gr. <lang n="greek">πεντήϰοντα</lang> lat. {%quinquaginta;%} hib. {%cao-%}
+; ---------------------------
+; <L>4862<pc>206-b<k1>patnI
+30039 old v. gr. min. 218.) uxor. N. 12. 174. (Cf. gr. <lang n="greek"></lang> lith.
+;
+30039 new v. gr. min. 218.) uxor. N. 12. 174. (Cf. gr. <lang n="greek">πότνια</lang> lith.
+; ---------------------------
+; <L>4863<pc>206-b<k1>patra
+30045 old {#pad#}) currus. RAGH. 15. 48. (Gr. <lang n="greek"></lang>)
+;
+30045 new {#pad#}) currus. RAGH. 15. 48. (Gr. <lang n="greek">πέταλον, πτίλον</lang>)
+; ---------------------------
+; <L>4867<pc>206-b<k1>paTa
+30063 old (V. {#paTin#} et cf. gr. <lang n="greek"></lang> germ. vet. {%pad, fad, phat,%}
+;
+30063 new (V. {#paTin#} et cf. gr. <lang n="greek">πάτος</lang> germ. vet. {%pad, fad, phat,%}
+; ---------------------------
+; <L>4869<pc>206-b<k1>paTin
+30076 old 223.) via. (V. {#paTa#} = <lang n="greek"></lang> cum {#panTan#} conferatur
+;
+30076 new 223.) via. (V. {#paTa#} = <lang n="greek">πάτος</lang> cum {#panTan#} conferatur
+; ---------------------------
+; <L>4875<pc>208-b<k1>pada
+30229 old (Gr. <lang n="greek"></lang>)
+;
+30229 new (Gr. <lang n="greek">πέδον</lang>)
+; ---------------------------
+; <L>4883<pc>208-b<k1>padmA
+30267 old {#padmA#}¦ {%f.%} ({%fem.%} <lang n="greek"></lang> {#padma#}) cognomen deae {%Laks'miae.%} HIT.
+;
+30267 new {#padmA#}¦ {%f.%} ({%fem.%} <lang n="greek">τοῦ</lang> {#padma#}) cognomen deae {%Laks'miae.%} HIT.
+; ---------------------------
+; <L>4900<pc>209-b<k1>paratra
+30377 old {%opp.%} <lang n="greek"></lang> {#iha#} (cf. {#amutra#}). HIT. 32. 7.
+;
+30377 new {%opp.%} <lang n="greek">τῷ</lang> {#iha#} (cf. {#amutra#}). HIT. 32. 7.
+; ---------------------------
+; <L>4916<pc>210-a<k1>paraSu
+30466 old {#paraSu#}¦ {%m.%} securis, ascia. SA. 4. 18. (Gr. <lang n="greek"></lang>)
+;
+30466 new {#paraSu#}¦ {%m.%} securis, ascia. SA. 4. 18. (Gr. <lang n="greek">πέλεϰυς</lang>)
+; ---------------------------
+; <L>4919<pc>210-a<k1>parA
+30484 old {%insep.%} retro. (Cf. gr. <lang n="greek"></lang> lith. {%par%} (praep. insep.) re-
+;
+30484 new {%insep.%} retro. (Cf. gr. <lang n="greek">παϱά</lang> lith. {%par%} (praep. insep.) re-
+; ---------------------------
+; <L>4934<pc>210-b<k1>pari
+30570 old {#parilaGu, pariSuzka#}. (Gr. <lang n="greek"></lang> hib. {%faoi%} «about, around»
+;
+30570 new {#parilaGu, pariSuzka#}. (Gr. <lang n="greek">πεϱί</lang> hib. {%faoi%} «about, around»
+; ---------------------------
+; <L>4997<pc>212-a<k1>pareRa
+30880 old {#pareRa#}¦ {%Praep.%} ({%Instr.%} <lang n="greek"></lang> {#para#}) super, {%c. Acc.%} N. 24. 33. MAH.
+;
+30880 new {#pareRa#}¦ {%Praep.%} ({%Instr.%} <lang n="greek">τοῦ</lang> {#para#}) super, {%c. Acc.%} N. 24. 33. MAH.
+; ---------------------------
+; <L>4998<pc>212-a<k1>paredyus
+30885 old {#paredyus#}¦ {%Adv.%} (e {#pare#} loc. <lang n="greek"></lang> {#para#} et {#dyus,#} v. {#aparedyus#}) po-
+;
+30885 new {#paredyus#}¦ {%Adv.%} (e {#pare#} loc. <lang n="greek">τοῦ</lang> {#para#} et {#dyus,#} v. {#aparedyus#}) po-
+; ---------------------------
+; <L>5023<pc>213-a<k1>palala
+31024 old <lang n="greek"></lang>)
+;
+31024 new <lang n="greek">πηλός</lang>)
+; ---------------------------
+; <L>5027<pc>213-a<k1>palita
+31046 old {%lidus;%} gr. <lang n="greek"></lang> slav. {%plaw%} flavus; lith. {%balta-s%} albus,
+;
+31046 new {%lidus;%} gr. <lang n="greek">πολιός</lang> slav. {%plaw%} flavus; lith. {%balta-s%} albus,
+; ---------------------------
+; <L>5035<pc>213-b<k1>paS
+31095 old tying in a bundle»; gr. <lang n="greek"></lang> lat. {%pango, fascia,%} for-
+;
+31095 new tying in a bundle»; gr. <lang n="greek">πήγνυμι</lang> lat. {%pango, fascia,%} for-
+; ---------------------------
+; <L>5036<pc>213-b<k1>paS
+31107 old germ. vet. {%spêho%} speculor; gr. <lang n="greek"></lang> mutatâ lab. in
+;
+31107 new germ. vet. {%spêho%} speculor; gr. <lang n="greek">σκέπτω</lang> mutatâ lab. in
+; ---------------------------
+; <L>5075<pc>215-a<k1>pApa
+31347 old crimen. BH. 2. 33. (Cf. lat. {%peccare;%} gr. <lang n="greek"></lang> mutatis
+;
+31347 new crimen. BH. 2. 33. (Cf. lat. {%peccare;%} gr. <lang n="greek">ϰάϰος</lang> mutatis
+; ---------------------------
+; <L>5081<pc>215-b<k1>pAr
+31383 old Hoefer {%«Vom Infinitiv»%} p. 82. ({%Cf.%} {#pAraga#} et gr. <lang n="greek"></lang>)
+;
+31383 new Hoefer {%«Vom Infinitiv»%} p. 82. ({%Cf.%} {#pAraga#} et gr. <lang n="greek">πεϱάω</lang>)
+; ---------------------------
+; <L>5082<pc>215-b<k1>pAra
+31389 old gr. <lang n="greek"></lang> etc.;
+;
+31389 new gr. <lang n="greek">πόϱος, πέϱα, πέϱαν, πέϱας, πεϱαίνω, πείϱω</lang> etc.;
+; ---------------------------
+; <L>5099<pc>216-a<k1>pAvaka
+31493 old quod ad syllabam radicalem attinet, gr. <lang n="greek"></lang> germ. vet.
+;
+31493 new quod ad syllabam radicalem attinet, gr. <lang n="greek">πῦϱ</lang> germ. vet.
+; ---------------------------
+; <L>5104<pc>216-b<k1>pAzARa
+31521 old (Cf. r. <lang n="greek"></lang>)
+;
+31521 new (Cf. r. <lang n="greek">βάσανος</lang>)
+; ---------------------------
+; <L>5121<pc>217-a<k1>pitf
+31614 old p. 324.; gr. <lang n="greek"></lang> lat. {%pater;%} germ. vet. {%fatar, fater;%}
+;
+31614 new p. 324.; gr. <lang n="greek">πατήϱ</lang> lat. {%pater;%} germ. vet. {%fatar, fater;%}
+; ---------------------------
+; <L>5136<pc>217-b<k1>pippali
+31693 old {#pippali, pippalI#}¦ {%f.%} piper. (Gr. <lang n="greek"></lang> lat. {%pi-%}
+;
+31693 new {#pippali, pippalI#}¦ {%f.%} piper. (Gr. <lang n="greek">πίπεϱι, πέπεϱι</lang> lat. {%pi-%}
+; ---------------------------
+; <L>5161<pc>218-b<k1>pIvara
+31859 old cf. <lang n="greek"></lang>)
+;
+31859 new cf. <lang n="greek">πῑαϱός</lang>)
+; ---------------------------
+; <L>5191<pc>219-b<k1>putrikA
+32018 old {#putrikA#}¦ (Fem. <lang n="greek"></lang> {#putraka,#} mutato penultimo {#a#} in {#i#})
+;
+32018 new {#putrikA#}¦ (Fem. <lang n="greek">τοῦ</lang> {#putraka,#} mutato penultimo {#a#} in {#i#})
+; ---------------------------
+; <L>5215<pc>220-b<k1>purI
+32156 old 47. (Gr. <lang n="greek"></lang> fortasse lat. {%urbs,%} litteris transpositis.)
+;
+32156 new 47. (Gr. <lang n="greek">πόλις</lang> fortasse lat. {%urbs,%} litteris transpositis.)
+; ---------------------------
+; <L>5217<pc>220-b<k1>puru
+32166 old gr. <lang n="greek"></lang> goth. {%filu,%} germ. vet. {%filu, filo, vilo,%} nostrum
+;
+32166 new gr. <lang n="greek">πολύς</lang> goth. {%filu,%} germ. vet. {%filu, filo, vilo,%} nostrum
+; ---------------------------
+; <L>5253<pc>222-a<k1>pUya
+32386 old {#pUya#}¦ {%n.%} (r. {#pUy#} s. {#a#}) pus. (Gr. <lang n="greek"></lang> lat. {%pus.%})
+;
+32386 new {#pUya#}¦ {%n.%} (r. {#pUy#} s. {#a#}) pus. (Gr. <lang n="greek">πῦον</lang> lat. {%pus.%})
+; ---------------------------
+; <L>5254<pc>222-a<k1>pUr
+32401 old gr. <lang n="greek"></lang> v. {#pF, piparmi;#} hib. {%furain%} «plenty, abun-
+;
+32401 new gr. <lang n="greek">πίμπλημι</lang> v. {#pF, piparmi;#} hib. {%furain%} «plenty, abun-
+; ---------------------------
+; <L>5261<pc>222-b<k1>pUrvam
+32450 old {#pUrvam#}¦ {%Adv.%} (Acc. neut. <lang n="greek"></lang> {#pUrva#}) 1) prius. SU. 4. 18. 2) an-
+;
+32450 new {#pUrvam#}¦ {%Adv.%} (Acc. neut. <lang n="greek">τοῦ</lang> {#pUrva#}) 1) prius. SU. 4. 18. 2) an-
+; ---------------------------
+; <L>5287<pc>223-b<k1>pfTu
+32593 old 27. (Gr. <lang n="greek"></lang> lith. {%platùs%} id.; anglo-sax. {%brâd;%} goth.
+;
+32593 new 27. (Gr. <lang n="greek">πλατύς</lang> lith. {%platùs%} id.; anglo-sax. {%brâd;%} goth.
+; ---------------------------
+; <L>5298<pc>223-b<k1>pF
+32663 old <lang n="greek"></lang> cum {#piparmi;#} cum {%part. pass.%} {#pUrRa#} impletus,
+;
+32663 new <lang n="greek">πίμπλημι</lang> cum {#piparmi;#} cum {%part. pass.%} {#pUrRa#} impletus,
+; ---------------------------
+; <L>5309<pc>224-a<k1>pota
+32727 old {%pauta-s%} ovum; gr. <lang n="greek"></lang> lat. {%pullus, pûsus;%} goth. {%fula%}
+;
+32727 new {%pauta-s%} ovum; gr. <lang n="greek">πῶ-λος</lang> lat. {%pullus, pûsus;%} goth. {%fula%}
+; ---------------------------
+; <L>5327<pc>225-a<k1>pra
+32830 old {#pra#}¦ (fortasse e {#para#} q. v.) {%Praep. insep.%} v. gr. 111. (Gr. <lang n="greek"></lang>
+;
+32830 new {#pra#}¦ (fortasse e {#para#} q. v.) {%Praep. insep.%} v. gr. 111. (Gr. <lang n="greek">πϱο</lang>
+; ---------------------------
+; <L>5347<pc>225-b<k1>praC
+32945 old {#iC#} desiderare, et confert gr. <lang n="greek"></lang> ad quod
+;
+32945 new {#iC#} desiderare, et confert gr. <lang n="greek">πϱοΐσσομαι</lang> ad quod
+; ---------------------------
+; <L>5470<pc>229-b<k1>praBfti
+33607 old {#praBfti#}¦ {%Adv.%} (Acc. neut. <lang n="greek"></lang> {#praBfti#} {%f.%} a r. {#Bf#} praef. {#pra#} s.
+;
+33607 new {#praBfti#}¦ {%Adv.%} (Acc. neut. <lang n="greek">τοῦ</lang> {#praBfti#} {%f.%} a r. {#Bf#} praef. {#pra#} s.
+; ---------------------------
+; <L>5554<pc>232-a<k1>prAtar
+34048 old 293.) mane. (Cf. gr. <lang n="greek"></lang> germ. vet. {%frô, fruo;%} no-
+;
+34048 new 293.) mane. (Cf. gr. <lang n="greek">πϱωΐ</lang> germ. vet. {%frô, fruo;%} no-
+; ---------------------------
+; <L>5695<pc>238-a<k1>bahu
+34931 old N. 13. 64. (Gr. <lang n="greek"></lang> cf. lat. {%pro-fundus,%} v. {#baMh#} et
+;
+34931 new N. 13. 64. (Gr. <lang n="greek">βαϑύς</lang> cf. lat. {%pro-fundus,%} v. {#baMh#} et
+; ---------------------------
+; <L>5704<pc>238-b<k1>bAq
+34982 old {%d;%} gr. <lang n="greek"></lang>)
+;
+34982 new {%d;%} gr. <lang n="greek">βαλανεῖον</lang>)
+; ---------------------------
+; <L>5763<pc>241-1b<k1>Bakza
+35393 old 63. (Gr. <lang n="greek"></lang>)
+;
+35393 new 63. (Gr. <lang n="greek">ϕάγος</lang>)
+; ---------------------------
+; <L>5770<pc>242-a<k1>BaNga
+35435 old {%gà%} unda, fluctus; gr. <lang n="greek"></lang> v. {#BaYj#}.)
+;
+35435 new {%gà%} unda, fluctus; gr. <lang n="greek">ἀγή</lang> v. {#BaYj#}.)
+; ---------------------------
+; <L>5821<pc>244-b<k1>BAgiraTI
+35780 old {#BAgiraTI#}¦ {%f.%} ({%fem.%} <lang n="greek"></lang> {#BAgiraTa#} a {#BagiraTa#} nom. pr. regis,
+;
+35780 new {#BAgiraTI#}¦ {%f.%} ({%fem.%} <lang n="greek">τοῦ</lang> {#BAgiraTa#} a {#BagiraTa#} nom. pr. regis,
+; ---------------------------
+; <L>5846<pc>245-b<k1>BAs
+35945 old gr. <lang n="greek"></lang> deducit; {%fes-tus.%})
+;
+35945 new gr. <lang n="greek">ϕάω</lang> deducit; {%fes-tus.%})
+; ---------------------------
+; <L>5855<pc>246-a<k1>Bid
+36018 old re; Pottius apte confert gr. <lang n="greek"></lang> E linguis celticis
+;
+36018 new re; Pottius apte confert gr. <lang n="greek">ϕείδομαι</lang> E linguis celticis
+; ---------------------------
+; <L>5866<pc>247-a<k1>BIrU
+36113 old {#BIrU#}¦ {%f.%} (Fem. <lang n="greek"></lang> {#BIru#}) timida {%femina, saepissime in Vo-%}
+;
+36113 new {#BIrU#}¦ {%f.%} (Fem. <lang n="greek">τοῦ</lang> {#BIru#}) timida {%femina, saepissime in Vo-%}
+; ---------------------------
+; <L>5895<pc>250-a<k1>BUyizWa
+36437 old {#BUyizWa#}¦ ({%Superl.%} <lang n="greek"></lang> {#bahu#} v. praec. et gr. 251. annot.) pluri-
+;
+36437 new {#BUyizWa#}¦ ({%Superl.%} <lang n="greek">τοῦ</lang> {#bahu#} v. praec. et gr. 251. annot.) pluri-
+; ---------------------------
+; <L>5896<pc>250-b<k1>BUri
+36447 old {%v. sq.%} (Huc traxerim gr. <lang n="greek"></lang> mutato {#B#} in nasalem
+;
+36447 new {%v. sq.%} (Huc traxerim gr. <lang n="greek">μῡϱίος</lang> mutato {#B#} in nasalem
+; ---------------------------
+; <L>5901<pc>250-b<k1>Bf
+36494 old (Gr. <lang n="greek"></lang> lat. {%fero, fer-s, fer-t, fer-tis%} = {#BiBarzi,#}
+;
+36494 new (Gr. <lang n="greek">ϕέϱω</lang> lat. {%fero, fer-s, fer-t, fer-tis%} = {#BiBarzi,#}
+; ---------------------------
+; <L>5942<pc>252-a<k1>Brajj
+36732 old et cf. gr. <lang n="greek"></lang> lat. {%frigo;%} hib. {%bruighim%} «I
+;
+36732 new et cf. gr. <lang n="greek">ϕϱύγω, ϕώγω</lang> lat. {%frigo;%} hib. {%bruighim%} «I
+; ---------------------------
+; <L>5944<pc>252-b<k1>Bram
+36761 old {#vatsaragaRAn bahUn#}. (Cf. {#kram,#} gr. <lang n="greek"></lang>.)
+;
+36761 new {#vatsaragaRAn bahUn#}. (Cf. {#kram,#} gr. <lang n="greek">ϱ̔έμβω</lang>.)
+; ---------------------------
+; <L>5949<pc>253-a<k1>BrAj
+36799 old {#TA ravim#}. (Cf. {#rAj;#} gr. <lang n="greek"></lang> lat. {%fulgeo,%}
+;
+36799 new {#TA ravim#}. (Cf. {#rAj;#} gr. <lang n="greek">ϕλέγω, ϕέγγω</lang> lat. {%fulgeo,%}
+; ---------------------------
+; <L>5950<pc>253-a<k1>BrAtf
+36812 old (Goth. {%brôthar;%} lat. {%frâter;%} gr. <lang n="greek"></lang> hib.
+;
+36812 new (Goth. {%brôthar;%} lat. {%frâter;%} gr. <lang n="greek">ϕϱᾱτήϱ, ϕϱάτωϱ</lang> hib.
+; ---------------------------
+; <L>5961<pc>253-b<k1>BrURa
+36874 old inclusus, <lang n="greek"></lang>
+;
+36874 new inclusus, <lang n="greek">ἔμβϱυον</lang>
+; ---------------------------
+; <L>5975<pc>254-a<k1>makzikA
+36962 old {%mussē4,%} per assim. e. {%muksẽ;%} gr. <lang n="greek"></lang>.)
+;
+36962 new {%mussē4,%} per assim. e. {%muksẽ;%} gr. <lang n="greek">μυῖα</lang>.)
+; ---------------------------
+; <L>6081<pc>259-b<k1>manyu
+37694 old SU. 4. 16. (Cf. gr. <lang n="greek"></lang> v. {#man#}.)
+;
+37694 new SU. 4. 16. (Cf. gr. <lang n="greek">μῆνις</lang> v. {#man#}.)
+; ---------------------------
+; <L>6084<pc>259-b<k1>marakata
+37706 old {#marakata#}¦ {%m.%} smaragdus. MEGH. 74. (Gr. <lang n="greek"></lang> lat.
+;
+37706 new {#marakata#}¦ {%m.%} smaragdus. MEGH. 74. (Gr. <lang n="greek">σμάϱαγδος</lang> lat.
+; ---------------------------
+; <L>6105<pc>260-a<k1>malina
+37811 old 23. (Pottius apte huc trahit gr. <lang n="greek"></lang> lith. {%mē4lina's%}
+;
+37811 new 23. (Pottius apte huc trahit gr. <lang n="greek">μέλας</lang> lith. {%mē4lina's%}
+; ---------------------------
+; <L>6125<pc>260-b<k1>mah
+37907 old facere, formare, parare; gr. <lang n="greek"></lang>.)
+;
+37907 new facere, formare, parare; gr. <lang n="greek">μῆχος, μηχανή</lang>.)
+; ---------------------------
+; <L>6168<pc>262-a<k1>mA
+38157 old 3. 7. {%Imperativo subintellecto.%} DR. 4. 23. (Gr. <lang n="greek"></lang>.)
+;
+38157 new 3. 7. {%Imperativo subintellecto.%} DR. 4. 23. (Gr. <lang n="greek">μή</lang>.)
+; ---------------------------
+; <L>6178<pc>262-b<k1>mAtf
+38211 old {%mâter;%} dor. <lang n="greek"></lang> germ. vet. {%muoter;%} slav. nom. {%mati%}
+;
+38211 new {%mâter;%} dor. <lang n="greek">μᾱτηϱ</lang> germ. vet. {%muoter;%} slav. nom. {%mati%}
+; ---------------------------
+; <L>6180<pc>262-b<k1>mAtra
+38226 old 12. 14. A. 10. 46. (Gr. <lang n="greek"></lang>.)
+;
+38226 new 12. 14. A. 10. 46. (Gr. <lang n="greek">μέ-τϱον</lang>.)
+; ---------------------------
+; <L>6235<pc>264-b<k1>miSr
+38524 old {#coBiH#}. (Cf. 1. {#miz;#} gr. <lang n="greek"></lang> lat. {%misceo;%} lith.
+;
+38524 new {#coBiH#}. (Cf. 1. {#miz;#} gr. <lang n="greek">μίγνυμι</lang> lat. {%misceo;%} lith.
+; ---------------------------
+; <L>6267<pc>267-a<k1>muj
+38801 old gr. <lang n="greek"></lang>.)
+;
+38801 new gr. <lang n="greek">μῡϰάομαι</lang>.)
+; ---------------------------
+; <L>6302<pc>268-a<k1>muh
+39011 old (Pottius huc trahit gr. <lang n="greek"></lang> lat. {%mô-rus.%})
+;
+39011 new (Pottius huc trahit gr. <lang n="greek">μῶ-ϱος</lang> lat. {%mô-rus.%})
+; ---------------------------
+; <L>6361<pc>271-b<k1>meGa
+39450 old bes, insertâ liquidâ; lith. {%mig-la%} nebula; gr. <lang n="greek"></lang>.)
+;
+39450 new bes, insertâ liquidâ; lith. {%mig-la%} nebula; gr. <lang n="greek">ὀ-μίχ-λη</lang>.)
+; ---------------------------
+; <L>6372<pc>272-a<k1>meDas
+39512 old {%fine comp. BAH.%} (Cf. gr. <lang n="greek"></lang> v. {#meD#}.)
+;
+39512 new {%fine comp. BAH.%} (Cf. gr. <lang n="greek">μῆδος</lang> v. {#meD#}.)
+; ---------------------------
+; <L>6382<pc>272-b<k1>meha
+39558 old gr. <lang n="greek"></lang> v. {#mih#}.)
+;
+39558 new gr. <lang n="greek">οιχός</lang> v. {#mih#}.)
+; ---------------------------
+; <L>6417<pc>273-b<k1>mlE
+39744 old {#…mamlatur na#}. (Cf. {#mf;#} gr. <lang n="greek"></lang> lat. {%marc-esco%}
+;
+39744 new {#…mamlatur na#}. (Cf. {#mf;#} gr. <lang n="greek">μαϱαίνω</lang> lat. {%marc-esco%}
+; ---------------------------
+; <L>6420<pc>273-1a<k1>yakft
+39765 old (Lat. {%jecur;%} gr. <lang n="greek"></lang> mutatâ gutt. in
+;
+39765 new (Lat. {%jecur;%} gr. <lang n="greek">ἧπaϱ(τ), ἧπα(ϱ)τ-ος</lang> mutatâ gutt. in
+; ---------------------------
+; <L>6426<pc>274-a<k1>yaj
+39817 old {#kzamARa#}. (Gr. <lang n="greek"></lang> = {#yajya#} e {#yajya,#} v. {#yAga#}.)
+;
+39817 new {#kzamARa#}. (Gr. <lang n="greek">ἅζω, ἅγιος</lang> = {#yajya#} e {#yajya,#} v. {#yAga#}.)
+; ---------------------------
+; <L>6431<pc>274-a<k1>yat
+39845 old {#dire#}. (Cf. {#yas,#} gr. <lang n="greek"></lang> = Caus. vel cl. 10. {#yAtayA-#}
+;
+39845 new {#dire#}. (Cf. {#yas,#} gr. <lang n="greek">ζητέω</lang> = Caus. vel cl. 10. {#yAtayA-#}
+; ---------------------------
+; <L>6434<pc>275-a<k1>yat
+39898 old <lang n="greek"></lang> pers. {%keh%} ad introducendem orationem directam ad-
+;
+39898 new <lang n="greek">ὅτι</lang> pers. {%keh%} ad introducendem orationem directam ad-
+; ---------------------------
+; <L>6436<pc>275-a<k1>yatas
+39913 old 5) nam. HIT. 27. 5. SAK. 53. 16. (Gr. <lang n="greek"></lang> slav. {%jû-%}
+;
+39913 new 5) nam. HIT. 27. 5. SAK. 53. 16. (Gr. <lang n="greek">ὅ-ϑεν</lang> slav. {%jû-%}
+; ---------------------------
+; <L>6460<pc>276-a<k1>yam
+40061 old {#Ayasam#}. (Cf. gr. <lang n="greek"></lang> lat. {%jêjûnus%} ad In-
+;
+40061 new {#Ayasam#}. (Cf. gr. <lang n="greek">ζημία, ἥμεϱος</lang> lat. {%jêjûnus%} ad In-
+; ---------------------------
+; <L>6470<pc>277-a<k1>yavizWa
+40183 old {#yavizWa#}¦ {%Superl.%} <lang n="greek"></lang> {#yuvan#} (v. sq. et cf. germ. vet. {%jun-%}
+;
+40183 new {#yavizWa#}¦ {%Superl.%} <lang n="greek">τοῦ</lang> {#yuvan#} (v. sq. et cf. germ. vet. {%jun-%}
+; ---------------------------
+; <L>6471<pc>277-a<k1>yavIyas
+40188 old {#yavIyas#}¦ {%Comp.%} <lang n="greek"></lang> {#yuvan#} (v. gr. 251. et cf. goth. {%juhiza%}
+;
+40188 new {#yavIyas#}¦ {%Comp.%} <lang n="greek">τοῦ</lang> {#yuvan#} (v. gr. 251. et cf. goth. {%juhiza%}
+; ---------------------------
+; <L>6496<pc>278-b<k1>yAdfS
+40371 old {#yAdfS#}¦ {%m. f. n.%} (v. gr. 287.) qualis. BH. 13. 3. (Gr. <lang n="greek"></lang>
+;
+40371 new {#yAdfS#}¦ {%m. f. n.%} (v. gr. 287.) qualis. BH. 13. 3. (Gr. <lang n="greek">ἧλιξ</lang>
+; ---------------------------
+; <L>6497<pc>278-b<k1>yAdfSa
+40376 old {#yAdfSa#}¦ ({%fem.%} {#I,#} v. gr. 287.) {%id.%} MAH. 3. 1370. (Gr. <lang n="greek"></lang>
+;
+40376 new {#yAdfSa#}¦ ({%fem.%} {#I,#} v. gr. 287.) {%id.%} MAH. 3. 1370. (Gr. <lang n="greek">ἡλίϰος</lang>
+; ---------------------------
+; <L>6511<pc>279-b<k1>yuga
+40475 old aetas. BH. 8. 17. (Lat. {%jugum;%} gr. <lang n="greek"></lang>; goth.
+;
+40475 new aetas. BH. 8. 17. (Lat. {%jugum;%} gr. <lang n="greek">ζυγόν, ζυγός</lang>; goth.
+; ---------------------------
+; <L>6590<pc>284-b<k1>rajata
+41094 old <lang n="greek"></lang> hib. {%airgiod%} argentum; ut videtur, lit-
+;
+41094 new <lang n="greek">ἀϱγός, ἄϱγυϱος</lang> hib. {%airgiod%} argentum; ut videtur, lit-
+; ---------------------------
+; <L>6626<pc>286-b<k1>ram
+41372 old gr. <lang n="greek"></lang>.)
+;
+41372 new gr. <lang n="greek">ἠϱέμα</lang>.)
+; ---------------------------
+; <L>6690<pc>289-b<k1>ric
+41758 old {%LIC, linquo;%} gr. <lang n="greek"></lang> mutatâ gutt. in lab.; lith.
+;
+41758 new {%LIC, linquo;%} gr. <lang n="greek">ΛΙΠ, λείπω</lang> mutatâ gutt. in lab.; lith.
+; ---------------------------
+; <L>6703<pc>290-a<k1>ru
+41872 old radicis {#Sru#} q. v.; gr. <lang n="greek"></lang> cum Pottio ad {#ru#} praef.
+;
+41872 new radicis {#Sru#} q. v.; gr. <lang n="greek">ὠ-ϱύ-ο-μαι</lang> cum Pottio ad {#ru#} praef.
+; ---------------------------
+; <L>6730<pc>293-a<k1>ruz
+42142 old <lang n="greek"></lang>.)
+;
+42142 new <lang n="greek">λύσσα, λυσσάω, λυσσαίνω</lang>.)
+; ---------------------------
+; <L>6773<pc>295-b<k1>rohiRI
+42457 old <lang n="greek"></lang></F>
+;
+42457 new <lang n="greek">α, β, γ, δ, ε</lang></F>
+; ---------------------------
+; <L>6791<pc>296-b<k1>laGizWa
+42575 old {#laGizWa#}¦ {%Superl.%} <lang n="greek"></lang> {#laGu#} (v. gr. min. ed. 2. 226.)
+;
+42575 new {#laGizWa#}¦ {%Superl.%} <lang n="greek">τοῦ</lang> {#laGu#} (v. gr. min. ed. 2. 226.)
+; ---------------------------
+; <L>6792<pc>296-b<k1>laGIyas
+42579 old {#laGIyas#}¦ {%Compar.%} <lang n="greek"></lang> {#laGu#} (v. gr. min. ed. 2. 226.)
+;
+42579 new {#laGIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#laGu#} (v. gr. min. ed. 2. 226.)
+; ---------------------------
+; <L>6793<pc>296-b<k1>laGu
+42584 old N. 14. 8. (Gr. <lang n="greek"></lang> praefixa vocali; v. gr. comp. 326.;
+;
+42584 new N. 14. 8. (Gr. <lang n="greek">ἐλαχύς</lang> praefixa vocali; v. gr. comp. 326.;
+; ---------------------------
+; <L>6796<pc>296-b<k1>laNG
+42610 old goth. {%laika%} salio; fortasse graec. <lang n="greek"></lang> sicut scrt. {#SaSa#}
+;
+42610 new goth. {%laika%} salio; fortasse graec. <lang n="greek">λαγώ</lang> sicut scrt. {#SaSa#}
+; ---------------------------
+; <L>6817<pc>297-b<k1>lap
+42739 old {%lâ-mentum,%} gr. <lang n="greek"></lang> per redupl., abjectâ radi-
+;
+42739 new {%lâ-mentum,%} gr. <lang n="greek">λάλος, λαλέω</lang> per redupl., abjectâ radi-
+; ---------------------------
+; <L>6864<pc>300-b<k1>lip
+43105 old gr. <lang n="greek"></lang> lat. {%li-no, lî-mus, de-lîbuo,%}
+;
+43105 new gr. <lang n="greek">λίπος, λιπάζω, ἀ-λείϕω</lang> lat. {%li-no, lî-mus, de-lîbuo,%}
+; ---------------------------
+; <L>6867<pc>300-b<k1>liS
+43132 old esse. {%V.%} {#leSa#}. (Benfey huc trahit gr. <lang n="greek"></lang>
+;
+43132 new esse. {%V.%} {#leSa#}. (Benfey huc trahit gr. <lang n="greek">ὀ-λίγος</lang>
+; ---------------------------
+; <L>6899<pc>303-a<k1>lU
+43397 old {#lup,#} gr. <lang n="greek"></lang> lat. {%so-lvo, so-lû-tum%} = {#saMlU;#} goth. {%LUS%}
+;
+43397 new {#lup,#} gr. <lang n="greek">λύω</lang> lat. {%so-lvo, so-lû-tum%} = {#saMlU;#} goth. {%LUS%}
+; ---------------------------
+; <L>6945<pc>304-1b<k1>vakzas
+43664 old sicut in gr. <lang n="greek"></lang> = {#fkza-s,#} ex {#arkza-s,#} {%ursu-s.%})
+;
+43664 new sicut in gr. <lang n="greek">ἄϱϰτο-ς</lang> = {#fkza-s,#} ex {#arkza-s,#} {%ursu-s.%})
+; ---------------------------
+; <L>6947<pc>305-a<k1>vaNk
+43680 old gr. <lang n="greek"></lang> lat. {%an-%}
+;
+43680 new gr. <lang n="greek">ἀγϰή, ἄγϰος, ἀγϰών, ἀγϰύλος, ἄγϰυϱα</lang> lat. {%an-%}
+; ---------------------------
+; <L>6989<pc>307-a<k1>vad
+43966 old gr. <lang n="greek"></lang> (cf. correptam formam {#ud#}); for-
+;
+43966 new gr. <lang n="greek">ὕδω, ὑδέω, ὕδης</lang> (cf. correptam formam {#ud#}); for-
+; ---------------------------
+; <L>7012<pc>308-b<k1>vap
+44163 old {%WAB%} texere ({%wibu, wab, wâbumês%}); gr. <lang n="greek"></lang>.)
+;
+44163 new {%WAB%} texere ({%wibu, wab, wâbumês%}); gr. <lang n="greek">ὑϕαίνω</lang>.)
+; ---------------------------
+; <L>7017<pc>309-a<k1>vam
+44203 old MAN. 5. 144. (Lat. {%vomo,%} lith. {%wémju%} id., gr. <lang n="greek"></lang>
+;
+44203 new MAN. 5. 144. (Lat. {%vomo,%} lith. {%wémju%} id., gr. <lang n="greek">ἐμέω</lang>
+; ---------------------------
+; <L>7050<pc>310-b<k1>varza
+44417 old quarum novem Indi statuunt. (V. {#vfz#} et cf. gr. <lang n="greek"></lang>)
+;
+44417 new quarum novem Indi statuunt. (V. {#vfz#} et cf. gr. <lang n="greek">ἕϱση</lang>)
+; ---------------------------
+; <L>7081<pc>311-b<k1>vas
+44597 old v. 2. {#vas;#} gr. <lang n="greek"></lang> lat.
+;
+44597 new v. 2. {#vas;#} gr. <lang n="greek">ἄσ-τν, Ϝάσ-τν, ἑσ-τία, Ἑστία</lang> lat.
+; ---------------------------
+; <L>7118<pc>315-a<k1>vAc
+44950 old 23. 19. (Lat. {%voc-s,%} gr. <lang n="greek"></lang> v. r. {#vac#}.)
+;
+44950 new 23. 19. (Lat. {%voc-s,%} gr. <lang n="greek">ὄπ-ς</lang> v. r. {#vac#}.)
+; ---------------------------
+; <L>7158<pc>316-b<k1>vAravilAsinI
+45183 old <lang n="greek"></lang> HIT. 133. 15. Lass. 73. 2. infr.
+;
+45183 new <lang n="greek">ἑταίϱα</lang> HIT. 133. 15. Lass. 73. 2. infr.
+; ---------------------------
+; <L>7161<pc>316-b<k1>vAri
+45202 old {%urna;%} gr. <lang n="greek"></lang>)
+;
+45202 new {%urna;%} gr. <lang n="greek">ὀϱός, οὖϱον, οὐϱέω</lang>)
+; ---------------------------
+; <L>7194<pc>317-b<k1>viMSati
+45376 old v. {#triMSat#} et cf. lat. {%viginti,%} gr. <lang n="greek"></lang> hib.
+;
+45376 new v. {#triMSat#} et cf. lat. {%viginti,%} gr. <lang n="greek">εἴϰατι, εἴϰοσι</lang> hib.
+; ---------------------------
+; <L>7507<pc>329-b<k1>vfMh
+47200 old {#tava#}. (Cf. {#vfh, vfD;#} cum {%sgf.%} rugire cf. gr. <lang n="greek"></lang>
+;
+47200 new {#tava#}. (Cf. {#vfh, vfD;#} cum {%sgf.%} rugire cf. gr. <lang n="greek">ϱ̔έγχω</lang>
+; ---------------------------
+; <L>7540<pc>334-b<k1>vfza
+47701 old etiam traxerim gr. <lang n="greek"></lang> quod supra (p. 57.)
+;
+47701 new etiam traxerim gr. <lang n="greek">ἄϱσην, ἄϱ̓ϱ̔ν</lang> quod supra (p. 57.)
+; ---------------------------
+; <L>7541<pc>335-a<k1>vfzaRa
+47714 old {#'Rqakozo vfzaRaH#}. (Vid. {#vfz, vfza#} et cf. gr. <lang n="greek"></lang>
+;
+47714 new {#'Rqakozo vfzaRaH#}. (Vid. {#vfz, vfza#} et cf. gr. <lang n="greek">ὄϱχις</lang>
+; ---------------------------
+; <L>7548<pc>335-a<k1>vfh
+47754 old tasse gr. <lang n="greek"></lang> v. Pott. I. 150.)
+;
+47754 new tasse gr. <lang n="greek">ὀϱχέω</lang> v. Pott. I. 150.)
+; ---------------------------
+; <L>7561<pc>335-b<k1>vetasa
+47842 old N. 12. 112. (Cf. {#vetra,#} lat. {%vitex, vîtis,%} gr. <lang n="greek"></lang> germ.
+;
+47842 new N. 12. 112. (Cf. {#vetra,#} lat. {%vitex, vîtis,%} gr. <lang n="greek">ἴτεα</lang> germ.
+; ---------------------------
+; <L>7575<pc>336-a<k1>vep
+47919 old {%b, p,%} nisi pertinet ad {#BI, biBemi,#} gr. <lang n="greek"></lang>.)
+;
+47919 new {%b, p,%} nisi pertinet ad {#BI, biBemi,#} gr. <lang n="greek">ϕέβομαι</lang>.)
+; ---------------------------
+; <L>7716<pc>342-b<k1>SaNKa
+48825 old {%m.%} (Gr. <lang n="greek"></lang> lat. {%concha;%} fortasse hib.
+;
+48825 new {%m.%} (Gr. <lang n="greek">ϰόγχος, ϰόγχη</lang> lat. {%concha;%} fortasse hib.
+; ---------------------------
+; <L>7727<pc>343-a<k1>SaRa
+48881 old {#SaRa#}¦ {%n.%} cannabis. (Cf. gr. <lang n="greek"></lang> lat. {%cannabis,%} lith.
+;
+48881 new {#SaRa#}¦ {%n.%} cannabis. (Cf. gr. <lang n="greek">ϰάνναβις</lang> lat. {%cannabis,%} lith.
+; ---------------------------
+; <L>7755<pc>344-b<k1>Sam
+49099 old {%sems%} tardatio; gr. <lang n="greek"></lang> Cf. {#kzam#}.)
+;
+49099 new {%sems%} tardatio; gr. <lang n="greek">ϰηλέω</lang> Cf. {#kzam#}.)
+; ---------------------------
+; <L>7770<pc>345-b<k1>SaraBa
+49212 old {#SalaBa#} et cf. gr. <lang n="greek"></lang>.)</F>
+;
+49212 new {#SalaBa#} et cf. gr. <lang n="greek">ϰάϱαβος</lang>.)</F>
+; ---------------------------
+; <L>7775<pc>345-b<k1>SarkarA
+49236 old {%died sugar%}». (Cf. <lang n="greek"></lang> lat.
+;
+49236 new {%died sugar%}». (Cf. <lang n="greek">χάλιξ, σάϰχαϱ, σάϰχαϱον</lang> lat.
+; ---------------------------
+; <L>7914<pc>351-a<k1>Suc
+50058 old {#Ku,#} gr. <lang n="greek"></lang> lith. {%kauk-iu%} ululo; fortasse hib. {%caoine%}
+;
+50058 new {#Ku,#} gr. <lang n="greek">ϰωϰύω</lang> lith. {%kauk-iu%} ululo; fortasse hib. {%caoine%}
+; ---------------------------
+; <L>7918<pc>351-b<k1>SuW
+50091 old 2. {#KuRq,#} 1. {#Koq, Kor, Kol,#} gr. <lang n="greek"></lang>)
+;
+50091 new 2. {#KuRq,#} 1. {#Koq, Kor, Kol,#} gr. <lang n="greek">χωλός</lang>)
+; ---------------------------
+; <L>7945<pc>352-b<k1>SUkara
+50262 old (Cf. lat. {%sus,%} gr. <lang n="greek"></lang> germ. vet. {%sû,%} nostrum {%Sau.%})
+;
+50262 new (Cf. lat. {%sus,%} gr. <lang n="greek">σῦς, ὗς</lang> germ. vet. {%sû,%} nostrum {%Sau.%})
+; ---------------------------
+; <L>7951<pc>352-b<k1>SUra
+50295 old gr. <lang n="greek"></lang>)
+;
+50295 new gr. <lang n="greek">ϰῦϱος, ϰύϱιος</lang>)
+; ---------------------------
+; <L>7962<pc>353-a<k1>SfNga
+50344 old {#SfNga#}¦ {%n.%} (ut videtur, correptum e {#SiraNga#} i. e. {#Siram#} acc. <lang n="greek"></lang>
+;
+50344 new {#SfNga#}¦ {%n.%} (ut videtur, correptum e {#SiraNga#} i. e. {#Siram#} acc. <lang n="greek">τοῦ</lang>
+; ---------------------------
+; <L>7986<pc>354-a<k1>SoRa
+50493 old Wils.: «{%crimson%}». (Cf. slav. {%sinj%} <lang n="greek"></lang>.)
+;
+50493 new Wils.: «{%crimson%}». (Cf. slav. {%sinj%} <lang n="greek">ὑαϰίνϑινος</lang>.)
+; ---------------------------
+; <L>8051<pc>358-a<k1>SroRi
+50989 old {%clûnis,%} gr. <lang n="greek"></lang> hib. {%slias%} «the thigh, the loins». Vid.
+;
+50989 new {%clûnis,%} gr. <lang n="greek">ϰλόνις</lang> hib. {%slias%} «the thigh, the loins». Vid.
+; ---------------------------
+; <L>8052<pc>358-a<k1>SroRI
+50996 old {#natA gurunitambatayA#}). -- {#suSroRI#} <lang n="greek"></lang>
+;
+50996 new {#natA gurunitambatayA#}). -- {#suSroRI#} <lang n="greek">ϰαλλίπυγος</lang>
+; ---------------------------
+; <L>8081<pc>359-a<k1>SvaSura
+51167 old gr. <lang n="greek"></lang>.)
+;
+51167 new gr. <lang n="greek">ἑϰύϱος</lang>.)
+; ---------------------------
+; <L>8090<pc>360-b<k1>Svit
+51282 old cere, {%svjet%} lux, mundus, <lang n="greek"></lang> lith. {%kaićiu,%} euphon.
+;
+51282 new cere, {%svjet%} lux, mundus, <lang n="greek">ϰόσμος</lang> lith. {%kaićiu,%} euphon.
+; ---------------------------
+; <L>8091<pc>360-b<k1>Svind
+51292 old {%leo,%} gr. <lang n="greek"></lang> mutato {%d%} in {%l.%})
+;
+51292 new {%leo,%} gr. <lang n="greek">ϰήλεος</lang> mutato {%d%} in {%l.%})
+; ---------------------------
+; <L>8101<pc>361-a<k1>zazWa
+51350 old {%tus,%} gr. <lang n="greek"></lang> goth. {%saihsta(n),%} lith. {%szeszta-s,%} slav.
+;
+51350 new {%tus,%} gr. <lang n="greek">ἕϰτος</lang> goth. {%saihsta(n),%} lith. {%szeszta-s,%} slav.
+; ---------------------------
+; <L>8102<pc>361-a<k1>zAqguRya
+51358 old {%stractum%} <lang n="greek"></lang> {#zaqguRa#}. HIT. 119.
+;
+51358 new {%stractum%} <lang n="greek">τοῦ</lang> {#zaqguRa#}. HIT. 119.
+; ---------------------------
+; <L>8198<pc>364-a<k1>sac
+51890 old {%seicin%} «a pursuit, following»; lat. {%sequor,%} gr. <lang n="greek"></lang>
+;
+51890 new {%seicin%} «a pursuit, following»; lat. {%sequor,%} gr. <lang n="greek">ἕπομαι</lang>
+; ---------------------------
+; <L>8221<pc>365-b<k1>satya
+52068 old 2) {%Subst. n.%} veritas. IN. 5. 45. (Cf. gr. <lang n="greek"></lang>.)
+;
+52068 new 2) {%Subst. n.%} veritas. IN. 5. 45. (Cf. gr. <lang n="greek">ἐτεός</lang>.)
+; ---------------------------
+; <L>8229<pc>367-a<k1>sadas
+52209 old <lang n="greek"></lang> v. gr. comp. 128.)
+;
+52209 new <lang n="greek">ἕδος</lang> v. gr. comp. 128.)
+; ---------------------------
+; <L>8237<pc>367-b<k1>sanA
+52256 old I. 25., goth. {%sin%} <lang n="greek"></lang> {%sin-teins;%} nisi pertinent ad {#sam,#} lat.
+;
+52256 new I. 25., goth. {%sin%} <lang n="greek">τοῦ</lang> {%sin-teins;%} nisi pertinent ad {#sam,#} lat.
+; ---------------------------
+; <L>8261<pc>368-b<k1>sap
+52392 old sterg. et cf. {#sac#} e {#sak,#} gr. <lang n="greek"></lang> goth. {%sipôneis%} dis-
+;
+52392 new sterg. et cf. {#sac#} e {#sak,#} gr. <lang n="greek">ἕπομαι</lang> goth. {%sipôneis%} dis-
+; ---------------------------
+; <L>8265<pc>368-b<k1>saptan
+52415 old bro-brit. {%saith,%} armor. {%seiz,%} zend. {%hapta,%} gr. <lang n="greek"></lang>
+;
+52415 new bro-brit. {%saith,%} armor. {%seiz,%} zend. {%hapta,%} gr. <lang n="greek">ἑπτά</lang>
+; ---------------------------
+; <L>8271<pc>368-b<k1>sam
+52447 old q. v.) cum. (Gr. <lang n="greek"></lang> boruss. vet. {%sen%} cum, slav. {%sû,%}
+;
+52447 new q. v.) cum. (Gr. <lang n="greek">σύν, ξύν</lang> boruss. vet. {%sen%} cum, slav. {%sû,%}
+; ---------------------------
+; <L>8272<pc>368-b<k1>sama
+52458 old (Gr. <lang n="greek"></lang> goth. {%sama%} idem, Them. {%saman,%} angl. {%same,%}
+;
+52458 new (Gr. <lang n="greek">ὁμός</lang> goth. {%sama%} idem, Them. {%saman,%} angl. {%same,%}
+; ---------------------------
+; <L>8284<pc>369-a<k1>samam
+52519 old unâ, simul. UR. 94. 3. (Cf. gr. <lang n="greek"></lang>)
+;
+52519 new unâ, simul. UR. 94. 3. (Cf. gr. <lang n="greek">ἅμα</lang>)
+; ---------------------------
+; <L>8355<pc>371-a<k1>samyak
+52867 old {#samyak#}¦ {%Adv.%} (acc. n. <lang n="greek"></lang> {#samyac#}-v. gr. 59.-e {#sami#} pro
+;
+52867 new {#samyak#}¦ {%Adv.%} (acc. n. <lang n="greek">τοῦ</lang> {#samyac#}-v. gr. 59.-e {#sami#} pro
+; ---------------------------
+; <L>8356<pc>371-a<k1>saras
+52875 old (Gr. <lang n="greek"></lang>)
+;
+52875 new (Gr. <lang n="greek">ἔλος</lang>)
+; ---------------------------
+; <L>8366<pc>371-a<k1>sarva
+52928 old comp. 6.; {%soll-ers, salvus%} e {%sarvus;%} gr. <lang n="greek"></lang> nisi pertinet
+;
+52928 new comp. 6.; {%soll-ers, salvus%} e {%sarvus;%} gr. <lang n="greek">ὅλος</lang> nisi pertinet
+; ---------------------------
+; <L>8376<pc>371-b<k1>sal
+52983 old {%salio,%} gr. <lang n="greek"></lang>.)
+;
+52983 new {%salio,%} gr. <lang n="greek">ἅλλομαι, ἅλ-μα</lang>.)
+; ---------------------------
+; <L>8412<pc>373-b<k1>sAD
+53235 old nere, v. Graff 6. 162.; gr. <lang n="greek"></lang> Huc
+;
+53235 new nere, v. Graff 6. 162.; gr. <lang n="greek">ἔϑος, ἦϑος, ἠϑιϰός</lang> Huc
+; ---------------------------
+; <L>8431<pc>374-b<k1>sAPalya
+53356 old tum <lang n="greek"></lang> {#saPala#}. HIT. 48. 7.
+;
+53356 new tum <lang n="greek">τοῦ</lang> {#saPala#}. HIT. 48. 7.
+; ---------------------------
+; <L>8437<pc>374-b<k1>sAmi
+53393 old <lang n="greek"></lang>.
+;
+53393 new <lang n="greek">ἡμι</lang>.
+; ---------------------------
+; <L>8464<pc>375-b<k1>si
+53538 old queus; gr. <lang n="greek"></lang> v. Pott I. 206. II. 174. Graff
+;
+53538 new queus; gr. <lang n="greek">σει-ϱά, ἱ-μάς</lang> v. Pott I. 206. II. 174. Graff
+; ---------------------------
+; <L>8489<pc>377-a<k1>su
+53724 old 2. 89. {#sutA#} filia. BR. 2. 11. 18. {%b.%} (Vid. {#sU,#} et cf. gr. <lang n="greek"></lang>
+;
+53724 new 2. 89. {#sutA#} filia. BR. 2. 11. 18. {%b.%} (Vid. {#sU,#} et cf. gr. <lang n="greek">υἱός</lang>
+; ---------------------------
+; <L>8491<pc>377-a<k1>su
+53744 old {#soma indra te#}. (Cf. {#sru, snu;#} fortasse gr. <lang n="greek"></lang> nisi hoc
+;
+53744 new {#soma indra te#}. (Cf. {#sru, snu;#} fortasse gr. <lang n="greek">ὕω</lang> nisi hoc
+; ---------------------------
+; <L>8492<pc>377-b<k1>su
+53768 old vid. Pictet p. 93. 94.; gr. <lang n="greek"></lang>.)
+;
+53768 new vid. Pictet p. 93. 94.; gr. <lang n="greek">εὐ</lang>.)
+; ---------------------------
+; <L>8541<pc>379-a<k1>sUcI
+54043 old {#sUcI#}¦ {%f.%} (fem. <lang n="greek"></lang> {#sUca#} a {#siv#} correpto in {#sU,#} suff. {%uṇâd.%}
+;
+54043 new {#sUcI#}¦ {%f.%} (fem. <lang n="greek">τοῦ</lang> {#sUca#} a {#siv#} correpto in {#sU,#} suff. {%uṇâd.%}
+; ---------------------------
+; <L>8554<pc>379-b<k1>sUra
+54121 old <lang n="greek"></lang> et goth. {%sauil%} vid. {#sUrya,#} de lat. {%sol%} vid. {#svar#}.)
+;
+54121 new <lang n="greek">ἥλιος</lang> et goth. {%sauil%} vid. {#sUrya,#} de lat. {%sol%} vid. {#svar#}.)
+; ---------------------------
+; <L>8559<pc>380-a<k1>sf
+54155 old {#sfp,#} gr. <lang n="greek"></lang> sicut lat. {%currus%} a {%currendo,%} v. {#car#}.)
+;
+54155 new {#sfp,#} gr. <lang n="greek">ἅϱ-μα</lang> sicut lat. {%currus%} a {%currendo,%} v. {#car#}.)
+; ---------------------------
+; <L>8563<pc>381-b<k1>sfp
+54284 old {%serpo, repo,%} gr. <lang n="greek"></lang> Huc etiam traxerim germ.
+;
+54284 new {%serpo, repo,%} gr. <lang n="greek">ἕϱπω, ϱ̔έπω</lang> Huc etiam traxerim germ.
+; ---------------------------
+; <L>8586<pc>382-b<k1>sEranDrI
+54448 old {#svErinDrI,#} ex acc. <lang n="greek"></lang> {#svEra,#} cujus {#a#} in formâ {#°ri°#} de-
+;
+54448 new {#svErinDrI,#} ex acc. <lang n="greek">τοῦ</lang> {#svEra,#} cujus {#a#} in formâ {#°ri°#} de-
+; ---------------------------
+; <L>8596<pc>383-b<k1>sOdAminI
+54519 old {#sOdAminI#}¦ {%f.%} (pro {#sOdAmanI#} {%Fem.%} <lang n="greek"></lang> {#sOdAmana#} e nube
+;
+54519 new {#sOdAminI#}¦ {%f.%} (pro {#sOdAmanI#} {%Fem.%} <lang n="greek">τοῦ</lang> {#sOdAmana#} e nube
+; ---------------------------
+; <L>8610<pc>384-a<k1>skanDa
+54607 old {%guala%} e {%sguada%} vel {%sguana;%} fortasse gr. <lang n="greek"></lang> mutatâ
+;
+54607 new {%guala%} e {%sguada%} vel {%sguana;%} fortasse gr. <lang n="greek">σπάϑη</lang> mutatâ
+; ---------------------------
+; <L>8618<pc>384-a<k1>sKal
+54653 old {%scelus,%} nisi hoc pertinet ad {#Cala;#} gr. <lang n="greek"></lang> lat.
+;
+54653 new {%scelus,%} nisi hoc pertinet ad {#Cala;#} gr. <lang n="greek">σϕάλλω</lang> lat.
+; ---------------------------
+; <L>8620<pc>384-b<k1>stan
+54666 old {#kzatAH#}. (Gr. <lang n="greek"></lang> lith. {%stenu%} id., slav. {%stenajû%} id.)
+;
+54666 new {#kzatAH#}. (Gr. <lang n="greek">στένω</lang> lith. {%stenu%} id., slav. {%stenajû%} id.)
+; ---------------------------
+; <L>8621<pc>384-b<k1>stan
+54674 old {#yanty aBrAH;#} 58. 2. (Cf. lat. {%tono, tonitru;%} gr. <lang n="greek"></lang>
+;
+54674 new {#yanty aBrAH;#} 58. 2. (Cf. lat. {%tono, tonitru;%} gr. <lang n="greek">Στέν-τωϱ</lang>
+; ---------------------------
+; <L>8628<pc>384-b<k1>stamB
+54721 old {%Caus.%} r. {#sTA (sTApayAmi);#} gr. <lang n="greek"></lang> lat.
+;
+54721 new {%Caus.%} r. {#sTA (sTApayAmi);#} gr. <lang n="greek">στείβω, στέμβω</lang> lat.
+; ---------------------------
+; <L>8644<pc>386-a<k1>stf
+54853 old {#gAm…SiroBiH#}. (Vid. {#stF,#} gr. <lang n="greek"></lang> = {#stfRo-#}
+;
+54853 new {#gAm…SiroBiH#}. (Vid. {#stF,#} gr. <lang n="greek">στόϱνυμι</lang> = {#stfRo-#}
+; ---------------------------
+; <L>8650<pc>386-b<k1>sten
+54908 old {%stal, stêlum,%} mutato {%n%} in {%l,%} vid. {#anya;#} gr. <lang n="greek"></lang> v.
+;
+54908 new {%stal, stêlum,%} mutato {%n%} in {%l,%} vid. {#anya;#} gr. <lang n="greek">στεϱέω</lang> v.
+; ---------------------------
+; <L>8662<pc>386-b<k1>sTal
+54970 old gr. <lang n="greek"></lang> sensu = Caus. r. {#sTA#} praef. {#pra;#}
+;
+54970 new gr. <lang n="greek">στέλλω, ἔσταλϰα</lang> sensu = Caus. r. {#sTA#} praef. {#pra;#}
+; ---------------------------
+; <L>8681<pc>389-b<k1>snA
+55239 old cf. gr. <lang n="greek"></lang> lat. {%nâ-re, nâ-s%} = {#snAsi#} abjectâ
+;
+55239 new cf. gr. <lang n="greek">νάω, νᾶ-μα</lang> lat. {%nâ-re, nâ-s%} = {#snAsi#} abjectâ
+; ---------------------------
+; <L>8712<pc>391-a<k1>sPal
+55443 old {#sPul, sPar, sPur, sKal,#} gr. <lang n="greek"></lang>.)
+;
+55443 new {#sPul, sPar, sPur, sKal,#} gr. <lang n="greek">σϕάλλω</lang>.)
+; ---------------------------
+; <L>8717<pc>391-a<k1>sPuw
+55472 old <lang n="greek"></lang>.)
+;
+55472 new <lang n="greek">σπεύδω</lang>.)
+; ---------------------------
+; <L>8774<pc>395-a<k1>svapna
+55932 old 58.; gr. <lang n="greek"></lang> hib. {%suain%} «sleep», {%suaimhneach%} «quiet,
+;
+55932 new 58.; gr. <lang n="greek">ὕπνος</lang> hib. {%suain%} «sleep», {%suaimhneach%} «quiet,
+; ---------------------------
+; <L>8801<pc>396-a<k1>svAd
+56090 old {#svAdu#} et cf. gr. <lang n="greek"></lang> cambro-brit.
+;
+56090 new {#svAdu#} et cf. gr. <lang n="greek">ἥδομαι, ἧδος, ἁνδάνω</lang> cambro-brit.
+; ---------------------------
+; <L>8810<pc>396-b<k1>svf
+56160 old tibiâ canere, gr. <lang n="greek"></lang> v. Pott 1. 225.; goth.
+;
+56160 new tibiâ canere, gr. <lang n="greek">σύϱιγξ, συϱίσσω</lang> v. Pott 1. 225.; goth.
+; ---------------------------
+; <L>8855<pc>399-b<k1>hA
+56513 old {#hApayati#}. (Gr. <lang n="greek"></lang> fortasse lat. {%habeo,%}
+;
+56513 new {#hApayati#}. (Gr. <lang n="greek">χῆ-ϱος, χή-ϱα</lang> fortasse lat. {%habeo,%}
+; ---------------------------
+; <L>8856<pc>400-a<k1>hA
+56545 old {#giriH#}. (Cf. {#hi,#} gr. <lang n="greek"></lang> forma redupl., cf.
+;
+56545 new {#giriH#}. (Cf. {#hi,#} gr. <lang n="greek">ϰιχάνε (ϰίχημι)</lang> forma redupl., cf.
+; ---------------------------
+; <L>8906<pc>404-b<k1>hfdaya
+57026 old Them. {%srjdjzjo%} (v. gr. comp. 258. 259.), gr. <lang n="greek"></lang> niti-
+;
+57026 new Them. {%srjdjzjo%} (v. gr. comp. 258. 259.), gr. <lang n="greek">ϰαϱδία</lang> niti-
+; ---------------------------
+; <L>8929<pc>405-b<k1>hnu
+57176 old anglo-sax. {%hnîvan, hnîgan%} id.; gr. <lang n="greek"></lang> lat. {%nuo,%} v. Ben-
+;
+57176 new anglo-sax. {%hnîvan, hnîgan%} id.; gr. <lang n="greek">νεύω</lang> lat. {%nuo,%} v. Ben-
+; ---------------------------

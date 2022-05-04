@@ -1,0 +1,1395 @@
+;Page 027-a
+4610 old <L>826<pc>027-a<k1>A<k2>A
+;
+4610 new <L>826<pc>027-1a<k1>A<k2>A
+; ---------------------------
+;Page 027-a
+4619 old <L>827<pc>027-a<k1>AM<k2>AM
+;
+4619 new <L>827<pc>027-1a<k1>AM<k2>AM
+; ---------------------------
+;Page 027-a
+4624 old <L>828<pc>027-a<k1>AH<k2>AH
+;
+4624 new <L>828<pc>027-1a<k1>AH<k2>AH
+; ---------------------------
+;Page 027-a
+4629 old <L>829<pc>027-a<k1>Akara<k2>Akara
+;
+4629 new <L>829<pc>027-1a<k1>Akara<k2>Akara
+; ---------------------------
+;Page 027-a
+4633 old <L>830<pc>027-a<k1>AkarzaRa<k2>AkarzaRa
+;
+4633 new <L>830<pc>027-1a<k1>AkarzaRa<k2>AkarzaRa
+; ---------------------------
+;Page 027-b
+4639 old <L>831<pc>027-b<k1>Akalpa<k2>Akalpa
+;
+4639 new <L>831<pc>027-1b<k1>Akalpa<k2>Akalpa
+; ---------------------------
+;Page 027-b
+4644 old <L>832<pc>027-b<k1>AkANkzA<k2>AkANkzA
+;
+4644 new <L>832<pc>027-1b<k1>AkANkzA<k2>AkANkzA
+; ---------------------------
+;Page 027-b
+4649 old <L>833<pc>027-b<k1>AkAya<k2>AkAya
+;
+4649 new <L>833<pc>027-1b<k1>AkAya<k2>AkAya
+; ---------------------------
+;Page 027-b
+4655 old <L>834<pc>027-b<k1>AkAra<k2>AkAra
+;
+4655 new <L>834<pc>027-1b<k1>AkAra<k2>AkAra
+; ---------------------------
+;Page 027-b
+4661 old <L>835<pc>027-b<k1>AkAravat<k2>AkAravat
+;
+4661 new <L>835<pc>027-1b<k1>AkAravat<k2>AkAravat
+; ---------------------------
+;Page 027-b
+4665 old <L>836<pc>027-b<k1>AkASa<k2>AkASa
+;
+4665 new <L>836<pc>027-1b<k1>AkASa<k2>AkASa
+; ---------------------------
+;Page 036-b
+6113 old <L>1096<pc>036-b<k1>i<k2>i<h>1
+;
+6113 new <L>1096<pc>036-1a<k1>i<k2>i<h>1
+; ---------------------------
+;Page 041-b
+6715 old <L>1172<pc>041-b<k1>I<k2>I<h>1
+;
+6715 new <L>1172<pc>041-1a<k1>I<k2>I<h>1
+; ---------------------------
+;Page 041-b
+6719 old <L>1173<pc>041-b<k1>I<k2>I<h>2
+;
+6719 new <L>1173<pc>041-1a<k1>I<k2>I<h>2
+; ---------------------------
+;Page 041-b
+6731 old <L>1174<pc>041-b<k1>Ikz<k2>Ikz
+;
+6731 new <L>1174<pc>041-1b<k1>Ikz<k2>Ikz
+; ---------------------------
+;Page 043-b
+6993 old <L>1211<pc>043-b<k1>Ih<k2>Ih
+;
+6993 new <L>1211<pc>044-a<k1>Ih<k2>Ih
+; ---------------------------
+;Page 043-b
+7005 old <L>1212<pc>043-b<k1>IhA<k2>IhA
+;
+7005 new <L>1212<pc>044-b<k1>IhA<k2>IhA
+; ---------------------------
+;Page 043-b
+7010 old <L>1213<pc>043-b<k1>IhAmfga<k2>IhAmfga
+;
+7010 new <L>1213<pc>044-b<k1>IhAmfga<k2>IhAmfga
+; ---------------------------
+;Page 044-a
+7016 old <L>1214<pc>044-a<k1>u<k2>u<h>1
+;
+7016 new <L>1214<pc>044-1a<k1>u<k2>u<h>1
+; ---------------------------
+;Page 044-a
+7020 old <L>1215<pc>044-a<k1>u<k2>u<h>2
+;
+7020 new <L>1215<pc>044-1a<k1>u<k2>u<h>2
+; ---------------------------
+;Page 044-a
+7048 old <L>1216<pc>044-a<k1>uMh<k2>uMh
+;
+7048 new <L>1216<pc>044-1a<k1>uMh<k2>uMh
+; ---------------------------
+;Page 044-b
+7053 old <L>1217<pc>044-b<k1>ukta<k2>ukta, uktavat
+;
+7053 new <L>1217<pc>044-1b<k1>ukta<k2>ukta, uktavat
+; ---------------------------
+;Page 044-b
+7057 old <L>1218<pc>044-b<k1>ukti<k2>ukti
+;
+7057 new <L>1218<pc>044-1b<k1>ukti<k2>ukti
+; ---------------------------
+;Page 044-b
+7061 old <L>1219<pc>044-b<k1>ukz<k2>ukz
+;
+7061 new <L>1219<pc>044-1b<k1>ukz<k2>ukz
+; ---------------------------
+;Page 044-b
+7071 old <L>1220<pc>044-b<k1>ukzan<k2>ukzan
+;
+7071 new <L>1220<pc>044-1b<k1>ukzan<k2>ukzan
+; ---------------------------
+;Page 044-b
+7080 old <L>1221<pc>044-b<k1>uK<k2>uK<h>1
+;
+7080 new <L>1221<pc>044-1b<k1>uK<k2>uK<h>1
+; ---------------------------
+;Page 044-b
+7084 old <L>1222<pc>044-b<k1>uK<k2>uK<h>2
+;
+7084 new <L>1222<pc>044-1b<k1>uK<k2>uK<h>2
+; ---------------------------
+;Page 044-b
+7088 old <L>1223<pc>044-b<k1>uKA<k2>uKA
+;
+7088 new <L>1223<pc>044-1b<k1>uKA<k2>uKA
+; ---------------------------
+;Page 044-b
+7092 old <L>1224<pc>044-b<k1>ugra<k2>ugra
+;
+7092 new <L>1224<pc>044-1b<k1>ugra<k2>ugra
+; ---------------------------
+;Page 044-b
+7097 old <L>1225<pc>044-b<k1>ugradarSana<k2>ugradarSana
+;
+7097 new <L>1225<pc>044-1b<k1>ugradarSana<k2>ugradarSana
+; ---------------------------
+;Page 044-b
+7103 old <L>1226<pc>044-b<k1>ugraSAsana<k2>ugraSAsana
+;
+7103 new <L>1226<pc>044-1b<k1>ugraSAsana<k2>ugraSAsana
+; ---------------------------
+;Page 044-b
+7108 old <L>1227<pc>044-b<k1>uNK<k2>uNK
+;
+7108 new <L>1227<pc>044-1b<k1>uNK<k2>uNK
+; ---------------------------
+;Page 055-a
+8976 old <L>1589<pc>055-a<k1>f<k2>f<h>1
+;
+8976 new <L>1589<pc>055-1a<k1>f<k2>f<h>1
+; ---------------------------
+;Page 055-b
+9017 old <L>1590<pc>055-b<k1>f<k2>f<h>2
+;
+9017 new <L>1590<pc>055-1b<k1>f<k2>f<h>2
+; ---------------------------
+;Page 055-b
+9024 old <L>1591<pc>055-b<k1>fk<k2>fk
+;
+9024 new <L>1591<pc>055-1b<k1>fk<k2>fk
+; ---------------------------
+;Page 057-b
+9248 old <L>1627<pc>057-b<k1>F<k2>F
+;
+9248 new <L>1627<pc>057-1a<k1>F<k2>F
+; ---------------------------
+;Page 057-a
+9256 old <L>1628<pc>057-a<k1>eka<k2>eka
+;
+9256 new <L>1628<pc>057-2a<k1>eka<k2>eka
+; ---------------------------
+;Page 059-b
+9588 old <L>1683<pc>059-b<k1>ez<k2>ez
+;
+9588 new <L>1683<pc>060-a<k1>ez<k2>ez
+; ---------------------------
+;Page 059-b
+9593 old <L>1684<pc>059-b<k1>eza<k2>eza, ezA
+;
+9593 new <L>1684<pc>060-a<k1>eza<k2>eza, ezA
+; ---------------------------
+;Page 059-b
+9598 old <L>1685<pc>059-b<k1>ezA<k2>ezA
+;
+9598 new <L>1685<pc>060-b<k1>ezA<k2>ezA
+; ---------------------------
+;Page 059-b
+9602 old <L>1686<pc>059-b<k1>ezin<k2>ezin
+;
+9602 new <L>1686<pc>060-b<k1>ezin<k2>ezin
+; ---------------------------
+;Page 060-a
+9608 old <L>1687<pc>060-a<k1>Ekamatya<k2>Ekamatya
+;
+9608 new <L>1687<pc>060-1a<k1>Ekamatya<k2>Ekamatya
+; ---------------------------
+;Page 060-a
+9613 old <L>1688<pc>060-a<k1>EkAntika<k2>EkAntika
+;
+9613 new <L>1688<pc>060-1a<k1>EkAntika<k2>EkAntika
+; ---------------------------
+;Page 060-a
+9618 old <L>1689<pc>060-a<k1>Ekya<k2>Ekya
+;
+9618 new <L>1689<pc>060-1a<k1>Ekya<k2>Ekya
+; ---------------------------
+;Page 060-a
+9622 old <L>1690<pc>060-a<k1>EReya<k2>EReya
+;
+9622 new <L>1690<pc>060-1a<k1>EReya<k2>EReya
+; ---------------------------
+;Page 060-a
+9627 old <L>1691<pc>060-a<k1>Endra<k2>Endra
+;
+9627 new <L>1691<pc>060-1a<k1>Endra<k2>Endra
+; ---------------------------
+;Page 060-a
+9632 old <L>1692<pc>060-a<k1>EndrI<k2>EndrI
+;
+9632 new <L>1692<pc>060-1a<k1>EndrI<k2>EndrI
+; ---------------------------
+;Page 060-a
+9637 old <L>1693<pc>060-a<k1>ErAvata<k2>ErAvata
+;
+9637 new <L>1693<pc>060-1a<k1>ErAvata<k2>ErAvata
+; ---------------------------
+;Page 060-b
+9644 old <L>1694<pc>060-b<k1>Ela<k2>Ela
+;
+9644 new <L>1694<pc>060-1b<k1>Ela<k2>Ela
+; ---------------------------
+;Page 060-b
+9649 old <L>1695<pc>060-b<k1>ESAna<k2>ESAna
+;
+9649 new <L>1695<pc>060-1b<k1>ESAna<k2>ESAna
+; ---------------------------
+;Page 060-b
+9655 old <L>1696<pc>060-b<k1>ESAnI<k2>ESAnI
+;
+9655 new <L>1696<pc>060-1b<k1>ESAnI<k2>ESAnI
+; ---------------------------
+;Page 060-b
+9660 old <L>1697<pc>060-b<k1>ESvara<k2>ESvara
+;
+9660 new <L>1697<pc>060-1b<k1>ESvara<k2>ESvara
+; ---------------------------
+;Page 060-b
+9664 old <L>1698<pc>060-b<k1>ESvarya<k2>ESvarya
+;
+9664 new <L>1698<pc>060-1b<k1>ESvarya<k2>ESvarya
+; ---------------------------
+;Page 060-b
+9669 old <L>1699<pc>060-b<k1>Ezamas<k2>Ezamas
+;
+9669 new <L>1699<pc>060-1b<k1>Ezamas<k2>Ezamas
+; ---------------------------
+;Page 060-a
+9678 old <L>1700<pc>060-a<k1>o<k2>o
+;
+9678 new <L>1700<pc>060-2a<k1>o<k2>o
+; ---------------------------
+;Page 060-a
+9682 old <L>1701<pc>060-a<k1>oka<k2>oka
+;
+9682 new <L>1701<pc>060-2a<k1>oka<k2>oka
+; ---------------------------
+;Page 060-a
+9689 old <L>1702<pc>060-a<k1>okas<k2>okas
+;
+9689 new <L>1702<pc>060-2a<k1>okas<k2>okas
+; ---------------------------
+;Page 060-a
+9693 old <L>1703<pc>060-a<k1>oK<k2>oK
+;
+9693 new <L>1703<pc>060-2a<k1>oK<k2>oK
+; ---------------------------
+;Page 060-a
+9697 old <L>1704<pc>060-a<k1>oGa<k2>oGa
+;
+9697 new <L>1704<pc>060-2a<k1>oGa<k2>oGa
+; ---------------------------
+;Page 060-b
+9708 old <L>1705<pc>060-b<k1>oNkAra<k2>oNkAra
+;
+9708 new <L>1705<pc>060-2b<k1>oNkAra<k2>oNkAra
+; ---------------------------
+;Page 060-b
+9713 old <L>1706<pc>060-b<k1>oR<k2>oR
+;
+9713 new <L>1706<pc>060-2b<k1>oR<k2>oR
+; ---------------------------
+;Page 060-b
+9717 old <L>1707<pc>060-b<k1>oj<k2>oj
+;
+9717 new <L>1707<pc>060-2b<k1>oj<k2>oj
+; ---------------------------
+;Page 060-b
+9721 old <L>1708<pc>060-b<k1>ojas<k2>ojas
+;
+9721 new <L>1708<pc>060-2b<k1>ojas<k2>ojas
+; ---------------------------
+;Page 061-a
+9786 old <L>1719<pc>061-a<k1>O<k2>O
+;
+9786 new <L>1719<pc>061-1a<k1>O<k2>O
+; ---------------------------
+;Page 061-a
+9790 old <L>1720<pc>061-a<k1>Okzaka<k2>Okzaka
+;
+9790 new <L>1720<pc>061-1a<k1>Okzaka<k2>Okzaka
+; ---------------------------
+;Page 061-a
+9794 old <L>1721<pc>061-a<k1>Otsukya<k2>Otsukya
+;
+9794 new <L>1721<pc>061-1a<k1>Otsukya<k2>Otsukya
+; ---------------------------
+;Page 061-a
+9798 old <L>1722<pc>061-a<k1>Odanika<k2>Odanika
+;
+9798 new <L>1722<pc>061-1a<k1>Odanika<k2>Odanika
+; ---------------------------
+;Page 061-a
+9802 old <L>1723<pc>061-a<k1>Odarika<k2>Odarika
+;
+9802 new <L>1723<pc>061-1a<k1>Odarika<k2>Odarika
+; ---------------------------
+;Page 061-a
+9807 old <L>1724<pc>061-a<k1>OdArya<k2>OdArya
+;
+9807 new <L>1724<pc>061-1a<k1>OdArya<k2>OdArya
+; ---------------------------
+;Page 061-a
+9812 old <L>1725<pc>061-a<k1>Opamya<k2>Opamya
+;
+9812 new <L>1725<pc>061-1a<k1>Opamya<k2>Opamya
+; ---------------------------
+;Page 061-a
+9818 old <L>1726<pc>061-a<k1>OraBraka<k2>OraBraka
+;
+9818 new <L>1726<pc>061-1a<k1>OraBraka<k2>OraBraka
+; ---------------------------
+;Page 061-a
+9822 old <L>1727<pc>061-a<k1>Orasa<k2>Orasa
+;
+9822 new <L>1727<pc>061-1a<k1>Orasa<k2>Orasa
+; ---------------------------
+;Page 061-b
+9829 old <L>1728<pc>061-b<k1>OrdDvadehikA<k2>OrdDvadehikA
+;
+9829 new <L>1728<pc>061-1b<k1>OrdDvadehikA<k2>OrdDvadehikA
+; ---------------------------
+;Page 061-b
+9834 old <L>1729<pc>061-b<k1>Orva<k2>Orva
+;
+9834 new <L>1729<pc>061-1b<k1>Orva<k2>Orva
+; ---------------------------
+;Page 061-b
+9841 old <L>1730<pc>061-b<k1>OrvaSeya<k2>OrvaSeya
+;
+9841 new <L>1730<pc>061-1b<k1>OrvaSeya<k2>OrvaSeya
+; ---------------------------
+;Page 061-b
+9845 old <L>1731<pc>061-b<k1>OSInara<k2>OSInara
+;
+9845 new <L>1731<pc>061-1b<k1>OSInara<k2>OSInara
+; ---------------------------
+;Page 061-b
+9850 old <L>1732<pc>061-b<k1>OzaDa<k2>OzaDa
+;
+9850 new <L>1732<pc>061-1b<k1>OzaDa<k2>OzaDa
+; ---------------------------
+;Page 061-b
+9857 old <L>1733<pc>061-b<k1>ka<k2>ka<h>1
+;
+9857 new <L>1733<pc>061-2a<k1>ka<k2>ka<h>1
+; ---------------------------
+;Page 061-b
+9861 old <L>1734<pc>061-b<k1>ka<k2>ka<h>2
+;
+9861 new <L>1734<pc>061-2a<k1>ka<k2>ka<h>2
+; ---------------------------
+;Page 061-b
+9866 old <L>1735<pc>061-b<k1>kaMS<k2>kaMS
+;
+9866 new <L>1735<pc>061-2a<k1>kaMS<k2>kaMS
+; ---------------------------
+;Page 061-b
+9871 old <L>1736<pc>061-b<k1>kaMSa<k2>kaMSa
+;
+9871 new <L>1736<pc>061-2b<k1>kaMSa<k2>kaMSa
+; ---------------------------
+;Page 061-b
+9875 old <L>1737<pc>061-b<k1>kaMs<k2>kaMs
+;
+9875 new <L>1737<pc>061-2b<k1>kaMs<k2>kaMs
+; ---------------------------
+;Page 061-b
+9880 old <L>1738<pc>061-b<k1>kaMs<k2>kaMs
+;
+9880 new <L>1738<pc>061-2b<k1>kaMs<k2>kaMs
+; ---------------------------
+;Page 099-a
+15614 old <L>2715<pc>099-a<k1>ga<k2>ga
+;
+15614 new <L>2715<pc>099-1a<k1>ga<k2>ga
+; ---------------------------
+;Page 099-a
+15618 old <L>2716<pc>099-a<k1>gagaRa<k2>gagaRa
+;
+15618 new <L>2716<pc>099-1a<k1>gagaRa<k2>gagaRa
+; ---------------------------
+;Page 099-a
+15622 old <L>2717<pc>099-a<k1>gagG<k2>gagG
+;
+15622 new <L>2717<pc>099-1a<k1>gagG<k2>gagG
+; ---------------------------
+;Page 099-a
+15627 old <L>2718<pc>099-a<k1>gaNgA<k2>gaNgA
+;
+15627 new <L>2718<pc>099-1a<k1>gaNgA<k2>gaNgA
+; ---------------------------
+;Page 099-a
+15632 old <L>2719<pc>099-a<k1>gaNgAdvAra<k2>gaNgAdvAra
+;
+15632 new <L>2719<pc>099-1a<k1>gaNgAdvAra<k2>gaNgAdvAra
+; ---------------------------
+;Page 099-a
+15637 old <L>2720<pc>099-a<k1>gaC<k2>gaC
+;
+15637 new <L>2720<pc>099-1a<k1>gaC<k2>gaC
+; ---------------------------
+;Page 099-a
+15642 old <L>2721<pc>099-a<k1>gaj<k2>gaj
+;
+15642 new <L>2721<pc>099-1a<k1>gaj<k2>gaj
+; ---------------------------
+;Page 099-a
+15646 old <L>2722<pc>099-a<k1>gaja<k2>gaja
+;
+15646 new <L>2722<pc>099-1a<k1>gaja<k2>gaja
+; ---------------------------
+;Page 099-a
+15650 old <L>2723<pc>099-a<k1>gaR<k2>gaR
+;
+15650 new <L>2723<pc>099-1a<k1>gaR<k2>gaR
+; ---------------------------
+;Page 099-a
+15660 old <L>2724<pc>099-a<k1>gaRa<k2>gaRa
+;
+15660 new <L>2724<pc>099-1a<k1>gaRa<k2>gaRa
+; ---------------------------
+;Page 099-b
+15667 old <L>2725<pc>099-b<k1>gaRaka<k2>gaRaka
+;
+15667 new <L>2725<pc>099-1b<k1>gaRaka<k2>gaRaka
+; ---------------------------
+;Page 099-b
+15671 old <L>2726<pc>099-b<k1>gaRana<k2>gaRana
+;
+15671 new <L>2726<pc>099-1b<k1>gaRana<k2>gaRana
+; ---------------------------
+;Page 099-b
+15675 old <L>2727<pc>099-b<k1>gaRanA<k2>gaRanA
+;
+15675 new <L>2727<pc>099-1b<k1>gaRanA<k2>gaRanA
+; ---------------------------
+;Page 099-b
+15680 old <L>2728<pc>099-b<k1>gaRanATa<k2>gaRanATa
+;
+15680 new <L>2728<pc>099-1b<k1>gaRanATa<k2>gaRanATa
+; ---------------------------
+;Page 099-b
+15685 old <L>2729<pc>099-b<k1>gaRaSas<k2>gaRaSas
+;
+15685 new <L>2729<pc>099-1b<k1>gaRaSas<k2>gaRaSas
+; ---------------------------
+;Page 099-b
+15689 old <L>2730<pc>099-b<k1>gaRi<k2>gaRi
+;
+15689 new <L>2730<pc>099-1b<k1>gaRi<k2>gaRi
+; ---------------------------
+;Page 099-b
+15693 old <L>2731<pc>099-b<k1>gaRikA<k2>gaRikA
+;
+15693 new <L>2731<pc>099-1b<k1>gaRikA<k2>gaRikA
+; ---------------------------
+;Page 099-b
+15697 old <L>2732<pc>099-b<k1>gaReSa<k2>gaReSa
+;
+15697 new <L>2732<pc>099-1b<k1>gaReSa<k2>gaReSa
+; ---------------------------
+;Page 099-b
+15702 old <L>2733<pc>099-b<k1>gaRqa<k2>gaRqa
+;
+15702 new <L>2733<pc>099-1b<k1>gaRqa<k2>gaRqa
+; ---------------------------
+;Page 112-b
+17377 old <L>2965<pc>112-b<k1>glev<k2>glev
+;
+17377 new <L>2965<pc>113-a<k1>glev<k2>glev
+; ---------------------------
+;Page 112-b
+17382 old <L>2966<pc>112-b<k1>glez<k2>glez
+;
+17382 new <L>2966<pc>113-a<k1>glez<k2>glez
+; ---------------------------
+;Page 112-b
+17386 old <L>2967<pc>112-b<k1>glE<k2>glE
+;
+17386 new <L>2967<pc>113-a<k1>glE<k2>glE
+; ---------------------------
+;Page 112-b
+17404 old <L>2968<pc>112-b<k1>glO<k2>glO
+;
+17404 new <L>2968<pc>113-b<k1>glO<k2>glO
+; ---------------------------
+;Page 113-a
+17410 old <L>2969<pc>113-a<k1>GaMz<k2>GaMz
+;
+17410 new <L>2969<pc>113-1a<k1>GaMz<k2>GaMz
+; ---------------------------
+;Page 113-a
+17414 old <L>2970<pc>113-a<k1>GaMs<k2>GaMs
+;
+17414 new <L>2970<pc>113-1a<k1>GaMs<k2>GaMs
+; ---------------------------
+;Page 113-a
+17418 old <L>2971<pc>113-a<k1>GagG<k2>GagG
+;
+17418 new <L>2971<pc>113-1a<k1>GagG<k2>GagG
+; ---------------------------
+;Page 113-a
+17424 old <L>2972<pc>113-a<k1>Gaw<k2>Gaw
+;
+17424 new <L>2972<pc>113-1a<k1>Gaw<k2>Gaw
+; ---------------------------
+;Page 113-b
+17451 old <L>2973<pc>113-b<k1>Gawa<k2>Gawa
+;
+17451 new <L>2973<pc>113-1b<k1>Gawa<k2>Gawa
+; ---------------------------
+;Page 113-b
+17455 old <L>2974<pc>113-b<k1>GawanA<k2>GawanA
+;
+17455 new <L>2974<pc>113-1b<k1>GawanA<k2>GawanA
+; ---------------------------
+;Page 113-b
+17460 old <L>2975<pc>113-b<k1>Gaww<k2>Gaww
+;
+17460 new <L>2975<pc>113-1b<k1>Gaww<k2>Gaww
+; ---------------------------
+;Page 113-b
+17471 old <L>2976<pc>113-b<k1>Gawwana<k2>Gawwana
+;
+17471 new <L>2976<pc>113-1b<k1>Gawwana<k2>Gawwana
+; ---------------------------
+;Page 113-b
+17477 old <L>2977<pc>113-b<k1>GaR<k2>GaR
+;
+17477 new <L>2977<pc>113-1b<k1>GaR<k2>GaR
+; ---------------------------
+;Page 113-b
+17481 old <L>2978<pc>113-b<k1>GaRw<k2>GaRw
+;
+17481 new <L>2978<pc>113-1b<k1>GaRw<k2>GaRw
+; ---------------------------
+;Page 113-b
+17486 old <L>2979<pc>113-b<k1>GaRwA<k2>GaRwA
+;
+17486 new <L>2979<pc>113-1b<k1>GaRwA<k2>GaRwA
+; ---------------------------
+;Page 113-b
+17490 old <L>2980<pc>113-b<k1>Gana<k2>Gana
+;
+17490 new <L>2980<pc>113-1b<k1>Gana<k2>Gana
+; ---------------------------
+;Page 115-b
+17795 old <L>3026<pc>115-b<k1>GrARa<k2>GrARa
+;
+17795 new <L>3026<pc>116-b<k1>GrARa<k2>GrARa
+; ---------------------------
+;Page 115-b
+17802 old <L>3027<pc>115-b<k1>Nu<k2>Nu
+;
+17802 new <L>3027<pc>116-1a<k1>Nu<k2>Nu
+; ---------------------------
+;Page 116-a
+17808 old <L>3028<pc>116-a<k1>c<k2>c
+;
+17808 new <L>3028<pc>116-2a<k1>c<k2>c
+; ---------------------------
+;Page 116-a
+17814 old <L>3029<pc>116-a<k1>ca<k2>ca
+;
+17814 new <L>3029<pc>116-2a<k1>ca<k2>ca
+; ---------------------------
+;Page 116-a
+17829 old <L>3030<pc>116-a<k1>cak<k2>cak
+;
+17829 new <L>3030<pc>116-2a<k1>cak<k2>cak
+; ---------------------------
+;Page 116-a
+17835 old <L>3031<pc>116-a<k1>cakak<k2>cakak
+;
+17835 new <L>3031<pc>116-2a<k1>cakak<k2>cakak
+; ---------------------------
+;Page 116-a
+17840 old <L>3032<pc>116-a<k1>cakAs<k2>cakAs
+;
+17840 new <L>3032<pc>116-2a<k1>cakAs<k2>cakAs
+; ---------------------------
+;Page 116-b
+17846 old <L>3033<pc>116-b<k1>cakora<k2>cakora
+;
+17846 new <L>3033<pc>116-2b<k1>cakora<k2>cakora
+; ---------------------------
+;Page 116-b
+17852 old <L>3034<pc>116-b<k1>cakra<k2>cakra
+;
+17852 new <L>3034<pc>116-2b<k1>cakra<k2>cakra
+; ---------------------------
+;Page 116-b
+17860 old <L>3035<pc>116-b<k1>cakraDara<k2>cakraDara
+;
+17860 new <L>3035<pc>116-2b<k1>cakraDara<k2>cakraDara
+; ---------------------------
+;Page 116-b
+17865 old <L>3036<pc>116-b<k1>cakrapARi<k2>cakrapARi
+;
+17865 new <L>3036<pc>116-2b<k1>cakrapARi<k2>cakrapARi
+; ---------------------------
+;Page 116-b
+17869 old <L>3037<pc>116-b<k1>cakravartin<k2>cakravartin
+;
+17869 new <L>3037<pc>116-2b<k1>cakravartin<k2>cakravartin
+; ---------------------------
+;Page 116-b
+17874 old <L>3038<pc>116-b<k1>cakravAka<k2>cakravAka
+;
+17874 new <L>3038<pc>116-2b<k1>cakravAka<k2>cakravAka
+; ---------------------------
+;Page 116-b
+17880 old <L>3039<pc>116-b<k1>cakravAla<k2>cakravAla
+;
+17880 new <L>3039<pc>116-2b<k1>cakravAla<k2>cakravAla
+; ---------------------------
+;Page 116-b
+17885 old <L>3040<pc>116-b<k1>cakrin<k2>cakrin
+;
+17885 new <L>3040<pc>116-2b<k1>cakrin<k2>cakrin
+; ---------------------------
+;Page 116-b
+17889 old <L>3041<pc>116-b<k1>cakz<k2>cakz
+;
+17889 new <L>3041<pc>116-2b<k1>cakz<k2>cakz
+; ---------------------------
+;Page 129-a
+19533 old <L>3274<pc>129-a<k1>cyu<k2>cyu<h>2
+;
+19533 new <L>3274<pc>129-b<k1>cyu<k2>cyu<h>2
+; ---------------------------
+;Page 129-a
+19538 old <L>3275<pc>129-a<k1>cyut<k2>cyut
+;
+19538 new <L>3275<pc>129-b<k1>cyut<k2>cyut
+; ---------------------------
+;Page 129-a
+19543 old <L>3276<pc>129-a<k1>cyuti<k2>cyuti
+;
+19543 new <L>3276<pc>129-b<k1>cyuti<k2>cyuti
+; ---------------------------
+;Page 129-a
+19547 old <L>3277<pc>129-a<k1>cyus<k2>cyus
+;
+19547 new <L>3277<pc>129-b<k1>cyus<k2>cyus
+; ---------------------------
+;Page 129-a
+19553 old <L>3278<pc>129-a<k1>Ca<k2>Ca
+;
+19553 new <L>3278<pc>129-1a<k1>Ca<k2>Ca
+; ---------------------------
+;Page 129-a
+19560 old <L>3279<pc>129-a<k1>Caga<k2>Caga
+;
+19560 new <L>3279<pc>129-1a<k1>Caga<k2>Caga
+; ---------------------------
+;Page 129-b
+19573 old <L>3280<pc>129-b<k1>Cagala<k2>Cagala
+;
+19573 new <L>3280<pc>129-1b<k1>Cagala<k2>Cagala
+; ---------------------------
+;Page 129-b
+19578 old <L>3281<pc>129-b<k1>CagalA<k2>CagalA
+;
+19578 new <L>3281<pc>129-1b<k1>CagalA<k2>CagalA
+; ---------------------------
+;Page 129-b
+19582 old <L>3282<pc>129-b<k1>CagalI<k2>CagalI
+;
+19582 new <L>3282<pc>129-1b<k1>CagalI<k2>CagalI
+; ---------------------------
+;Page 129-b
+19587 old <L>3283<pc>129-b<k1>CawA<k2>CawA
+;
+19587 new <L>3283<pc>129-1b<k1>CawA<k2>CawA
+; ---------------------------
+;Page 129-b
+19591 old <L>3284<pc>129-b<k1>Catra<k2>Catra
+;
+19591 new <L>3284<pc>129-1b<k1>Catra<k2>Catra
+; ---------------------------
+;Page 129-b
+19596 old <L>3285<pc>129-b<k1>Cad<k2>Cad<h>1
+;
+19596 new <L>3285<pc>129-1b<k1>Cad<k2>Cad<h>1
+; ---------------------------
+;Page 145-a
+21600 old <L>3567<pc>145-a<k1>waNk<k2>waNk
+;
+21600 new <L>3567<pc>145-1a<k1>waNk<k2>waNk
+; ---------------------------
+;Page 145-a
+21604 old <L>3568<pc>145-a<k1>waNka<k2>waNka
+;
+21604 new <L>3568<pc>145-1a<k1>waNka<k2>waNka
+; ---------------------------
+;Page 145-a
+21609 old <L>3569<pc>145-a<k1>wal<k2>wal
+;
+21609 new <L>3569<pc>145-1a<k1>wal<k2>wal
+; ---------------------------
+;Page 145-a
+21614 old <L>3570<pc>145-a<k1>wik<k2>wik
+;
+21614 new <L>3570<pc>145-1a<k1>wik<k2>wik
+; ---------------------------
+;Page 145-a
+21620 old <L>3571<pc>145-a<k1>wiwwiBa<k2>wiwwiBa
+;
+21620 new <L>3571<pc>145-1a<k1>wiwwiBa<k2>wiwwiBa
+; ---------------------------
+;Page 145-a
+21625 old <L>3572<pc>145-a<k1>wiwwiBI<k2>wiwwiBI
+;
+21625 new <L>3572<pc>145-1a<k1>wiwwiBI<k2>wiwwiBI
+; ---------------------------
+;Page 145-a
+21631 old <L>3573<pc>145-a<k1>wip<k2>wip
+;
+21631 new <L>3573<pc>145-1b<k1>wip<k2>wip
+; ---------------------------
+;Page 145-a
+21636 old <L>3574<pc>145-a<k1>wIk<k2>wIk
+;
+21636 new <L>3574<pc>145-1b<k1>wIk<k2>wIk
+; ---------------------------
+;Page 145-a
+21640 old <L>3575<pc>145-a<k1>wOk<k2>wOk
+;
+21640 new <L>3575<pc>145-1b<k1>wOk<k2>wOk
+; ---------------------------
+;Page 145-a
+21648 old <L>3576<pc>145-a<k1>wval<k2>wval
+;
+21648 new <L>3576<pc>145-1b<k1>wval<k2>wval
+; ---------------------------
+;Page 146-b
+21722 old <L>3591<pc>146-b<k1>QakkA<k2>QakkA
+;
+21722 new <L>3591<pc>146-1a<k1>QakkA<k2>QakkA
+; ---------------------------
+;Page 146-b
+21726 old <L>3592<pc>146-b<k1>Qola<k2>Qola
+;
+21726 new <L>3592<pc>146-1a<k1>Qola<k2>Qola
+; ---------------------------
+;Page 146-b
+21731 old <L>3593<pc>146-b<k1>QOk<k2>QOk
+;
+21731 new <L>3593<pc>146-1b<k1>QOk<k2>QOk
+; ---------------------------
+;Page 146-a
+21744 old <L>3595<pc>146-a<k1>tas<k2>tas
+;
+21744 new <L>3595<pc>146-3a<k1>tas<k2>tas
+; ---------------------------
+;Page 146-a
+21750 old <L>3596<pc>146-a<k1>tak<k2>tak
+;
+21750 new <L>3596<pc>146-3a<k1>tak<k2>tak
+; ---------------------------
+;Page 146-a
+21755 old <L>3597<pc>146-a<k1>takz<k2>takz
+;
+21755 new <L>3597<pc>146-3a<k1>takz<k2>takz
+; ---------------------------
+;Page 146-b
+21769 old <L>3598<pc>146-b<k1>takzan<k2>takzan
+;
+21769 new <L>3598<pc>146-3b<k1>takzan<k2>takzan
+; ---------------------------
+;Page 146-b
+21773 old <L>3599<pc>146-b<k1>taNk<k2>taNk<h>1
+;
+21773 new <L>3599<pc>146-3b<k1>taNk<k2>taNk<h>1
+; ---------------------------
+;Page 161-b
+23911 old <L>3941<pc>161-b<k1>Taq<k2>Taq
+;
+23911 new <L>3941<pc>161-1a<k1>Taq<k2>Taq
+; ---------------------------
+;Page 161-b
+23917 old <L>3942<pc>161-b<k1>Turv<k2>Turv
+;
+23917 new <L>3942<pc>161-1b<k1>Turv<k2>Turv
+; ---------------------------
+;Page 161-b
+23924 old <L>3943<pc>161-b<k1>da<k2>da
+;
+23924 new <L>3943<pc>161-2a<k1>da<k2>da
+; ---------------------------
+;Page 161-b
+23928 old <L>3944<pc>161-b<k1>daMS<k2>daMS<h>1
+;
+23928 new <L>3944<pc>161-2a<k1>daMS<k2>daMS<h>1
+; ---------------------------
+;Page 188-a
+27441 old <L>4450<pc>188-a<k1>na<k2>na
+;
+27441 new <L>4450<pc>188-1a<k1>na<k2>na
+; ---------------------------
+;Page 188-a
+27450 old <L>4451<pc>188-a<k1>nakula<k2>nakula
+;
+27450 new <L>4451<pc>188-1a<k1>nakula<k2>nakula
+; ---------------------------
+;Page 188-a
+27455 old <L>4452<pc>188-a<k1>nakk<k2>nakk
+;
+27455 new <L>4452<pc>188-1a<k1>nakk<k2>nakk
+; ---------------------------
+;Page 188-a
+27460 old <L>4453<pc>188-a<k1>naktaYcara<k2>naktaYcara
+;
+27460 new <L>4453<pc>188-1a<k1>naktaYcara<k2>naktaYcara
+; ---------------------------
+;Page 188-a
+27465 old <L>4454<pc>188-a<k1>naktam<k2>naktam
+;
+27465 new <L>4454<pc>188-1a<k1>naktam<k2>naktam
+; ---------------------------
+;Page 188-b
+27474 old <L>4455<pc>188-b<k1>naktamAla<k2>naktamAla
+;
+27474 new <L>4455<pc>188-1b<k1>naktamAla<k2>naktamAla
+; ---------------------------
+;Page 188-b
+27479 old <L>4456<pc>188-b<k1>nakra<k2>nakra
+;
+27479 new <L>4456<pc>188-1b<k1>nakra<k2>nakra
+; ---------------------------
+;Page 188-b
+27483 old <L>4457<pc>188-b<k1>nakz<k2>nakz
+;
+27483 new <L>4457<pc>188-1b<k1>nakz<k2>nakz
+; ---------------------------
+;Page 188-b
+27493 old <L>4458<pc>188-b<k1>nakzatra<k2>nakzatra
+;
+27493 new <L>4458<pc>188-1b<k1>nakzatra<k2>nakzatra
+; ---------------------------
+;Page 203-a
+29655 old <L>4810<pc>203-a<k1>pa<k2>pa
+;
+29655 new <L>4810<pc>203-1a<k1>pa<k2>pa
+; ---------------------------
+;Page 203-a
+29660 old <L>4811<pc>203-a<k1>paMS<k2>paMS, paMs
+;
+29660 new <L>4811<pc>203-1a<k1>paMS<k2>paMS, paMs
+; ---------------------------
+;Page 203-a
+29665 old <L>4812<pc>203-a<k1>pakz<k2>pakz
+;
+29665 new <L>4812<pc>203-1a<k1>pakz<k2>pakz
+; ---------------------------
+;Page 203-a
+29670 old <L>4813<pc>203-a<k1>pakza<k2>pakza
+;
+29670 new <L>4813<pc>203-1a<k1>pakza<k2>pakza
+; ---------------------------
+;Page 203-a
+29679 old <L>4814<pc>203-a<k1>pakzin<k2>pakzin
+;
+29679 new <L>4814<pc>203-1a<k1>pakzin<k2>pakzin
+; ---------------------------
+;Page 203-b
+29685 old <L>4815<pc>203-b<k1>pakzman<k2>pakzman
+;
+29685 new <L>4815<pc>203-1b<k1>pakzman<k2>pakzman
+; ---------------------------
+;Page 203-b
+29690 old <L>4816<pc>203-b<k1>paNka<k2>paNka
+;
+29690 new <L>4816<pc>203-1b<k1>paNka<k2>paNka
+; ---------------------------
+;Page 203-b
+29695 old <L>4817<pc>203-b<k1>paNkaja<k2>paNkaja
+;
+29695 new <L>4817<pc>203-1b<k1>paNkaja<k2>paNkaja
+; ---------------------------
+;Page 203-b
+29700 old <L>4818<pc>203-b<k1>paNkti<k2>paNkti
+;
+29700 new <L>4818<pc>203-1b<k1>paNkti<k2>paNkti
+; ---------------------------
+;Page 203-b
+29704 old <L>4819<pc>203-b<k1>pac<k2>pac<h>1
+;
+29704 new <L>4819<pc>203-1b<k1>pac<k2>pac<h>1
+; ---------------------------
+;Page 235-a
+34508 old <L>5621<pc>235-a<k1>Pakak<k2>Pakak
+;
+34508 new <L>5621<pc>235-1a<k1>Pakak<k2>Pakak
+; ---------------------------
+;Page 235-a
+34513 old <L>5622<pc>235-a<k1>PaR<k2>PaR
+;
+34513 new <L>5622<pc>235-1a<k1>PaR<k2>PaR
+; ---------------------------
+;Page 235-a
+34519 old <L>5623<pc>235-a<k1>PaRa<k2>PaRa
+;
+34519 new <L>5623<pc>235-1a<k1>PaRa<k2>PaRa
+; ---------------------------
+;Page 235-a
+34525 old <L>5624<pc>235-a<k1>PaRA<k2>PaRA
+;
+34525 new <L>5624<pc>235-1a<k1>PaRA<k2>PaRA
+; ---------------------------
+;Page 235-a
+34529 old <L>5625<pc>235-a<k1>PaRin<k2>PaRin
+;
+34529 new <L>5625<pc>235-1a<k1>PaRin<k2>PaRin
+; ---------------------------
+;Page 235-b
+34534 old <L>5626<pc>235-b<k1>Pal<k2>Pal<h>1
+;
+34534 new <L>5626<pc>235-1b<k1>Pal<k2>Pal<h>1
+; ---------------------------
+;Page 236-a
+34635 old <L>5643<pc>236-a<k1>baMh<k2>baMh
+;
+34635 new <L>5643<pc>236-1a<k1>baMh<k2>baMh
+; ---------------------------
+;Page 236-a
+34642 old <L>5644<pc>236-a<k1>baMhizWa<k2>baMhizWa
+;
+34642 new <L>5644<pc>236-1a<k1>baMhizWa<k2>baMhizWa
+; ---------------------------
+;Page 236-a
+34646 old <L>5645<pc>236-a<k1>baMhIyas<k2>baMhIyas
+;
+34646 new <L>5645<pc>236-1a<k1>baMhIyas<k2>baMhIyas
+; ---------------------------
+;Page 236-a
+34650 old <L>5646<pc>236-a<k1>baw<k2>baw
+;
+34650 new <L>5646<pc>236-1a<k1>baw<k2>baw
+; ---------------------------
+;Page 236-a
+34654 old <L>5647<pc>236-a<k1>baW<k2>baW
+;
+34654 new <L>5647<pc>236-1a<k1>baW<k2>baW
+; ---------------------------
+;Page 236-a
+34658 old <L>5648<pc>236-a<k1>baR<k2>baR
+;
+34658 new <L>5648<pc>236-1a<k1>baR<k2>baR
+; ---------------------------
+;Page 236-a
+34663 old <L>5649<pc>236-a<k1>baRij<k2>baRij
+;
+34663 new <L>5649<pc>236-1a<k1>baRij<k2>baRij
+; ---------------------------
+;Page 236-a
+34668 old <L>5650<pc>236-a<k1>baRw<k2>baRw
+;
+34668 new <L>5650<pc>236-1a<k1>baRw<k2>baRw
+; ---------------------------
+;Page 236-a
+34672 old <L>5651<pc>236-a<k1>bad<k2>bad
+;
+34672 new <L>5651<pc>236-1a<k1>bad<k2>bad
+; ---------------------------
+;Page 236-a
+34676 old <L>5652<pc>236-a<k1>badDa<k2>badDa
+;
+34676 new <L>5652<pc>236-1a<k1>badDa<k2>badDa
+; ---------------------------
+;Page 236-b
+34681 old <L>5653<pc>236-b<k1>baD<k2>baD<h>1
+;
+34681 new <L>5653<pc>236-1b<k1>baD<k2>baD<h>1
+; ---------------------------
+;Page 236-b
+34686 old <L>5654<pc>236-b<k1>baD<k2>baD<h>2
+;
+34686 new <L>5654<pc>236-1b<k1>baD<k2>baD<h>2
+; ---------------------------
+;Page 236-b
+34691 old <L>5655<pc>236-b<k1>baD<k2>baD<h>3
+;
+34691 new <L>5655<pc>236-1b<k1>baD<k2>baD<h>3
+; ---------------------------
+;Page 236-b
+34695 old <L>5656<pc>236-b<k1>baDa<k2>baDa
+;
+34695 new <L>5656<pc>236-1b<k1>baDa<k2>baDa
+; ---------------------------
+;Page 236-b
+34699 old <L>5657<pc>236-b<k1>baDira<k2>baDira
+;
+34699 new <L>5657<pc>236-1b<k1>baDira<k2>baDira
+; ---------------------------
+;Page 236-b
+34704 old <L>5658<pc>236-b<k1>baDEzin<k2>baDEzin
+;
+34704 new <L>5658<pc>236-1b<k1>baDEzin<k2>baDEzin
+; ---------------------------
+;Page 236-b
+34708 old <L>5659<pc>236-b<k1>baDU<k2>baDU
+;
+34708 new <L>5659<pc>236-1b<k1>baDU<k2>baDU
+; ---------------------------
+;Page 236-b
+34712 old <L>5660<pc>236-b<k1>ban<k2>ban
+;
+34712 new <L>5660<pc>236-1b<k1>ban<k2>ban
+; ---------------------------
+;Page 236-b
+34716 old <L>5661<pc>236-b<k1>banD<k2>banD<h>1
+;
+34716 new <L>5661<pc>236-1b<k1>banD<k2>banD<h>1
+; ---------------------------
+;Page 241-a
+35344 old <L>5757<pc>241-a<k1>Bakta<k2>Bakta
+;
+35344 new <L>5757<pc>241-1a<k1>Bakta<k2>Bakta
+; ---------------------------
+;Page 241-a
+35348 old <L>5758<pc>241-a<k1>Bakti<k2>Bakti
+;
+35348 new <L>5758<pc>241-1a<k1>Bakti<k2>Bakti
+; ---------------------------
+;Page 241-a
+35353 old <L>5759<pc>241-a<k1>Baktimat<k2>Baktimat
+;
+35353 new <L>5759<pc>241-1a<k1>Baktimat<k2>Baktimat
+; ---------------------------
+;Page 241-a
+35357 old <L>5760<pc>241-a<k1>Baktf<k2>Baktf
+;
+35357 new <L>5760<pc>241-1a<k1>Baktf<k2>Baktf
+; ---------------------------
+;Page 241-a
+35361 old <L>5761<pc>241-a<k1>Baktftva<k2>Baktftva
+;
+35361 new <L>5761<pc>241-1a<k1>Baktftva<k2>Baktftva
+; ---------------------------
+;Page 241-a
+35365 old <L>5762<pc>241-a<k1>Bakz<k2>Bakz
+;
+35365 new <L>5762<pc>241-1a<k1>Bakz<k2>Bakz
+; ---------------------------
+;Page 241-b
+35391 old <L>5763<pc>241-b<k1>Bakza<k2>Bakza
+;
+35391 new <L>5763<pc>241-1b<k1>Bakza<k2>Bakza
+; ---------------------------
+;Page 241-b
+35396 old <L>5764<pc>241-b<k1>Bakzaka<k2>Bakzaka
+;
+35396 new <L>5764<pc>241-1b<k1>Bakzaka<k2>Bakzaka
+; ---------------------------
+;Page 241-b
+35400 old <L>5765<pc>241-b<k1>Bakzya<k2>Bakzya
+;
+35400 new <L>5765<pc>241-1b<k1>Bakzya<k2>Bakzya
+; ---------------------------
+;Page 241-b
+35405 old <L>5766<pc>241-b<k1>Baga<k2>Baga
+;
+35405 new <L>5766<pc>241-1b<k1>Baga<k2>Baga
+; ---------------------------
+;Page 253-b
+36901 old <L>5967<pc>253-b<k1>maMh<k2>maMh<h>1
+;
+36901 new <L>5967<pc>253-1a<k1>maMh<k2>maMh<h>1
+; ---------------------------
+;Page 253-b
+36917 old <L>5968<pc>253-b<k1>maMh<k2>maMh<h>2
+;
+36917 new <L>5968<pc>253-1b<k1>maMh<k2>maMh<h>2
+; ---------------------------
+;Page 273-b
+39755 old <L>6418<pc>273-b<k1>ya<k2>ya
+;
+39755 new <L>6418<pc>273-1a<k1>ya<k2>ya
+; ---------------------------
+;Page 273-b
+39759 old <L>6419<pc>273-b<k1>yakan<k2>yakan
+;
+39759 new <L>6419<pc>273-1a<k1>yakan<k2>yakan
+; ---------------------------
+;Page 273-b
+39763 old <L>6420<pc>273-b<k1>yakft<k2>yakft
+;
+39763 new <L>6420<pc>273-1a<k1>yakft<k2>yakft
+; ---------------------------
+;Page 273-b
+39772 old <L>6421<pc>273-b<k1>yakz<k2>yakz
+;
+39772 new <L>6421<pc>273-1b<k1>yakz<k2>yakz
+; ---------------------------
+;Page 273-b
+39777 old <L>6422<pc>273-b<k1>yakza<k2>yakza
+;
+39777 new <L>6422<pc>273-1b<k1>yakza<k2>yakza
+; ---------------------------
+;Page 283-a
+40936 old <L>6565<pc>283-a<k1>raMh<k2>raMh<h>1
+;
+40936 new <L>6565<pc>283-1a<k1>raMh<k2>raMh<h>1
+; ---------------------------
+;Page 283-a
+40944 old <L>6566<pc>283-a<k1>raMh<k2>raMh<h>2
+;
+40944 new <L>6566<pc>283-1a<k1>raMh<k2>raMh<h>2
+; ---------------------------
+;Page 283-a
+40948 old <L>6567<pc>283-a<k1>raMhas<k2>raMhas
+;
+40948 new <L>6567<pc>283-1a<k1>raMhas<k2>raMhas
+; ---------------------------
+;Page 283-a
+40952 old <L>6568<pc>283-a<k1>rak<k2>rak
+;
+40952 new <L>6568<pc>283-1a<k1>rak<k2>rak
+; ---------------------------
+;Page 283-a
+40957 old <L>6569<pc>283-a<k1>rakta<k2>rakta
+;
+40957 new <L>6569<pc>283-1a<k1>rakta<k2>rakta
+; ---------------------------
+;Page 283-a
+40961 old <L>6570<pc>283-a<k1>raktAnta<k2>raktAnta
+;
+40961 new <L>6570<pc>283-1a<k1>raktAnta<k2>raktAnta
+; ---------------------------
+;Page 283-b
+40967 old <L>6571<pc>283-b<k1>raktaSmaSruSiroruha<k2>raktaSmaSruSiroruha
+;
+40967 new <L>6571<pc>283-1b<k1>raktaSmaSruSiroruha<k2>raktaSmaSruSiroruha
+; ---------------------------
+;Page 283-b
+40973 old <L>6572<pc>283-b<k1>rakz<k2>rakz
+;
+40973 new <L>6572<pc>283-1b<k1>rakz<k2>rakz
+; ---------------------------
+;Page 295-b
+42477 old <L>6776.1<pc>295-b<k1>lak<k2>lak
+;
+42477 new <L>6776.1<pc>295-1a<k1>lak<k2>lak
+; ---------------------------
+;Page 295-b
+42481 old <L>6777<pc>295-b<k1>lakz<k2>lakz
+;
+42481 new <L>6777<pc>295-1a<k1>lakz<k2>lakz
+; ---------------------------
+;Page 304-a
+43599 old <L>6935<pc>304-a<k1>vaMSa<k2>vaMSa
+;
+43599 new <L>6935<pc>304-1a<k1>vaMSa<k2>vaMSa
+; ---------------------------
+;Page 304-a
+43606 old <L>6936<pc>304-a<k1>vaMh<k2>vaMh<h>1
+;
+43606 new <L>6936<pc>304-1a<k1>vaMh<k2>vaMh<h>1
+; ---------------------------
+;Page 304-a
+43610 old <L>6937<pc>304-a<k1>vaMh<k2>vaMh<h>2
+;
+43610 new <L>6937<pc>304-1a<k1>vaMh<k2>vaMh<h>2
+; ---------------------------
+;Page 304-a
+43614 old <L>6938<pc>304-a<k1>vaka<k2>vaka
+;
+43614 new <L>6938<pc>304-1a<k1>vaka<k2>vaka
+; ---------------------------
+;Page 304-a
+43618 old <L>6939<pc>304-a<k1>vakula<k2>vakula
+;
+43618 new <L>6939<pc>304-1a<k1>vakula<k2>vakula
+; ---------------------------
+;Page 304-a
+43623 old <L>6940<pc>304-a<k1>vakk<k2>vakk
+;
+43623 new <L>6940<pc>304-1a<k1>vakk<k2>vakk
+; ---------------------------
+;Page 304-a
+43628 old <L>6941<pc>304-a<k1>vaktf<k2>vaktf
+;
+43628 new <L>6941<pc>304-1a<k1>vaktf<k2>vaktf
+; ---------------------------
+;Page 304-a
+43633 old <L>6942<pc>304-a<k1>vaktra<k2>vaktra
+;
+43633 new <L>6942<pc>304-1a<k1>vaktra<k2>vaktra
+; ---------------------------
+;Page 304-b
+43639 old <L>6943<pc>304-b<k1>vakra<k2>vakra
+;
+43639 new <L>6943<pc>304-1b<k1>vakra<k2>vakra
+; ---------------------------
+;Page 304-b
+43646 old <L>6944<pc>304-b<k1>vakz<k2>vakz
+;
+43646 new <L>6944<pc>304-1b<k1>vakz<k2>vakz
+; ---------------------------
+;Page 304-b
+43660 old <L>6945<pc>304-b<k1>vakzas<k2>vakzas
+;
+43660 new <L>6945<pc>304-1b<k1>vakzas<k2>vakzas
+; ---------------------------
+;Page 340-b
+48604 old <L>7692<pc>340-b<k1>S<k2>S
+;
+48604 new <L>7692<pc>340-1a<k1>S<k2>S
+; ---------------------------
+;Page 340-b
+48611 old <L>7693<pc>340-b<k1>SaMs<k2>SaMs<h>1
+;
+48611 new <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+; ---------------------------
+;Page 360-b
+51305 old <L>8093<pc>360-b<k1>zaw<k2>zaw
+;
+51305 new <L>8093<pc>360-1a<k1>zaw<k2>zaw
+; ---------------------------
+;Page 360-b
+51309 old <L>8094<pc>360-b<k1>zawcaraRa<k2>zawcaraRa
+;
+51309 new <L>8094<pc>360-1a<k1>zawcaraRa<k2>zawcaraRa
+; ---------------------------
+;Page 360-b
+51315 old <L>8095<pc>360-b<k1>zawpada<k2>zawpada
+;
+51315 new <L>8095<pc>360-1b<k1>zawpada<k2>zawpada
+; ---------------------------
+;Page 360-b
+51319 old <L>8096<pc>360-b<k1>zaRQa<k2>zaRQa
+;
+51319 new <L>8096<pc>360-1b<k1>zaRQa<k2>zaRQa
+; ---------------------------
+;Page 360-b
+51323 old <L>8097<pc>360-b<k1>zaz<k2>zaz
+;
+51323 new <L>8097<pc>360-1b<k1>zaz<k2>zaz
+; ---------------------------
+;Page 361-a
+51401 old <L>8109<pc>361-a<k1>sa<k2>sa
+;
+51401 new <L>8109<pc>361-1a<k1>sa<k2>sa
+; ---------------------------
+;Page 361-b
+51424 old <L>8110<pc>361-b<k1>saMyata<k2>saMyata
+;
+51424 new <L>8110<pc>361-1b<k1>saMyata<k2>saMyata
+; ---------------------------
+;Page 361-b
+51428 old <L>8111<pc>361-b<k1>saMyama<k2>saMyama
+;
+51428 new <L>8111<pc>361-1b<k1>saMyama<k2>saMyama
+; ---------------------------
+;Page 361-b
+51433 old <L>8112<pc>361-b<k1>saMyamana<k2>saMyamana
+;
+51433 new <L>8112<pc>361-1b<k1>saMyamana<k2>saMyamana
+; ---------------------------
+;Page 361-b
+51438 old <L>8113<pc>361-b<k1>saMyamin<k2>saMyamin
+;
+51438 new <L>8113<pc>361-1b<k1>saMyamin<k2>saMyamin
+; ---------------------------
+;Page 361-b
+51443 old <L>8114<pc>361-b<k1>saMyantrita<k2>saMyantrita
+;
+51443 new <L>8114<pc>361-1b<k1>saMyantrita<k2>saMyantrita
+; ---------------------------
+;Page 361-b
+51448 old <L>8115<pc>361-b<k1>saMyuga<k2>saMyuga
+;
+51448 new <L>8115<pc>361-1b<k1>saMyuga<k2>saMyuga
+; ---------------------------
+;Page 361-b
+51453 old <L>8116<pc>361-b<k1>saMyoga<k2>saMyoga
+;
+51453 new <L>8116<pc>361-1b<k1>saMyoga<k2>saMyoga
+; ---------------------------
+;Page 396-b
+56173 old <L>8811<pc>396-b<k1>svF<k2>svF
+;
+56173 new <L>8811<pc>397-a<k1>svF<k2>svF
+; ---------------------------
+;Page 396-b
+56177 old <L>8812<pc>396-b<k1>svecCA<k2>svecCA
+;
+56177 new <L>8812<pc>397-a<k1>svecCA<k2>svecCA
+; ---------------------------
+;Page 396-b
+56183 old <L>8813<pc>396-b<k1>sveda<k2>sveda
+;
+56183 new <L>8813<pc>397-b<k1>sveda<k2>sveda
+; ---------------------------
+;Page 396-b
+56187 old <L>8814<pc>396-b<k1>svedana<k2>svedana
+;
+56187 new <L>8814<pc>397-b<k1>svedana<k2>svedana
+; ---------------------------
+;Page 396-b
+56193 old <L>8815<pc>396-b<k1>svEra<k2>svEra
+;
+56193 new <L>8815<pc>397-b<k1>svEra<k2>svEra
+; ---------------------------
+;Page 397-a
+56202 old <L>8816<pc>397-a<k1>ha<k2>ha
+;
+56202 new <L>8816<pc>397-1a<k1>ha<k2>ha
+; ---------------------------
+;Page 397-a
+56206 old <L>8817<pc>397-a<k1>haMsa<k2>haMsa
+;
+56206 new <L>8817<pc>397-1a<k1>haMsa<k2>haMsa
+; ---------------------------
+;Page 397-a
+56217 old <L>8818<pc>397-a<k1>haw<k2>haw
+;
+56217 new <L>8818<pc>397-1a<k1>haw<k2>haw
+; ---------------------------
+;Page 397-a
+56221 old <L>8819<pc>397-a<k1>haW<k2>haW
+;
+56221 new <L>8819<pc>397-1a<k1>haW<k2>haW
+; ---------------------------
+;Page 397-a
+56225 old <L>8820<pc>397-a<k1>haWa<k2>haWa
+;
+56225 new <L>8820<pc>397-1a<k1>haWa<k2>haWa
+; ---------------------------
+;Page 397-a
+56229 old <L>8821<pc>397-a<k1>hata<k2>hata
+;
+56229 new <L>8821<pc>397-1a<k1>hata<k2>hata
+; ---------------------------
+;Page 397-a
+56233 old <L>8822<pc>397-a<k1>hati<k2>hati
+;
+56233 new <L>8822<pc>397-1a<k1>hati<k2>hati
+; ---------------------------
+;Page 397-a
+56237 old <L>8823<pc>397-a<k1>had<k2>had
+;
+56237 new <L>8823<pc>397-1a<k1>had<k2>had
+; ---------------------------
+;Page 397-a
+56241 old <L>8824<pc>397-a<k1>han<k2>han<h>1
+;
+56241 new <L>8824<pc>397-1a<k1>han<k2>han<h>1
+; ---------------------------
