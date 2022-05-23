@@ -178,11 +178,12 @@ python updateByLine.py temp_bop_9.txt change_10.txt temp_bop_10.txt
 1 change
 ==============================================================
 install into csl-orig and check validity
-cp temp_bop_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+cp temp_bop_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
 sh generate_dict.sh bop  ../../bop
 sh xmlchk_xampp.sh bop
-
+ # ok, as required.
+ 
 cd /c/xampp/htdocs/sanskrit-lexicon/bop/greek
 
 ==============================================================
