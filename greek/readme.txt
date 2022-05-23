@@ -165,3 +165,24 @@ Prepare document for proofreading the greek.
 This can be applied to different language names
 python proof.py greek temp_bop_8.txt proof_greek.txt
 ==============================================================
+trailing punctuation
+python punct.py temp_bop_8.txt temp_bop_ab_3_slp1.txt change_9.txt
+49 changes written to change_9.txt
+
+python updateByLine.py temp_bop_8.txt change_9.txt temp_bop_9.txt
+
+
+==============================================================
+; change_10: manual one '?' after Greek were missed.
+python updateByLine.py temp_bop_9.txt change_10.txt temp_bop_10.txt
+1 change
+==============================================================
+install into csl-orig and check validity
+cp temp_bop_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bop  ../../bop
+sh xmlchk_xampp.sh bop
+
+cd /c/xampp/htdocs/sanskrit-lexicon/bop/greek
+
+==============================================================
