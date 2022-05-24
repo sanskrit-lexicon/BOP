@@ -187,3 +187,21 @@ sh xmlchk_xampp.sh bop
 cd /c/xampp/htdocs/sanskrit-lexicon/bop/greek
 
 ==============================================================
+bop_front.txt  AB version separates the 'front matter' into this
+  separate file.
+bop_addenda.txt AB version separates the 'ADDENDA ET EMENDANDA' section
+ into this separate file.
+These AB versions have lang tags filled in.
+
+Using the AB material from bop_front and bop_addenda,
+the correspond <lang> tags of temp_bop_11.txt are filled in.
+
+==============================================================
+install into csl-orig and check validity
+cp temp_bop_11.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bop  ../../bop
+sh xmlchk_xampp.sh bop
+ # ok, as required.
+ 
+cd /c/xampp/htdocs/sanskrit-lexicon/bop/greek
