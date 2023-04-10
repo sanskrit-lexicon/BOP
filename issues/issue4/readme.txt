@@ -17,7 +17,7 @@ cd ~/Documents/cologne/csl-orig
 git pull
 --------
 # 3. temp_bop_0.txt
-cd ~/Documents/sanskrit-lexicon/bop/bopissues/issue4
+cd ~/Documents/sanskrit-lexicon/bop/issues/issue4
 cp ~/Documents/cologne/csl-orig/v02/BOP/bop.txt temp_bop_0.txt
 # 4. temp_bop_1.txt
 # make a second copy in issue4
