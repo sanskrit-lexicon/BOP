@@ -1,0 +1,25 @@
+; <L>146<pc>006-a<k1>ati<k2>ati
+947 old {%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">αντί</lang> partim ad
+;
+947 new {%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">ἀντί</lang> partim ad
+;---------------------------------------------------
+; <L>1979<pc>069-a<k1>kalya<k2>kalya
+11138 old e <lang n="greek">ϰαλλόσ - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang> 
+;
+11138 new e <lang n="greek">ϰαλλός - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang> 
+;---------------------------------------------------
+; <L>3034<pc>116-2b<k1>cakra<k2>cakra
+17857 old detur, gr. <lang n="greek">ϰύϰλος</lang> pro <lang n="greek">ϰύϰϱος</lang>, attenuato <lang n="greek">α</lang> in {%v.%})
+;
+17857 new detur, gr. <lang n="greek">ϰύϰλος</lang> pro <lang n="greek">ϰύϰϱος</lang>, attenuato <lang n="greek">α</lang> in <lang n="greek">υ</lang>.)
+;---------------------------------------------------
+; <L>4291<pc>179-a<k1>dvAra<k2>dvAra
+26262 old tinent, abjecto {%d%}, mutato <lang n="greek">υ</lang> in {%p%} sicut e. c. in zend.
+;
+26262 new tinent, abjecto {%d%}, mutato {%v%} in {%p%} sicut e. c. in zend.
+;---------------------------------------------------
+; <L>5309<pc>224-a<k1>pota<k2>pota<h>1
+32727 old {%pauta-s%} ovum; gr. <lang n="greek">πω-λος</lang>; lat. {%pullus, pûsus%}; goth. {%fula%}
+;
+32727 new {%pauta-s%} ovum; gr. <lang n="greek">πῶ-λος</lang>; lat. {%pullus, pûsus%}; goth. {%fula%}
+;---------------------------------------------------
