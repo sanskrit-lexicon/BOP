@@ -101,3 +101,36 @@ cd /c/xampp/htdocs/sanskrit-lexicon/BOP/bopissues/issue4
 # *************************************************************************
 # Progress
 # *************************************************************************
+Anna has provided change_1.txt and change_2.txt.
+Apply these to by local temp_bop_0.txt
+
+python updateByLine.py temp_bop_0.txt change_1.txt temp_bop_1.txt
+55 change transactions from change_1.txt
+
+python updateByLine.py temp_bop_1.txt change_2.txt temp_bop_2.txt
+5 change transactions from change_2.txt
+
+# copy to csl-orig, and remake local version
+cp temp_bop_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bop  ../../bop
+
+sh xmlchk_xampp.sh bop
+python3 ../../xmlvalidate.py ../../bop/pywork/bop.xml ../../bop/pywork/bop.dtd
+ok
+
+# looks ok.
+# push csl-orig to Github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git add v02/bop/bop.txt
+git commit -m "BOP Greek proofreading.
+> Ref: https://github.com/sanskrit-lexicon/BOP/issues/4"
+
+git push
+
+# install at cologne
+----------------------
+# update this repository
+cd /c/xampp/htdocs/sanskrit-lexicon/BOP/issues/issue4
+_____________________________________________________________
+THE END.
