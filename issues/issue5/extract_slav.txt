@@ -1,0 +1,553 @@
+; ------------------------------------------------------
+; <L>52<pc>002-b<k1>agni
+{%ugni-s%}, slav. {%ognj%}, goth. {%auhn'-s%} hypocaustum, fornax
+; ------------------------------------------------------
+; <L>168<pc>006-b<k1>ad
+{#ad#}¦ 2. {%P.%} edere ({#admi#}, lith. {%edmi%}, slav. {%jamj%} pro {%jadmj%},
+; ------------------------------------------------------
+; <L>189<pc>007-b<k1>aDara
+{#aDara#}¦ (ex {#a#} s. {#Dara#} pro {#tara#}, v. {#aDama#}) inferior (cf. slav.
+; ------------------------------------------------------
+; <L>226<pc>008-b<k1>ana
+{%an'-s%} ille fem. {%ana%}, slav. {%on, ona, ono%} v. gr. comp. 372;
+{%ana%} (nostrum {%an%}) {%in%}, fortasse etiam {%ana-ks%} subito, slav.
+; ------------------------------------------------------
+; <L>330<pc>011-b<k1>anta
+slav. {%konjzj%}, praefixo {%k%} sicut in {%kostj%} os = {#asTi#}).
+; ------------------------------------------------------
+; <L>334<pc>011-b<k1>antar
+(lat. {%inter%}, goth. {%undar%}, nostrum {%unter%}, slav. {%on-ûtrj%} <sup>(*)</sup>
+; ------------------------------------------------------
+; <L>359<pc>012-b<k1>anya
+<lang n="greek">ἐνίοτε</lang>; slav. {%in%}, Th. {%ino%}, v. gr. comp. 374.).
+; ------------------------------------------------------
+; <L>375<pc>013-a<k1>apa
+etiam retulerim slav. insep. {%o%} de, abjecto {%p%}).
+; ------------------------------------------------------
+; <L>435<pc>014-b<k1>aBi
+{%umbi%}, nostrum {%um%}; slav. {%ob%}; cf. etiam adverb. slav. <lang n="Slavonic">aБΪЕ</lang> 
+; ------------------------------------------------------
+; <L>632<pc>020-b<k1>ava
+vum cui respondet slav. {%ov%} Th. {%ovo%} hic, ille, fem. {%ova%},
+; ------------------------------------------------------
+; <L>700<pc>022-b<k1>avi
+{#avi#}¦ {%m.%} ovis (lith. {%awi-s%}, slav. {%ovjza%}, lat. {%ovis%}, gr. <lang n="greek">ὄϊς</lang>; goth.
+; ------------------------------------------------------
+; <L>731<pc>023-b<k1>aSman
+{%akmů%} Th. {%akmen%}, slav. {%kamy%} Th. {%kamen%}, v. gr. comp.
+; ------------------------------------------------------
+; <L>732<pc>023-b<k1>aSmanta
+per metathesin ex <lang n="greek">ἄϰμινος</lang> sicut slav. {%ΚΑΜΕΝ%} opponi-
+; ------------------------------------------------------
+; <L>747<pc>024-a<k1>azwan
+{%ahtau%}, nostrum {%acht%}, lith.{%afztůni%},  slav. {%osmj.%}
+; ------------------------------------------------------
+; <L>756<pc>024-b<k1>as
+14. (Lith. {%es-mi, es-ti%}; slav. {%jes-mj, jes-tj%}; gr. <lang n="greek">ἐμ-μί, ἐσ-τί</lang>,
+; ------------------------------------------------------
+; <L>788<pc>025-b<k1>astra
+etiam slav. {%ostr%} acutus Th. {%ostro%} et russ. {%oselòk%} cos.)
+; ------------------------------------------------------
+; <L>789<pc>025-b<k1>asTi
+{%ostis%}, gr. <lang n="greek">ὀστέον</lang>, slav. {%kostj%} Th. {%kosti%}, anteposito {%k.%})
+; ------------------------------------------------------
+; <L>808<pc>026-b<k1>aham
+{%ego%}, goth. {%ik%}, nostrum {%ich%}, lith. {%asz%}, slav. {%az%}, cambro-
+; ------------------------------------------------------
+; <L>901<pc>030-a<k1>Adi
+tium, principium. BH. 11. 16. 15. 3. IN. 4. 1. (slav. {%jedin%}
+; ------------------------------------------------------
+; <L>1096<pc>036-1a<k1>i
+bum etiam ad {#I#} trahi posset; lith. {%ei-mi%} eo, slav. {%i-dû%}
+; ------------------------------------------------------
+; <L>1098<pc>037-b<k1>i
+vel <lang n="greek">ἵ</lang>, <lang n="greek">ἴν</lang> et <lang n="greek">-ί</lang> demonstr. v. gr. comp. 364. 365.; slav. {%i%}
+; ------------------------------------------------------
+; <L>1185<pc>042-b<k1>IdfSa
+stro {%solcher%}; slav. {%liko%}, N. m. {%lik%} e. c. {%tolik%} talis; lat. {%li%} in
+; ------------------------------------------------------
+; <L>1309<pc>047-a<k1>uda
+<lang n="greek">τοῦ πηλοῦ</lang> aquam; anglo-sax. {%ydhu%} unda, slav. {%voda%}
+Th. {%vatan%} aqua, germ. vet. {%wazar.%} E germ., slav. et
+; ------------------------------------------------------
+; <L>1495<pc>052-a<k1>uBa
+{#uBa#}¦ ({%du. nom.%} {#uBO#}) ambo. SA. 5. 44. (slav. {%oba%} v. gr.
+inter se conveniunt, et ex quo etiam slav. {%o%} vocis {%oba%}
+; ------------------------------------------------------
+; <L>1589<pc>055-1a<k1>f
+{%erju%} - lith. {%arù%}, slav. {%orjû%}, ita ut a movendo solo no-
+; ------------------------------------------------------
+; <L>1718<pc>061-b<k1>ozWa
+{#ozWa#}¦ {%m.%} labium, praesertim superius; {%du.%} {#ozWO#} labia (slav.
+; ------------------------------------------------------
+; <L>1811<pc>063-b<k1>katara
+angl. {%whether%}; slav. {%kotoryĭ%} qui. v. gr. comp. 297.)
+; ------------------------------------------------------
+; <L>1833<pc>064-b<k1>kadA
+{#kadA#}¦ (a stirpe interr. {#ka#} s. {#dA#}) quando? (Lith. {%kadà%}, slav.
+; ------------------------------------------------------
+; <L>2105<pc>072-a<k1>kAs
+tussio, {%kós-ē4-ti%} tussire, slav. {%kas'jljati%}; germ. vet.
+; ------------------------------------------------------
+; <L>2133<pc>073-b<k1>kim
+(<lang n="greek">πό-τεϱον, ϰό-τεϱον, πῶς, ϰῶς</lang> etc.); slav. {%ky-ĭ, ka-ja, ko-e%},
+; ------------------------------------------------------
+; <L>2164<pc>074-b<k1>kIdfSa
+{#kIdfSa#}¦ (gr. 287.) qualis? HIT. 4. 21. (Prâkr. {#kerisa#}, slav.
+; ------------------------------------------------------
+; <L>2351<pc>081-a<k1>kft
+abjecto {%t%}, quâ in re convenit cum slav. {%korjû%} scindo;
+; ------------------------------------------------------
+; <L>2491<pc>088-b<k1>kruD
+comp. 102.; slav. <lang n="Slavonic">СϱЬДБ</lang> {%srjd%} ira, furor, mutatâ gutturali
+; ------------------------------------------------------
+; <L>2757<pc>102-a<k1>gam
+{%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">землà</lang> {%ζemlà%}
+; ------------------------------------------------------
+; <L>2760<pc>102-a<k1>gamBIra
+slav. {%glûbok%} profundus, {%glûbina%} profunditas.)
+; ------------------------------------------------------
+; <L>2817<pc>104-b<k1>giri
+{%rôiṭ%}, v. gr. comp. 41. 180.; slav. {%gora%}; fortasse etiam gr.
+; ------------------------------------------------------
+; <L>2878<pc>107-a<k1>gfD
+slav. {%glad%} fames, {%cf.%} {#kAMkz#} desiderare, unde nostrum
+; ------------------------------------------------------
+; <L>2890<pc>107-b<k1>gF
+{%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жòра</lang> {%schòra%}
+; ------------------------------------------------------
+; <L>2901<pc>108-b<k1>go
+rus; slav. {%govjado%} pecus bubulum. Cum {#go#} terra cf.
+; ------------------------------------------------------
+; <L>2940<pc>110-b<k1>grah
+{%grē4bju%} prehendo, {%pagrē4bju%} abripio, slav. {%grabljû%} rapio,
+; ------------------------------------------------------
+; <L>3029<pc>116-2a<k1>ca
+slav. <lang n="Slavonic">ЖЕ</lang> {%sche%}, gr. comp. 402.)
+; ------------------------------------------------------
+; <L>3066<pc>118-a<k1>catur
+{%pédair%} fem. convenit; lat. {%quatuor%}, lith. {%keturi%}, slav.
+; ------------------------------------------------------
+; <L>3069<pc>118-a<k1>caturTa
+quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">ЧЕТВЕϱТЫЙ</lang> {%ćetver-%}
+; ------------------------------------------------------
+; <L>3330<pc>133-a<k1>j
+slav. <lang n="Slavonic">Ж</lang> et in gaëlicis dialectis {%d%}, quod ante {%e%} et {%i%} in dia-
+; ------------------------------------------------------
+; <L>3357<pc>134-b<k1>jana
+slav. <lang n="Slavonic">ЖЕНа</lang> {%schenà.%})
+; ------------------------------------------------------
+; <L>3366<pc>135-a<k1>janI
+{%queen%}; de goth. {%qvinô%} et slav. <lang n="Slavonic">ЖЕНа</lang> {%schena%} v. {#jana#}.)
+; ------------------------------------------------------
+; <L>3443<pc>138-a<k1>jAnu
+{%glun%}, insertâ liquidâ; slav. <lang n="Slavonic">КОΛѢНО</lang> {%koljeno%}, lith.
+; ------------------------------------------------------
+; <L>3484<pc>139-b<k1>jIv
+{%gywas%} vivus, slav. <lang n="Slavonic">ЖИВꙋ</lang> {%schivû%} vivo; goth. {%qvivs%} vi-
+; ------------------------------------------------------
+; <L>3490<pc>140-b<k1>jIvita
+{%gywatà%}; slav. <lang n="Slavonic">ЖИВОТ</lang> {%schivot%}; lat. {%vita%} e {%vivita.%})
+; ------------------------------------------------------
+; <L>3512<pc>141-a<k1>jF
+{#ati#} retulerim, ejectâ consonante; slav. <lang n="Slavonic">ЗϱѢЮ</lang> {%ζrjejû%}
+; ------------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA
+duplice nasali cum germ. {%cann%} conveniunt; slav. <lang n="Slavonic">ЗНаЮ</lang> 
+; ------------------------------------------------------
+; <L>3599<pc>146-3b<k1>taNk
+mita, {%tekûnas%} cursor; slav. {%tekû%} curro.)
+; ------------------------------------------------------
+; <L>3615<pc>147-a<k1>tat
+slav. {%TO, TA%}, nom. {%t'%} hic, {%ta%} haec, {%to%} hoc; lat.
+; ------------------------------------------------------
+; <L>3618<pc>147-b<k1>tatas
+<lang n="greek">τόϑεν</lang>, slav. {%ot-tûdû%}; v. gr. comp. §. 421.)
+; ------------------------------------------------------
+; <L>3641<pc>148-b<k1>tanu
+{%tana%}; russ. {%tonkiľ%}; v. 1. {#tan#}. Cum {#tanu#} corpus cf. slav.
+; ------------------------------------------------------
+; <L>3703<pc>152-a<k1>tAdfSa
+slav. {%tolik%}, lat. {%tâlis%}; v. {#kIdFsa#} et gr. comp. 415-
+; ------------------------------------------------------
+; <L>3831<pc>156-b<k1>tftIya
+{%dja%} (Them. {%thri-djan%}); slav. {%tre-tiľ%}; scot. {%tri-teamh%}; hib.
+; ------------------------------------------------------
+; <L>3843<pc>157-b<k1>tF
+{#ras#}; lith. {%triniù%} tero; slav. {%trû%} id.; hib. {%tar, tair, tri%}, v.
+; ------------------------------------------------------
+; <L>3862<pc>159-a<k1>tyat
+{%ser)%} v. gr. comp. 357.; de lith. et slav. {%szis, sj%} hic =
+; ------------------------------------------------------
+; <L>3872<pc>159-a<k1>trap
+pudore afficio; lith. {%trópiju%} ico; slav. {%trepet%} tremor; lat.
+; ------------------------------------------------------
+; <L>3886<pc>160-a<k1>tri
+{#trIRi#}) tres. (Gr. lat. lith. slav. hib. {%TRI%}, nom. m. f.:
+gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ТϱΪЕ</lang> 
+; ------------------------------------------------------
+; <L>3887<pc>160-a<k1>triMSat
+salem, sicut vice versâ lith. et slav. {%d%} vocum {%dewyni, de-%}
+; ------------------------------------------------------
+; <L>3932<pc>161-a<k1>tvam
+goth. {%thu%}, slav. {%ty%}, gr. <lang n="greek">τούν, τύ, σύ</lang>.)
+; ------------------------------------------------------
+; <L>3933<pc>161-b<k1>tvar
+{#tar#}, et cf. slav. {%tvorjû%} facio, {%tvarj%} creatura, ratione ha-
+; ------------------------------------------------------
+; <L>4017<pc>164-b<k1>daSan
+{%tis, deszim-ts, deszim-t%}; slav. {%desja-tj%}; v. gr. comp. 318.)
+; ------------------------------------------------------
+; <L>4029<pc>166-a<k1>dA
+gr. comp. 457., {%dŭs-te%} datis e {%dŭd-te%}; slav. {%damj%} e {%dadmj%},
+; ------------------------------------------------------
+; <L>4071<pc>168-a<k1>dina
+(Lith. {%diē4na%} f. dies, slav. {%denj%} m. id.; cf. lat. {%peren-dinus%},
+; ------------------------------------------------------
+; <L>4199<pc>175-a<k1>dF
+{#dal#} q. v.; cf. gr. <lang n="greek">δέϱω</lang>; slav. {%derû%} excorio; russ. {%dra-tj%}
+; ------------------------------------------------------
+; <L>4209<pc>175-b<k1>devara
+slav. {%dever%}; anglo-sax. {%tacur, tacor%}; germ. vet. {%zeihur%},
+; ------------------------------------------------------
+; <L>4281<pc>178-b<k1>drE
+sax. vet. {%drôm%} somnium; nostrum {%Traum%}; slav. {%drjemati%}
+; ------------------------------------------------------
+; <L>4293<pc>179-a<k1>dvi
+{#dvi#}¦ duo {%in initio compp.%} (Thema primitivum est {#dva#}, cf. slav.
+; ------------------------------------------------------
+; <L>4352<pc>180-b<k1>DA
+gr. comp. 620. sq.; slav. {%dje-jû%} facio, {%dje-lo%} opus; hib.
+; ------------------------------------------------------
+; <L>4394<pc>185-a<k1>DUma
+mus; slav. {%dym%}; germ. vet. {%daum, toum%} vapor; hib.
+; ------------------------------------------------------
+; <L>4412<pc>186-b<k1>De
+(Cf. {#daDi#}; slav. {%dojû%} mulgeo; lith. {%dē4-lē4%} sanguisuga;
+; ------------------------------------------------------
+; <L>4450<pc>188-1a<k1>na
+slav. <lang n="Slavonic">НЕ</lang>; goth. {%ni%}; hib. {%ni.%})
+; ------------------------------------------------------
+; <L>4516<pc>191-b<k1>nava
+MEGH. 66. (Lat. {%novus%}; slav. {%nov%}, them. {%novo%}; gr. <lang n="greek">νέος</lang> 
+; ------------------------------------------------------
+; <L>4517<pc>192-a<k1>navan
+{%niun%}; lith. {%dewyni%} e {%newyni%}; slav. {%devjatj%}; gr. <lang n="greek">ἐννέα</lang>, prae-
+; ------------------------------------------------------
+; <L>4546<pc>193-b<k1>nAman
+<lang n="greek">ἀπϱάγμων, πολυπϱάγμων, ἀτέϱμων</lang>; slav. {%imja%}, Them. {%imen%} e {%ni-%}
+; ------------------------------------------------------
+; <L>4565<pc>194-a<k1>nAsA
+{%naris%} e {%nasis%}; slav. {%nos%} m.; fortasse gr. <lang n="greek">νῆσος</lang> huc perti-
+; ------------------------------------------------------
+; <L>4740<pc>199-b<k1>nI
+<lang n="greek">νίσσομαι, νῑ-σομαι</lang>; lith. {%neszu%}; slav. {%nesû%} fero, adjectâ
+; ------------------------------------------------------
+; <L>4824<pc>204-a<k1>paYcan
+{#paYcan#}¦ quinque. (Lith. {%penki%} masc.; slav. {%pjatj%}; gr. 
+; ------------------------------------------------------
+; <L>4858<pc>206-a<k1>pati
+conjux, maritus; slav. {%gos-podj%}; russ. {%gospodin%} dominus;
+; ------------------------------------------------------
+; <L>4869<pc>206-b<k1>paTin
+lat. {%PONT, pons%}; slav. {%pûtj%} via e {%pontj%}, v. gr. comp.
+; ------------------------------------------------------
+; <L>4898<pc>209-a<k1>para
+trahi posset slav. praep. insep. <lang n="Slavonic">ПϱЕ</lang> {%pre%} trans, e. c. {%pre-%}
+; ------------------------------------------------------
+; <L>5027<pc>213-a<k1>palita
+{%lidus%}; gr. <lang n="greek">πολιός</lang>; slav. {%plaw%} flavus; lith. {%balta-s%} albus,
+; ------------------------------------------------------
+; <L>5082<pc>215-b<k1>pAra
+lat. {%per%}; lith. {%per%} trans, ultra, per; slav. {%pere%} v. {#para#}.)
+; ------------------------------------------------------
+; <L>5327<pc>225-a<k1>pra
+lat. {%pro%}; lith. {%pra, pri, pro%}; slav. {%pro, pri%}; goth. {%fra, fri%};
+; ------------------------------------------------------
+; <L>5661<pc>236-1b<k1>banD
+pecus, a ligando dictum sicut {#paSu#} a {#paS#}; slav. {%vjaζati%}
+; ------------------------------------------------------
+; <L>5736<pc>239-b<k1>buD
+slav. {%bûditj%} expergefacit = Caus. {#boDayati#}, v. gr. comp.
+; ------------------------------------------------------
+; <L>5767<pc>242-a<k1>Bagavat
+8. 80. (Cf. slav. {%bog%} deus.)
+; ------------------------------------------------------
+; <L>5859<pc>246-b<k1>BI
+{#BIzay#} pertinet; {%bjaurùs%} foedus, deformis, cf. {#BIru#}; slav.
+; ------------------------------------------------------
+; <L>5885<pc>248-a<k1>BU
+522. 652.; slav. {%by-ti%} esse, {%bû-dû%} ero; germ. vet. {%bim%} sum,
+; ------------------------------------------------------
+; <L>5901<pc>250-b<k1>Bf
+nificant voces; hib. {%beirim%} «I bear, carry»; slav. {%brjemja%}
+; ------------------------------------------------------
+; <L>5967<pc>253-1a<k1>maMh
+{%ath%} virgo, {%mikils%} magnus; slav. {%mogû%} possum; lith. {%mac-%}
+; ------------------------------------------------------
+; <L>6036<pc>256-b<k1>maDu
+slav. {%med%} id.; anglo-sax. {%medu, medo%}; germ. vet. {%meto%}
+; ------------------------------------------------------
+; <L>6041<pc>256-b<k1>maDya
+{%medju%}; slav. <lang n="Slavonic">МЕЖДЮ</lang> {%meschdju%} inter.)
+; ------------------------------------------------------
+; <L>6050<pc>257-b<k1>manAk
+{%minniza%} minor, {%minnists%} minimus, slav. {%mjniť%} minor,
+; ------------------------------------------------------
+; <L>6124<pc>260-b<k1>mastiska
+(Cf. slav. {%moζjg%}.)
+; ------------------------------------------------------
+; <L>6178<pc>262-b<k1>mAtf
+{%mâter%}; dor. <lang n="greek">μᾱτηϱ</lang>; germ. vet. {%muoter%}; slav. nom. {%mati%}
+; ------------------------------------------------------
+; <L>6235<pc>264-b<k1>miSr
+{%maiszau%}; slav. {%mjes 'û%}; germ. vet. {%miskiu%}; hib. {%measgaim%}
+; ------------------------------------------------------
+; <L>6335<pc>269-b<k1>mfj
+mulgeo; slav. {%mlζû%} id.; fortasse hib. {%breugaim%} «I sooth,
+; ------------------------------------------------------
+; <L>6420<pc>273-1a<k1>yakft
+v. gr. comp. 20., Graff. 2. 80.; slav. {%jatra%} neut. pl.; huc for-
+; ------------------------------------------------------
+; <L>6433<pc>274-b<k1>yat
+{%me%} = {#yasmin#}; slav. {%i%} eum, {%jû%} eam, {%i-she%} qui, {%ja-sche%}
+; ------------------------------------------------------
+; <L>6436<pc>275-a<k1>yatas
+5) nam. HIT. 27. 5. SAK. 53. 16. (Gr. <lang n="greek">ὅ-ϑεν</lang>, slav. {%jû-%}
+; ------------------------------------------------------
+; <L>6460<pc>276-a<k1>yam
+{%im-su%}; slav. {%imamj%} habeo; russ. {%imaju%} capio, deprehendo;
+; ------------------------------------------------------
+; <L>6511<pc>279-b<k1>yuga
+{%juk%} n., them. {%juka%} jugum; lith. {%junga-s%} jugum; slav. {%igo%}
+; ------------------------------------------------------
+; <L>6517<pc>279-b<k1>yuj
+{%ga-s%} jugum; slav. {%igo%}, v. {#yuga#}. Huc etiam traxerim goth.
+; ------------------------------------------------------
+; <L>6532<pc>282-b<k1>yuvan
+slav. {%jûn%} juvenis, {%jûnosti%} juventus; anglo-sax. {%iung, iong%},
+; ------------------------------------------------------
+; <L>6707<pc>290-b<k1>ruc
+lucere, nostrum {%leuch-ten%}; slav. <lang n="Slavonic">ΛОУЧа</lang> {%lûća%} radius,
+; ------------------------------------------------------
+; <L>6721<pc>291-b<k1>rud
+lith. {%raudoju%} lamentor et slav. {%rydajû%} fleo = Caus. {#roda-#}
+; ------------------------------------------------------
+; <L>6725<pc>292-b<k1>ruDira
+{%rudis%} rubigo, aerugo; slav. vet. {%rd-je-ti%} rubescere, {%rysch-%}
+; ------------------------------------------------------
+; <L>6732<pc>293-a<k1>ruh
+slav. vet. {%rod-i-ti%} parere, generare = Caus. {#rohAyitum#}
+; ------------------------------------------------------
+; <L>6820<pc>298-a<k1>laB
+sid. {#lips#} e {#lilips#} referri potest; slav. {%lov-i-ti%} cap-
+; ------------------------------------------------------
+; <L>6864<pc>300-b<k1>lip
+{#pralimpAmi#}; slav. {%ljep-i-ti%} glutinare; hib. {%laib, laibe%}
+; ------------------------------------------------------
+; <L>6868<pc>301-a<k1>lih
+lith. {%laiźau%} lingo, {%liếźuwis%} lingua; slav. {%ob-liζ-a-ti%} lin-
+; ------------------------------------------------------
+; <L>6869<pc>301-a<k1>lI
+pluit ({%y%} = {%i%}), {%ly-tus%} pluvia; slav. {%li-ja-ti%} fundere; hib.
+; ------------------------------------------------------
+; <L>6873<pc>301-b<k1>luYc
+{#rup, lup#}; slav. {%luć-i-ti%} separare; goth. {%raupja%} evello,
+; ------------------------------------------------------
+; <L>6889<pc>302-a<k1>lup
+(v. {#loptra#}); slav. {%lom-i-ti%} frangere; goth. {%raubô%} rapio,
+; ------------------------------------------------------
+; <L>6893<pc>302-b<k1>luB
+{%sertim nuptias%}; slav. {%liub-i-ti%} amare; germ. vet. {%liubiu%} amo
+; ------------------------------------------------------
+; <L>6899<pc>303-a<k1>lU
+solvo; lith. {%láuja%} desino, cesso = Caus. {#lAvayAmi#}; slav.
+; ------------------------------------------------------
+; <L>6954<pc>305-a<k1>vac
+ferari, 1. pers. praes. {%wić-e-m%}; slav. {%rekû%} dico, 2. pers.
+; ------------------------------------------------------
+; <L>6989<pc>307-a<k1>vad
+(Lith. {%wadinu%} voco; slav. {%vad-i-ti%} reprehendere; hib.
+; ------------------------------------------------------
+; <L>7102<pc>313-a<k1>vah
+veho = {#vahAmi#}, {%waźóju%} navigo = {#vAhayAmi#}; slav.
+; ------------------------------------------------------
+; <L>7106<pc>314-b<k1>vahis
+{#hir niHsarati#}. (Cf. slav. <lang n="Slavonic">ВЕЗБ</lang> {%beζ%} absque, nisi hoc,
+; ------------------------------------------------------
+; <L>7108<pc>314-b<k1>vA
+{%wat, wait, waiet, wahet%} flat; slav. {%vje-ja-ti%} flare, {%vje-tr%}
+; ------------------------------------------------------
+; <L>7161<pc>316-b<k1>vAri
+{%márē4s%} (Plur. fem., gen. {%mari-û%}); slav. {%more%} id. (neut.
+; ------------------------------------------------------
+; <L>7191<pc>317-b<k1>vi
+lat. {%vê-(vecors, vesanus)%}; lith. {%be%} sine; slav. {%beζ%} id. nisi
+; ------------------------------------------------------
+; <L>7256<pc>319-b<k1>vid
+deo = {#vedmi#}; {%wéida-s%} facies; slav. {%vjemj%} scio (pro
+; ------------------------------------------------------
+; <L>7283<pc>321-b<k1>viDavA
+vidua. BR. 2. 10. (Lat. {%vidua%}, boruss. vet. {%widdewû%}, slav.
+; ------------------------------------------------------
+; <L>7522<pc>330-b<k1>vft
+tit, slav. {%vrjt-je-ti%} vertere; goth. {%VARTH%} fieri ({%vairtha%},
+; ------------------------------------------------------
+; <L>7534<pc>333-b<k1>vfD
+cere; slav. {%vladû%} impero (vid. Miklosich), {%vlas%} capillus
+{#pra#}; slav. {%rastû%} cresco e {%vradtû%}, nisi pertinet ad {#fD#} i. e.
+; ------------------------------------------------------
+; <L>7548<pc>335-a<k1>vfh
+comp. §. 20.; slav. {%vrjch%} vertex, v. Miklosich p. 13.; for-
+; ------------------------------------------------------
+; <L>7681<pc>340-a<k1>vraR
+{#braR#}) vulnerare. (V. {#vraRa#} et cf. lat. {%vuln-us%}, slav.
+; ------------------------------------------------------
+; <L>7692<pc>340-1a<k1>S
+lith. {%k%} et {%sz%}, slav. {%k%} et {%s%}, hib. {%c, ch%} et {%s%}; germ. {%h%}; v. gr.
+; ------------------------------------------------------
+; <L>7730<pc>343-a<k1>Sata
+<lang n="greek">ἕν</lang> unum <lang n="greek">-</lang>, lith. {%szimta-s%} masc., slav. {%sto%} neut., hib. {%céat%},
+; ------------------------------------------------------
+; <L>7791<pc>346-a<k1>SaS
+{#SaS#}¦ 1. {%P.%} salire. {%V. sq.%} (Lith. {%szók-ti%}, slav. {%skak-a-ti%} saltare.)
+; ------------------------------------------------------
+; <L>7909<pc>351-a<k1>SIla
+nationi deditus. SAK. 27. 8. infr. (Cf. slav. {%sila%} vis.)
+; ------------------------------------------------------
+; <L>7924<pc>351-b<k1>SuD
+slav. <lang n="Slavonic">ЧИСТБ</lang> {%ćis-t%}, lat. {%cas-tus.%} Vid. Pott. I. 252.)
+; ------------------------------------------------------
+; <L>7940<pc>352-a<k1>Suz
+zend. <lang n="Avestan"> 𐬵𐬎𐬴𐬐𐬀</lang> {%hus'ka%} siccus, v. {#Suzka#}, slav. {%sûch%} sic-
+; ------------------------------------------------------
+; <L>7962<pc>353-a<k1>SfNga
+12. 37. 13. 9. (Vid. {#Siras#} et cf. lith. {%rága-s%}, slav. {%rog%},
+; ------------------------------------------------------
+; <L>7983<pc>353-b<k1>So
+acutus, {%asz-mu°%} acies; slav. {%as-tr%} acutus. Fortasse etiam
+; ------------------------------------------------------
+; <L>7986<pc>354-a<k1>SoRa
+Wils.: «{%crimson%}». (Cf. slav. {%sinj%} <lang n="greek">ὑαϰίνϑινος</lang>.)
+; ------------------------------------------------------
+; <L>8029<pc>355-b<k1>SrA
+{#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">ЗϱѢТИ</lang> {%rje-ti%} maturescere,
+; ------------------------------------------------------
+; <L>8033<pc>356-a<k1>Sri
+lith. {%klē4-tis%} cella in supremâ parte aedium; slav. {%klje-tj%}
+; ------------------------------------------------------
+; <L>8041<pc>357-a<k1>Sru
+slav. vet. {%slovù%} appellor, {%slava%} gloria; gr. <lang n="greek">ϰλαίω, ϰλαύσω</lang>,
+; ------------------------------------------------------
+; <L>8081<pc>359-a<k1>SvaSura
+Them. {%suehura%}, slav. {%svekr%}, lith. {%szeszur-s%} pro {%szeszura-s%}
+; ------------------------------------------------------
+; <L>8082<pc>359-b<k1>SvaSrU
+bro-brit. {%çwegyr%}, slav. {%svekrvj%}; fortasse lith. {%ŭszwē4%} ({%uo-%}
+; ------------------------------------------------------
+; <L>8090<pc>360-b<k1>Svit
+dus a lucendo dictum sicut {#loka#}; slav. {%svit-a-ti%} illuces-
+; ------------------------------------------------------
+; <L>8097<pc>360-1b<k1>zaz
+(n. m. pl., fem. {%szezios%}), slav. {%s'es-tj%} (subst. fem.), cam-
+; ------------------------------------------------------
+; <L>8101<pc>361-a<k1>zazWa
+{%tus%}, gr. <lang n="greek">ἕϰτος</lang>, goth. {%saihsta(n)%}, lith. {%szeszta-s%}, slav.
+; ------------------------------------------------------
+; <L>8109<pc>361-1a<k1>sa
+q. v.; slav. <lang n="Slavonic">Ϲ̕Б</lang> {%ś%} ad {#sa#}, <lang n="Slavonic">Ϲꙋ</lang> {%sû%} autem ad {#sam#} retulerim, v.
+; ------------------------------------------------------
+; <L>8151<pc>362-b<k1>sakala
+slav. <lang n="Slavonic">ЦѢΛБ</lang> {%ziel%} sanus, v. Mikl. p. 104.; polon. {%saly, salki%}
+; ------------------------------------------------------
+; <L>8226<pc>366-a<k1>sad
+{%sē4d-mi%} sedeo, {%sodinu%} planto; slav. {%sjadû%} consido, <lang n="greek">ϰαϑί-ζομαι</lang>,
+; ------------------------------------------------------
+; <L>8265<pc>368-b<k1>saptan
+etiam slav. {%sedmj%}, Them. {%sedmi%} (v. gr. comp. 315.); goth.
+; ------------------------------------------------------
+; <L>8267<pc>368-b<k1>saptama
+{%sekma-s%} pro {%sepma-s%}, slav. {%sedmyĭ%}, germ. vet. {%sibunto(n)%},
+; ------------------------------------------------------
+; <L>8271<pc>368-b<k1>sam
+q. v.) cum. (Gr. <lang n="greek">σύν, ξύν</lang>, boruss. vet. {%sen%} cum, slav. {%sû%},
+; ------------------------------------------------------
+; <L>8272<pc>368-b<k1>sama
+goth. {%sums%} quidam, Them. {%suma%}, slav. {%sam%} ipse; hib.
+; ------------------------------------------------------
+; <L>8376<pc>371-b<k1>sal
+repo, serpo, gradu suspenso eo; slav. {%sl-a-ti%} mittere; lat.
+; ------------------------------------------------------
+; <L>8377<pc>371-b<k1>salila
+<lang n="greek">σάλος, ἅλς</lang>; lat. {%salum, sal, saliva%}; slav. {%sol%} sal.)
+; ------------------------------------------------------
+; <L>8464<pc>375-b<k1>si
+fidis, chorda; {%sai-l%} laqueus; slav. {%sje-tj%} tendicula, {%si-lo%} la-
+; ------------------------------------------------------
+; <L>8481<pc>376-b<k1>siv
+bus, ora, sarcina, sagma, {%swila%} subula; slav. {%s'ivû%} suo,
+; ------------------------------------------------------
+; <L>8489<pc>377-a<k1>su
+de goth. {%sunus%}, lith. {%sunús%}, slav. {%syn%} v. {#sUnu#} a r. {#sU#}.)
+; ------------------------------------------------------
+; <L>8549<pc>379-b<k1>sUnu
+nostrum {%Sohn%}; lith. {%sunù-s%}, slav. {%syn.%})
+; ------------------------------------------------------
+; <L>8620<pc>384-b<k1>stan
+{#kzatAH#}. (Gr. <lang n="greek">στένω</lang>, lith. {%stenu%} id., slav. {%stenajû%} id.)
+; ------------------------------------------------------
+; <L>8632<pc>385-a<k1>stiG
+{#Gnomi#}) assequor, consequor, slav. vet. <lang n="Slavonic">СТЬЗа</lang> {%stiζa%}se-
+; ------------------------------------------------------
+; <L>8644<pc>386-a<k1>stf
+{%strauja%} sterno; slav. {%str-je-ti%} extendere, {%pro-stir-a-ti%} id.,
+; ------------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA
+{%stât%} stat; lith. {%stowmi%}, slav. {%stoju%}; hib. {%sta-d%} fem. «stop,
+; ------------------------------------------------------
+; <L>8688<pc>389-b<k1>snu
+g, v. gr. comp. 19.; slav. {%snjeg%} id.; gr. <lang n="greek">νέω, νεύ-σω</lang> e
+; ------------------------------------------------------
+; <L>8690<pc>390-a<k1>snuzA
+slav. vet. {%snocha%} (<lang n="greek">χ</lang> = {%s'%}, v. gr. comp. 255. {%m.%}); lat.
+; ------------------------------------------------------
+; <L>8732<pc>392-a<k1>smi
+{#-- smita#} {%n.%} risus. IN. 4. 15. (Lett. {%smee-t%} ridere, slav.
+; ------------------------------------------------------
+; <L>8756<pc>394-a<k1>sva
+{%weris%} sui cet.; slav. {%sebje%} sibi, {%sebe%} sui cet.; goth. {%sei-na%}
+sua; slav. {%svoĭ, svaja, svoe%} suus, a, um; {%svo-bodj%} liber,
+; ------------------------------------------------------
+; <L>8770<pc>394-b<k1>svan
+sono et slav. {%ζveniû%} magis cum {#kvaR#} quam cum {#svan#}
+; ------------------------------------------------------
+; <L>8773<pc>394-b<k1>svap
+sopio, Grimm 1. 869., slav. <lang n="Slavonic">СБП-И-ШИ</lang> {%sp-i-s'i%} dormis.
+; ------------------------------------------------------
+; <L>8794<pc>395-b<k1>svasf
+mina, cujus {%t%} servatum est in linguis germanicis et slav.,
+angl. {%sister%}; slav. {%sestra%}, lith. {%sessŭ%} per assim. e {%sestŭ%},
+; ------------------------------------------------------
+; <L>8802<pc>396-a<k1>svAdu
+{%sladùs%}, mutato {%v%} in {%l%}, v. gr. comp. 20., slav. <lang n="Slavonic">СΛаДБКБ</lang> 
+; ------------------------------------------------------
+; <L>8810<pc>396-b<k1>svf
+{%v.%} praep. {#sam#}. ({#svf#} e {#svar#}, lat. {%susurro%}, slav. {%svir-a-ti%}
+; ------------------------------------------------------
+; <L>8817<pc>397-1a<k1>haMsa
+lith. {%źasi-s%} f. et slav. {%gûsj%} e {%gonsj%} (v. gr. comp. 255. {%g.%}).
+; ------------------------------------------------------
+; <L>8879<pc>401-a<k1>hima
+{#vat, himAlaya#}. {%Adj.%} frigidus, {%v.%} {#himAMSu#}. (Cf. slav.
+; ------------------------------------------------------
+; <L>8905<pc>404-b<k1>hfd
+{%Herz.%} De gr. <lang n="greek">ϰαϱδία</lang>, lith. {%szirdis%}, slav. {%srjdjze%}, hib.
+; ------------------------------------------------------
+; <L>8906<pc>404-b<k1>hfdaya
+N. 14. 21. 20. 29. (Vid. {#hfd#} et cf. slav. {%srjdjze%} neut.,
+; ------------------------------------------------------
+; <L>8942<pc>406-a<k1>hrI
+pudens, pudibundus. N. 13. 30. (Cf. {#hrIC#}, slav. {%sram-%}
+; ------------------------------------------------------
+; <L>8951<pc>406-a<k1>hlAd
+{#gfD#} q. v.; slav. {%rad%} laetus, {%rados'ća%} laetitia; fortasse gr.
