@@ -100,7 +100,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/BOP/bopissues/issue5
 # *************************************************************************
  list 'slav.' instances in bop.txt
  python extract_slav.py temp_bop_0.txt extract_slav.txt
- 
+ select 182 entries matching "slav."
 # *************************************************************************
 
 # *************************************************************************
