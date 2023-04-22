@@ -1,0 +1,203 @@
+BOP Main (slav. -- 182 entries)
+
+<L>52: slav. {%ognj%}
+<L>168: slav. {%jamj%} pro {%jadmj%}, 3. p. pl. {%jadjatj%}
+<L>189: slav. {%dalje%} infra, {%dalû%} in profundum, abjecto {%a%} et {%r%} mutato in {%l%}
+<L>226: slav. {%on, ona, ono%} … … slav. {%na%}
+<L>330: slav. {%konjzj%}, praefixo {%k%} sicut in {%kostj%}
+<L>334: slav. {%vn-ûtrj%}(*)
+<L>359: slav. {%in%}, Th. {%ino%}
+<L>375: slav. insep. {%o%} de, abjecto {%p%}
+<L>435: slav. {%ob%} … … slav. <lang n="Slavonic">ⲀБїЕ</lang> {%abje%}
+<L>632: slav. {%ov%} Th. {%ovo%} hic, ille, fem. {%ova%}, neut. {%ovo%}
+<L>700: slav. {%ovjza%}
+<L>731: slav. {%kamy%} Th. {%kamen%}
+<L>732: slav. {%KAMEN%}
+<L>747: slav. {%osmj%}
+<L>756: slav. {%jes-mj, jes-tj%}
+<L>788: slav. {%ostr%} acutus Th. {%ostro%}
+<L>789: slav. {%kostj%} Th. {%kosti%}, anteposito {%k%}
+<L>808: slav. {%az%}
+<L>901: slav. {%jedin%} unus, de cujus {%j%}
+<L>1096: slav. {%i-dû%} eo, {%i-ti%} ire
+<L>1098: slav. {%i%}
+<L>1185: slav. {%liko%}, N. m. {%lik%} e. c. {%tolik%} talis
+<L>1309:  slav. {%voda%} aqua … … slav. et lith. formis collegerim sanscritum
+<L>1495: slav. {%oba%} … … slav. {%o%} vocis {%oba%}
+<L>1589: slav. {%orjû%}
+<L>1718: slav. {%ûsta neut. pl., ûstna f.%}
+<L>1811: slav. {%kotoryĭ%}
+<L>1833: slav. {%kogda%}
+<L>2105: slav. {%kas̔jljati%}
+<L>2133: slav. {%ky-ĭ, ka-ja, ko-e%}
+<L>2164: slav. {%ko-lik%}, Th. {%ko-liko%}
+<L>2351: slav. {%korjû%}
+<L>2491: slav. <lang n="Slavonic">СϱЬДЪ</lang> {%srjd%} … … <lang n="Slavonic">СϱЪДЬЦЕ</lang>
+<L>2757: slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} (*)
+<L>2760: slav. {%glûbok%} profundus, {%glûbina%} profunditas
+<L>2817: slav. {%gora%}
+<L>2878: slav. {%glad%}
+<L>2890: slav. {%gr-lo%}
+<L>2901: slav. {%govjado%}
+<L>2940: slav. {%grabljû%} rapio, cum {%l%} euphonico
+<L>3029: slav. <lang n="Slavonic">ЖЕ</lang> {%sche%}
+<L>3066: slav. <lang n="Slavonic">ЧЕͲЫϱїЕ</lang> {%ćetyrje%}
+<L>3069: slav. <lang n="Slavonic">ЧЕͲВЕϱͲЫЙ</lang> {%ćetvertyĭ%}, fem. <lang n="Slavonic">ЧЕͲВЕϱͲⲀѦ</lang> {%ćetverta-ja%}
+<L>3330: slav. <lang n="Slavonic">Ж</lang> et in gaëlicis dialectis {%d%}
+<L>3357: slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schenà%}
+<L>3366: slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schena%}
+<L>3443: slav. <lang n="Slavonic">КОΛѢНО</lang> {%koljeno%}
+<L>3484: slav. <lang n="Slavonic">ЖИВꙋ</lang> {%schivû%}
+<L>3490: slav. <lang n="Slavonic">ЖИВОͲ</lang> {%schivot%}
+<L>3512: slav. <lang n="Slavonic">ЗϱѢЮ</lang> {%ζrjejû%}
+<L>3521: slav. <lang n="Slavonic">ЗНⲀЮ</lang> {%ζnajû%}
+<L>3599: slav. {%tekû%}
+<L>3615: slav. {%TO, TA%}, nom. {%t̕%} hic, {%ta%} haec, {%to%} hoc
+<L>3618: slav. {%ot-tûdû%}
+<L>3641: slav. <lang n="Slavonic">ͲѢΛО</lang> {%tjelo%}
+<L>3703: slav. {%tolik%}
+<L>3831: slav. {%tre-tiĭ%}
+<L>3843: slav. {%trû%}
+<L>3862: slav. {%szis, sj%} hic = {#स्यः#}, {%szi, si%} haec
+<L>3872: slav. {%trepet%}
+<L>3886: slav. hib. {%TRI%} … … slav. masc. <lang n="Slavonic">ͲϱїЕ</lang> fem. <lang n="Slavonic">ͲϱИ</lang> {%tri%}
+<L>3887: slav. {%d%} vocum {%dewyni, devjatj%} novem ortum est ex {%n%}
+<L>3932: slav. {%ty%}
+<L>3933: slav. {%tvorjû%} facio, {%tvarj%} creatura
+<L>4017: slav. {%desja-tj%}
+<L>4029: slav. {%damj%} e {%dadmj%}
+<L>4071: slav. {%denj%}
+<L>4199: slav. {%derû%}
+<L>4209: slav. {%dever%}
+<L>4281: slav. {%drjemati%}
+<L>4293: slav. {%dva%}
+<L>4352: slav. {%dje-jû%} facio, {%dje-lo%} opus
+<L>4394: slav. {%dym%}
+<L>4412: slav. {%dojû%}
+<L>4450: slav. <lang n="Slavonic">НЕ</lang>; goth. {%ni%}
+<L>4516: slav. {%nov%}, them. {%novo%}
+<L>4517: slav. {%devjatj%}
+<L>4546: slav. {%imja%}, Them. {%imen%} e {%nimen%}, gen. {%imen-e%}
+<L>4565: slav. {%nos%}
+<L>4740: slav. {%nesû%}
+<L>4824: slav. {%pjatj%}
+<L>4858: slav. {%gos-podj%}
+<L>4869: slav. {%pûtj%} via e {%pontj%}
+<L>4898: slav. praep. insep. <lang n="Slavonic">ПϱЕ</lang> {%pre%} trans, e. c. {%preidû%} transibo, {%pre-voditi%} traducere.
+<L>5027: slav. {%plaw%}
+<L>5082: slav. {%pere%}
+<L>5327: slav. {%pro, pri%}
+<L>5661: slav. {%vjaζati%}
+<L>5736: slav. {%bûditj%}
+<L>5767: slav. {%bog%}
+<L>5859: slav. {%bojû-sja%} timeo ({%sja%} se
+<L>5885: slav. {%by-ti%} esse, {%bû-dû%} ero
+<L>5901: slav. {%brjemja%}
+<L>5967: slav. {%mogû%}
+<L>6036: slav. {%med%}
+<L>6041: slav. <lang n="Slavonic">МЕЖДЮ</lang> {%meschdju%}
+<L>6050: slav. {%mjniĭ%} ;; typo
+<L>6124: slav. {%moζjg%}
+<L>6178: slav. nom. {%mati%} = {#माता#}, them. {%mater%} = {#मातर्#}, gen. {%mater-e%}
+<L>6235: slav. {%mjes̔û%}
+<L>6335: slav. {%mlζû%}
+<L>6420: slav. {%jatra%}
+<L>6433: slav. {%i%} eum, {%jû%} eam, {%i-she%} qui, {%ja-sche%} quae
+<L>6436: slav. {%jûdû-sche%}
+<L>6460: slav. {%imamj%}
+<L>6511: slav. {%igo%}
+<L>6517: slav. {%igo%}
+<L>6532: slav. {%jûn%} juvenis, {%jûnostj%} juventus
+<L>6707: slav. <lang n="Slavonic">ΛОУЧⲀ</lang> {%lûća%} radius, <lang n="Slavonic">ΛОУНⲀ</lang> {%lû-na%} luna
+<L>6721: slav. {%rydajû%}
+<L>6725: slav. vet. {%rd-je-ti%} rubescere, {%ryschdj%} <lang n="greek">πυϱ̓ϱ̔ός</lang>, {%rschda%} rubigo in segetibus
+<L>6732: slav. vet. {%rod-i-ti%} parere, generare = Caus. {#रोहायितुम्#} e {#रोधयितुम्#}, {%na-rod%}
+<L>6820: slav. {%lov-i-ti%}
+<L>6864: slav. {%ljep-i-ti%}
+<L>6868: slav. {%ob-liζ-a-ti%}
+<L>6869: slav. {%li-ja-ti%}
+<L>6873: slav. {%luć-i-ti%}
+<L>6889: slav. {%lom-i-ti%}
+<L>6893: slav. {%liub-i-ti%}
+<L>6899: slav. {%rv-a-ti%} evellere, {%runo%}, gen. {%runes-e%} vellus, v. Miklosich p. 75.; {%rus̔-i-ti%} evertere
+<L>6954: slav. {%rekû%} dico, 2. pers. {%reć-e-s̔i%} = {#वचसि#} {%vać-a-si%}, mutatâ semivocali {%v%} in {%r%} ;; typo
+<L>6989: slav. {%vad-i-ti%}
+<L>7102: slav. <lang n="Slavonic">ВЕЗꙋ</lang> {%veζû%} veho
+<L>7106: slav. <lang n="Slavonic">БЕЗЪ</lang> {%beζ%} … … <lang n="Slavonic">НИЗЪ</lang> {%niζ%}
+<L>7108: slav. {%vje-ja-ti%} flare, {%vje-tr%} ventus
+<L>7161: slav. {%more%} id. (neut. sg. a Thema {%morjo%},
+<L>7191: slav. {%beζ%}
+<L>7256: slav. {%vjemj%} scio (pro {%vjedmj%}), {%vjedjatj%} sciunt
+<L>7283: slav. {%vdova%} ;; typo
+<L>7522: slav. {%vrjt-je-ti%} vertere
+<L>7534: slav. {%vladû%} … … slav. {%rastû%} cresco e {%vradtû%}
+<L>7548: slav. {%vrjch%}
+<L>7681: slav. {%rana%} vulnus
+<L>7692: slav. {%k%} et {%s%}
+<L>7730: slav. {%sto%}
+<L>7791: slav. {%skak-a-ti%}
+<L>7909: slav. {%sila%}
+<L>7924: slav. <lang n="Slavonic">ЧИСͲЪ</lang> {%ćis-t%}
+<L>7940: slav. {%sûch%}
+<L>7962: slav. {%rog%}
+<L>7983: slav. {%os-tr%} ;; typo
+<L>7986: slav. {%sinj%} <lang n="greek">ὑαϰίνϑινος</lang>
+<L>8029: slav. <lang n="Slavonic">ЗϱѢͲИ</lang> {%ζrje-ti%}
+<L>8033: slav. {%klje-tj%}
+<L>8041: slav. vet. {%slovû%} appellor, {%slava%} gloria ;; typo
+<L>8081: slav. {%svekr%}
+<L>8082: slav. {%svekrvj%}
+<L>8090: slav. {%svit-a-ti%} illucescere, {%svjet%}
+<L>8097: slav. {%s̔es-tj%}
+<L>8101: slav. {%s̔estyĭ%}
+<L>8109: slav. <lang n="Slavonic">С́Ъ</lang> {%ś%} ad {#स#}, <lang n="Slavonic">Сꙋ</lang> {%sû%}
+<L>8151: slav. <lang n="Slavonic">ЦѢΛЪ</lang> {%ziel%}
+<L>8226: slav. {%sjadû%} consido, <lang n="greek">ϰαϑί-ζομαι</lang>, {%sad-i-ti%}
+<L>8265: slav. {%sedmj%}, Them. {%sedmi%}
+<L>8267: slav. {%sedmyĭ%}
+<L>8271: slav. {%sû, ś%}
+<L>8272: slav. {%sam%}
+<L>8376: slav. {%sl-a-ti%}
+<L>8377: slav. {%sol%}
+<L>8464: slav. {%sje-tj%} tendicula, {%si-lo%} laqueus
+<L>8481: slav. {%s̔ivû%} suo
+<L>8489: slav. {%syn%}
+<L>8549: slav. {%syn%}
+<L>8620: slav. {%stenajû%}
+<L>8632: slav. vet. <lang n="Slavonic">СͲЬЗⲀ</lang> {%stiζa%} semita ;; space missed before semita
+<L>8644: slav. {%str-je-ti%} extendere, {%pro-stir-a-ti%} id., {%pro-stran%} spatiosus = {#प्रस्तीर्ण#}; {%po-stl-a-ti%} sternere, {%postelja%} lectus, {%prje-stol%} thronus
+<L>8666: slav. {%stoju%}
+<L>8688: slav. {%snjeg%}
+<L>8690: slav. vet. {%snocha%} (<lang n="greek">χ</lang> = {%s̔%}
+<L>8732: slav. {%smje ja-ti%}
+<L>8756: slav. {%sebje%} sibi, {%sebe%} sui … … slav. {%svoĭ, svaja, svoe%} suus, a, um; {%svo-bodj%} liber, {%svo-boda%} libertas, ubi {%svo%}
+<L>8770: slav. {%ζveniû%}
+<L>8773: slav. <lang n="Slavonic">СЪП-И-ШИ</lang> {%sp-i-s̔i%}
+<L>8794: slav., v. {#स्वजन, श्वशुर, श्वश्रू#} … … slav. {%sestra%}
+<L>8802: slav. <lang n="Slavonic">СΛⲀДЪКЪ</lang> {%sladk%}
+<L>8810: slav. {%svir-a-ti%}
+<L>8817: slav. {%gûsj%} e {%gonsj%}
+<L>8879: slav. <lang n="Slavonic">ЗИМⲀ</lang> {%ζima%}
+<L>8905: slav. {%srjdjze%}
+<L>8906: slav. {%srjdjze%} neut., Them. {%srjdjzjo%}
+<L>8942: slav. {%srami-ti%} pudore afficere c. {%s%} = {#ह्#} sicut in {%srjdjze%}
+<L>8951: slav. {%rad%} laetus, {%rados̔ća%} laetitia
+---------------
+BOP Main (Slav. -- 10 entries)
+
+<L>3815: Slav. <lang n="Slavonic">ͲОУΛЪ</lang> {%tûl%}
+<L>3854: Slav. {%taja-ti%}
+<L>4493: Slav. {%nebo%} id., them. {%nebes%}, gen. {%nebes-e%}
+<L>5638: Slav. {%pjena%}
+<L>7039: Slav. {%vran%}
+<L>7088: Slav. {%vesna%}
+<L>7955: Slav. {%sûliza%}
+<L>8227: Slav. {%chod-i-ti%} ire, {%is-chod%} <lang n="greek">ἔξοδος</lang>
+<L>8379: Slav. {%ṣûi%}
+<L>8954: Slav. {%ζv-a-ti%}
+---------------
+BOP Addenda (slav. -- 3 entries)
+
+<HI>p. 41.: slav. {%isk-a-ti%}
+<HI>p. 194.: slav. <lang n="Slavonic">НИЗ</lang> {%niζ%}
+<HI>p. 247.: slav. <lang n="Slavonic">БѢГѪ</lang> {%bjegu%}

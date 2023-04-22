@@ -60,17 +60,41 @@ Notes:
    But Jim can recreate a copy of Anna's temp_bop_1.txt from change_1.txt.
 
 
+@ list 'slav.' instances in bop.txt
+ python extract_slav.py temp_bop_0.txt extract_slav.txt
+ select 182 entries matching "slav."
 # *************************************************************************
-# Installation (Jim)
+russ.strings.txt, slav.strings.txt, Modified.strings.txt
+  Prepared by Andhrabharati
 # *************************************************************************
-# Jim makes a local copy temp_bop_0.txt just as Anna did.
-# Use updateByLine.py program to create temp_bop_1.txt
-python updateByLine.py temp_bop_0.txt change_1.txt temp_bop_1.txt
-15 change transactions from change_1.txt  02-22-2023
+
+---------------------------------------------------
+Modified.strings.txt has just the changes, for Slavonic, russian, and
+one arabic.
+Some of the differences are hard to discern. Thus,
+dump the unicode character information.
+python unicode_dump.py Modified.strings.txt Modified.strings_uni.txt
+------------------
+temp_bop_1.txt
+ manual correction of russian in Modified.strings_uni.txt.
+# generate change file.
+python diff_to_changes_dict.py temp_bop_0.txt temp_bop_1.txt change_1.txt
+6 changes written to change_1.txt
+
+# *************************************************************************
+temp_bop_2.txt
+ manual correction of the modified slavonic strings,
+ and 1 arabic string.
+python diff_to_changes_dict.py temp_bop_1.txt temp_bop_2.txt change_2.txt
+32 changes written to change_2.txt
+
+# *************************************************************************
+# Installation of temp_bop_2.txt (Jim)
+# *************************************************************************
 
 # install into csl-orig
 # a. copy to csl-orig
-cp temp_bop_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+cp temp_bop_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
 
 # b. Recreate local displays
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
@@ -85,8 +109,8 @@ sh xmlchk_xampp.sh bop
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .  # v02/bop/bop.txt
-git commit -m "bop. Misc Greek corrections.
- Ref: https://github.com/sanskrit-lexicon/BOP/issues/4"
+git commit -m "bop. russian and slavonic corrections from Modified.strings..
+ Ref: https://github.com/sanskrit-lexicon/BOP/issues/5"
 git push
 ----------------------------------------------------
 update at Cologne
@@ -95,14 +119,13 @@ git pull
 cd ../csl-pywork/v02
 grep 'bop ' redo_cologne_all.sh
 sh generate_dict.sh bop  ../../BOPScan/2020/
-cd /c/xampp/htdocs/sanskrit-lexicon/BOP/bopissues/issue5
+cd /c/xampp/htdocs/sanskrit-lexicon/BOP/issues/issue5
 ----------------------------------------------------
-# *************************************************************************
- list 'slav.' instances in bop.txt
- python extract_slav.py temp_bop_0.txt extract_slav.txt
- select 182 entries matching "slav."
+update this repository
+cd /c/xampp/htdocs/sanskrit-lexicon/BOP/issues/issue5
+
 # *************************************************************************
 
 # *************************************************************************
-# Progress
+# THE END
 # *************************************************************************

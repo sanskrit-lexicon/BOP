@@ -1,0 +1,30 @@
+; <L>94<pc>004-a<k1>aja<k2>aja<h>1
+651 old russ. <lang n="russian">козèлъ</lang> v. {#ajA#}).
+;
+651 new russ. <lang n="russian">козѐлъ</lang> v. {#ajA#}).
+;---------------------------------------------------
+; <L>99<pc>004-a<k1>ajA<k2>ajA
+677 old <lang n="russian">козà</lang> praefixo <lang n="russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
+;
+677 new <lang n="russian">коза̀</lang> praefixo <lang n="russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
+;---------------------------------------------------
+; <L>2336<pc>079-a<k1>kUpa<k2>kUpa
+12962 old (Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="russian">копàю</lang> fodio.)
+;
+12962 new (Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="russian">копа̀ю</lang> fodio.)
+;---------------------------------------------------
+; <L>2385<pc>082-a<k1>kfz<k2>kfz<h>1
+13374 old traho; russ. <lang n="russian">чешỳ</lang> {%ćes'û%} pectino, ejecto {%r%}; latinum
+;
+13374 new traho; russ. <lang n="russian">чешу̀</lang> {%ćes'û%} pectino, ejecto {%r%}; latinum
+;---------------------------------------------------
+; <L>2757<pc>102-a<k1>gam<k2>gam<h>2
+15944 old {%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">землà</lang> {%ζemlà%}
+;
+15944 new {%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">земла̀</lang> {%ζemlà%}
+;---------------------------------------------------
+; <L>2890<pc>107-b<k1>gF<k2>gF<h>1
+16769 old {%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жòра</lang> {%schòra%}
+;
+16769 new {%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жо̀ра</lang> {%schòra%}
+;---------------------------------------------------

@@ -1,0 +1,31 @@
+BOP Main (russ.) (19 entries)
+
+<L>94: russ. <lang n="Russian">козѐлъ</lang>
+<L>99: russ. <lang n="Russian">коза̀</lang> … … <lang n="Russian">к</lang> sicut in {%kostj%}
+<L>2336: russ. <lang n="Russian">копа̀ю</lang>
+<L>2380: russ. <lang n="Russian">червь</lang> {%ćervj%}
+<L>2385: russ. <lang n="Russian">чешу̀</lang> {%ćes̔û%}
+<L>2483: russ. <lang n="Russian">кровь</lang> {%krovj%}
+<L>2757: russ. <lang n="Russian">земла̀</lang> {%ζemlà%}
+<L>2890: russ. <lang n="Russian">жо̀ра</lang> {%schòra%}
+<L>2929: russ. <lang n="Russian">жилшый</lang> {%schiltyĭ%}
+<L>2983: russ. <lang n="Russian">горю</lang> {%gorjû%} … … <lang n="Russian">жар</lang> {%schar%}
+<L>3126: russ. <lang n="Russian">жева́шь</lang> {%schevátj%} … … <lang n="Russian">ж</lang>
+<L>3157: russ. <lang n="Russian">куча</lang> {%kûća%}
+<L>3403: russ. <lang n="Russian">холодный</lang> {%cholodnyĭ%}
+<L>3512: russ. <lang n="Russian">зерно</lang> {%ζerno%} … … russ. <lang n="Russian">жерновъ</lang> {%schernov%}
+<L>3833: boruss. vet. {%en-terpo%} … … russ. <lang n="Russian">шерплю̀</lang> {%terplju%}
+<L>3959: russ. <lang n="Russian">югъ</lang> {%jug%} … … <lang n="Russian">южный</lang> {%juschnyĭ%}
+<L>6725: russ. <lang n="Russian">рыжій</lang> {%ryschiĭ%}
+<L>7792: russ. <lang n="Russian">заецъ</lang> {%ζaez%}
+<L>8151: russ. <lang n="Russian">цѣлый</lang> {%zielyï%}
+---------------
+BOP Main (Russ.) (2 entries)
+
+<L>2389: Russ. <lang n="Russian">черный</lang> {%ćernyĭ%}
+<L>2394: Russ. <lang n="Russian">черню</lang> {%ćernjû%}
+---------------
+BOP Addenda (2 entries)
+
+<HI>p. 56.	russ. {%ljeto%}
+<HI>p. 241.	boruss. vet. {%billa%}
