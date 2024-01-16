@@ -129,9 +129,9 @@ def apply_rep_to_bop(bop, newbop, rep_dict):
 				for (a, b) in rep_dict[lnum]:
 					if a in blob:
 						blob.replace(a, b)
-						print(lnum, 'REPLACE', a, b)
+						print(lnum, 'REPLACE', a, '\t', b)
 					else:
-						print(lnum, 'MANUAL', a, b)
+						print(lnum, 'MANUAL', a, '\t', b)
 			fout.write(blob)
 
 
