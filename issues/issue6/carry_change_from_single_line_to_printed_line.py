@@ -32,12 +32,28 @@ def prepare_temp():
 			dt = dt.replace('- ', '-')
 			dt = re.sub('([0-9])[ ]*[.][ ]*([0-9])', '\g<1>.\g<2>', dt)
 			dt = dt.replace('-#} {#', '')
+			dt = dt.replace('#}\n{#', ' ')
 			dt = re.sub('([a-zA-Z])[\-]([a-zA-Z])', '\g<1>\g<2>', dt)
-			tempout.write(dt + '\n')
+			#dt = dt.replace('<div', '\n<div')
+			#dt = re.sub('<F>', '\n<F>', dt)
+			dt = re.sub('[ ]*infr[.]', 'infr.', dt)
+			tempout.write(dt)
 		elif lin.rstrip() != '':
 			dt += lin.rstrip() + ' '
 
 
+def prep_AB():
+	filein = 'BOP_main-L2.txt'
+	fileout = 'bop_L2_temp.txt'
+	fin = open(filein, 'r')
+	fout = open(fileout, 'w')
+	data = fin.read()
+	data = data.replace('\r\n', '\n')
+	data = re.sub('\n([^\n])', ' \g<1>', data)
+	data = data.replace(' <L>', '<L>')
+	fout.write(data)
+	fin.close()
+	fout.close()
 
 
 def inline_diff(a, b):
@@ -60,11 +76,36 @@ def inline_diff(a, b):
     return result
 
 
+def prep_replacements(base, AB):
+	fin1 = open(base, 'r')
+	fin2 = open(AB, 'r')
+	dict1 = {}
+	dict2 = {}
+	for lin1 in fin1:
+		[meta1, text1, lend1] = lin1.split('\t')
+		print(meta1)
+		x1 = re.search('<L>(.*)?<pc>', meta1)
+		lnum1 = x1.group(1)
+		dict1[lnum1] = text1
+	for lin2 in fin2:
+		[meta2, text2, lend2] = lin2.split('\t')
+		x2 = re.search('<L>(.*)?<pc>', meta2)
+		lnum2 = x2.group(1)
+		dict2[lnum2] = text2
+	for x in dict1:
+		a = dict1[x]
+		b = dict2[x]
+		print(x)
+		print(inline_diff(a, b))
+		print()
+
 if __name__ == "__main__":
-	#prepare_temp()
+	prepare_temp()
+	prep_AB()
+	prep_replacements('bop_temp.txt', 'bop_L2_temp.txt')
 
 	# bop_temp.txt
 	a = '<L>4249<pc>176-b<k1>द्यु<k2>द्यु	{#द्यु#}¦ 2. {%P.%} {#द्यौमि#} ({#अभिगमने#} {%K.%} {#अभिसर्पणे#} {%V.%}) aggredi. BHATT. 6.18.: {#सिंहो मृगन् द्युवन्#} (cf. {#द्रु#}, unde {#द्यु#} ortum esse videtur mutatâ semivocali {#र्#} in {#य्#}; v. gr. comp. §. 20.). --{#द्यु#} splendere {%in dial. Vêd. ortum est%} e {#दिव्#} {%mutato%} {#व्#} in {#उ#}.	<LEND>'
 	# BOP_main-L2.txt
 	b = '<L>4249<pc>176-b<k1>द्यु<k2>द्यु	{#द्यु#}¦ 2. {%P.%} {#द्यौमि#} ({#अभिगमने#} {%K.%} {#अभिसर्पणे#} {%V.%}) aggredi. BHATT. 6.18.: {#सिंहो   मृगन् द्युवन्#} (cf. {#द्रु#}, unde {#द्यु#} ortum esse videtur mutatâ semivocali {#र्#} in {#य्#}; v. gr. comp. §. 20.). — {#द्यु#} splendere {%in dial. Vêd. ortum est%} e {#दिव्#} {%mutato%} {#व्#} in {#उ#}.	<LEND>'
-	print(inline_diff(a, b))
+	#print(inline_diff(a, b))
