@@ -36,7 +36,10 @@ def prepare_bop_oneline(bop, bop1):
 	data1 = data1.replace('🞄<LEND>', '\t<LEND>')
 	data1 = data1.replace('🞄<L>', '<L>')
 	data1 = data1.replace('-🞄', '')
+	data1 = data1.replace('-#}🞄{#', '')
+	data1 = data1.replace('#}🞄{#', ' ')
 	data1 = data1.replace('🞄', ' 🞄')
+	data1 = re.sub('([0-9])[.][ ]*([0-9])', '\g<1>.\g<2>', data1)
 	fout1.write(data1)
 	fout1.close()
 
