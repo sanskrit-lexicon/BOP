@@ -1,0 +1,2595 @@
+; <L>1532<pc>053-a<k1>uSIra<k2>uSIra
+8531 old (Andropogon muricatum). AM.; SAK. 43..
+;
+8531 new (Andropogon muricatum). AM.; SAK. 43.8.
+;---------------------------------------------------
+; <L>2938<pc>110-a<k1>gras<k2>gras
+16972 old tire, deglutire. MAN. 3. 133. N. 4. 9.: {#grasate#}; 16. 14.:
+;
+16972 new tire, deglutire. MAN. 3.133. N. 4.9.: {#grasate#}; 16. 14.:
+;---------------------------------------------------
+; <L>2938<pc>110-a<k1>gras<k2>gras
+16973 old {#rAhugrastaniSAkara#}; BH. 11. 30.: {#grasamAnaH samantAl#}
+;
+16973 new {#rAhugrastaniSAkara#}; BH. 11.30.: {#grasamAnaH samantAl#}
+;---------------------------------------------------
+; <L>2938<pc>110-a<k1>gras<k2>gras
+16974 old {#lokAn#}; capere. N. 11. 22. 23. (Cf. {#gF#} i. e. {#gar#}, unde
+;
+16974 new {#lokAn#}; capere. N. 11.2. 23. (Cf. {#gF#} i. e. {#gar#}, unde
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21087 old gnoscere, intelligere. N. 12. 13.: {#jAnAti vArzReyaH kva#}
+;
+21087 new gnoscere, intelligere. N. 12.13.: {#jAnAti vArzReyaH kva#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21088 old {#nu rAjA nalo gataH#}; SA. 6. 35.: {#tvam atra hetuY jAnI-#}
+;
+21088 new {#nu rAjA nalo gataH#}; SA. 6.35.: {#tvam atra hetuY jAnI-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21089 old {#ze#}; N. 20. 8.: {#sarvaH sarvan na jAnIte sarvajYo nA#}
+;
+21089 new {#ze#}; N. 20.8.: {#sarvaH sarvan na jAnIte sarvajYo nA#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21090 old {#'sti kaScana#}. {%C. accus. rei, de qua scimus.%} N. 12. 14.: {#nE#}
+;
+21090 new {#'sti kaScana#}. {%C. accus. rei, de qua scimus.%} N. 12.14.: {#nE#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21091 old {#'za jAnAti nEzaDam#}; H. 1. 6.: {#taYca pApan na jAnImo#}
+;
+21091 new {#'za jAnAti nEzaDam#}; H. 1.6.: {#taYca pApan na jAnImo#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21094 old {%dent:%} N. 12. 77.: {#tasya mAn tanayAM sarve jAnIta#} hujus
+;
+21094 new {%dent:%} N. 12.77.: {#tasya mAn tanayAM sarve jAnIta#} hujus
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21095 old me filiam {%esse%} cuncti scite; 17. 46.: {#yaTAca vo na jA-#}
+;
+21095 new me filiam {%esse%} cuncti scite; 17.46.: {#yaTAca vo na jA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21098 old II. 7. 23.: {#na jAnIze tenE 'vam atisanDitA#} nescis ab
+;
+21098 new II. 7.23.: {#na jAnIze tenE 'vam atisanDitA#} nescis ab
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21099 old illo sic decepta (te deceptam esse). {%Cum Infinit.%}, BH. 1.
+;
+21099 new illo sic decepta (te deceptam esse). {%Cum Infinit.%}, BH. 1.39.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21100 old 39.: {#kaTan na jYeyam asmABiH pApAd asmAn niva-#}
+;
+21100 new {#kaTan na jYeyam asmABiH pApAd asmAn niva-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21101 old {#rtitum#}. 2) sciscitari, percontari, exquirere. N. 17. 44.: {#sa#}
+;
+21101 new {#rtitum#}. 2) sciscitari, percontari, exquirere. N. 17.44.: {#sa#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21102 old {#nalaH sarvaTA jYeyaH kaScA 'sO kvaca vartate#}; H. 2. 11.:
+;
+21102 new {#nalaH sarvaTA jYeyaH kaScA 'sO kvaca vartate#}; H. 2.11.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21104 old DR. 1. 14.: {#gacCa jAnIhi sOmyE 'nAN kasya vA 'tra#}
+;
+21104 new DR. 1.4.: {#gacCa jAnIhi sOmyE 'nAN kasya vA 'tra#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21105 old {#kuto 'pi vA#}; 1. 16. N. 22. 1. - {%Caus.%} {#jYApayAmi#} (gr.
+;
+21105 new {#kuto 'pi vA#}; 1.16. N. 22.1. - {%Caus.%} {#jYApayAmi#} (gr.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21107 old alqs sciat, nunciare. MAH. 1. 5864. {%c. gen. pers. et acc. rei:%}
+;
+21107 new alqs sciat, nunciare. MAH. 1.5864. {%c. gen. pers. et acc. rei:%}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21109 old {#vAn agninA dagDAn#}; 2. 558.: {#tam…ajYApayat#}
+;
+21109 new {#vAn agninA dagDAn#}; 2.558.: {#tam…ajYApayat#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21110 old {#svam prayojanam#}. 2) jubere. HIT. 98. 21.: {#yad AjYA-#}
+;
+21110 new {#svam prayojanam#}. 2) jubere. HIT. 98.21.: {#yad AjYA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21112 old scitandi, explorandi cupidum esse; explorare. N. 19. 12.:
+;
+21112 new scitandi, explorandi cupidum esse; explorare. N. 19.12.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21113 old {#aSvAn jijYAsamAno vicAryaca punaH punaH#}; R. Schl. II.
+;
+21113 new {#aSvAn jijYAsamAno vicAryaca punaH punaH#}; R. Schl. II. 12. 15.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21114 old 12. 15.: {#aTa jijYAsase mAn tvam Baratasya priyApriye#};
+;
+21114 new {#aTa jijYAsase mAn tvam Baratasya priyApriye#};
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21116 old RAGH. 2. 26.: {#AtmAnucarasya BAvaY jijYAsamAnA#}; v.
+;
+21116 new RAGH. 2.26.: {#AtmAnucarasya BAvaY jijYAsamAnA#}; v.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21144 old {#tato dyUtam#}; N. 24. 5.: {#anvajAnAt sa pArTivaH#}. 2) {%fre-%}
+;
+21144 new {#tato dyUtam#}; N. 24.5.: {#anvajAnAt sa pArTivaH#}. 2) {%fre-%}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21145 old {%quentissime%} dimittere, proficiscendi veniam dare. H. 1.
+;
+21145 new {%quentissime%} dimittere, proficiscendi veniam dare. H. 1.26.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21146 old 26.: {#anujYAtaH sa gacCe 'ti BrAtrA jyezWena#}; BR. 2. 28.: {#a-#}
+;
+21146 new {#anujYAtaH sa gacCe 'ti BrAtrA jyezWena#}; BR. 2.28.: {#a-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21147 old {#nujAnIhi mAm Arya#}; A. 4. 54. N. 17. 19. 18. 5. 24. 4. -
+;
+21147 new {#nujAnIhi mAm Arya#}; A. 4.54. N. 17.19. 18.5. 24.4. -
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21149 old ficiscendi petere. MAH. 1. 2414.: {#sa mAtaram anujYApya#}
+;
+21149 new ficiscendi petere. MAH. 1.2414.: {#sa mAtaram anujYApya#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21153 old <div n="pfx">c. {#anu#} praef. {#aBi#} 1) mandare, jubere. IN. 4. 14.: {#tava Sa-#}
+;
+21153 new <div n="pfx">c. {#anu#} praef. {#aBi#} 1) mandare, jubere. IN. 4.14.: {#tava Sa-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21154 old {#krAByanujYAtaH pAdAv adya prapadyatAm#}; 5. 49.: {#tava pi-#}
+;
+21154 new {#krAByanujYAtaH pAdAv adya prapadyatAm#}; 5.49.: {#tava pi-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21156 old 2) dimittere. IN. 5. 29.: {#tava pitrA 'ByanujYAtA gatAH#}
+;
+21156 new 2) dimittere. IN. 5.29.: {#tava pitrA 'ByanujYAtA gatAH#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21159 old <div n="pfx">c. {#anu#} praef. {#sam#} 1) permittere. N. 6. 7.: {#asmABiH sa-#}
+;
+21159 new <div n="pfx">c. {#anu#} praef. {#sam#} 1) permittere. N. 6.7.: {#asmABiH sa-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21161 old IN. 5. 34.: {#tato'haM samanujYAtA tena pitrAca te'naGa#}.
+;
+21161 new IN. 5.34.: {#tato'haM samanujYAtA tena pitrAca te'naGa#}.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21162 old 3) dimittere. SU. 2. 2.: {#suhfdBiH samanujYAtO#}.
+;
+21162 new 3) dimittere. SU. 2.2.: {#suhfdBiH samanujYAtO#}.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21163 old <div n="pfx">c. {#aBi#} 1) {%i. q. simpl.%} N. 20. 14.: {#ahaM hi nA 'BijAnAmi#}
+;
+21163 new <div n="pfx">c. {#aBi#} 1) {%i. q. simpl.%} N. 20.14.: {#ahaM hi nA 'BijAnAmi#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21164 old {#Baved evan na ve 'ti vA#}; 21. 21.: {#nA 'BijajYe sa nf-#}
+;
+21164 new {#Baved evan na ve 'ti vA#}; 21.21.: {#nA 'BijajYe sa nf-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21165 old {#patir duhitrarTe samAgatam#}; N. 5. 11.: {#nA ByajAnAn#}
+;
+21165 new {#patir duhitrarTe samAgatam#}; N. 5.11.: {#nA ByajAnAn#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21166 old {#nalan nfpam#}; 13. 73.: {#sEranDrIm aBijAnIzva#}.
+;
+21166 new {#nalan nfpam#}; 13.73.: {#sEranDrIm aBijAnIzva#}.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21167 old <div n="pfx">c. {#aBi#} praef. {#sam#} agnoscere, cognoscere, {%erkennen.%} N.
+;
+21167 new <div n="pfx">c. {#aBi#} praef. {#sam#} agnoscere, cognoscere, {%erkennen.%} N. 23.24.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21168 old 23. 24.: {#indrasenAM saha BrAtrA samaBijYAya#}.
+;
+21168 new {#indrasenAM saha BrAtrA samaBijYAya#}.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21169 old <div n="pfx">c. {#ava#} spernere. BR. 2. 19.: {#avajYAtAca lokezu#}; BH. 9. 11.:
+;
+21169 new <div n="pfx">c. {#ava#} spernere. BR. 2.19.: {#avajYAtAca lokezu#}; BH. 9.11.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21171 old <div n="pfx">c. {#A#} percipere, cognoscere. IN. 3. 1.: {#Sakrasya matam A-#}
+;
+21171 new <div n="pfx">c. {#A#} percipere, cognoscere. IN. 3.1.: {#Sakrasya matam A-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21172 old {#jYAya#}; H. 2. 16.: {#BrAtur vacanam AjYAya#}. - {%Caus.%} ju-
+;
+21172 new {#jYAya#}; H. 2.16.: {#BrAtur vacanam AjYAya#}. - {%Caus.%} ju-
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21173 old bere. IN. 5. 20.: {#kim AjYApayasi devi#}. SU. 2. 1.
+;
+21173 new bere. IN. 5.20.: {#kim AjYApayasi devi#}. SU. 2.1.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21175 old RAGH. 16. 75.: {#samajYApayad ASu sarvAn AnAyinas#}
+;
+21175 new RAGH. 16.75.: {#samajYApayad ASu sarvAn AnAyinas#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21177 old <div n="pfx">c. {#pari#} cognoscere, animadvertere, observare. HIT. 18.
+;
+21177 new <div n="pfx">c. {#pari#} cognoscere, animadvertere, observare. HIT. 18.21.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21178 old 21.: {#vyavahAram parijYAya vaDyaH pUjyo 'Ta vA Bavet#};
+;
+21178 new {#vyavahAram parijYAya vaDyaH pUjyo 'Ta vA Bavet#}; 20.14.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21179 old 20. 14.: {#tad parijYAya mArjAraH…palAyitaH#}; MAN. 8. 126.
+;
+21179 new {#tad parijYAya mArjAraH…palAyitaH#}; MAN. 8.126.
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21180 old <div n="pfx">c. {#pra#} cognoscere, animadvertere, cernere, discernere. R.
+;
+21180 new <div n="pfx">c. {#pra#} cognoscere, animadvertere, cernere, discernere. R. III.52.33.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21181 old III. 52. 33.: {#aho tama ive 'daM syAn na prajYAyeta kiYca-#}
+;
+21181 new {#aho tama ive 'daM syAn na prajYAyeta kiYca-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21182 old {#na . rAjA cen na Bavel loke#}; N. 17. 3.: {#damayantyA#}
+;
+21182 new {#na . rAjA cen na Bavel loke#}; N. 17.3.: {#damayantyA#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21183 old {#gataH sArdDan (nalaH) na prAjYAyata karhicit#}; BH. 11.
+;
+21183 new {#gataH sArdDan (nalaH) na prAjYAyata karhicit#}; BH. 11.31.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21184 old 31.: {#na prajAnAmi tava pravfttim#}; 18. 31.: {#Darmam aDarma-#}
+;
+21184 new {#na prajAnAmi tava pravfttim#}; 18.31.: {#Darmam aDarma-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21186 old minâ concumbere. MAH. 1. 2471.: {#naca striyam prajAnA-#}
+;
+21186 new minâ concumbere. MAH. 1.2471.: {#naca striyam prajAnA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21189 old <div n="pfx">c. {#prati#} 1) {%P.%} consentire, assentire. N. 19. 10.: {#pratijAnA-#}
+;
+21189 new <div n="pfx">c. {#prati#} 1) {%P.%} consentire, assentire. N. 19.10.: {#pratijAnA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21190 old {#mi te vAkyaN gamizyAmi narADipa#}; SU. 3. 22.: {#sA taTe#}
+;
+21190 new {#mi te vAkyaN gamizyAmi narADipa#}; SU. 3.22.: {#sA taTe#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21192 old {%re.%} R. Schl. I. 55. 13.: {#brahman na pratijAnImo nAstiko#}
+;
+21192 new {%re.%} R. Schl. I. 55.13.: {#brahman na pratijAnImo nAstiko#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21193 old {#jAyate janaH#}. 3) {%A.%} polliceri. A. 5. 8.: {#pratijAnIzva taN#}
+;
+21193 new {#jAyate janaH#}. 3) {%A.%} polliceri. A. 5.8.: {#pratijAnIzva taN#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21194 old {#(gurvarTam) kartum#}; BH. 18. 65.: {#mAm evE 'zyasi sa-#}
+;
+21194 new {#(gurvarTam) kartum#}; BH. 18.65.: {#mAm evE 'zyasi sa-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21195 old {#tyan te pratijAne#}; MAH. 1. 7234.: {#pratijajYeca rAjyAya#}
+;
+21195 new {#tyan te pratijAne#}; MAH. 1.7234.: {#pratijajYeca rAjyAya#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21196 old {#drupado vadatAm varaH#}; R. Schl. I. 1. 61.: {#pratijYAtaYca rA-#}
+;
+21196 new {#drupado vadatAm varaH#}; R. Schl. I. 1.61.: {#pratijYAtaYca rA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21197 old {#meRa tadA bAlivaDam prati#}. 4) {%A.%} confiteri. BH. 3. 31.:
+;
+21197 new {#meRa tadA bAlivaDam prati#}. 4) {%A.%} confiteri. BH. 3.31.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21200 old cere. N. 12. 75. 124.: {#mAnuzIm mAm vijAnIta#}; BH. 2.
+;
+21200 new cere. N. 12.75. 124.: {#mAnuzIm mAm vijAnIta#}; BH. 2.19.:
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21201 old 19.: {#ya enam vetti hantAraM yaScE 'nam manyate hatam .#}
+;
+21201 new {#ya enam vetti hantAraM yaScE 'nam manyate hatam .#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21202 old {#uBO tO na vijAnItaH#}; 4. 4.: {#kaTam etad vijAnI-#}
+;
+21202 new {#uBO tO na vijAnItaH#}; 4.4.: {#kaTam etad vijAnI-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21203 old {#yAm#} «quomodo istud intelligam»; IN. 4. 1.: {#pArTasya ca-#}
+;
+21203 new {#yAm#} «quomodo istud intelligam»; IN. 4.1.: {#pArTasya ca-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21204 old {#kzur urvaSyAM saktam vijYAya#}; N. 8. 6.: {#vijYAya nalaSA-#}
+;
+21204 new {#kzur urvaSyAM saktam vijYAya#}; N. 8.6.: {#vijYAya nalaSA-#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21205 old {#sanam#}; H. 1. 3.: {#vijYAya niSi panTAnam#}; 6.: {#diSaSca#}
+;
+21205 new {#sanam#}; H. 1.3.: {#vijYAya niSi panTAnam#}; 6.: {#diSaSca#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21207 old nuntiare. RAGH. 5. 20.: {#samAptavidyena mayA maharzir#}
+;
+21207 new nuntiare. RAGH. 5.20.: {#samAptavidyena mayA maharzir#}
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21208 old {#vijYApito 'BUd gurudakziRAyE#}; 14. 60.
+;
+21208 new {#vijYApito 'BUd gurudakziRAyE#}; 14.60.
+;---------------------------------------------------
+; <L>3663<pc>150-b<k1>tam<k2>tam
+22128 old ratus. RAGH. 3. 8 et 35. 14. 43. UR. 24. 4. 74. 8. RITU-S.
+;
+22128 new ratus. RAGH. 3.8. et 35. 14.43. UR. 24.4. 74.8. RITU-S. 1.5.
+;---------------------------------------------------
+; <L>3663<pc>150-b<k1>tam<k2>tam
+22129 old 1. 5.
+;
+22129 new 
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26444 old {#DA#}¦ 3. {%P. A.%} ({%anom.%} v. gr. 694.) 1) ponere. BH. 14. 3.: {#ta-#}
+;
+26444 new {#DA#}¦ 3. {%P. A.%} ({%anom.%} v. gr. 694.) 1) ponere. BH. 14.3.: {#ta-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26445 old {#smin garBan daDAmy aham#}; HIT. 76. 9.: {#niHSaNkan#}
+;
+26445 new {#smin garBan daDAmy aham#}; HIT. 76.9.: {#niHSaNkan#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26448 old constituere; {%c. dat. vel locativo.%} N. 13. 4.: {#niveSAya#}
+;
+26448 new constituere; {%c. dat. vel locativo.%} N. 13.4.: {#niveSAya#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26449 old {#mano daDuH#}; R. Schl. I. 9. 40.: {#gamanAya matin daDuH#};
+;
+26449 new {#mano daDuH#}; R. Schl. I. 9.40.: {#gamanAya matin daDuH#};
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26450 old MAN. 12. 23.: {#Darme dadyAn manaH#}. -- {%Cum infin.%} R. Schl.
+;
+26450 new MAN. 12.23.: {#Darme dadyAn manaH#}. -- {%Cum infin.%} R. Schl. I. 11.1.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26452 old I. 11. 1.: {#rAjA yazwum mano daDe#}. {%Cum%} {#Srat#} fides ({#SradDA#}),
+;
+26452 new {#rAjA yazwum mano daDe#}. {%Cum%} {#Srat#} fides ({#SradDA#}),
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26454 old {%gen.%} MAH. 1. 3060.: {#kas te SradDAsyate vacaH#}; 2. 217.:
+;
+26454 new {%gen.%} MAH. 1.3060.: {#kas te SradDAsyate vacaH#}; 2.217.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26456 old {#Srad asmE vacase daDAtana#}; BH. 12. 20.: {#SraddaDAna#}.
+;
+26456 new {#Srad asmE vacase daDAtana#}; BH. 12.20.: {#SraddaDAna#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26457 old 2) dare, tribuere. N. 14. 11.: {#tatra te 'haM Sreyo DAsyA-#}
+;
+26457 new 2) dare, tribuere. N. 14.11.: {#tatra te 'haM Sreyo DAsyA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26458 old {#mi#}; MAN. 1. 29.: {#yad yasya so'daDAt#}. 3) {%ATM.%} su-
+;
+26458 new {#mi#}; MAN. 1.29.: {#yad yasya so'daDAt#}. 3) {%ATM.%} su-
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26460 old praef. {#A#}). HIT. 7. 16.: {#kacaH kAYcanasaMsargAd Datte mAra-#}
+;
+26460 new praef. {#A#}). HIT. 7.16.: {#kacaH kAYcanasaMsargAd Datte mAra-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26461 old {#katIn dyutim#}. 4) tenere, ferre, gerere, habere. NALOD.
+;
+26461 new {#katIn dyutim#}. 4) tenere, ferre, gerere, habere. NALOD. 1.17.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26462 old 1. 17.: {#daDatI mAram BABiH#}; 2. 52.; RAGH. 9. 39.: {#yuva-#}
+;
+26462 new {#daDatI mAram BABiH#}; 2.52.; RAGH. 9.39.: {#yuva-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26463 old {#tayaH kusuman daDur Ahitam tadalake#}; BHATT. 4. 16.:
+;
+26463 new {#tayaH kusuman daDur Ahitam tadalake#}; BHATT. 4.16.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26464 old {#daDAnA baliBam maDyam#}. 5) sustentare. RAGH. 1. 26.:
+;
+26464 new {#daDAnA baliBam maDyam#}. 5) sustentare. RAGH. 1.26.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26466 old 1) intentus. BH. 16. 9. 2) bonus. {%Subst. n.%} bonum, sa-
+;
+26466 new 1) intentus. BH. 16.9. 2) bonus. {%Subst. n.%} bonum, sa-
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26467 old lus, felicitas. BR. 2. 4. 25. (Gr. <lang n="greek">τίϑημι</lang>; lat. {%do%} in com-
+;
+26467 new lus, felicitas. BR. 2.4. 25. (Gr. <lang n="greek">τίϑημι</lang>; lat. {%do%} in com-
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26478 old <div n="pfx">c. {#anu#} favere. RAGH. 17. 36.: {#anudaDyur anuDeyam#}.
+;
+26478 new <div n="pfx">c. {#anu#} favere. RAGH. 17.36.: {#anudaDyur anuDeyam#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26479 old <div n="pfx">c. {#antar#} in se accipere. RAGH. 15. 81.: {#pfTivi mAm#}
+;
+26479 new <div n="pfx">c. {#antar#} in se accipere. RAGH. 15.81.: {#pfTivi mAm#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26480 old {#antarDAtum arhasi#}. 2) tegere, occulere. MAH. 4. 1042.:
+;
+26480 new {#antarDAtum arhasi#}. 2) tegere, occulere. MAH. 4.1042.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26482 old 1683.: {#karRam…antardaDe GoraSarOGavfzwyA#}; 1. 8713.:
+;
+26482 new 1683.: {#karRam…antardaDe GoraSarOGavfzwyA#}; 1.8713.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26483 old {#antarDAyA "tmAnam#}. Se occulere. ({%ATM.%}) BHATT. 5. 32.:
+;
+26483 new {#antarDAyA "tmAnam#}. Se occulere. ({%ATM.%}) BHATT. 5.32.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26485 old cere. SU. 1. 17.: {#tataH striyas tA'dButan tat sarvam#}
+;
+26485 new cere. SU. 1.17.: {#tataH striyas tA'dButan tat sarvam#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26486 old {#antaraDIyata#}; N. 12. 96.: {#tApasA'ntarhitAH sarve#}; 14.
+;
+26486 new {#antaraDIyata#}; N. 12.96.: {#tApasA'ntarhitAH sarve#}; 14.12. 26.; 
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26487 old 12. 26.; MAH. 1. 119.: {#antarhitAnAm BUtAnAn ni-#}
+;
+26487 new MAH. 1.119.: {#antarhitAnAm BUtAnAn ni-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26488 old {#svano 'Bavat#}; 1. 4710.: {#vAg antarhitA 'bravIt#}.
+;
+26488 new {#svano 'Bavat#}; 1.4710.: {#vAg antarhitA 'bravIt#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26490 old <div n="pfx">c. {#api#} vel {#pi#} tegere, claudere. IN. 5. 36.: {#karRO hastA-#}
+;
+26490 new <div n="pfx">c. {#api#} vel {#pi#} tegere, claudere. IN. 5.36.: {#karRO hastA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26491 old {#ByAm piDAya#}; A. 6. 11.: {#dvArARi pidaDuH#}.
+;
+26491 new {#ByAm piDAya#}; A. 6.11.: {#dvArARi pidaDuH#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26492 old <div n="pfx">c. {#aBi#} 1) referre, narrare, exponere. N. 12. 76.: {#vista-#}
+;
+26492 new <div n="pfx">c. {#aBi#} 1) referre, narrare, exponere. N. 12.76.: {#vista-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26493 old {#reRA 'BiDAsyAmi#}; 13. 18. BH. 18. 68. 2) nominare. BH.
+;
+26493 new {#reRA 'BiDAsyAmi#}; 13.18. BH. 18.68.2) nominare. BH. 13.1.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26494 old 13. 1.: {#kzetram ity aBiDIyate#}; 18. 11. 3) oppugnare,
+;
+26494 new {#kzetram ity aBiDIyate#}; 18.11. 3) oppugnare,
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26496 old <div n="pfx">c. {#ava#} 1) ponere. MAH. 1. 4503.: {#kuRqezu garBAn avada-#}
+;
+26496 new <div n="pfx">c. {#ava#} 1) ponere. MAH. 1.4503.: {#kuRqezu garBAn avada-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26497 old {#De#}. 2) animum intendere. HIT. 83. 15.: {#deva avaDI-#}
+;
+26497 new {#De#}. 2) animum intendere. HIT. 83.15.: {#deva avaDI-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26498 old {#yatAm#}; R. Schl. II. 63. 4.: {#avahita#}.
+;
+26498 new {#yatAm#}; R. Schl. II. 63.4.: {#avahita#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26499 old <div n="pfx">c. {#ava#} praef. {#aBi#} tegere. RAM. Schl. II. 40. 33.: {#aSruBiH#}
+;
+26499 new <div n="pfx">c. {#ava#} praef. {#aBi#} tegere. RAM. Schl. II. 40.33.: {#aSruBiH#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26501 old <div n="pfx">c. {#ava#} praef. {#vi#} {%id.%} RAGH. 9. 57.: {#hariRasya vyavaDAya#}
+;
+26501 new <div n="pfx">c. {#ava#} praef. {#vi#} {%id.%} RAGH. 9.57.: {#hariRasya vyavaDAya#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26503 old <div n="pfx">c. {#A#} 1) ponere, imponere, apponere, applicare. SA. 1.
+;
+26503 new <div n="pfx">c. {#A#} 1) ponere, imponere, apponere, applicare. SA. 1.18.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26504 old 18.: {#mahizyAN garBam AdaDe#}; N. 13. 69.: {#iti me vratam#}
+;
+26504 new {#mahizyAN garBam AdaDe#}; N. 13.69.: {#iti me vratam#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26505 old {#Ahitam#}; 24. 19.: {#agnAv agnir ivA "hitaH#}; BH.
+;
+26505 new {#Ahitam#}; 24.19.: {#agnAv agnir ivA "hitaH#}; BH. 12.8.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26506 old 12. 8.: {#mayy eva mana ADatsva#}; BR. 2. 15.: {#kaTaM Sa-#}
+;
+26506 new {#mayy eva mana ADatsva#}; BR. 2.15.: {#kaTaM Sa-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26507 old {#kzyAmi bAle'smin guRAn ADAtum#}; RAGH. 7. 17.:
+;
+26507 new {#kzyAmi bAle'smin guRAn ADAtum#}; RAGH. 7.17.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26508 old {#tam ADAya vivAhasAkzye#}. 2) dare, tribuere. SU. 4.
+;
+26508 new {#tam ADAya vivAhasAkzye#}. 2) dare, tribuere. SU. 4.23.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26509 old 23.: {#indre trElokyam ADAya#}.
+;
+26509 new {#indre trElokyam ADAya#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26510 old <div n="pfx">c. {#A#} praef. {#aBi#} ponere, apponere. MAN. 8. 372.: {#aByA-#}
+;
+26510 new <div n="pfx">c. {#A#} praef. {#aBi#} ponere, apponere. MAN. 8.372.: {#aByA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26512 old <div n="pfx">c. {#A#} praef. {#upa#} facere. R. Schl. II. 35. 28.: {#mA tvam…#}
+;
+26512 new <div n="pfx">c. {#A#} praef. {#upa#} facere. R. Schl. II. 35.28.: {#mA tvam…#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26514 old <div n="pfx">c. {#A#} praef. {#sam#} 1) {%id.%} N. 22. 10. 23. 12. SU. 1. 7. BH.
+;
+26514 new <div n="pfx">c. {#A#} praef. {#sam#} 1) {%id.%} N. 22.10. 23.12. SU. 1.7. BH. 12.9. 17.11. 2) 
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26515 old 12. 9. 17. 11. 2) animum intendere. N. 22. 2. 5. SA.
+;
+26515 new animum intendere. N. 22.2. 5. SA. 6.12.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26516 old 6. 12.: {#samAhita#}. 3) animadvertere. HIT. 110. 14.:
+;
+26516 new {#samAhita#}. 3) animadvertere. HIT. 110.14.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26518 old 4) emendare, corrigere. HIT. 88. 22.: {#mantraBede'pi ye#}
+;
+26518 new 4) emendare, corrigere. HIT. 88.22.: {#mantraBede'pi ye#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26522 old R. Schl. II. 42. 16.: {#aSmAnam upaDAya Sayizyate#}; II.
+;
+26522 new R. Schl. II. 42.16.: {#aSmAnam upaDAya Sayizyate#}; II. 61.7.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26523 old 61. 7.: {#Sete Bujam upaDAya#}; RAGH. 8. 29.: {#kriyA hi va-#}
+;
+26523 new {#Sete Bujam upaDAya#}; RAGH. 8.29.: {#kriyA hi va-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26524 old {#stUpahitA prasIdati#}; 8. 76.: {#SfRu…tAM (sarasvatIm)#}
+;
+26524 new {#stUpahitA prasIdati#}; 8.76.: {#SfRu…tAM (sarasvatIm)#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26526 old <div n="pfx">c. {#tiras#} {%Pass.%} invisibilem fieri, evanescere. RAGH. 10.
+;
+26526 new <div n="pfx">c. {#tiras#} {%Pass.%} invisibilem fieri, evanescere. RAGH. 10.48.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26528 old 48.: {#kfzRameGas tirodaDe#}; 11. 91.: {#fzis tirodaDe#}; UR.
+;
+26528 new {#kfzRameGas tirodaDe#}; 11.91.: {#fzis tirodaDe#}; UR. 73.2.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26529 old 73. 2.: {#yatra me nayanayoH sA tirohitA#}.
+;
+26529 new {#yatra me nayanayoH sA tirohitA#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26530 old <div n="pfx">c. {#ni#} 1) deponere. HIT. Ser. 40.: {#mfgan niDAya#}; RAGH.
+;
+26530 new <div n="pfx">c. {#ni#} 1) deponere. HIT. Ser. 40.: {#mfgan niDAya#}; RAGH. 3.50.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26531 old 3. 50.: {#mA niDAH padan padavyAm#}; 4. 1.: {#dinAnte ni-#}
+;
+26531 new {#mA niDAH padan padavyAm#}; 4.1.: {#dinAnte ni-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26533 old vertere {%in alqm rem.%} HIT. 8. 1. 2) sepelire. MAN. 5. 68.:
+;
+26533 new vertere {%in alqm rem.%} HIT. 8.1. 2) sepelire. MAN. 5.68.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26535 old {%Caus.%} deponi, asservari jubere. MAN. 8. 30.: {#praRazwasvA-#}
+;
+26535 new {%Caus.%} deponi, asservari jubere. MAN. 8.30.: {#praRazwasvA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26537 old <div n="pfx">c. {#ni#} praef. {#upa#} deponere. MAN. 8. 37.: {#pUrvopanihita-#}
+;
+26537 new <div n="pfx">c. {#ni#} praef. {#upa#} deponere. MAN. 8.37.: {#pUrvopanihita-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26539 old <div n="pfx">c. {#ni#} praef. {#pra#} deponere, infigere. MAN. 55. 21.: {#yadi ma-#}
+;
+26539 new <div n="pfx">c. {#ni#} praef. {#pra#} deponere, infigere. MAN. 55.21.: {#yadi ma-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26541 old pus prosternere. BH. 11. 44. {#mano, budDim praRiDAtum#}
+;
+26541 new pus prosternere. BH. 11.44. {#mano, budDim praRiDAtum#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26543 old BHATT. 6. 142. R. Schl. II. 22. 14.
+;
+26543 new BHATT. 6.142. R. Schl. II. 22.14.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26544 old <div n="pfx">c. {#ni#} praef. {#sam + pra#} seponere, negligere. MAH. 3.
+;
+26544 new <div n="pfx">c. {#ni#} praef. {#sam + pra#} seponere, negligere. MAH. 3.13194.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26545 old 13194.: {#tavE 'vA "jYAM sampraRiDAya#}.
+;
+26545 new {#tavE 'vA "jYAM sampraRiDAya#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26546 old <div n="pfx">c. {#ni#} praef. {#vi#} deponere. MAH. 1. 2984.: {#viniDAya tato#}
+;
+26546 new <div n="pfx">c. {#ni#} praef. {#vi#} deponere. MAH. 1.2984.: {#viniDAya tato#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26547 old {#BAraM sanniDAya PalAni ca#}; GITA-GOV. 4. 11.: {#stana-#}
+;
+26547 new {#BAraM sanniDAya PalAni ca#}; GITA-GOV. 4.11.: {#stana-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26549 old <div n="pfx">c. {#ni#} praef. {#sam#} {%id.%} MAH. 1. 482.: {#sannidaDus tatra…A-#}
+;
+26549 new <div n="pfx">c. {#ni#} praef. {#sam#} {%id.%} MAH. 1.482.: {#sannidaDus tatra…A-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26550 old {#yuDAni#}; 1. 2984.: {#sanniDAya PalAni#}.{# -- dfzwiM sanniDA-#}
+;
+26550 new {#yuDAni#}; 1.2984.: {#sanniDAya PalAni#}.{# -- dfzwiM sanniDA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26551 old {#tum#} adspectum convertere {%aliquo, c. loc.%} RAGH. 13. 44.:
+;
+26551 new {#tum#} adspectum convertere {%aliquo, c. loc.%} RAGH. 13.44.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26553 old HIT. 22. 5.; {%v.%} {#sanniDi#}.
+;
+26553 new HIT. 22.5.; {%v.%} {#sanniDi#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26554 old <div n="pfx">c. {#pari#} circumponere, induere. R. Schl. I. 2. 10.: {#pariDAya#}
+;
+26554 new <div n="pfx">c. {#pari#} circumponere, induere. R. Schl. I. 2.10.: {#pariDAya#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26556 old <div n="pfx">c. {#puras#} 1) praeponere. MAH. 3. 1973. 2) magni facere.
+;
+26556 new <div n="pfx">c. {#puras#} 1) praeponere. MAH. 3.1973. 2) magni facere.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26557 old RAGH. 12. 43.
+;
+26557 new RAGH. 12.43.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26558 old <div n="pfx">c. {#vi#} 1) ponere, collocare. RAGH. 6. 37.: {#tAm agrataH…#}
+;
+26558 new <div n="pfx">c. {#vi#} 1) ponere, collocare. RAGH. 6.37.: {#tAm agrataH…#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26559 old {#anUparAjasya viDAya#}. 2) dare, tribuere. SU. 1. 23.: {#yu-#}
+;
+26559 new {#anUparAjasya viDAya#}. 2) dare, tribuere. SU. 1.23.: {#yu-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26560 old {#vayor hetunA 'nena nA 'maratvam viDIyate#}; BH. 7. 21.
+;
+26560 new {#vayor hetunA 'nena nA 'maratvam viDIyate#}; BH. 7.21.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26561 old N. 17. 21. 3) facere. N. 13. 26.: {#taye 'yam vihitA#}
+;
+26561 new N. 17.21. 3) facere. N. 13.26.: {#taye 'yam vihitA#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26562 old {#pUrvam mAyA#}; HIT. 27. 5.: {#asmE pUjAm viDehi#}; N. 12.
+;
+26562 new {#pUrvam mAyA#}; HIT. 27.5.: {#asmE pUjAm viDehi#}; N. 12.121.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26563 old 121. 4) {%ATM.%} accipere (sibi dâre). R. Schl. I. 8. 27.: {#pu-#}
+;
+26563 new 4) {%ATM.%} accipere (sibi dâre). R. Schl. I. 8.27.: {#pu-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26564 old {#trAn viDAsyate mahAyajYe#}. IN. 4. 3. 5) decernere, con-
+;
+26564 new {#trAn viDAsyate mahAyajYe#}. IN. 4.3. 5) decernere, con-
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26566 old stituere. RAM. I. 40. 4.: {#deSo viDIyatAM yatra vatsyAma-#}
+;
+26566 new stituere. RAM. I. 40.4.: {#deSo viDIyatAM yatra vatsyAma-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26568 old <div n="pfx">c. {#vi#} praef. {#anu#} sequi; obsequi, obtemperare. R. Schl. II.
+;
+26568 new <div n="pfx">c. {#vi#} praef. {#anu#} sequi; obsequi, obtemperare. R. Schl. II. 22.26.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26569 old 22. 26.: {#tvam apy anuviDeya mAm pratisaMhAraya kzi-#}
+;
+26569 new {#tvam apy anuviDeya mAm pratisaMhAraya kzi-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26570 old {#pram ABizecanikIN kriyAm#}. {%In Pass. id.%} MAH. 1.
+;
+26570 new {#pram ABizecanikIN kriyAm#}. {%In Pass. id.%} MAH. 1.4721.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26571 old 4721.: {#taYcE 'va Darmam…anuviDIyante#}; BH. 2. 67. ({%cf.%}
+;
+26571 new {#taYcE 'va Darmam…anuviDIyante#}; BH. 2.67. ({%cf.%}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26572 old MAH. 3. 13945.)
+;
+26572 new MAH. 3.13945.)
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26573 old <div n="pfx">c. {#vi#} praef. {#prati#} facere, parare. R. Schl. II. 32. 2.: {#camUH#}
+;
+26573 new <div n="pfx">c. {#vi#} praef. {#prati#} facere, parare. R. Schl. II. 32.2.: {#camUH#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26575 old <div n="pfx">c. {#vi#} praef. {#sam#} 1) ponere, imponere. MAH. 2. 1510.: {#pu-#}
+;
+26575 new <div n="pfx">c. {#vi#} praef. {#sam#} 1) ponere, imponere. MAH. 2.1510.: {#pu-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26577 old ficere. RAGH. 1. 72.: {#tasmAn mucye yaTA…taTA viDA-#}
+;
+26577 new ficere. RAGH. 1.72.: {#tasmAn mucye yaTA…taTA viDA-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26578 old {#tum arhasi#}. 3) decernere, constituere. R. Schl. I. 38.
+;
+26578 new {#tum arhasi#}. 3) decernere, constituere. R. Schl. I. 38.4.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26579 old 4.: {#yad atrA 'nantaraN kAryam…samviDatsva#}; N. 24.
+;
+26579 new {#yad atrA 'nantaraN kAryam…samviDatsva#}; N. 24.4.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26580 old 4.: {#viditam vA 'TavA 'jYAtam pitur me samviDIya-#}
+;
+26580 new {#viditam vA 'TavA 'jYAtam pitur me samviDIya-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26581 old {#tAm#}; DR. 7. 11.
+;
+26581 new {#tAm#}; DR. 7.11.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26582 old <div n="pfx">c. {#sam#} 1) conjungere. R. Schl. I. 32. 19.: {#mantrasaMhita#}.
+;
+26582 new <div n="pfx">c. {#sam#} 1) conjungere. R. Schl. I. 32.19.: {#mantrasaMhita#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26583 old Reconciliare. MAN. 7. 66.: {#dUta eva hi sanDatte Binatty#}
+;
+26583 new Reconciliare. MAN. 7.66.: {#dUta eva hi sanDatte Binatty#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26584 old {#evaca saMhatAn#}; HIT. 24. 15.: {#sujanas tu kanakaGawa-#}
+;
+26584 new {#evaca saMhatAn#}; HIT. 24.15.: {#sujanas tu kanakaGawa-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26586 old inire, pacem inire, {%cum instrum.%} HIT. 24. 5.: {#SatruRA na#}
+;
+26586 new inire, pacem inire, {%cum instrum.%} HIT. 24.5.: {#SatruRA na#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26587 old {#hi sandaDyAt#}; 119. 15.: {#satyaDarmavyapetena na sanda-#}
+;
+26587 new {#hi sandaDyAt#}; 119.15.: {#satyaDarmavyapetena na sanda-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26588 old {#DyAt#}. 2) imponere, {%praesertim sagittam arcui.%} RAGH.
+;
+26588 new {#DyAt#}. 2) imponere, {%praesertim sagittam arcui.%} RAGH. 3.53.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26589 old 3. 53.: {#Danuzy amoGaM samaDatta sAyakam#}; 11. 28.: {#sa-#}
+;
+26589 new {#Danuzy amoGaM samaDatta sAyakam#}; 11.28.: {#sa-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26590 old {#ndaDe Danuzi vAyudEvatam (astram)#}; MAH. 1. 5280.:
+;
+26590 new {#ndaDe Danuzi vAyudEvatam (astram)#}; MAH. 1.5280.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26591 old {#sanDatsva vARam#}. 3) appropinquare. DR. 8. 11.: {#sa-#}
+;
+26591 new {#sanDatsva vARam#}. 3) appropinquare. DR. 8.11.: {#sa-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26593 old intendere. RAM. I. 62. 32. 38.
+;
+26593 new intendere. RAM. I. 62.32. 38.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26594 old <div n="pfx">c. {#sam#} praef. {#anu#} investigare, explorare, exquirere. HIT.
+;
+26594 new <div n="pfx">c. {#sam#} praef. {#anu#} investigare, explorare, exquirere. HIT. 90.21.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26595 old 90. 21.: {#durgam anusanDehi#}; 87. 21.; MAN. 12. 106.; {%v.%}
+;
+26595 new {#durgam anusanDehi#}; 87.21.; MAN. 12.106.; {%v.%}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26597 old colligere. HIT. 125. 20.
+;
+26597 new colligere. HIT. 125.20.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26598 old <div n="pfx">c. {#sam#} praef. {#aBi#} vincere, superare. MAN. 7. 159.: {#tAn#}
+;
+26598 new <div n="pfx">c. {#sam#} praef. {#aBi#} vincere, superare. MAN. 7.159.: {#tAn#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26601 old <div n="pfx">c. {#sam#} praef. {#sam + aBi#} 1) imponere. MAH. 3. 10452.:
+;
+26601 new <div n="pfx">c. {#sam#} praef. {#sam + aBi#} 1) imponere. MAH. 3.10452.:
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26604 old 2) facere. MAH. 3. 12714.: {#tapaH samaBisanDAya#}.
+;
+26604 new 2) facere. MAH. 3.12714.: {#tapaH samaBisanDAya#}.
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26605 old <div n="pfx">c. {#sam#} praef. {#upa#} conjungere. H. 2. 20.: {#vacaH krUrABi-#}
+;
+26605 new <div n="pfx">c. {#sam#} praef. {#upa#} conjungere. H. 2.20.: {#vacaH krUrABi-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26607 old <div n="pfx">c. {#sam#} praef. {#prati#} 1) conjungere. SU. 2. 4.: {#vijayasaM-#}
+;
+26607 new <div n="pfx">c. {#sam#} praef. {#prati#} 1) conjungere. SU. 2.4.: {#vijayasaM-#}
+;---------------------------------------------------
+; <L>4352<pc>180-b<k1>DA<k2>DA
+26608 old {#hita#}. 2) dirigere. {%c. acc.%} MAH. 3. 1926.: {#manyus tasya#}
+;
+26608 new {#hita#}. 2) dirigere. {%c. acc.%} MAH. 3.1926.: {#manyus tasya#}
+;---------------------------------------------------
+; <L>5463<pc>229-a<k1>praBAva<k2>praBAva
+33441 old existentia) potestas, praepotentia. N. 3. 24. 13. 42. A. 4.
+;
+33441 new existentia) potestas, praepotentia. N. 3.24. 13.42. A. 4.44. 
+;---------------------------------------------------
+; <L>5463<pc>229-a<k1>praBAva<k2>praBAva
+33443 old 44. 8. 24. {%In fine comp. BAH.%} IN. 1. 4. BH. 11. 43. {%Adj.%}
+;
+33443 new 8.24. {%In fine comp. BAH.%} IN. 1.4. BH. 11.43. {%Adj.%}
+;---------------------------------------------------
+; <L>5463<pc>229-a<k1>praBAva<k2>praBAva
+33444 old praepollens, praevalidus, excelsus. A. 1. 3.
+;
+33444 new praepollens, praevalidus, excelsus. A. 1.3.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36116 old 1) esse, existere. BH. 16. 13.: {#idam api me Bavizyati#}
+;
+36116 new 1) esse, existere. BH. 16.13.: {#idam api me Bavizyati#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36117 old {#punar Danam#}; N. 10. 22.: {#kaTam budDvA Bavizyati#}. --
+;
+36117 new {#punar Danam#}; N. 10.22.: {#kaTam budDvA Bavizyati#}. --
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36118 old {%Cum antecedente%} {#na#} mori. H. 4. 50.: {#adya na Bavizyasi#};
+;
+36118 new {%Cum antecedente%} {#na#} mori. H. 4.50.: {#adya na Bavizyasi#};
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36119 old N. 21. 10.: {#na BavizyAmy asaMSayam#}. 2) {%esse ut verb.%}
+;
+36119 new N. 21.10.: {#na BavizyAmy asaMSayam#}. 2) {%esse ut verb.%}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36120 old {%substant.%} BR. 3. 18.: {#BavizyAmi suKAnvitA#}; N. 1. 28.:
+;
+36120 new {%substant.%} BR. 3.18.: {#BavizyAmi suKAnvitA#}; N. 1.28.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36121 old {#saPalan te Bavej janma#}; BR. 3. 8.: {#tat tezAm vipri-#}
+;
+36121 new {#saPalan te Bavej janma#}; BR. 3.8.: {#tat tezAm vipri-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36123 old {%Cum dat.%} esse {%alicui rei%}, praeditum esse {%aliquâ re.%} BR. 3.
+;
+36123 new {%Cum dat.%} esse {%alicui rei%}, praeditum esse {%aliquâ re.%} BR. 3.19.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36124 old 19.: {#devASca pitaraSca…tvayA dattena toyena Bavi-#}
+;
+36124 new {#devASca pitaraSca…tvayA dattena toyena Bavi-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36125 old {#zyanti hitAya#}. Causam esse {%alicujus rei.%} MAH. 3.
+;
+36125 new {#zyanti hitAya#}. Causam esse {%alicujus rei.%} MAH. 3.12312.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36126 old 12312.: {#trElokyasya…Bavanti sma vinASAya#}. -- {%Pass.%}
+;
+36126 new {#trElokyasya…Bavanti sma vinASAya#}. -- {%Pass.%}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36127 old {%impers. c. instrum. pers. et praedic.%} HIT. 17. 20.: {#aDunA#}
+;
+36127 new {%impers. c. instrum. pers. et praedic.%} HIT. 17.20.: {#aDunA#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36128 old {#tavA 'nucareRa mayA sarvadA Bavitavyam#}; UR. 38. 3.
+;
+36128 new {#tavA 'nucareRa mayA sarvadA Bavitavyam#}; UR. 38.3.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36130 old BH. 14. 17.: {#pramAdamohO tamaso BavataH#}; N. 23. 11.: {#te#}
+;
+36130 new BH. 14.17.: {#pramAdamohO tamaso BavataH#}; N. 23.11.: {#te#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36131 old {#tenA'vekzitAH kumBAH pUrRA evA 'Bavas tataH#}; A. 3. 27.:
+;
+36131 new {#tenA'vekzitAH kumBAH pUrRA evA 'Bavas tataH#}; A. 3.27.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36133 old {#tasya tac CataDA rUpam aBavat#}; MAH. 1. 1501.: {#Ba-#}
+;
+36133 new {#tasya tac CataDA rUpam aBavat#}; MAH. 1.1501.: {#Ba-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36135 old SU. 1. 25.: {#trizu lokezu yad BUtaN kiYcit sTAvara-#}
+;
+36135 new SU. 1.25.: {#trizu lokezu yad BUtaN kiYcit sTAvara-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36136 old {#jaNgamam#}. {%In fine comp.%} N. 12. 38.: {#asyA 'raRyasya ma-#}
+;
+36136 new {#jaNgamam#}. {%In fine comp.%} N. 12.38.: {#asyA 'raRyasya ma-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36138 old tus. A. 3. 28.: {#punas tAni SarIrARi ekIBUtAni BA-#}
+;
+36138 new tus. A. 3.28.: {#punas tAni SarIrARi ekIBUtAni BA-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36140 old res. H. 4. 32. SU. 2. 7. BH. 2. 69. N. 14. 2. BH. 7. 26. --
+;
+36140 new res. H. 4.32. SU. 2.7. BH. 2.69. N. 14.2. BH. 7.26. --
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36142 old trire. MAH. 3. 8763.: {#tA (prajAH) BAvitA BAvayanti#}
+;
+36142 new trire. MAH. 3.8763.: {#tA (prajAH) BAvitA BAvayanti#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36143 old {#havyakavyEr divOkasaH#}; BH. 3. 11.: {#devAn BAvayatA#}
+;
+36143 new {#havyakavyEr divOkasaH#}; BH. 3.11.: {#devAn BAvayatA#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36146 old gramm. Ind. {#BU#} cl. 10.). BH. 2. 66.: {#nA 'sti budDir a-#}
+;
+36146 new gramm. Ind. {#BU#} cl. 10.). BH. 2.66.: {#nA 'sti budDir a-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36148 old {#ntiMH#}; R. Schl. II. 67. 20.: {#BAvayann AtmanA "tmAnam#}.
+;
+36148 new {#ntiMH#}; R. Schl. II. 67.20.: {#BAvayann AtmanA "tmAnam#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36149 old -- {%Desid.%} 1. esse, existere velle. MAH. 4. 678.: {#na ti-#}
+;
+36149 new -- {%Desid.%} 1. esse, existere velle. MAH. 4.678.: {#na ti-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36151 old {%jugem.%} MAH. 1. 7068.: {#yadi kanye 'yan naca kaYcid#}
+;
+36151 new {%jugem.%} MAH. 1.7068.: {#yadi kanye 'yan naca kaYcid#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36154 old {%mus%} = {#BavizyAmi, BavizyAmas#}, v. gr. comp. 526.
+;
+36154 new {%mus%} = {#BavizyAmi, BavizyAmas#}, v. gr. comp. 526.662.;
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36155 old 662.; gr. <lang n="greek">ϕύ-ω, ἔϕῡ-ν, ἔϕῡ-ς, ἔϕῡ</lang> = {#aBUvam, a-#}
+;
+36155 new gr. <lang n="greek">ϕύ-ω, ἔϕῡ-ν, ἔϕῡ-ς, ἔϕῡ</lang> = {#aBUvam, a-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36157 old fui = {#aBavam#}, {%bú-su%} ero = {#BavizyAmi#}, v. gr. comp.
+;
+36157 new fui = {#aBavam#}, {%bú-su%} ero = {#BavizyAmi#}, v. gr. comp. 522.652.;
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36158 old 522. 652.; slav. {%by-ti%} esse, {%bû-dû%} ero; germ. vet. {%bim%} sum,
+;
+36158 new slav. {%by-ti%} esse, {%bû-dû%} ero; germ. vet. {%bim%} sum,
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36169 old <div n="pfx">c. {#anu#} 1) adesse, interesse. N. 5. 40.: {#anuBUyA 'sya vi-#}
+;
+36169 new <div n="pfx">c. {#anu#} 1) adesse, interesse. N. 5.40.: {#anuBUyA 'sya vi-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36171 old {#vAham#}. 2) percipere, sentire, experiri, perpeti. RAGH.
+;
+36171 new {#vAham#}. 2) percipere, sentire, experiri, perpeti. RAGH. 1.21.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36172 old 1. 21.: {#asaktaH suKam anvaBUt#}; 8. 3.: {#anuBUya…a-#}
+;
+36172 new {#asaktaH suKam anvaBUt#}; 8.3.: {#anuBUya…a-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36173 old {#Bizecanam#}; MAH. 3. 10789.: {#IdfSIm Apadam ko 'tra#}
+;
+36173 new {#Bizecanam#}; MAH. 3.10789.: {#IdfSIm Apadam ko 'tra#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36175 old <div n="pfx">c. {#anu#} praef. {#sam#} {%id.%} RAGH. 9. 48.: {#Artavam utsavaM sa-#}
+;
+36175 new <div n="pfx">c. {#anu#} praef. {#sam#} {%id.%} RAGH. 9.48.: {#Artavam utsavaM sa-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36177 old <div n="pfx">c. {#antar#} inesse. MAN. 12. 87.
+;
+36177 new <div n="pfx">c. {#antar#} inesse. MAN. 12.87.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36178 old <div n="pfx">c. {#aBi#} aggredi, accedere. MAH. 3. 10592.: {#ezA te BA-#}
+;
+36178 new <div n="pfx">c. {#aBi#} aggredi, accedere. MAH. 3.10592.: {#ezA te BA-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36179 old {#svatI kIrtir lokAn aBiBavizyati#}; BH. 1. 40.:
+;
+36179 new {#svatI kIrtir lokAn aBiBavizyati#}; BH. 1.40.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36181 old ter aggredi, invadere. SAK. 15. 3. infr.: {#paritrAyeTAm#}
+;
+36181 new ter aggredi, invadere. SAK. 15.3. infr.: {#paritrAyeTAm#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36183 old are, vincere. A. 3. 30.: {#yadA 'BiBavitum vAREr naca#}
+;
+36183 new are, vincere. A. 3.30.: {#yadA 'BiBavitum vAREr naca#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36184 old {#Saknomi tam#}; 11. 2.: {#na tvA 'BiBavituM Sakto mA-#}
+;
+36184 new {#Saknomi tam#}; 11.2.: {#na tvA 'BiBavituM Sakto mA-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36186 old <div n="pfx">c. {#ut#} {%Caus.%} facere ut alqs existat, procreare. RAGH. 2.
+;
+36186 new <div n="pfx">c. {#ut#} {%Caus.%} facere ut alqs existat, procreare. RAGH. 2.62.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36187 old 62.: {#mAyAm udBAvya#}.
+;
+36187 new {#mAyAm udBAvya#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36189 old <div n="pfx">c. {#tiras#} evanescere. RAGH. 16. 23.: {#pUr api…tiro-#}
+;
+36189 new <div n="pfx">c. {#tiras#} evanescere. RAGH. 16.23.: {#pUr api…tiro-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36190 old {#baBUva#}. {%Caus.%} delere, evertere, frangere. R. Schl. I. 44.
+;
+36190 new {#baBUva#}. {%Caus.%} delere, evertere, frangere. R. Schl. I. 44.9.: 
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36191 old 9.: {#tasyA 'valepanam…tiroBAvayitum budDiY#}
+;
+36191 new {#tasyA 'valepanam…tiroBAvayitum budDiY#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36193 old <div n="pfx">c. {#parA#} perire. MAH. 1. 4167.: {#yaTA Darmo na parABavet#}.
+;
+36193 new <div n="pfx">c. {#parA#} perire. MAH. 1.4167.: {#yaTA Darmo na parABavet#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36194 old <div n="pfx">c. {#pari#} despicere, contemnere. HIT. 30. 11.: {#SaSinas#}
+;
+36194 new <div n="pfx">c. {#pari#} despicere, contemnere. HIT. 30.11.: {#SaSinas#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36195 old {#tulyavaMSo 'pi nirDanaH pariBUyate#}; DR. 6. 17.: {#paYce#}
+;
+36195 new {#tulyavaMSo 'pi nirDanaH pariBUyate#}; DR. 6.17.: {#paYce#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36196 old {#'ndrakalpAn pariBUya#}; BR. 2. 16.
+;
+36196 new {#'ndrakalpAn pariBUya#}; BR. 2.16.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36197 old <div n="pfx">c. {#pari#} praef. {#sam#} {%id.%} MAH. 3. 13230.
+;
+36197 new <div n="pfx">c. {#pari#} praef. {#sam#} {%id.%} MAH. 3.13230.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36198 old <div n="pfx">c. {#pra#} 1) esse. BH. 16. 9.: {#praBavanty ugrakarmARaH#}. 2) fieri,
+;
+36198 new <div n="pfx">c. {#pra#} 1) esse. BH. 16.9.: {#praBavanty ugrakarmARaH#}. 2) fieri,
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36199 old prodire, oriri, nasci. BH. 8. 18.: {#avyaktAd vyaktayaH#}
+;
+36199 new prodire, oriri, nasci. BH. 8.18.: {#avyaktAd vyaktayaH#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36200 old {#sarvAH praBavanty aharAgame#}; RAGH. 10. 51.: {#puruzaH pra-#}
+;
+36200 new {#sarvAH praBavanty aharAgame#}; RAGH. 10.51.: {#puruzaH pra-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36201 old {#baBUvA 'gneH#}; HIT. 13. 8.: {#loBAt kroDaH praBavati#}.
+;
+36201 new {#baBUvA 'gneH#}; HIT. 13.8.: {#loBAt kroDaH praBavati#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36203 old {%infin.%} HIT. 25. 6.: {#prItyE (cetasaH) sajjanaBAzitam pra-#}
+;
+36203 new {%infin.%} HIT. 25.6.: {#prItyE (cetasaH) sajjanaBAzitam pra-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36204 old {#Bavati#}; UR. 7. 9.: {#kaTam…nirmAtum praBaven manoha-#}
+;
+36204 new {#Bavati#}; UR. 7.9.: {#kaTam…nirmAtum praBaven manoha-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36205 old {#ram idaM rUpam purARo muniH#}; RAGH. 8. 44. R. Schl. II.
+;
+36205 new {#ram idaM rUpam purARo muniH#}; RAGH. 8.44. R. Schl. II. 23.38.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36206 old 23. 38. -- {%Cum gen. pers.%} MAN. 5. 2.: {#viprARAM sva-#}
+;
+36206 new -- {%Cum gen. pers.%} MAN. 5.2.: {#viprARAM sva-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36207 old {#Darmam anutizWatAN kaTam mftyur praBavati#}; MAH. 3.
+;
+36207 new {#Darmam anutizWatAN kaTam mftyur praBavati#}; MAH. 3.12669.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36209 old 12669.: {#nA 'smAkam mftyur praBavate#}. -- {%Absol.%} HIT.
+;
+36209 new {#nA 'smAkam mftyur praBavate#}. -- {%Absol.%} HIT. 24.3.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36210 old 24. 3.: {#viSvAsAt praBavanty ete viSvAsas tatra no#}
+;
+36210 new {#viSvAsAt praBavanty ete viSvAsas tatra no#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36211 old {#'citaH#}.{# -- praBavat#} praevalens, praepotens. H. 2. 32.
+;
+36211 new {#'citaH#}.{# -- praBavat#} praevalens, praepotens. H. 2.32.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36212 old 4) abundare. {#praBUta#} abundans, multus, copiosus. N. 13.
+;
+36212 new 4) abundare. {#praBUta#} abundans, multus, copiosus. N. 13.3.: 
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36213 old 3.: {#praBUtayavasenDanam#}; HIT. 45. 6.: {#praBUte 'pi vitte#}.
+;
+36213 new {#praBUtayavasenDanam#}; HIT. 45.6.: {#praBUte 'pi vitte#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36215 old 1) explorare, investigare, indagare. MAN. 8. 25.: {#vAhyEr#}
+;
+36215 new 1) explorare, investigare, indagare. MAN. 8.25.: {#vAhyEr#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36217 old {#nirUpayet#}). 2) probare, demonstrare. MAN. 8. 56.:
+;
+36217 new {#nirUpayet#}). 2) probare, demonstrare. MAN. 8.56.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36219 old MAN. 7. 147.: {#mantrayed aviBAvitaH#}; RAGH. 11. 10.:
+;
+36219 new MAN. 7.147.: {#mantrayed aviBAvitaH#}; RAGH. 11.10.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36221 old {#BAvayat#}. -- {%Pass.%} videri. MAH. 1. 932.: {#sUryAMSuBiH#}
+;
+36221 new {#BAvayat#}. -- {%Pass.%} videri. MAH. 1.932.: {#sUryAMSuBiH#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36222 old {#spfzwaM sarvaM Suci viBAvyate#}. HIT. 124. 63.
+;
+36222 new {#spfzwaM sarvaM Suci viBAvyate#}. HIT. 124.63.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36223 old <div n="pfx">c. {#sam#} 1) una esse, conjunctum esse. SU. 2. 11.: {#tezAm#}
+;
+36223 new <div n="pfx">c. {#sam#} 1) una esse, conjunctum esse. SU. 2.11.: {#tezAm#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36225 old Coire {%cum femina.%} MAH. 1. 4398.: {#sambaBUva tayA saha#}.
+;
+36225 new Coire {%cum femina.%} MAH. 1.4398.: {#sambaBUva tayA saha#}.
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36226 old 2) fieri. SU. 1. 30.: {#tatas tO tu jawA BittvA mOlinO#}
+;
+36226 new 2) fieri. SU. 1.30.: {#tatas tO tu jawA BittvA mOlinO#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36227 old {#sambaBUvatuH#}; 4. 11.: {#dfzwvE 'va tAm varArohAm vya-#}
+;
+36227 new {#sambaBUvatuH#}; 4.11.: {#dfzwvE 'va tAm varArohAm vya-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36228 old {#TitO sambaBUvatuH#}; MAH. 3. 8843.: {#garBiRyO sambaBUva-#}
+;
+36228 new {#TitO sambaBUvatuH#}; MAH. 3.8843.: {#garBiRyO sambaBUva-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36229 old {#tuH#}; 3. 16478.: {#taTA samaBavaccA 'pi yad uvAca vi-#}
+;
+36229 new {#tuH#}; 3.16478.: {#taTA samaBavaccA 'pi yad uvAca vi-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36230 old {#BIzaRaH#}. 3) oriri. H. 1. 17.: {#GorA samaBavat sanDyA#};
+;
+36230 new {#BIzaRaH#}. 3) oriri. H. 1.17.: {#GorA samaBavat sanDyA#};
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36231 old BR. 3. 24.: {#harzaH samaBavad mahAn#}. 4) nasci, {%c. ablat.%}
+;
+36231 new BR. 3.24.: {#harzaH samaBavad mahAn#}. 4) nasci, {%c. ablat.%}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36232 old {%patris et loc. matris.%} MAH. 1. 8028.: {#sAttvatyAm atira-#}
+;
+36232 new {%patris et loc. matris.%} MAH. 1.8028.: {#sAttvatyAm atira-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36236 old alqs existat, sustentare, servare. MAN. 2. 142.: {#yaH…#}
+;
+36236 new alqs existat, sustentare, servare. MAN. 2.142.: {#yaH…#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36237 old {#samBAvayaticA 'nnena#}; MAH. 1. 1343.: {#samBAvayA "tmA-#}
+;
+36237 new {#samBAvayaticA 'nnena#}; MAH. 1.1343.: {#samBAvayA "tmA-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36238 old {#nam ajIrRam mama tejasA#}. 2) facere. MAH. 3. 13316.:
+;
+36238 new {#nam ajIrRam mama tejasA#}. 2) facere. MAH. 3.13316.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36240 old {#nAni suzwu samBAvitAni#}. 3) committere. MAH. 1.
+;
+36240 new {#nAni suzwu samBAvitAni#}. 3) committere. MAH. 1.2088.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36241 old 2088.: {#samBAvaya…mayi sarvam#}. 4) convenire, con-
+;
+36241 new {#samBAvaya…mayi sarvam#}. 4) convenire, con-
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36242 old gredi, adire. MAH. 3. 1982.: {#kAmyake pArTAn samaBA-#}
+;
+36242 new gredi, adire. MAH. 3.1982.: {#kAmyake pArTAn samaBA-#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36243 old {#vayad acyutaH#}; UR. 9. 6. {%infr.%} 5) cogitare. RAGH. 7. 6.:
+;
+36243 new {#vayad acyutaH#}; UR. 9.6. {%infr.%} 5) cogitare. RAGH. 7.6.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36245 old RAGH. 6. 42.: {#DArAM SitAM rAmaparaSvaDasya samBAvayaty#}
+;
+36245 new RAGH. 6.42.: {#DArAM SitAM rAmaparaSvaDasya samBAvayaty#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36247 old {#utpalapatrasArAm#}. 7) magni aestimare, honorare. BH.
+;
+36247 new {#utpalapatrasArAm#}. 7) magni aestimare, honorare. BH. 2.34.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36248 old 2. 34.: {#samBAvitasya#} (Schol. {#bahumatasya#}); RAGH. 10.
+;
+36248 new {#samBAvitasya#} (Schol. {#bahumatasya#}); RAGH. 10.56.:
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36249 old 56.: {#samBAvitAn tAByAM sumitrAm#}; 5. 11.: {#prApto 'si#}
+;
+36249 new {#samBAvitAn tAByAM sumitrAm#}; 5.11.: {#prApto 'si#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36251 old dignari, colere, ornare {%alquâ re.%} RAGH. 16. 40.: {#anyEr#}
+;
+36251 new dignari, colere, ornare {%alquâ re.%} RAGH. 16.40.: {#anyEr#}
+;---------------------------------------------------
+; <L>5885<pc>248-a<k1>BU<k2>BU<h>1
+36253 old {#vAn#}); 7. 8.: {#vilocanan dakziRam aYjanena samBA-#}
+;
+36253 new {#vAn#}); 7.8.: {#vilocanan dakziRam aYjanena samBA-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38606 old rare, dimittere. DR. 9. 17.: {#muYce 'mam#}; 18.: {#dAso#}
+;
+38606 new rare, dimittere. DR. 9.17.: {#muYce 'mam#}; 18.: {#dAso#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38607 old {#'yam mucyatAm#}; 8. 42.: {#na hi me mokzyate jovan#}; N.
+;
+38607 new {#'yam mucyatAm#}; 8.42.: {#na hi me mokzyate jovan#}; N. 24.32.: 
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38608 old 24. 32.: {#eza me muYcatu prARAn#}; H. 1. 44.: {#muktA vyan#}
+;
+38608 new {#eza me muYcatu prARAn#}; H. 1.44.: {#muktA vyan#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38609 old {#dAhAt#}; RAGH. 3. 20.: {#mumuce#} ({%pass.%}) {#sa banDanAt#};
+;
+38609 new {#dAhAt#}; RAGH. 3.20.: {#mumuce#} ({%pass.%}) {#sa banDanAt#};
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38610 old MAH. 3. 2613.: {#SApAn mokzyasi matkftAt#} ({%Pass.%}) cum
+;
+38610 new MAH. 3.2613.: {#SApAn mokzyasi matkftAt#} ({%Pass.%}) cum
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38611 old term. {%PAR.%}) {%Etiam c. instr.%} MAN. 11. 228.: {#tvace 'vA#}
+;
+38611 new term. {%PAR.%}) {%Etiam c. instr.%} MAN. 11.228.: {#tvace 'vA#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38614 old fundere. BR. 2. 36.: {#mumoca vAzpam#}; MAH. 1. 8154.: {#ja-#}
+;
+38614 new fundere. BR. 2.36.: {#mumoca vAzpam#}; MAH. 1.8154.: {#ja-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38615 old {#lasantatim mumucuH#}; 3. 670.: {#vARamayam varzam…mu-#}
+;
+38615 new {#lasantatim mumucuH#}; 3.670.: {#vARamayam varzam…mu-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38617 old MAH. 3. 11115.: {#Sakfn mUtraYca muYcAnAH#} (pro {#muYcamA-#}
+;
+38617 new MAH. 3.11115.: {#Sakfn mUtraYca muYcAnAH#} (pro {#muYcamA-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38618 old {#nAH#}). -- {#Sabdam#} sonum emittere. N. 5. 29.: {#hA he 'ti#}
+;
+38618 new {#nAH#}). -- {#Sabdam#} sonum emittere. N. 5.29.: {#hA he 'ti#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38620 old {%silia exprimunt%}, emittere, mittere, conjicere. SU. 2. 16.:
+;
+38620 new {%silia exprimunt%}, emittere, mittere, conjicere. SU. 2.16.:
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38621 old {#vARA muktAH SilAsu#}; R. Schl. I. 54. 23.: {#astrARi…#}
+;
+38621 new {#vARA muktAH SilAsu#}; R. Schl. I. 54.23.: {#astrARi…#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38622 old {#mumoca#}. {%Omissâ missile exprimente voce%}, MAH. 1. 5296.:
+;
+38622 new {#mumoca#}. {%Omissâ missile exprimente voce%}, MAH. 1.5296.:
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38625 old {#-- AtmAnam#} se dejicere. MAH. 1. 6740.: {#merukUwAd#}
+;
+38625 new {#-- AtmAnam#} se dejicere. MAH. 1.6740.: {#merukUwAd#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38627 old abjicere, deponere (cf. {#dehanyAsaN kartum#} SA. 2. 23.).
+;
+38627 new abjicere, deponere (cf. {#dehanyAsaN kartum#} SA. 2.23.).
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38628 old HIT. 87. 10.: {#citO…yA muYcati deham AtmanaH#}; R.
+;
+38628 new HIT. 87.10.: {#citO…yA muYcati deham AtmanaH#}; R.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38629 old Schl. I. 25. 14.: {#yatrA 'NgaM sa mumoca#}. -- Relinquere.
+;
+38629 new Schl. I. 25.14.: {#yatrA 'NgaM sa mumoca#}. -- Relinquere.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38630 old NALOD. 3. 12.: {#tAm amucad iha sa svapAyAm#} (Schol.
+;
+38630 new NALOD. 3.12.: {#tAm amucad iha sa svapAyAm#} (Schol.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38631 old {#atyAkzIt#}); 4. 7.: {#BIr muYceta tvAm#} (Schol. {#tyajeta#}).
+;
+38631 new {#atyAkzIt#}); 4.7.: {#BIr muYceta tvAm#} (Schol. {#tyajeta#}).
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38636 old <div n="pfx">c. {#ava#} {%i. q. simpl.%} -- {#aSvAn#} equos disjungere. N. 21. 18.
+;
+38636 new <div n="pfx">c. {#ava#} {%i. q. simpl.%} -- {#aSvAn#} equos disjungere. N. 21.18.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38637 old -- {#vAsAMsi#} vestes deponere. MAH. 2. 2520.
+;
+38637 new -- {#vAsAMsi#} vestes deponere. MAH. 2.2520.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38638 old <div n="pfx">c. {#A#} induere. RAGH. 12. 86.: {#mAtalis tasya mAhendram#}
+;
+38638 new <div n="pfx">c. {#A#} induere. RAGH. 12.86.: {#mAtalis tasya mAhendram#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38639 old {#Amumoca tanucCadam#}; 13. 21. 17. 25. MAH. 1. 4095.
+;
+38639 new {#Amumoca tanucCadam#}; 13.21. 17.25. MAH. 1.095.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38640 old <div n="pfx">c. {#ut#} solvere, liberare. R. Schl. I. 1. 74.: {#astreRo 'nmu-#}
+;
+38640 new <div n="pfx">c. {#ut#} solvere, liberare. R. Schl. I. 1.74.: {#astreRo 'nmu-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38641 old {#cyacA "tmAnam#}. Exuere. BHATT. 3. 22.: {#viBUzaRAny#}
+;
+38641 new {#cyacA "tmAnam#}. Exuere. BHATT. 3.22.: {#viBUzaRAny#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38643 old <div n="pfx">c. {#nis#} {%i. q. simpl.%} BH. 7. 28.
+;
+38643 new <div n="pfx">c. {#nis#} {%i. q. simpl.%} BH. 7.28.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38644 old <div n="pfx">c. {#nis#} praef. {#aBi aBinirmukta#} relictus. MAH. 2. 221.
+;
+38644 new <div n="pfx">c. {#nis#} praef. {#aBi aBinirmukta#} relictus. MAH. 2.221.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38645 old <div n="pfx">c. {#nis#} praef. {#vi#} {%i. q. simpl.%} N. 13. 21.
+;
+38645 new <div n="pfx">c. {#nis#} praef. {#vi#} {%i. q. simpl.%} N. 13.21.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38646 old <div n="pfx">c. {#pra#} 1) {%i. q. simpl.%} SU. 1. 11. N. 13. 11. 2) induere. R.
+;
+38646 new <div n="pfx">c. {#pra#} 1) {%i. q. simpl.%} SU. 1.11. N. 13.11. 2) induere. R.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38647 old Schl. II. 9. 39.: {#atra te 'ham pramokzyAmi mAlAm#}.
+;
+38647 new Schl. II. 9.39.: {#atra te 'ham pramokzyAmi mAlAm#}.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38648 old <div n="pfx">c. {#pra#} praef. {#vi#} {%i. q. simpl.%} H. 1. 7.: {#kaTan nu vipramucyema#}
+;
+38648 new <div n="pfx">c. {#pra#} praef. {#vi#} {%i. q. simpl.%} H. 1.7.: {#kaTan nu vipramucyema#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38650 old <div n="pfx">c. {#prati#} 1) {%id.%} MAN. 10. 118.: {#kilvizAt pratimucyate#}.
+;
+38650 new <div n="pfx">c. {#prati#} 1) {%id.%} MAN. 10.118.: {#kilvizAt pratimucyate#}.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38651 old 2) alligare. MAH. 2. 2323.: {#pASAn Atmani pratimuYcati#}.
+;
+38651 new 2) alligare. MAH. 2.2323.: {#pASAn Atmani pratimuYcati#}.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38652 old <div n="pfx">c. {#vi#} {%i. q. simpl.%} N. 13. 14. 14. 16. 20. 32. 44. A. 6. 21. BH.
+;
+38652 new <div n="pfx">c. {#vi#} {%i. q. simpl.%} N. 13.14. 14.16. 20.32. 44. A. 6.21. BH. 18.35. 
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38653 old 18. 35. Exuere, deponere. MAH. 1. 4095.: {#tezAm…A-#}
+;
+38653 new Exuere, deponere. MAH. 1.4095.: {#tezAm…A-#}
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38655 old <div n="pfx">c. {#vi#} praef. {#pra#} {%id.%} DR. 3. 1.
+;
+38655 new <div n="pfx">c. {#vi#} praef. {#pra#} {%id.%} DR. 3.1.
+;---------------------------------------------------
+; <L>6264<pc>266-a<k1>muc<k2>muc<h>1
+38657 old MAH. 3. 10236.
+;
+38657 new MAH. 3.10236.
+;---------------------------------------------------
+; <L>7442<pc>326-b<k1>viz<k2>viz<h>2
+46666 old <div n="pfx">c. {#pari#} {%Caus.%} i. q. {#pariveSayAmi#}. R. Schl. I. 13. 19.: {#sva-#}
+;
+46666 new <div n="pfx">c. {#pari#} {%Caus.%} i. q. {#pariveSayAmi#}. R. Schl. I. 13.19.: {#sva-#}
+;---------------------------------------------------
+; <L>7442<pc>326-b<k1>viz<k2>viz<h>2
+46667 old {#laNkftASca puruzA brAhmaRAn paryavezayan#}; MAN. 3
+;
+46667 new {#laNkftASca puruzA brAhmaRAn paryavezayan#}; MAN. 3.228.
+;---------------------------------------------------
+; <L>7442<pc>326-b<k1>viz<k2>viz<h>2
+46668 old 228.
+;
+46668 new 
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48485 old 1. {#SaMs#}¦ 1. {%P. interdum A.%} 1) dicere, indicare, narrare. N.
+;
+48485 new 1. {#SaMs#}¦ 1. {%P. interdum A.%} 1) dicere, indicare, narrare. N. 13.53.:
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48486 old 13. 53.: {#SaMsa me kA 'si kasya vA#}; 12. 35.: {#nalaM#}
+;
+48486 new {#SaMsa me kA 'si kasya vA#}; 12.35.: {#nalaM#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48487 old {#yadi na SaMsasi#}; 12. 126.: {#yadi jAnITa nfpatiN kzipraM#}
+;
+48487 new {#yadi na SaMsasi#}; 12.126.: {#yadi jAnITa nfpatiN kzipraM#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48489 old {#SaMsata me priyam#}; R. Schl. II. 68. 8.: {#mAcA 'smE pita-#}
+;
+48489 new {#SaMsata me priyam#}; R. Schl. II. 68.8.: {#mAcA 'smE pita-#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48490 old {#ram mftam BavantaH SaMsizuH#}; SU. 3. 11.: {#sundopasunda-#}
+;
+48490 new {#ram mftam BavantaH SaMsizuH#}; SU. 3.11.: {#sundopasunda-#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48491 old {#yoH karma…SaSaMsire#}. 2) laudare. BH. 5. 1.: {#punar yo-#}
+;
+48491 new {#yoH karma…SaSaMsire#}. 2) laudare. BH. 5.1.: {#punar yo-#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48492 old {#gaYca SaMsasi#}; MAH. 2. 2298.: {#SaSaMsur drOpadIn tatra ku-#}
+;
+48492 new {#gaYca SaMsasi#}; MAH. 2.2298.: {#SaSaMsur drOpadIn tatra ku-#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48497 old canere (v. Graff. 6. 91.). Pottius huc refert lat. {%cano%}
+;
+48497 new canere (v. Graff. 6.91.). Pottius huc refert lat. {%cano%}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48503 old cusare, criminari; {#aBiSasta#} increpatus. MAN. 8. 116.:
+;
+48503 new cusare, criminari; {#aBiSasta#} increpatus. MAN. 8.116.:
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48504 old {#vatsasyA 'BiSastasya purA BrAtrA yavIyasA#}; AM. III.
+;
+48504 new {#vatsasyA 'BiSastasya purA BrAtrA yavIyasA#}; AM. III.1.43.:
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48505 old 1. 43.: {#AkzAritaH kzArito 'BiSaste#}; MAN. 2. 185.: {#a-#}
+;
+48505 new {#AkzAritaH kzArito 'BiSaste#}; MAN. 2.85.: {#a-#}
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48506 old {#BiSastAMs tu varjayet#}; 3. 159.
+;
+48506 new {#BiSastAMs tu varjayet#}; 3.159.
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48507 old <div n="pfx">c. {#A#} 1) indicare. RAGH. 1. 86. 2) implorare. DR. 5. 12.:
+;
+48507 new <div n="pfx">c. {#A#} 1) indicare. RAGH. 1.86. 2) implorare. DR. 5.12.:
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48509 old <div n="pfx">c. {#pra#} laudare, celebrare. N. 1. 16. 3. 16.
+;
+48509 new <div n="pfx">c. {#pra#} laudare, celebrare. N. 1.16. 3.16.
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48510 old <div n="pfx">c. {#pra#} praef. {#aBi#} {%id.%} A. 1. 6.
+;
+48510 new <div n="pfx">c. {#pra#} praef. {#aBi#} {%id.%} A. 1.6.
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48523 old {#"sate te kurupravIrAH#}; 3. 17171.: {#yodDum ASaMsate ni-#}
+;
+48523 new {#"sate te kurupravIrAH#}; 3.17171.: {#yodDum ASaMsate ni-#}
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48527 old {#vijayAya#}. {%Cum infin.%} R. Schl. II. 12. 70.: {#na…ciraY#}
+;
+48527 new {#vijayAya#}. {%Cum infin.%} R. Schl. II. 12.70.: {#na…ciraY#}
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48530 old {#DarmarAjam#}. 3) credere, putare, {%c.%} {#yadi#}. R. Schl. II. 51.
+;
+48530 new {#DarmarAjam#}. 3) credere, putare, {%c.%} {#yadi#}. R. Schl. II. 51.14.:
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48531 old 14.: {#kOSalyAcE 'va rAjAca taTE 'va jananI mama nA#}
+;
+48531 new {#kOSalyAcE 'va rAjAca taTE 'va jananI mama nA#}
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48532 old {#"SaMse yadi jIvanti#}; II. 86. 15.: {#nA "SaMse yadi te#}
+;
+48532 new {#"SaMse yadi jIvanti#}; II. 86.15.: {#nA "SaMse yadi te#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54868 old {#dad#} 1) stare, pedibus insistere. SA. 4. 8.: {#tizWantI…#}
+;
+54868 new {#dad#} 1) stare, pedibus insistere. SA. 4.8.: {#tizWantI…#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54869 old {#kAzWaBUte 'va lakzyate#}; 5. 4.: {#na sTAtuSaktir asti me#};
+;
+54869 new {#kAzWaBUte 'va lakzyate#}; 5.4.: {#na sTAtuSaktir asti me#};
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54870 old HIT. 26. 9.: {#calaty ekena pAdena tizWaty ekena bu-#}
+;
+54870 new HIT. 26.9.: {#calaty ekena pAdena tizWaty ekena bu-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54871 old {#dDimAn#}.{# -- sTita#} stans. N. 12. 27. SA. 4. 3. 5. 8.
+;
+54871 new {#dDimAn#}.{# -- sTita#} stans. N. 12.27. SA. 4.3. 5.8.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54872 old 2) stare, motu vacare. N. 14. 6.: {#tizWa tvaM sTAvara iva#};
+;
+54872 new 2) stare, motu vacare. N. 14.6.: {#tizWa tvaM sTAvara iva#};
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54873 old BH. 2. 13.: {#yadA sTAsyati niScalA#}. 3) perstare, per-
+;
+54873 new BH. 2.13.: {#yadA sTAsyati niScalA#}. 3) perstare, per-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54874 old durare. HIT. 47. 10.: {#arakzitan tizWati dEvarakzitam#}.
+;
+54874 new durare. HIT. 47.10.: {#arakzitan tizWati dEvarakzitam#}.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54875 old 4) manere, morari. DEV. 1. 10.: {#tasTO kaYcit sa kA-#}
+;
+54875 new 4) manere, morari. DEV. 1.10.: {#tasTO kaYcit sa kA-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54876 old {#laYca muninA tena satkftaH#}. -- {%Pass. impers.%} Lass. 56.
+;
+54876 new {#laYca muninA tena satkftaH#}. -- {%Pass. impers.%} Lass. 56.2.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54877 old 2.: {#dinAni katicid Badre sTIyatAm#}; HIT. 21. 4.:
+;
+54877 new {#dinAni katicid Badre sTIyatAm#}; HIT. 21.4.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54879 old BH. 3. 5.: {#na hi kaScit kzaRam api jAtu tizWaty a-#}
+;
+54879 new BH. 3.5.: {#na hi kaScit kzaRam api jAtu tizWaty a-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54880 old {#karmakft#}; N. 20. 29. 25. 16. -- HIT. 31. 2.: {#sarvezAm#}
+;
+54880 new {#karmakft#}; N. 20.29. 25.16. -- HIT. 31.2.: {#sarvezAm#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54881 old {#mUrDni tizWet#}; MAH. 3. 1138.: {#ISvarasya vaSe lokAs#}
+;
+54881 new {#mUrDni tizWet#}; MAH. 3.1138.: {#ISvarasya vaSe lokAs#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54882 old {#tizWante#}. 6) adstare, adesse, praesentem esse. N. 4. 5.: {#ti-#}
+;
+54882 new {#tizWante#}. 6) adstare, adesse, praesentem esse. N. 4.5.: {#ti-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54883 old {#zWatsu lokapAlezu kaTam mAnuzam icCasi#}; H. 3. 7.:
+;
+54883 new {#zWatsu lokapAlezu kaTam mAnuzam icCasi#}; H. 3.7.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54884 old {#na sa kaScin mayi sTite#}; RIGV. 35. 10.: {#asTAd de-#}
+;
+54884 new {#na sa kaScin mayi sTite#}; RIGV. 35.10.: {#asTAd de-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54885 old {#vaH#}. -- {%Caus.%} {#sTApayAmi, °ye#}. Sistere, collocare. N.
+;
+54885 new {#vaH#}. -- {%Caus.%} {#sTApayAmi, °ye#}. Sistere, collocare. N. 21.18.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54886 old 21. 18.: {#hayAn tAn avamucyA 'Ta sTApayAmAsa vE#}
+;
+54886 new {#hayAn tAn avamucyA 'Ta sTApayAmAsa vE#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54887 old {#raTam#}. {%C. loc. loci.%} BH. 1. 21.: {#senayor uBayor maDye#}
+;
+54887 new {#raTam#}. {%C. loc. loci.%} BH. 1.21.: {#senayor uBayor maDye#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54888 old {#raTaM sTApaya#}. -- {%TROP.%} MAN. 7. 44.: {#vaSe sTApayitum#}
+;
+54888 new {#raTaM sTApaya#}. -- {%TROP.%} MAN. 7.44.: {#vaSe sTApayitum#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54889 old {#prajAH#}; MAH. 3. 234.: {#rAjyecE 'naM sTApayasva#}.{# -- kanyAM#}
+;
+54889 new {#prajAH#}; MAH. 3.234.: {#rAjyecE 'naM sTApayasva#}.{# -- kanyAM#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54890 old {#sTApa°#} filiam collocare in matrimonium. MAH. 1. 2576.:
+;
+54890 new {#sTApa°#} filiam collocare in matrimonium. MAH. 1.2576.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54893 old constituere, condere. R. Schl. I. 1. 92. II. 80. 24. (Gr.
+;
+54893 new constituere, condere. R. Schl. I. 1.92. II. 80.24. (Gr.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54904 old <lang n="greek">ἵσταμεν</lang>; pers. {%hestem%} sum, {%hestîm%} sumus, v. gr. comp.
+;
+54904 new <lang n="greek">ἵσταμεν</lang>; pers. {%hestem%} sum, {%hestîm%} sumus, v. gr. comp. 628.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54905 old 628. annot. 2. Cum Caus. {#sTApay#} cf. {#stamB#} q. v., germ.
+;
+54905 new annot. 2. Cum Caus. {#sTApay#} cf. {#stamB#} q. v., germ.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54909 old {#DizWita#}) 1) superstare, insistere, {%c. acc.%} MAH. 2. 2541.:
+;
+54909 new {#DizWita#}) 1) superstare, insistere, {%c. acc.%} MAH. 2.2541.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54910 old {#SiraH pAdenacA 'syA 'ham aDizWAsyAmi BUtale#}; MAN.
+;
+54910 new {#SiraH pAdenacA 'syA 'ham aDizWAsyAmi BUtale#}; MAN. 4.78.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54911 old 4. 78.: {#aDitizWen na keSAn#}. 2) niti, inniti. R. Schl.
+;
+54911 new {#aDitizWen na keSAn#}. 2) niti, inniti. R. Schl. I. 34.34.: 
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54912 old I. 34. 34.: {#kzamAyAM DizWitaY jagat#}; MAH. 3. 1105.: {#ya-#}
+;
+54912 new {#kzamAyAM DizWitaY jagat#}; MAH. 3.1105.: {#ya-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54914 old habitare. A. 10. 2.: {#puram…pOlomEH…aDizWitam#}.
+;
+54914 new habitare. A. 10.2.: {#puram…pOlomEH…aDizWitam#}.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54915 old 4) praeesse, imperare. R. Schl. II. 1. 25.: {#mahIm…kf-#}
+;
+54915 new 4) praeesse, imperare. R. Schl. II. 1.25.: {#mahIm…kf-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54916 old {#tsnAm aDitizWantam#}. 5) transgredi. R. Schl. I. 31. 19.:
+;
+54916 new {#tsnAm aDitizWantam#}. 5) transgredi. R. Schl. I. 31.19.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54918 old 6) {%sicut simpl.%} stare, versari, esse. MAH. 1. 2867. 3406.
+;
+54918 new 6) {%sicut simpl.%} stare, versari, esse. MAH. 1.2867. 3406. 8325.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54919 old 8325.
+;
+54919 new 
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54920 old <div n="pfx">c. {#anu#} stando sequi {%stantem.%} MAN. 11. 111.: {#tizWantIzv#}
+;
+54920 new <div n="pfx">c. {#anu#} stando sequi {%stantem.%} MAN. 11.111.: {#tizWantIzv#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54922 old sequi, {#Darmam#}. MAN. 2. 9.: {#Darmam anutizWan#}; 5. 2. 9. 11.
+;
+54922 new sequi, {#Darmam#}. MAN. 2.9.: {#Darmam anutizWan#}; 5.2. 9.11.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54923 old MAH. 3. 1282. BH. 3. 35. -- {#niyogam#} MAH. 1. 749.: {#gu-#}
+;
+54923 new MAH. 3.1282. BH. 3.35. -- {#niyogam#} MAH. 1.749.: {#gu-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54924 old {#ror niyogam anutizWamAnaH#}. 3) facere. UR. 41. 10.
+;
+54924 new {#ror niyogam anutizWamAnaH#}. 3) facere. UR. 41.10.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54925 old {%infr.:%} {#kutra sa…kiM vA 'nutizWati#}; HIT. 54. 17.: {#yaTA-#}
+;
+54925 new {%infr.:%} {#kutra sa…kiM vA 'nutizWati#}; HIT. 54.7.: {#yaTA-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54926 old {#Bipretam anuzWIyatAm#}. 4) regere. DR. 4. 12.: {#kaccid#}
+;
+54926 new {#Bipretam anuzWIyatAm#}. 4) regere. DR. 4.12.: {#kaccid#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54928 old nere, commorari. Lass. 56. 10.: {#punaH SatadvayaN kiYci-#}
+;
+54928 new nere, commorari. Lass. 56.10.: {#punaH SatadvayaN kiYci-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54930 old <div n="pfx">c. {#ava#} 1) {%i. q. simpl.%} BH. 1. 30. 11. N. 7. 15. 2) discedere.
+;
+54930 new <div n="pfx">c. {#ava#} 1) {%i. q. simpl.%} BH. 1.30. 11. N. 7.15. 2) discedere.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54931 old HIT. 47. 22.: {#mandam mandam avatizWate#}. -- {%Caus. i. q.%}
+;
+54931 new HIT. 47.22.: {#mandam mandam avatizWate#}. -- {%Caus. i. q.%}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54932 old {%Caus. primit.%} N. 20. 12.
+;
+54932 new {%Caus. primit.%} N. 20.12.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54933 old <div n="pfx">c. {#ava#} praef. {#pari#} stare, versari, esse. MAH. 1. 4029.: {#sata-#}
+;
+54933 new <div n="pfx">c. {#ava#} praef. {#pari#} stare, versari, esse. MAH. 1.4029.: {#sata-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54934 old {#tam pOruze paryavasTitaH#}; BH. 2. 65…{#prasannatejaso hy#}
+;
+54934 new {#tam pOruze paryavasTitaH#}; BH. 2.65…{#prasannatejaso hy#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54937 old <div n="pfx">c. {#ava#} praef. {#prati#} exadversum stare. SU. 3. 24.
+;
+54937 new <div n="pfx">c. {#ava#} praef. {#prati#} exadversum stare. SU. 3.24.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54938 old <div n="pfx">c. {#ava#} praef. {#vi#} stare, adstare, versari, esse. DEV. 7. 2.:
+;
+54938 new <div n="pfx">c. {#ava#} praef. {#vi#} stare, adstare, versari, esse. DEV. 7.2.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54940 old BH. 1. 20.: {#vyavasTitAn dfzwvA DArtarAzwrAn#}; 3. 34.: {#i-#}
+;
+54940 new BH. 1.20.: {#vyavasTitAn dfzwvA DArtarAzwrAn#}; 3.34.: {#i-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54942 old Schl. II. 23. 42. 41. 10. MAN. 10. 68. -- {%Caus.%} consti-
+;
+54942 new Schl. II. 23.42. 41.10. MAN. 10.68. -- {%Caus.%} consti-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54943 old tuere, facere. RAGH. 14. 53.: {#vyavasTApitavAk kaTa-#}
+;
+54943 new tuere, facere. RAGH. 14.53.: {#vyavasTApitavAk kaTa-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54945 old <div n="pfx">c. {#A#} 1) adstare. N. 9. 8. 2) adire, accedere. N. 4. 4. 3) ad-
+;
+54945 new <div n="pfx">c. {#A#} 1) adstare. N. 9.8. 2) adire, accedere. N. 4.4. 3) ad-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54946 old scendere, e. c. currum, elephantum. DR. 5. 12. SA. 1. 36.
+;
+54946 new scendere, e. c. currum, elephantum. DR. 5.12. SA. 1.36.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54947 old A. 1. 7. 10. 29. 4) facere, exercere, efficere, parare, ad-
+;
+54947 new A. 1.7. 10.29. 4) facere, exercere, efficere, parare, ad-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54948 old hibere, assumere. N. 19. 22. SU. 1. 24. SA. 1. 5. N. 18. 24.
+;
+54948 new hibere, assumere. N. 19.22. SU. 1.24. SA. 1.5. N. 18.24.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54949 old A. 3. 30. BH. 3. 20. A. 3. 43.
+;
+54949 new A. 3.30. BH. 3.20. A. 3.43.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54950 old <div n="pfx">c. {#A#} praef. {#sam#} {%id.%} DR. 5. 14. SU. 2. 12. N. 20. 16. A. 3.
+;
+54950 new <div n="pfx">c. {#A#} praef. {#sam#} {%id.%} DR. 5.14. SU. 2.12. N. 20.16. A. 3.33.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54951 old 33.
+;
+54951 new 
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54952 old <div n="pfx">c. {#ut#} ({#utTA#}, v. gr. 694.) surgere. SU. 4. 11. SA. 5. 101.
+;
+54952 new <div n="pfx">c. {#ut#} ({#utTA#}, v. gr. 694.) surgere. SU. 4.11. SA. 5.101.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54954 old surgendum. SA. 5. 101. {%b.%}
+;
+54954 new surgendum. SA. 5.101. {%b.%}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54955 old <div n="pfx">c. {#ut#} praef. {#anu (anUtTA)#} post aliquem surgere. RAGH.
+;
+54955 new <div n="pfx">c. {#ut#} praef. {#anu (anUtTA)#} post aliquem surgere. RAGH. 2.24.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54956 old 2. 24.: {#suptAm anusaMviveSa suptotTitAm prAtar a-#}
+;
+54956 new {#suptAm anusaMviveSa suptotTitAm prAtar a-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54958 old <div n="pfx">c. {#ut#} praef. {#prati#} exadversum surgere. MAN. 2. 119.
+;
+54958 new <div n="pfx">c. {#ut#} praef. {#prati#} exadversum surgere. MAN. 2.119.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54959 old <div n="pfx">c. {#ut#} praef. {#sam (samutTA)#} 1) surgere. SA. 1. 8. 2) ex-
+;
+54959 new <div n="pfx">c. {#ut#} praef. {#sam (samutTA)#} 1) surgere. SA. 1.8. 2) ex-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54960 old oriri. BR. 1. 10.
+;
+54960 new oriri. BR. 1.10.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54961 old <div n="pfx">c. {#upa#} 1) adstare, adesse. N. 15. 7. 10. 26. 14. R. Schl.
+;
+54961 new <div n="pfx">c. {#upa#} 1) adstare, adesse. N. 15.7. 10. 26.14. R. Schl. II. 8.10.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54962 old II. 8. 10. MAH. 1. 8057.: {#upatasTire#}. 2) adire, accede-
+;
+54962 new MAH. 1.8057.: {#upatasTire#}. 2) adire, accede-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54963 old re, appropinquare. N. 8. 25.: {#rAjAnam upatasTe#}; SU. 4.
+;
+54963 new re, appropinquare. N. 8.25.: {#rAjAnam upatasTe#}; SU. 4.8.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54964 old 8.: {#vAditranftyAByAm upAtizWanta tO striyaH#}; R. Schl.
+;
+54964 new {#vAditranftyAByAm upAtizWanta tO striyaH#}; R. Schl. I. 25.4.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54965 old I. 25. 4.: {#viSvamitram…aBivAdayitun tatra sahi-#}
+;
+54965 new {#viSvamitram…aBivAdayitun tatra sahi-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54966 old {#tAv upatasTatuH#}; MAH. 3. 16509.: {#raTeno 'patasTe raRe rA-#}
+;
+54966 new {#tAv upatasTatuH#}; MAH. 3.16509.: {#raTeno 'patasTe raRe rA-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54967 old {#mam#}.{# -- upasTita#} qui appropinquvit, accessit. N. 8. 10.:
+;
+54967 new {#mam#}.{# -- upasTita#} qui appropinquvit, accessit. N. 8.10.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54968 old {#mahad Bayam upasTitam#}; R. Schl. II. 51. 18.: {#tasmin#}
+;
+54968 new {#mahad Bayam upasTitam#}; R. Schl. II. 51.18.: {#tasmin#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54970 old ({%ATM.%}). MAH. 3. 10754.: {#tAm uvAce 'dam upatizWasva#}
+;
+54970 new ({%ATM.%}). MAH. 3.10754.: {#tAm uvAce 'dam upatizWasva#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54972 old Schl. II. 95. 7.: {#Adityam upatizWante#}; BHATT. 1. 3.: {#na#}
+;
+54972 new Schl. II. 95.7.: {#Adityam upatizWante#}; BHATT. 1.3.: {#na#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54973 old {#tryambakAd anyam upAsTita#}. {%Etiam P.%} MAH. 3.
+;
+54973 new {#tryambakAd anyam upAsTita#}. {%Etiam P.%} MAH. 3.11847.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54975 old 11847.: {#udyantam Adityam upatizWanti dvijAH#}. 4) mi-
+;
+54975 new {#udyantam Adityam upatizWanti dvijAH#}. 4) mi-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54977 old RAGH. 17. 10.: {#tatrE 'naM…kumBezu samBftEs tIrTavA-#}
+;
+54977 new RAGH. 17.10.: {#tatrE 'naM…kumBezu samBftEs tIrTavA-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54978 old {#riBir upatasTuH prakftayaH#}; UR. 1. 9.: {#aham asyAm#}
+;
+54978 new {#riBir upatasTuH prakftayaH#}; UR. 1.9.: {#aham asyAm#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54980 old locare. R. Schl. II. 3. 18. 2) facere ut quid accedat, sup-
+;
+54980 new locare. R. Schl. II. 3.18. 2) facere ut quid accedat, sup-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54981 old peditare. R. Schl. I. 26. 2.
+;
+54981 new peditare. R. Schl. I. 26.2.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54982 old <div n="pfx">c. {#upa#} praef. {#aBi#} adstare, adesse. {%Pass.%} MAH. 3. 16132.:
+;
+54982 new <div n="pfx">c. {#upa#} praef. {#aBi#} adstare, adesse. {%Pass.%} MAH. 3.16132.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54984 old <div n="pfx">c. {#upa#} praef. {#pari#} 1) circumstare. R. Schl. II. 64. 1. 2) ad-
+;
+54984 new <div n="pfx">c. {#upa#} praef. {#pari#} 1) circumstare. R. Schl. II. 64.1. 2) ad-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54985 old ire, aggredi, appropinquare. MAH. 3. 13027.: {#yugAnte paryu-#}
+;
+54985 new ire, aggredi, appropinquare. MAH. 3.13027.: {#yugAnte paryu-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54987 old <div n="pfx">c. {#upa#} praef. {#prati#} adire, aggredi, appropinquare. MAH.
+;
+54987 new <div n="pfx">c. {#upa#} praef. {#prati#} adire, aggredi, appropinquare. MAH. 3.1920.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54988 old 3. 1920.
+;
+54988 new 
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54989 old <div n="pfx">c. {#upa#} praef. {#sam#} 1) adstare. BH. 1. 28. 2) adire, accede-
+;
+54989 new <div n="pfx">c. {#upa#} praef. {#sam#} 1) adstare. BH. 1.28. 2) adire, accede-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54990 old re, appropinquare. BH. 2. 2.
+;
+54990 new re, appropinquare. BH. 2.2.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54992 old BH. 13. 17.: {#jYAnam…hfdi sarvasya nizWitam#}. 2) ver-
+;
+54992 new BH. 13.17.: {#jYAnam…hfdi sarvasya nizWitam#}. 2) ver-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54993 old satus, peritus, gnarus, {%c. loc.%} R. Schl. I. 12. 6. 20. -- {#pari-#}
+;
+54993 new satus, peritus, gnarus, {%c. loc.%} R. Schl. I. 12.6. 20. -- {#pari-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54994 old {#nizWita#} valde peritus. R. Schl. I. 9. 8.
+;
+54994 new {#nizWita#} valde peritus. R. Schl. I. 9.8.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54995 old <div n="pfx">c. {#pra#} proficisci, procedere. N. 12. 1.: {#sA nihatya mfgavyA-#}
+;
+54995 new <div n="pfx">c. {#pra#} proficisci, procedere. N. 12.1.: {#sA nihatya mfgavyA-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54996 old {#Dam pratasTe#}; MAH. 1. 5034.: {#pratasTur gajasAhvayam#}; 1.
+;
+54996 new {#Dam pratasTe#}; MAH. 1.5034.: {#pratasTur gajasAhvayam#}; 1.6437.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54997 old 6437. -- {#prasTita#} proficiscens. N. 17. 35.: {#prasTitAH sme#}
+;
+54997 new -- {#prasTita#} proficiscens. N. 17.35.: {#prasTitAH sme#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54998 old {#'ty aTA 'bruvan#}; SA. 4. 25. A. 5. 18. Profectus. IN. 5.
+;
+54998 new {#'ty aTA 'bruvan#}; SA. 4.25. A. 5.18. Profectus. IN. 5.5.:
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+54999 old 5.: {#nirgamya candrodayane…prasTitA sA…pArTasya Ba-#}
+;
+54999 new {#nirgamya candrodayane…prasTitA sA…pArTasya Ba-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55000 old {#vanam prati#}. {%Caus.%} mittere. N. 21. 35. BR. 2. 30.
+;
+55000 new {#vanam prati#}. {%Caus.%} mittere. N. 21.35. BR. 2.30.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55001 old <div n="pfx">c. {#pra#} praef. {#prati + aBi (pratyaBiprasTA)#} proficisci. MAH.
+;
+55001 new <div n="pfx">c. {#pra#} praef. {#prati + aBi (pratyaBiprasTA)#} proficisci. MAH. 1.683.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55002 old 1. 683.
+;
+55002 new 
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55003 old <div n="pfx">c. {#pra#} praef. {#vi#} 1) proficisci. MAH. 1. 6594. 3. 15218.: {#vi-#}
+;
+55003 new <div n="pfx">c. {#pra#} praef. {#vi#} 1) proficisci. MAH. 1.6594. 3.15218.: {#vi-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55004 old {#pratasTe#}; 1. 8140.: {#vipratasTuH#}. 2) se extendere, se dif-
+;
+55004 new {#pratasTe#}; 1.8140.: {#vipratasTuH#}. 2) se extendere, se dif-
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55005 old fundere. MAH. 1. 3709.: {#tasmAd BAratavaMSasya viprata-#}
+;
+55005 new fundere. MAH. 1.3709.: {#tasmAd BAratavaMSasya viprata-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55007 old <div n="pfx">c. {#pra#} praef. {#sam#} proficisci. MAH. 1. 4644. 5634. 8306. --
+;
+55007 new <div n="pfx">c. {#pra#} praef. {#sam#} proficisci. MAH. 1.4644. 5634. 8306. --
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55008 old {#samprasTita#} proficiscens. R. Schl. II. 38. 13. Profectus.
+;
+55008 new {#samprasTita#} proficiscens. R. Schl. II. 38.13. Profectus.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55009 old MAH. 3. 8540.
+;
+55009 new MAH. 3.8540.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55010 old <div n="pfx">c. {#prati#} stare, morari, versari, esse. MAH. 3. 224. -- {#prati-#}
+;
+55010 new <div n="pfx">c. {#prati#} stare, morari, versari, esse. MAH. 3.224. -- {#prati-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55011 old {#zWita#} 1) stans etc. SA. 5. 88.: {#tvayi vaMSaH pratizWitaH#};
+;
+55011 new {#zWita#} 1) stans etc. SA. 5.88.: {#tvayi vaMSaH pratizWitaH#};
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55013 old BH. 3. 15. IN. 1. 18. 2) calcatus. HIT. 8. 8.: {#aSmA 'pi#}
+;
+55013 new BH. 3.15. IN. 1.18. 2) calcatus. HIT. 8.8.: {#aSmA 'pi#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55015 old tus, gnarus, {%c. loc.%} (v. praef. {#ni#}). N. 22. 12.: {#aSvakuSalaH#}
+;
+55015 new tus, gnarus, {%c. loc.%} (v. praef. {#ni#}). N. 22.12.: {#aSvakuSalaH#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55016 old {#sUtatveca pratizWitaH#}. -- {%Caus.%} collocare, tradere. R. Schl.
+;
+55016 new {#sUtatveca pratizWitaH#}. -- {%Caus.%} collocare, tradere. R. Schl. II. 39.9.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55017 old II. 39. 9. MAN. 3. 135.
+;
+55017 new MAN. 3.135.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55018 old <div n="pfx">c. {#prati#} praef. {#sam sampratizWA#} i. q. {#pratizWA#}. MAH. 1. 8359.
+;
+55018 new <div n="pfx">c. {#prati#} praef. {#sam sampratizWA#} i. q. {#pratizWA#}. MAH. 1.8359.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55019 old <div n="pfx">c. {#vi#} {%i. q. simpl.%} sgf. 1. et 2. SU. 1. 9. MAH. 1. 6558. 8360.
+;
+55019 new <div n="pfx">c. {#vi#} {%i. q. simpl.%} sgf. 1. et 2. SU. 1.9. MAH. 1.6558. 8360.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55020 old <div n="pfx">c. {#sam#} 1) stare. DR. 8. 1. -- {#saMsTita#} stans, motu vacans.
+;
+55020 new <div n="pfx">c. {#sam#} 1) stare. DR. 8.1. -- {#saMsTita#} stans, motu vacans.
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55021 old IN. 2. 8. 2) perire. BHATT. 8. 11.: {#na tat saMsTAsyate#}
+;
+55021 new IN. 2.8. 2) perire. BHATT. 8.11.: {#na tat saMsTAsyate#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55023 old mortuus. MAN. 3. 247. 5. 58. 78. 80. 151. (Vid. etiam {#saM-#}
+;
+55023 new mortuus. MAN. 3.247. 5.58. 78. 80. 151. (Vid. etiam {#saM-#}
+;---------------------------------------------------
+; <L>8666<pc>387-a<k1>sTA<k2>sTA
+55026 old MAH. 1. 4827.
+;
+55026 new MAH. 1.4827.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56116 old tundere. MAH. 1. 6706.: {#tam fzim…jaGAna kaSayA#};
+;
+56116 new tundere. MAH. 1.6706.: {#tam fzim…jaGAna kaSayA#};
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56117 old DR. 5. 7.: {#harim…prapadena haMsi#}; MAH. 4. 701. 2) {%sae-%}
+;
+56117 new DR. 5.7.: {#harim…prapadena haMsi#}; MAH. 4.701. 2) {%sae-%}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56118 old {%pissime%} occidere, interficere. H. 2. 12.: {#hatvE 'tAn mAnu-#}
+;
+56118 new {%pissime%} occidere, interficere. H. 2.12.: {#hatvE 'tAn mAnu-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56119 old {#zAn sarvAn#}; 3. 7.: {#aham enaM hanizyAmi#}; 3. 19.
+;
+56119 new {#zAn sarvAn#}; 3.7.: {#aham enaM hanizyAmi#}; 3.19.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56120 old MAH. 2. 2539.: {#ahan duryoDanaM hantA SakuniM sa hani-#}
+;
+56120 new MAH. 2.2539.: {#ahan duryoDanaM hantA SakuniM sa hani-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56121 old {#zyati#}. {%Etiam A.%} MAH. 1. 5579.: {#hanizye#}. -- {%TROP.%} de-
+;
+56121 new {#zyati#}. {%Etiam A.%} MAH. 1.5579.: {#hanizye#}. -- {%TROP.%} de-
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56122 old lere, destruere, extinguere. BR. 2. 3.: {#vyaTAY jahi#}; SA.
+;
+56122 new lere, destruere, extinguere. BR. 2.3.: {#vyaTAY jahi#}; SA. 3.11.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56123 old 3. 11.: {#ASAM nA 'rhasi me hantum#}; 5. 17.: {#hatapraBa#}. --
+;
+56123 new {#ASAM nA 'rhasi me hantum#}; 5.17.: {#hatapraBa#}. --
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56124 old {%Caus.%} {#GAtayAmi#} occidendum, delendum, curare. BH. 2.
+;
+56124 new {%Caus.%} {#GAtayAmi#} occidendum, delendum, curare. BH. 2.21.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56126 old 21.: {#kaTaM sa…kaN GAtayati hanti kam#}; MAH. 2. 975.
+;
+56126 new {#kaTaM sa…kaN GAtayati hanti kam#}; MAH. 2.975.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56127 old MAN. 8. 34. -- {%Desid.%} {#jiGAMs#} (gr. 551.) occidere velle.
+;
+56127 new MAN. 8.34. -- {%Desid.%} {#jiGAMs#} (gr. 551.) occidere velle.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56128 old NAL. 13. 8.: {#jiGAMsantaH#}. -- {%Sensu fut. verbi primi-%}
+;
+56128 new NAL. 13.8.: {#jiGAMsantaH#}. -- {%Sensu fut. verbi primi-%}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56129 old {%tivi%} (cf. {#mumUrzu#} moriturus. DR. 7. 5.). H. 4. 30.: {#BrAtrA#}
+;
+56129 new {%tivi%} (cf. {#mumUrzu#} moriturus. DR. 7.5.). H. 4.30.: {#BrAtrA#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56136 old {%dôd, tôd%} mors; lat. {%FEND, offendo, defendo%} (Pott 1.
+;
+56136 new {%dôd, tôd%} mors; lat. {%FEND, offendo, defendo%} (Pott 1.255.)
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56137 old 255.) c. {%f%} = {#D#}, sicut in {%fumus, inferus, rufus%}, v. {#DUma#},
+;
+56137 new c. {%f%} = {#D#}, sicut in {%fumus, inferus, rufus%}, v. {#DUma#},
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56142 old <div n="pfx">c. {#apa#} abigere, depellere. RIGV. 42. 2.: {#apa sma tam pa-#}
+;
+56142 new <div n="pfx">c. {#apa#} abigere, depellere. RIGV. 42.2.: {#apa sma tam pa-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56143 old {#To jahi#}. {%TROP.%} MAN. 6. 96.: {#sannyAsenA 'pahatyE 'naH#}.
+;
+56143 new {#To jahi#}. {%TROP.%} MAN. 6.96.: {#sannyAsenA 'pahatyE 'naH#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56144 old <div n="pfx">c. {#aBi#} {%i. q. simpl.%} BH. 1. 13. A. 7. 6.: ({#aByaGnam#} v. gr.
+;
+56144 new <div n="pfx">c. {#aBi#} {%i. q. simpl.%} BH. 1.13. A. 7.6.: ({#aByaGnam#} v. gr. 324. gr. min. 293.); 
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56145 old 324. gr. min. 293.); MAH. 1. 7736.
+;
+56145 new MAH. 1.7736.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56146 old <div n="pfx">c. {#ava#} {%id.%} MAH. 2. 915.: {#anyonyaY jAnuBir avaja-#}
+;
+56146 new <div n="pfx">c. {#ava#} {%id.%} MAH. 2.915.: {#anyonyaY jAnuBir avaja-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56148 old <div n="pfx">c. {#A#} {%id.%} DR. 8. 35.
+;
+56148 new <div n="pfx">c. {#A#} {%id.%} DR. 8.35.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56149 old <div n="pfx">c. {#A#} praef. {#aBi#} {%id.%} MAH. 1. 8223.
+;
+56149 new <div n="pfx">c. {#A#} praef. {#aBi#} {%id.%} MAH. 1.8223.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56150 old <div n="pfx">c. {#A#} praef. {#vi#} impedire. R. Schl. II. 10. 32.: {#na te ka-#}
+;
+56150 new <div n="pfx">c. {#A#} praef. {#vi#} impedire. R. Schl. II. 10.32.: {#na te ka-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56151 old {#Ycid aBiprAyaM vyAhantum utsahe#}; 22. 25.: {#vyAhate#}
+;
+56151 new {#Ycid aBiprAyaM vyAhantum utsahe#}; 22.25.: {#vyAhate#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56154 old <div n="pfx">c. {#A#} praef. {#sam#} 1) conglobare, comprimere. A. 3. 40.:
+;
+56154 new <div n="pfx">c. {#A#} praef. {#sam#} 1) conglobare, comprimere. A. 3.40.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56156 old DR. 5. 17.: {#hastaM samAhatya DanaYjayasya BImAH SarAH#}.
+;
+56156 new DR. 5.17.: {#hastaM samAhatya DanaYjayasya BImAH SarAH#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56157 old 3) {%i. q. simpl.%} MAH. 1. 6291.: {#tam…jAnuByAM samAjaGne#};
+;
+56157 new 3) {%i. q. simpl.%} MAH. 1.6291.: {#tam…jAnuByAM samAjaGne#}; 7941.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56158 old 7941.: {#BerIM samAjaGne#}.
+;
+56158 new {#BerIM samAjaGne#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56159 old <div n="pfx">c. {#ut#} tollere. R. Schl. II. 53. 32.: {#jalAn matsyAv ivo#}
+;
+56159 new <div n="pfx">c. {#ut#} tollere. R. Schl. II. 53.32.: {#jalAn matsyAv ivo#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56160 old {#'dDatO#}.{# -- udData#} superbus. HIT. 115. 11.
+;
+56160 new {#'dDatO#}.{# -- udData#} superbus. HIT. 115.11.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56161 old <div n="pfx">c. {#upa#} 1) pulsare, ferire. {%TROP.%} H. 2. 29. N. 7. 14. BH. 1.
+;
+56161 new <div n="pfx">c. {#upa#} 1) pulsare, ferire. {%TROP.%} H. 2.29. N. 7.14. BH. 1.38.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56162 old 38. 2) attingere, contingere, usurpare, adhibere. MAN.
+;
+56162 new 2) attingere, contingere, usurpare, adhibere. MAN. 9.208.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56163 old 9. 208.: {#anupaGnan pitfdravyam#}.
+;
+56163 new {#anupaGnan pitfdravyam#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56164 old <div n="pfx">c. {#ni#} {%P. A.%} 1) pulsare, ferire. A. 3. 19.: {#niGnan proTena pf-#}
+;
+56164 new <div n="pfx">c. {#ni#} {%P. A.%} 1) pulsare, ferire. A. 3.19.: {#niGnan proTena pf-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56165 old {#TivIm#}; MAH. 3. 12220.: {#SirAMsi viSiKEr dIptEr#}
+;
+56165 new {#TivIm#}; MAH. 3.12220.: {#SirAMsi viSiKEr dIptEr#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56166 old {#nyahanam#}; 4. 1680.: {#virAwaputraYca kare nijaGne#}. {%TROP.%}
+;
+56166 new {#nyahanam#}; 4.1680.: {#virAwaputraYca kare nijaGne#}. {%TROP.%}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56167 old profligare. HIT. 6. 14.: {#dEvaM nihatya#}. 2) occidere, inter-
+;
+56167 new profligare. HIT. 6.14.: {#dEvaM nihatya#}. 2) occidere, inter-
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56168 old ficere. H. 4. 15.: {#tvAm eva…nihanmy adya#}; SU. 4. 18.
+;
+56168 new ficere. H. 4.15.: {#tvAm eva…nihanmy adya#}; SU. 4.18.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56169 old R. Schl. I. 45. 49. 3) demergere, defigere. R. Schl. II.
+;
+56169 new R. Schl. I. 45.49. 3) demergere, defigere. R. Schl. II. 82.16.:
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56170 old 82. 16.: {#rAme nihatacetasaH#}.
+;
+56170 new {#rAme nihatacetasaH#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56171 old <div n="pfx">c. {#ni#} praef. {#pari#} pulsare, ferire. MAH. 3. 12261.
+;
+56171 new <div n="pfx">c. {#ni#} praef. {#pari#} pulsare, ferire. MAH. 3.12261.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56172 old <div n="pfx">c. {#ni#} praef. {#vi#} 1) pulsare. R. Schl. I. 9. 16. 2) occidere,
+;
+56172 new <div n="pfx">c. {#ni#} praef. {#vi#} 1) pulsare. R. Schl. I. 9.16. 2) occidere,
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56173 old interficere, destruere, delere. MAH. 1. 2837. A. 8. 25.
+;
+56173 new interficere, destruere, delere. MAH. 1.2837. A. 8.25.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56174 old <div n="pfx">c. {#parA#} abigere, propellere. MAH. 3. 12889.: {#payodAH…vA-#}
+;
+56174 new <div n="pfx">c. {#parA#} abigere, propellere. MAH. 3.12889.: {#payodAH…vA-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56176 old <div n="pfx">c. {#pari#} decutere, dejicere. GITA-G. 5. 13.: {#parihatarasa-#}
+;
+56176 new <div n="pfx">c. {#pari#} decutere, dejicere. GITA-G. 5.13.: {#parihatarasa-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56178 old <div n="pfx">c. {#prati#} {%P. A.%} 1) referire. MAH. 3. 1091.: {#pratihanyAd Da-#}
+;
+56178 new <div n="pfx">c. {#prati#} {%P. A.%} 1) referire. MAH. 3.1091.: {#pratihanyAd Da-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56180 old {%schlagen.%} A. 3. 31.: {#asmin pratihatecA 'stre#}; 8. 11. --
+;
+56180 new {%schlagen.%} A. 3.31.: {#asmin pratihatecA 'stre#}; 8.11. --
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56181 old MAH. 1. 8278.: {#SarEr arjuno varzam pratijaGne#}; 2. 81.
+;
+56181 new MAH. 1.8278.: {#SarEr arjuno varzam pratijaGne#}; 2.81.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56182 old 3) pulsare, ferire. A. 10. 20. 36.
+;
+56182 new 3) pulsare, ferire. A. 10.20. 36.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56183 old <div n="pfx">c. {#vi#} 1) pulsare, ferire. A. 8. 4. 10. 23. 56. {%TROP.%} affli-
+;
+56183 new <div n="pfx">c. {#vi#} 1) pulsare, ferire. A. 8.4. 10.23. 56. {%TROP.%} affli-
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56184 old gere, {#manaH#} animum. MAH. 2. 151.: {#mano vihanyate#}. 2) re-
+;
+56184 new gere, {#manaH#} animum. MAH. 2.151.: {#mano vihanyate#}. 2) re-
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56185 old pudiare, repellere. RAGH. 2. 58.: {#nA 'rhasi tvam…me pra-#}
+;
+56185 new pudiare, repellere. RAGH. 2.58.: {#nA 'rhasi tvam…me pra-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56186 old {#RayaM vihantum#}; 11. 2.: {#raGoH kule na vyahanyata kadA-#}
+;
+56186 new {#RayaM vihantum#}; 11.2.: {#raGoH kule na vyahanyata kadA-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56187 old {#cid arTitA#}. 3) impedire. R. Schl. II. 23. 22.: {#loka-#}
+;
+56187 new {#cid arTitA#}. 3) impedire. R. Schl. II. 23.22.: {#loka-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56189 old {#nyuH#}; MAH. 3. 15138.: {#mA vihanyata gacCata#} ({#vihanyata#}
+;
+56189 new {#nyuH#}; MAH. 3.15138.: {#mA vihanyata gacCata#} ({#vihanyata#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56192 old lendum curare. HIT. 102. 6.: {#parasEnyaM viGAtayet#}.
+;
+56192 new lendum curare. HIT. 102.6.: {#parasEnyaM viGAtayet#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56193 old <div n="pfx">c. {#sam#} 1) colligere, conjungere. MAN. 2. 71.: {#saMhatya ha-#}
+;
+56193 new <div n="pfx">c. {#sam#} 1) colligere, conjungere. MAN. 2.71.: {#saMhatya ha-#}
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56194 old {#stO#}; HIT. 14. 10.: {#saMhatAs tu haranto 'me mama jAlam#}.
+;
+56194 new {#stO#}; HIT. 14.10.: {#saMhatAs tu haranto 'me mama jAlam#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56195 old Coacervare. IN. 1. 6.: {#saMhatASca taTo 'palAH#}. 2) contra-
+;
+56195 new Coacervare. IN. 1.6.: {#saMhatASca taTo 'palAH#}. 2) contra-
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56196 old here. DR. 7. 9.: {#BfkuwIsaMhataBruvam#}.
+;
+56196 new here. DR. 7.9.: {#BfkuwIsaMhataBruvam#}.
+;---------------------------------------------------
+; <L>8824<pc>397-1a<k1>han<k2>han<h>1
+56198 old MAH. 2. 800.
+;
+56198 new MAH. 2.800.
+;---------------------------------------------------

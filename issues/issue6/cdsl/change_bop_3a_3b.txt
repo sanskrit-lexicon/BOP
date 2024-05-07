@@ -1,0 +1,585 @@
+; <L>16<pc>001-a<k1>ak<k2>ak
+73 old {#ak#}¦ 1. {%P.%} ({#kuwilAyAN gatO#} {%K.%} {#vakragate#} {%v.%} cf. {#ag#}) flexuose,
+;
+73 new {#ak#}¦ 1. {%P.%} ({#kuwilAyAN gatO#} {%K.%} {#vakragate#} {%V.%} cf. {#ag#}) flexuose,
+;---------------------------------------------------
+; <L>30<pc>001-b<k1>akz<k2>akz
+149 old {#akz#}¦ 1. et 5. {%P.%} ({#saNGAte#} {%K.%} {#vyAptisaMhatyoH#} {%v.%}) coacervare,
+;
+149 new {#akz#}¦ 1. et 5. {%P.%} ({#saNGAte#} {%K.%} {#vyAptisaMhatyoH#} {%V.%}) coacervare,
+;---------------------------------------------------
+; <L>47<pc>002-b<k1>ag<k2>ag
+260 old {#ag#}¦ 1. {%P.%} ({#kuwilAyAN gatO#} {%K.%} {#vakragate#} {%v.%}) tortuose, flexuose
+;
+260 new {#ag#}¦ 1. {%P.%} ({#kuwilAyAN gatO#} {%K.%} {#vakragate#} {%V.%}) tortuose, flexuose
+;---------------------------------------------------
+; <L>52<pc>002-b<k1>agni<k2>agni
+292 old {%ugni-s%}, slav. {%ognj%}, goth. {%auhn'-s%} hypocaustum, fornax
+;
+292 new {%ugni-s%}, slav. {%ognj%}, goth. {%auhn̕-s%} hypocaustum, fornax
+;---------------------------------------------------
+; <L>61<pc>003-a<k1>aG<k2>aG
+342 old {#aG#}¦ 10. {%P.%} ({#pApakaraRe#} {%K.%} {#tatkftO#} {%v.%}) peccare. (non vera
+;
+342 new {#aG#}¦ 10. {%P.%} ({#pApakaraRe#} {%K.%} {#tatkftO#} {%V.%}) peccare. (non vera
+;---------------------------------------------------
+; <L>68<pc>003-b<k1>aNg<k2>aNg<h>2
+380 old 2. {#aNg#}¦ 10. {%P.%} ({#lakzaRe#} {%K.%} {#pade lakzmaRi#} {%v.%}) notare.
+;
+380 new 2. {#aNg#}¦ 10. {%P.%} ({#lakzaRe#} {%K.%} {#pade lakzmaRi#} {%V.%}) notare.
+;---------------------------------------------------
+; <L>93<pc>004-a<k1>aj<k2>aj
+514 old {#aj#}¦ 1. {%P.%} ({#gatO#} {%K.%} {#kzepe gate#} {%v.%}) ire, conjicere (gr. <lang n="greek">ἄγω</lang>,
+;
+514 new {#aj#}¦ 1. {%P.%} ({#gatO#} {%K.%} {#kzepe gate#} {%V.%}) ire, conjicere (gr. <lang n="greek">ἄγω</lang>,
+;---------------------------------------------------
+; <L>108<pc>004-b<k1>aYc<k2>aYc<h>2
+606 old 2. {#aYc#}¦ 10. {%P.%} ({#vyaktAyAm vAci#} {%K.%} {#vyaktO#} {%v.%}) clare, distincte
+;
+606 new 2. {#aYc#}¦ 10. {%P.%} ({#vyaktAyAm vAci#} {%K.%} {#vyaktO#} {%V.%}) clare, distincte
+;---------------------------------------------------
+; <L>120<pc>005-a<k1>aww<k2>aww<h>1
+677 old 1. {#aww#}¦ 1. {%A.%} ({#atikrame#} {%K.%} {#atikrame, vaDe#} {%v.%}) superare,
+;
+677 new 1. {#aww#}¦ 1. {%A.%} ({#atikrame#} {%K.%} {#atikrame, vaDe#} {%V.%}) superare,
+;---------------------------------------------------
+; <L>226<pc>008-b<k1>ana<k2>ana
+1246 old {%an'-s%} ille fem. {%ana%}, slav. {%on, ona, ono%} v. gr. comp. 372;
+;
+1246 new {%an̕-s%} ille fem. {%ana%}, slav. {%on, ona, ono%} v. gr. comp. 372;
+;---------------------------------------------------
+; <L>526<pc>017-a<k1>amB<k2>amB
+2808 old {#amB#}¦ 1. {%A.%} ({#Sabde#} {%K.%} {#DvanO#} {%v.%} scribunt {#aB#}, gr. 110^{%a%}).)
+;
+2808 new {#amB#}¦ 1. {%A.%} ({#Sabde#} {%K.%} {#DvanO#} {%V.%} scribunt {#aB#}, gr. 110^{%a%}).)
+;---------------------------------------------------
+; <L>563<pc>018-a<k1>ark<k2>ark
+2982 old {#ark#}¦ 10. {%P.%} ({#stavane#} {%K.%} {#tApastutyoH#} {%v.%}) urere, celebrare
+;
+2982 new {#ark#}¦ 10. {%P.%} ({#stavane#} {%K.%} {#tApastutyoH#} {%V.%}) urere, celebrare
+;---------------------------------------------------
+; <L>574<pc>018-b<k1>arj<k2>arj
+3043 old {%K.%} {#saMskAre#} {%v.%}): {#svarjitaN karma#} bene facta actio. RAM. ed. Ser. I.34.38.;
+;
+3043 new {%K.%} {#saMskAre#} {%V.%}): {#svarjitaN karma#} bene facta actio. RAM. ed. Ser. I.34.38.;
+;---------------------------------------------------
+; <L>596<pc>019-b<k1>arv<k2>arv
+3178 old {#arv#}¦ 1. {%P.%} ({#hiMsAyAm#} {%K.%} {#vaDe#} {%v.%}) ferire, laedere, occidere.
+;
+3178 new {#arv#}¦ 1. {%P.%} ({#hiMsAyAm#} {%K.%} {#vaDe#} {%V.%}) ferire, laedere, occidere.
+;---------------------------------------------------
+; <L>604<pc>019-b<k1>al<k2>al
+3230 old {#al#}¦ 1. {%P. A.%} ({#vAraRavyAptiBUzAsu#} {%v.%}) arcere, sufficere,
+;
+3230 new {#al#}¦ 1. {%P. A.%} ({#vAraRavyAptiBUzAsu#} {%V.%}) arcere, sufficere,
+;---------------------------------------------------
+; <L>662<pc>021-a<k1>avara<k2>avara
+3528 old posterus, posterior, postremus, ultimus. (gr. <lang n="greek">οὐϱά</lang> - v.
+;
+3528 new posterus, posterior, postremus, ultimus. (gr. <lang n="greek">αὐϱά</lang> - v.
+;---------------------------------------------------
+; <L>736<pc>023-b<k1>aSru<k2>aSru
+3927 old {#aSra#}; angl. {%tear%}, nostrum {%Zähre%}; lith. {%áfzara%}).
+;
+3927 new {#aSra#}; angl. {%tear%}, nostrum {%Zähre%}; lith. {%áʃzara%}).
+;---------------------------------------------------
+; <L>755<pc>024-b<k1>as<k2>as<h>1
+4036 old 1. {#as#}¦ 1. {%P. A.%} ({#dIptyAdAnayoH#} {%K.%} {#dIptigrahaRagatizu#} {%v.%})
+;
+4036 new 1. {#as#}¦ 1. {%P. A.%} ({#dIptyAdAnayoH#} {%K.%} {#dIptigrahaRagatizu#} {%V.%})
+;---------------------------------------------------
+; <L>1190<pc>043-a<k1>Ir<k2>Ir<h>1
+6735 old 1. {#Ir#}¦ 2. {%A.%} ({#gatO#} {%K.%} {#kampagatyoH#} {%v.%}) ire; tremere, commoveri,
+;
+6735 new 1. {#Ir#}¦ 2. {%A.%} ({#gatO#} {%K.%} {#kampagatyoH#} {%V.%}) ire; tremere, commoveri,
+;---------------------------------------------------
+; <L>1230<pc>045-a<k1>ucca<k2>ucca
+6995 old cambro-bril. {%uched%} «élevé». Pikt. p. 21.).
+;
+6995 new cambro-brit. {%uched%} «élevé». Pikt. p. 21.).
+;---------------------------------------------------
+; <L>1517<pc>052-b<k1>urd<k2>urd
+8441 old {#urd#}¦ 1. {%P.%} ({#mAne#} {%K.%} {#mitikrIqAsvAde#} {%v.%}) metiri; lunder;
+;
+8441 new {#urd#}¦ 1. {%P.%} ({#mAne#} {%K.%} {#mitikrIqAsvAde#} {%V.%}) metiri; lunder;
+;---------------------------------------------------
+; <L>1540<pc>053-b<k1>uzRa<k2>uzRa
+8582 old trahi possit goth. {%auhn'-s%} fornax, hypocaustum, nisi
+;
+8582 new trahi possit goth. {%auhn̕-s%} fornax, hypocaustum, nisi
+;---------------------------------------------------
+; <L>1567<pc>054-a<k1>Urj<k2>Urj
+8711 old {#Urj#}¦ 10. {%P.%} ({#balaprARaDaraRayoH#} {%K.%} {#jIvane bale#} {%v.%}) valere,
+;
+8711 new {#Urj#}¦ 10. {%P.%} ({#balaprARaDaraRayoH#} {%K.%} {#jIvane bale#} {%V.%}) valere,
+;---------------------------------------------------
+; <L>1600<pc>056-a<k1>fj<k2>fj
+8945 old {#fj#}¦ 1. {%A.%} ({#gatO#} {%K.%} {#gatisTEryorjanArjane#} {%v.%}) ire; firmum
+;
+8945 new {#fj#}¦ 1. {%A.%} ({#gatO#} {%K.%} {#gatisTEryorjanArjane#} {%V.%}) ire; firmum
+;---------------------------------------------------
+; <L>1632<pc>058-a<k1>ekatara<k2>ekatara
+9163 old (Gr. <lang n="greek">ἑϰάτεϱος</lang>, hib. {%n'-eachtar%} neuter.)
+;
+9163 new (Gr. <lang n="greek">ἑϰάτεϱος</lang>, hib. {%n̕-eachtar%} neuter.)
+;---------------------------------------------------
+; <L>1706<pc>060-2b<k1>oR<k2>oR
+9583 old {#oR#}¦ 1. {%P.%} ({#apanaye#} {%K.%} {#apasArane#} {%v.%}) abducere, auferre.
+;
+9583 new {#oR#}¦ 1. {%P.%} ({#apanaye#} {%K.%} {#apasArane#} {%V.%}) abducere, auferre.
+;---------------------------------------------------
+; <L>1749<pc>062-a<k1>kag<k2>kag
+9813 old {#kag#}¦ 1. {%P.%} ({#samvaraRe#} {%K.%} {#kriyAsu#} {%v.%}) tegere; agere.
+;
+9813 new {#kag#}¦ 1. {%P.%} ({#samvaraRe#} {%K.%} {#kriyAsu#} {%V.%}) tegere; agere.
+;---------------------------------------------------
+; <L>1760<pc>062-b<k1>kac<k2>kac<h>1
+9865 old 1. {#kac#}¦ 1. {%A.%} ({#banDane#} {%K.%} {#banDatvizoH#} {%v.%}) ligare; lucere,
+;
+9865 new 1. {#kac#}¦ 1. {%A.%} ({#banDane#} {%K.%} {#banDatvizoH#} {%V.%}) ligare; lucere,
+;---------------------------------------------------
+; <L>1769<pc>062-b<k1>kaj<k2>kaj
+9905 old {#kaj#}¦ 1. {%P.%} ({#hikkane#} {%v.%}) singultire.
+;
+9905 new {#kaj#}¦ 1. {%P.%} ({#hikkane#} {%V.%}) singultire.
+;---------------------------------------------------
+; <L>1775<pc>062-b<k1>kaw<k2>kaw<h>2
+9934 old 2. {#kaw#}¦ 1. {%P.%} ({#vftO#} {%K.%} {#vfzi#} {%v.%}) tegere; pluere.
+;
+9934 new 2. {#kaw#}¦ 1. {%P.%} ({#vftO#} {%K.%} {#vfzi#} {%V.%}) tegere; pluere.
+;---------------------------------------------------
+; <L>1787<pc>063-a<k1>kaq<k2>kaq<h>2
+9989 old 2. {#kaq#}¦ 6. {%P.%} ({#made adane#} {%K.%} {#adane darpe#} {%v.%}) ebrium, mente
+;
+9989 new 2. {#kaq#}¦ 6. {%P.%} ({#made adane#} {%K.%} {#adane darpe#} {%V.%}) ebrium, mente
+;---------------------------------------------------
+; <L>1792<pc>063-a<k1>kaR<k2>kaR<h>2
+10010 old 2. {#kaR#}¦ 1. {%P.%} ({#Sabde#} {%K.%} {#Artasvare#} {%v.%}) sonare; gemere.
+;
+10010 new 2. {#kaR#}¦ 1. {%P.%} ({#Sabde#} {%K.%} {#Artasvare#} {%V.%}) sonare; gemere.
+;---------------------------------------------------
+; <L>1914<pc>067-a<k1>karj<k2>karj
+10666 old {#karj#}¦ 1. {%P.%} ({#vyaTane#} {%K.%} {#pIqe#} {%v.%}) vexare.
+;
+10666 new {#karj#}¦ 1. {%P.%} ({#vyaTane#} {%K.%} {#pIqe#} {%V.%}) vexare.
+;---------------------------------------------------
+; <L>1945<pc>067-b<k1>kal<k2>kal<h>1
+10817 old 1. {#kal#}¦ 1. {%A.%} ({#saNKyAne#} {%K.%} {#saNKyarutO#} {%v.%}) numerare;
+;
+10817 new 1. {#kal#}¦ 1. {%A.%} ({#saNKyAne#} {%K.%} {#saNKyarutO#} {%V.%}) numerare;
+;---------------------------------------------------
+; <L>1979<pc>069-a<k1>kalya<k2>kalya
+11007 old e <lang n="greek">ϰαλλός - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang>
+;
+11007 new e <lang n="greek">ϰαλλόσ - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang>
+;---------------------------------------------------
+; <L>1982<pc>069-a<k1>kall<k2>kall
+11024 old {#kall#}¦ 1. {%A.%} ({#avyakte Sabde, kUjane Sabde, aSabde#} {%v.%})
+;
+11024 new {#kall#}¦ 1. {%A.%} ({#avyakte Sabde, kUjane Sabde, aSabde#} {%V.%})
+;---------------------------------------------------
+; <L>1984<pc>069-a<k1>kav<k2>kav
+11034 old {#kav#}¦ 1. {%A.%} ({#varRe#} {%K.%} {#stutO varRe#} {%v.%}) colorare, pingere, depingere,
+;
+11034 new {#kav#}¦ 1. {%A.%} ({#varRe#} {%K.%} {#stutO varRe#} {%V.%}) colorare, pingere, depingere,
+;---------------------------------------------------
+; <L>1993<pc>069-a<k1>kaS<k2>kaS
+11076 old {#kaS#}¦ 1. {%P. A.%} ({#hiMsAyAm#} {%K.%} {#Sabde#} {%v.%}) pulsare, laedere, occidere;
+;
+11076 new {#kaS#}¦ 1. {%P. A.%} ({#hiMsAyAm#} {%K.%} {#Sabde#} {%V.%}) pulsare, laedere, occidere;
+;---------------------------------------------------
+; <L>2150<pc>074-a<k1>kil<k2>kil<h>2
+11921 old 2. {#kil#}¦ 10. {%P.%} ({#kzepe#} {%K.%} {#nudO#} {%v.%}) jaculari; mittere.
+;
+11921 new 2. {#kil#}¦ 10. {%P.%} ({#kzepe#} {%K.%} {#nudO#} {%V.%}) jaculari; mittere.
+;---------------------------------------------------
+; <L>2156<pc>074-b<k1>kizk<k2>kizk
+11948 old {#kizk#}¦ 10. {%A.%} ({#vaDe#} {%v.%}) occidere. (Hib. {%ceasaim%} «I torment,
+;
+11948 new {#kizk#}¦ 10. {%A.%} ({#vaDe#} {%V.%}) occidere. (Hib. {%ceasaim%} «I torment,
+;---------------------------------------------------
+; <L>2162<pc>074-b<k1>kIw<k2>kIw
+11974 old {#kIw#}¦ 10. {%P.%} ({#banDe#} {%K.%} {#banDavarRayoH#} {%v.%}) ligare; tingere.
+;
+11974 new {#kIw#}¦ 10. {%P.%} ({#banDe#} {%K.%} {#banDavarRayoH#} {%V.%}) ligare; tingere.
+;---------------------------------------------------
+; <L>2192<pc>075-a<k1>kuj<k2>kuj
+12119 old {#kuj#}¦ 1. {%P.%} ({#steyakaraRe#} {%K.%} {#steye#} {%v.%}) furari.
+;
+12119 new {#kuj#}¦ 1. {%P.%} ({#steyakaraRe#} {%K.%} {#steye#} {%V.%}) furari.
+;---------------------------------------------------
+; <L>2222<pc>076-a<k1>kuRW<k2>kuRW
+12261 old {#kuRW#}¦ 1. {%P.%} ({#Alasye#} {%K.%} {#Kowane vEkalye Alasye#} {%v.%}; scribitur
+;
+12261 new {#kuRW#}¦ 1. {%P.%} ({#Alasye#} {%K.%} {#Kowane vEkalye Alasye#} {%V.%}; scribitur
+;---------------------------------------------------
+; <L>2239<pc>076-b<k1>kuT<k2>kuT
+12347 old {#kuT#}¦ 4. {%P.%} ({#pUtIBAve#} {%K.%} {#pUtitve#} {%v.%}) foetere (cf. {#pUy#}).
+;
+12347 new {#kuT#}¦ 4. {%P.%} ({#pUtIBAve#} {%K.%} {#pUtitve#} {%V.%}) foetere (cf. {#pUy#}).
+;---------------------------------------------------
+; <L>2245<pc>076-b<k1>kunT<k2>kunT<h>1
+12372 old 1. {#kunT#}¦ 1. {%P.%} ({#hiMsA saNkleSayoH#} {%K.%} {#kleSe vaDe#} {%v.%}, scribitur
+;
+12372 new 1. {#kunT#}¦ 1. {%P.%} ({#hiMsA saNkleSayoH#} {%K.%} {#kleSe vaDe#} {%V.%}, scribitur
+;---------------------------------------------------
+; <L>2250<pc>076-b<k1>kup<k2>kup<h>2
+12404 old 2. {#kup#}¦ 10. {%P.%} ({#BAzArTe#} {%K.%} {#dyutO#} {%v.%}) loqui; splendere. (Cf.
+;
+12404 new 2. {#kup#}¦ 10. {%P.%} ({#BAzArTe#} {%K.%} {#dyutO#} {%V.%}) loqui; splendere. (Cf.
+;---------------------------------------------------
+; <L>2266<pc>077-a<k1>kumb<k2>kumb
+12490 old {#kumb#}¦ 10. {%P.%} ({#CAdane#} {%K.%} {#stftyAm#} {%v.%}; scribitur {#kub#}, gr.
+;
+12490 new {#kumb#}¦ 10. {%P.%} ({#CAdane#} {%K.%} {#stftyAm#} {%V.%}; scribitur {#kub#}, gr.
+;---------------------------------------------------
+; <L>2317<pc>078-b<k1>kusm<k2>kusm
+12733 old {#kusm#}¦ 10. {%A.%} ({#kusmite#} {%v.%}) distorto vultu ridere. (Luce clarius
+;
+12733 new {#kusm#}¦ 10. {%A.%} ({#kusmite#} {%V.%}) distorto vultu ridere. (Luce clarius
+;---------------------------------------------------
+; <L>2318<pc>078-b<k1>kuh<k2>kuh
+12740 old {#kuh#}¦ 10. {%A.%} ({#vismAraRe#} {%K.%} {#vismApane#} {%v.%}) decipere, fallere;
+;
+12740 new {#kuh#}¦ 10. {%A.%} ({#vismAraRe#} {%K.%} {#vismApane#} {%V.%}) decipere, fallere;
+;---------------------------------------------------
+; <L>2323<pc>078-b<k1>kU<k2>kU<h>1
+12763 old 1. {#kU#}¦ 6. {%A.%} {#kuve (Sabde#} {%K.%} {#artasvare#} {%v.%}) sonare; gemere.
+;
+12763 new 1. {#kU#}¦ 6. {%A.%} {#kuve (Sabde#} {%K.%} {#artasvare#} {%V.%}) sonare; gemere.
+;---------------------------------------------------
+; <L>2328<pc>078-b<k1>kUw<k2>kUw<h>2
+12793 old 2. {#kUw#}¦ 10. {%A.%} ({#aprasAde#} {%K.%} {#aprasAdApradoH#} {%v.%}) inclementem,
+;
+12793 new 2. {#kUw#}¦ 10. {%A.%} ({#aprasAde#} {%K.%} {#aprasAdApradoH#} {%V.%}) inclementem,
+;---------------------------------------------------
+; <L>2333<pc>079-a<k1>kUq<k2>kUq
+12818 old {#kUq#}¦ 6. {%P.%} ({#Gasane#} {%K.%} {#GAnye Bakze#} {%v.%}) edere; solidum esse.
+;
+12818 new {#kUq#}¦ 6. {%P.%} ({#Gasane#} {%K.%} {#GAnye Bakze#} {%V.%}) edere; solidum esse.
+;---------------------------------------------------
+; <L>2341<pc>079-a<k1>kUl<k2>kUl
+12857 old {#kUl#}¦ 1. {%P.%} ({#AvaraRe#} {%K.%} {#AvftO#} {%v.%}) tegere, protegere, {%v. sq.%}
+;
+12857 new {#kUl#}¦ 1. {%P.%} ({#AvaraRe#} {%K.%} {#AvftO#} {%V.%}) tegere, protegere, {%v. sq.%}
+;---------------------------------------------------
+; <L>2394<pc>083-a<k1>kfzRAy<k2>kfzRAy
+13323 old {#aNgAraH SItaH kfzRAyate karam#}. (Russ. <lang n="russian">черню</lang> {%ćernjû%}
+;
+13323 new {#aNgAraH SItaH kfzRAyate karam#}. (Russ. <lang n="Russian">черню</lang> {%ćernjû%}
+;---------------------------------------------------
+; <L>2408<pc>085-a<k1>kep<k2>kep
+13501 old {#kep#}¦ 1. {%A.%} ({#gatyAm#} {%K.%} {#gatyAY cAle#} {%v.%}) ire, se movere,
+;
+13501 new {#kep#}¦ 1. {%A.%} ({#gatyAm#} {%K.%} {#gatyAY cAle#} {%V.%}) ire, se movere,
+;---------------------------------------------------
+; <L>2512<pc>089-b<k1>klap<k2>klap
+14180 old loqui. (Cf. {#jalp#}, et lith. {%kalpû%} loquor, praet. {%kalpếjau%},
+;
+14180 new loqui. (Cf. {#jalp#}, et lith. {%kalpù%} loquor, praet. {%kalpếjau%},
+;---------------------------------------------------
+; <L>2595<pc>094-b<k1>kzudra<k2>kzudra
+14791 old infans, pers. <lang n="arabic">كودك</lang> {%kûdek%} parvus, puer.)
+;
+14791 new infans, pers. <lang n="Arabic">كودك</lang> {%kûdek%} parvus, puer.)
+;---------------------------------------------------
+; <L>2629<pc>095-b<k1>kzvid<k2>kzvid<h>1
+14966 old 1. {#kzvid#}¦ 1. {%P.%} ({#avyakte Sabde#} {%K.%} {#kUjane#} {%v.%}; scribitur etiam
+;
+14966 new 1. {#kzvid#}¦ 1. {%P.%} ({#avyakte Sabde#} {%K.%} {#kUjane#} {%V.%}; scribitur etiam
+;---------------------------------------------------
+; <L>2774<pc>102-b<k1>gard<k2>gard
+15910 old {#gard#}¦ 1. et 10. {%A.%} ({#Sabde#} {%K.%} {#rave#} {%v.%}) sonare; {%cf.%} {#garj#}.
+;
+15910 new {#gard#}¦ 1. et 10. {%A.%} ({#Sabde#} {%K.%} {#rave#} {%V.%}) sonare; {%cf.%} {#garj#}.
+;---------------------------------------------------
+; <L>2847<pc>106-a<k1>guD<k2>guD<h>1
+16373 old 1. {#guD#}¦ 1. {%A.%} ({#krIqe#}) ludere, V. {#gud#}.
+;
+16373 new 1. {#guD#}¦ 1. {%A.%} ({#krIqe#}) ludere, v. {#gud#}.
+;---------------------------------------------------
+; <L>3006<pc>115-a<k1>Gf<k2>Gf<h>2
+17534 old 2. {#Gf#}¦ 3. {%P.%} {#jiGarmi#} ({#kzaraRadIptyoH#} {%K.%} {#BAsi seke#} {%v.%}) stillare,
+;
+17534 new 2. {#Gf#}¦ 3. {%P.%} {#jiGarmi#} ({#kzaraRadIptyoH#} {%K.%} {#BAsi seke#} {%V.%}) stillare,
+;---------------------------------------------------
+; <L>3118<pc>121-a<k1>carc<k2>carc<h>1
+18319 old {%v.%}; videtur esse forma redupl. pro {#carcar#}, v. {#caYc#})
+;
+18319 new {%V.%}; videtur esse forma redupl. pro {#carcar#}, v. {#caYc#})
+;---------------------------------------------------
+; <L>3330<pc>133-a<k1>j<k2>j
+19836 old slav. <lang n="Slavonic">Ж</lang> et in gaëlicis dialectis {%d%}, quod ante {%e%} et {%i%} in dialecto
+;
+19836 new slav. <lang n="Slavonic">ж</lang> et in gaëlicis dialectis {%d%}, quod ante {%e%} et {%i%} in dialecto
+;---------------------------------------------------
+; <L>3445<pc>138-a<k1>jAmAtf<k2>jAmAtf
+20572 old <lang n="greek">ἀνδϱός</lang> etc. videmus, transierit in <lang n="greek">μ</lang>; cf. <lang n="greek">μεσημβϱία</lang>.)
+;
+20572 new <lang n="greek">ἀνδϱίς</lang> etc. videmus, transierit in <lang n="greek">μ</lang>; cf. <lang n="greek">μεσημβϱία</lang>.)
+;---------------------------------------------------
+; <L>3757<pc>154-a<k1>tisf<k2>tisf
+22657 old mutato {#t#} in {#s#} sicut in pers. <lang n="arabic">سه</lang> {%sih%}, tres, correptâ syllabâ
+;
+22657 new mutato {#t#} in {#s#} sicut in pers. <lang n="Arabic">سه</lang> {%sih%}, tres, correptâ syllabâ
+;---------------------------------------------------
+; <L>4759<pc>201-b<k1>nIv<k2>nIv
+29237 old {#nIv#}¦ 1. {%P.%} ({#sTOlye#}) magnum, crassum, çorpulentum,
+;
+29237 new {#nIv#}¦ 1. {%P.%} ({#sTOlye#}) magnum, crassum, corpulentum,
+;---------------------------------------------------
+; <L>5086<pc>215-b<k1>pAradeSya<k2>pAradeSya
+31282 old (Cf. priorem partem lat. {%per-egrinus%}, V. {#pAra#}.)
+;
+31282 new (Cf. priorem partem lat. {%per-egrinus%}, v. {#pAra#}.)
+;---------------------------------------------------
+; <L>5378<pc>227-a<k1>pratiniSam<k2>pratiniSam
+33002 old {#pratiniSam#}¦ {%Adv.%} ({%AVY.%} e {#°ti#} et {#niSA#}) quâvis nocte. P. 24.
+;
+33002 new {#pratiniSam#}¦ {%Adv.%} ({%AVY.%} e {#॰ti#} et {#niSA#}) quâvis nocte. P. 24.
+;---------------------------------------------------
+; <L>5379<pc>227-a<k1>pratidinam<k2>pratidinam
+33006 old {#pratidinam#}¦ {%Adv.%} ({%AVY.%} e {#°ti#} et {#dina#}) quotidie. Lass. 28.12.
+;
+33006 new {#pratidinam#}¦ {%Adv.%} ({%AVY.%} e {#॰ti#} et {#dina#}) quotidie. Lass. 28.12.
+;---------------------------------------------------
+; <L>5380<pc>227-a<k1>pratiDvAna<k2>pratiDvAna
+33011 old {#pratiDvAna#}¦ {%m.%} ({%KARM.%} e {#°ti#} et {#DvAna#}) echo, vox repercussa.
+;
+33011 new {#pratiDvAna#}¦ {%m.%} ({%KARM.%} e {#॰ti#} et {#DvAna#}) echo, vox repercussa.
+;---------------------------------------------------
+; <L>5383<pc>227-a<k1>pratipad<k2>pratipad
+33029 old {#pratipad#}¦ {%f.%} (a r. {#pad#} ire praef. {#°ti#}) mensis lunaris dimidiati
+;
+33029 new {#pratipad#}¦ {%f.%} (a r. {#pad#} ire praef. {#॰ti#}) mensis lunaris dimidiati
+;---------------------------------------------------
+; <L>5384<pc>227-a<k1>pratipadam<k2>pratipadam
+33035 old {#pratipadam#}¦ {%Adv.%} ({%AVY.%} e {#°ti#} et {#pada#}) quovis gradu.
+;
+33035 new {#pratipadam#}¦ {%Adv.%} ({%AVY.%} e {#॰ti#} et {#pada#}) quovis gradu.
+;---------------------------------------------------
+; <L>5387<pc>227-a<k1>pratibanDa<k2>pratibanDa
+33050 old {#pratibanDa#}¦ {%n.%} (r. {#banD#} ligare praef. {#°ti#} s. {#ana#}) impedimentum.
+;
+33050 new {#pratibanDa#}¦ {%n.%} (r. {#banD#} ligare praef. {#॰ti#} s. {#ana#}) impedimentum.
+;---------------------------------------------------
+; <L>5390<pc>227-a<k1>pratiBaya<k2>pratiBaya
+33065 old {#pratiBaya#}¦ ({%BAH.%} ex {#°ti#} et {#Baya#} timor) timendus, terribilis.
+;
+33065 new {#pratiBaya#}¦ ({%BAH.%} ex {#॰ti#} et {#Baya#} timor) timendus, terribilis.
+;---------------------------------------------------
+; <L>5392<pc>227-a<k1>pratiBA<k2>pratiBA
+33075 old {#pratiBA#}¦ {%f.%} (a r. {#BA#} praef. {#°ti#}) 1) splendor. 2) intellectus.
+;
+33075 new {#pratiBA#}¦ {%f.%} (a r. {#BA#} praef. {#॰ti#}) 1) splendor. 2) intellectus.
+;---------------------------------------------------
+; <L>5396<pc>227-b<k1>pratimA<k2>pratimA
+33098 old {#pratimA#}¦ {%f.%} (r. {#mA#} metiri praef. {#°ti#}) similitudo.
+;
+33098 new {#pratimA#}¦ {%f.%} (r. {#mA#} metiri praef. {#॰ti#}) similitudo.
+;---------------------------------------------------
+; <L>5397<pc>227-b<k1>pratiyodDf<k2>pratiyodDf
+33102 old {#pratiyodDf#}¦ {%m.%} (r. {#yuD#} pugnare praef. {#°ti#} s. {#tf#}) qui repugnat,
+;
+33102 new {#pratiyodDf#}¦ {%m.%} (r. {#yuD#} pugnare praef. {#॰ti#} s. {#tf#}) qui repugnat,
+;---------------------------------------------------
+; <L>5398<pc>227-b<k1>pratirAtram<k2>pratirAtram
+33107 old {#pratirAtram#}¦ {%Adv.%} ({%AVY.%} e {#°ti#} et {#rAtra#} pro {#rAtri#}) quâvis nocte;
+;
+33107 new {#pratirAtram#}¦ {%Adv.%} ({%AVY.%} e {#॰ti#} et {#rAtra#} pro {#rAtri#}) quâvis nocte;
+;---------------------------------------------------
+; <L>5399<pc>227-b<k1>prativacas<k2>prativacas
+33112 old {#prativacas#}¦ {%n.%} ({%KARM.%} ex {#°ti#} et {#vacas#} sermo) responsio,
+;
+33112 new {#prativacas#}¦ {%n.%} ({%KARM.%} ex {#॰ti#} et {#vacas#} sermo) responsio,
+;---------------------------------------------------
+; <L>5400<pc>227-b<k1>prativAkya<k2>prativAkya
+33117 old {#prativAkya#}¦ {%n.%} ({%KARM.%} ex {#°ti#} et {#vAkya#} sermo) {%id.%} N. 22.4.
+;
+33117 new {#prativAkya#}¦ {%n.%} ({%KARM.%} ex {#॰ti#} et {#vAkya#} sermo) {%id.%} N. 22.4.
+;---------------------------------------------------
+; <L>5401<pc>227-b<k1>pratiSabda<k2>pratiSabda
+33121 old {#pratiSabda#}¦ {%m.%} ({%KARM.%} ex {#°ti#} et {#Sabda#} sonitus) sonitus,
+;
+33121 new {#pratiSabda#}¦ {%m.%} ({%KARM.%} ex {#॰ti#} et {#Sabda#} sonitus) sonitus,
+;---------------------------------------------------
+; <L>5402<pc>227-b<k1>pratiSraya<k2>pratiSraya
+33126 old {#pratiSraya#}¦ {%m.%} (r. {#Sri#} ire praef. {#°ti#} s. {#a#}) domus, habitatio,
+;
+33126 new {#pratiSraya#}¦ {%m.%} (r. {#Sri#} ire praef. {#॰ti#} s. {#a#}) domus, habitatio,
+;---------------------------------------------------
+; <L>5403<pc>227-b<k1>pratizeDana<k2>pratizeDana
+33131 old {#pratizeDana#}¦ (r. {#siD#} praef. {#°ti#} s. {#ana#}) arcens. A. 3.54.
+;
+33131 new {#pratizeDana#}¦ (r. {#siD#} praef. {#॰ti#} s. {#ana#}) arcens. A. 3.54.
+;---------------------------------------------------
+; <L>5405<pc>227-b<k1>pratihasta<k2>pratihasta
+33142 old {#pratihasta#}¦ {%m.%} (e {#°ti#} et {#hasta#} manus) vicarius, {%v. sq.%}
+;
+33142 new {#pratihasta#}¦ {%m.%} (e {#॰ti#} et {#hasta#} manus) vicarius, {%v. sq.%}
+;---------------------------------------------------
+; <L>5407<pc>227-b<k1>pratIkAra<k2>pratIkAra
+33150 old {#pratIkAra#}¦ {%m.%} (r. {#kf#} facere praef. {#°ti#} - producto {#i#}, v. ann.
+;
+33150 new {#pratIkAra#}¦ {%m.%} (r. {#kf#} facere praef. {#॰ti#} - producto {#i#}, v. ann.
+;---------------------------------------------------
+; <L>5408<pc>227-b<k1>pratIkASa<k2>pratIkASa
+33156 old {#pratIkASa#}¦ (r. {#kAS#} lucere, apparere praef. {#°ti#} producto
+;
+33156 new {#pratIkASa#}¦ (r. {#kAS#} lucere, apparere praef. {#॰ti#} producto
+;---------------------------------------------------
+; <L>5409<pc>227-b<k1>pratIkzin<k2>pratIkzin
+33161 old {#pratIkzin#}¦ (r. {#Ikz#} videre praef. {#°ti#} s. {#in#}) exspectans.
+;
+33161 new {#pratIkzin#}¦ (r. {#Ikz#} videre praef. {#॰ti#} s. {#in#}) exspectans.
+;---------------------------------------------------
+; <L>5413<pc>228-a<k1>pratIhAra<k2>pratIhAra
+33183 old {#pratIhAra#}¦ {%m.%} (r. {#hf#} praef. {#°ti#} producto {#i#}, s. {#a#}) janitor.
+;
+33183 new {#pratIhAra#}¦ {%m.%} (r. {#hf#} praef. {#॰ti#} producto {#i#}, s. {#a#}) janitor.
+;---------------------------------------------------
+; <L>5417<pc>228-a<k1>pratyakzam<k2>pratyakzam
+33202 old {#pratyakzam#}¦ {%Praep.%} ({%AVY.%} - v. gr. 675. - ex {#°ti#} et {#akza#}) coram,
+;
+33202 new {#pratyakzam#}¦ {%Praep.%} ({%AVY.%} - v. gr. 675. - ex {#॰ti#} et {#akza#}) coram,
+;---------------------------------------------------
+; <L>5420<pc>228-a<k1>pratyanIka<k2>pratyanIka
+33217 old {#pratyanIka#}¦ {%m.%} ({%KARM.%} ex {#°ti#} et {#anIka#} exercitus) adversus
+;
+33217 new {#pratyanIka#}¦ {%m.%} ({%KARM.%} ex {#॰ti#} et {#anIka#} exercitus) adversus
+;---------------------------------------------------
+; <L>5421<pc>228-a<k1>pratyaya<k2>pratyaya
+33222 old {#pratyaya#}¦ {%m.%} (r. {#i#} praef. {#°ti#} s. {#a#}) fiducia. HIT. 122.21.
+;
+33222 new {#pratyaya#}¦ {%m.%} (r. {#i#} praef. {#॰ti#} s. {#a#}) fiducia. HIT. 122.21.
+;---------------------------------------------------
+; <L>5422<pc>228-a<k1>pratyavayava<k2>pratyavayava
+33226 old {#pratyavayava#}¦ ({%BAH.%} e {#°ti#} et {#avayava#} membrum) quodvis
+;
+33226 new {#pratyavayava#}¦ ({%BAH.%} e {#॰ti#} et {#avayava#} membrum) quodvis
+;---------------------------------------------------
+; <L>5425<pc>228-a<k1>pratyAgata<k2>pratyAgata
+33240 old {#pratyAgata#}¦ v. {#gam#} c. {#A#} praef. {#°ti#}.
+;
+33240 new {#pratyAgata#}¦ v. {#gam#} c. {#A#} praef. {#॰ti#}.
+;---------------------------------------------------
+; <L>5427<pc>228-a<k1>pratyASA<k2>pratyASA
+33249 old {#pratyASA#}¦ {%f.%} (e {#°ti#} et {#ASA#}) fiducia. UR. 40.7.
+;
+33249 new {#pratyASA#}¦ {%f.%} (e {#॰ti#} et {#ASA#}) fiducia. UR. 40.7.
+;---------------------------------------------------
+; <L>5428<pc>228-a<k1>pratyuttara<k2>pratyuttara
+33253 old {#pratyuttara#}¦ {%n.%} (e {#°ti#} et {#uttara#}) responsum. HIT. 92.21.
+;
+33253 new {#pratyuttara#}¦ {%n.%} (e {#॰ti#} et {#uttara#}) responsum. HIT. 92.21.
+;---------------------------------------------------
+; <L>5430<pc>228-a<k1>pratyuza<k2>pratyuza
+33262 old {#pratyuza#}¦ {%m.%} (e {#°ti#} et {#uza#}) tempus matutinum.
+;
+33262 new {#pratyuza#}¦ {%m.%} (e {#॰ti#} et {#uza#}) tempus matutinum.
+;---------------------------------------------------
+; <L>5431<pc>228-a<k1>pratyuzas<k2>pratyuzas
+33266 old {#pratyuzas#}¦ {%n.%} (e {#°ti#} et {#uzas#}) {%id.%}
+;
+33266 new {#pratyuzas#}¦ {%n.%} (e {#॰ti#} et {#uzas#}) {%id.%}
+;---------------------------------------------------
+; <L>5432<pc>228-a<k1>pratyUza<k2>pratyUza
+33270 old {#pratyUza#}¦ {%m.%} (e {#°ti#} et {#Uza#} i. q. {#uza#}) {%id.%} MEGH. 31.
+;
+33270 new {#pratyUza#}¦ {%m.%} (e {#॰ti#} et {#Uza#} i. q. {#uza#}) {%id.%} MEGH. 31.
+;---------------------------------------------------
+; <L>5433<pc>228-a<k1>pratyUzas<k2>pratyUzas
+33274 old {#pratyUzas#}¦ {%n.%} (e {#°ti#} et {#Uzas#} i. q. {#uza, Uza, uzas#}) {%id.%}
+;
+33274 new {#pratyUzas#}¦ {%n.%} (e {#॰ti#} et {#Uzas#} i. q. {#uza, Uza, uzas#}) {%id.%}
+;---------------------------------------------------
+; <L>5434<pc>228-b<k1>pratyUha<k2>pratyUha
+33281 old praef. {#°ti#} s. {#a#}) obstaculum. HIT. 89.20.
+;
+33281 new praef. {#॰ti#} s. {#a#}) obstaculum. HIT. 89.20.
+;---------------------------------------------------
+; <L>5867<pc>247-a<k1>BIlu<k2>BIlu
+35991 old {#BIlu#}¦ ({%f.%} {#°lu#}, r. {#BI#} s. {#lu#}) i. q. {#BIru#}.
+;
+35991 new {#BIlu#}¦ ({%f.%} {#॰lu#}, r. {#BI#} s. {#lu#}) i. q. {#BIru#}.
+;---------------------------------------------------
+; <L>5954<pc>253-a<k1>Brukuwi<k2>Brukuwi, BrukuwI
+36707 old {#Brukuwi, BrukuwI#}¦ V. {#Bfkuwi#}.
+;
+36707 new {#Brukuwi, BrukuwI#}¦ v. {#Bfkuwi#}.
+;---------------------------------------------------
+; <L>6050<pc>257-b<k1>manAk<k2>manAk
+37330 old {%minniza%} minor, {%minnists%} minimus, slav. {%mjniĭ%} minor,
+;
+37330 new {%minniza%} minor, {%minnists%} minimus, slav. {%mjniť%} minor,
+;---------------------------------------------------
+; <L>6115<pc>260-b<k1>maS<k2>maS
+37728 old {#maS#}¦ 1. {%P.%} ({#Sabde#} {%K.%} {#DvanO kope#} {%v.%}) sonare; irasci. {%Cf.%}
+;
+37728 new {#maS#}¦ 1. {%P.%} ({#Sabde#} {%K.%} {#DvanO kope#} {%V.%}) sonare; irasci. {%Cf.%}
+;---------------------------------------------------
+; <L>6405<pc>273-a<k1>mradIyas<k2>mradIyas
+39555 old {#mradIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#mfdu#}, gr. 251. (Gr. <lang n="greek">βϱαδίων</lang>, v.
+;
+39555 new {#mradIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#mfdu#}, gr. 251. (Gr. <lang n="greek">βϱαδίωβ</lang>, v.
+;---------------------------------------------------
+; <L>6725<pc>292-b<k1>ruDira<k2>ruDira
+41986 old russ. <lang n="russian">рыжій</lang> {%ryschiĭ%} rufus, polon. {%rusy%} id.; island. vet.
+;
+41986 new russ. <lang n="Russian">рыжій</lang> {%ryschiĭ%} rufus, polon. {%rusy%} id.; island. vet.
+;---------------------------------------------------
+; <L>6993<pc>307-b<k1>vadarI<k2>vadarI
+43897 old 2) silva (?). M. 3. MAH. 3.1637. (scribitur etiam {#ba°#}).
+;
+43897 new 2) silva (?). M. 3. MAH. 3.1637. (scribitur etiam {#ba॰#}).
+;---------------------------------------------------
+; <L>7244<pc>319-b<k1>viqambana<k2>viqambana
+45528 old {#viqambana#}¦ {%n.%} {#°nA#} {%f.%} (r. {#qamb#} praef. {#vi#} s. {#ana#}) miseria.
+;
+45528 new {#viqambana#}¦ {%n.%} {#॰nA#} {%f.%} (r. {#qamb#} praef. {#vi#} s. {#ana#}) miseria.
+;---------------------------------------------------
+; <L>7756<pc>345-a<k1>Sam<k2>Sam<h>2
+49010 old 2. {#Sam#}¦ 10. {%P. A.%} {#SAmayAmi, °ye#} ({#Alocane#} {%K.%} {#Aloce#} {%V.%};
+;
+49010 new 2. {#Sam#}¦ 10. {%P. A.%} {#SAmayAmi, ॰ye#} ({#Alocane#} {%K.%} {#Aloce#} {%V.%};
+;---------------------------------------------------
+; <L>7818<pc>346-b<k1>SAn<k2>SAn
+49311 old pro {#SiSAMsAmi °se#} v. gr. 553.) acuere.
+;
+49311 new pro {#SiSAMsAmi ॰se#} v. gr. 553.) acuere.
+;---------------------------------------------------
+; <L>7929<pc>352-a<k1>SuBa<k2>SuBa
+50043 old H. 4.32. 2) faustus. N. 5.1. BH. 2.57. (Pers. <lang n="arabic">خوب</lang> {%kûb%}
+;
+50043 new H. 4.32. 2) faustus. N. 5.1. BH. 2.57. (Pers. <lang n="Arabic">خوب</lang> {%kûb%}
+;---------------------------------------------------
+; <L>8092<pc>360-b<k1>Sveta<k2>Sveta
+51172 old et island. vet. {%hvît%}, nostrum {%weifs%}; lith. {%kwếty-s%}, gen.
+;
+51172 new et island. vet. {%hvît%}, nostrum {%weiʃs%}; lith. {%kwếty-s%}, gen.
+;---------------------------------------------------
+; <L>8097<pc>360-1b<k1>zaz<k2>zaz
+51202 old (n. m. pl., fem. {%szezios%}), slav. {%s'es-tj%} (subst. fem.), cambro-brit.
+;
+51202 new (n. m. pl., fem. {%szezios%}), slav. {%sʽes-tj%} (subst. fem.), cambro-brit.
+;---------------------------------------------------
+; <L>8101<pc>361-a<k1>zazWa<k2>zazWa
+51224 old {%s'estyĭ%}; hib. {%seiseadh%}, v. gr. comp. 322. 323.)
+;
+51224 new {%sʽestyĭ%}; hib. {%seiseadh%}, v. gr. comp. 322. 323.)
+;---------------------------------------------------
+; <L>8449<pc>375-a<k1>sAraNga<k2>sAraNga
+53323 old {#sAraNga#}¦ {%m.%} dorcas, antilope; scribitur etiam {#SA°#}. SAK. 4.5.
+;
+53323 new {#sAraNga#}¦ {%m.%} dorcas, antilope; scribitur etiam {#SA॰#}. SAK. 4.5.
+;---------------------------------------------------
+; <L>8775<pc>395-a<k1>svapnaj<k2>svapnaj
+55812 old {#svapnaj#}¦ ({%nom. m. f. n.%} {#°nak#}) dormiens. MAH. 3.10648.
+;
+55812 new {#svapnaj#}¦ ({%nom. m. f. n.%} {#॰nak#}) dormiens. MAH. 3.10648.
+;---------------------------------------------------
+; <L>8836<pc>398-b<k1>hariRa<k2>hariRa
+56259 old {#hariRa#}¦ ({%f.%} {#°RI#} {%Adj.%} e flavo albus. {%Subst. m.%} nomen animalis
+;
+56259 new {#hariRa#}¦ ({%f.%} {#॰RI#} {%Adj.%} e flavo albus. {%Subst. m.%} nomen animalis
+;---------------------------------------------------

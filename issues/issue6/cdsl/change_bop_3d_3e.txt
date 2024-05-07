@@ -1,0 +1,390 @@
+; <L>94<pc>004-a<k1>aja<k2>aja<h>1
+520 old russ. <lang n="russian">козѐлъ</lang> v. {#ajA#}).
+;
+520 new russ. <lang n="Russian">козèлъ</lang> v. {#ajA#}).
+;---------------------------------------------------
+; <L>99<pc>004-a<k1>ajA<k2>ajA
+546 old <lang n="russian">коза̀</lang> praefixo <lang n="russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
+;
+546 new <lang n="Russian">козà</lang> praefixo <lang n="Russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
+;---------------------------------------------------
+; <L>146<pc>006-a<k1>ati<k2>ati
+816 old {%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">ἀντί</lang> partim ad
+;
+816 new {%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">ἀντι</lang> partim ad
+;---------------------------------------------------
+; <L>435<pc>014-b<k1>aBi<k2>aBi
+2353 old {%umbi%}, nostrum {%um%}; slav. {%ob%}; cf. etiam adverb. slav. <lang n="Slavonic">ⲀБїЕ</lang>
+;
+2353 new {%umbi%}, nostrum {%um%}; slav. {%ob%}; cf. etiam adverb. slav. <lang n="Slavonic">абїе</lang>
+;---------------------------------------------------
+; <L>1358<pc>048-b<k1>udra<k2>udra
+7649 old otor%}, angl. {%otter%}, nostrum {%Otter%}; gr. <lang n="greek">ὕδϱος, ὕδϱα</lang>; respiciatur
+;
+7649 new otor%}, angl. {%otter%}, nostrum {%Otter%}; gr. <lang n="greek">ὗδϱος, ὗδϱα</lang>; respiciatur
+;---------------------------------------------------
+; <L>2336<pc>079-a<k1>kUpa<k2>kUpa
+12831 old (Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="russian">копа̀ю</lang> fodio.)
+;
+12831 new (Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="Russian">копàю</lang> fodio.)
+;---------------------------------------------------
+; <L>2380<pc>082-a<k1>kfmi<k2>kfmi
+13203 old v. {#f#}. Lith. {%kirminis, kirmếlế%}, russ. <lang n="russian">червь</lang> {%ćervj%}, mutato
+;
+13203 new v. {#f#}. Lith. {%kirminis, kirmếlế%}, russ. <lang n="Russian">червь</lang> {%ćervj%}, mutato
+;---------------------------------------------------
+; <L>2385<pc>082-a<k1>kfz<k2>kfz<h>1
+13243 old traho; russ. <lang n="russian">чешу̀</lang> {%ćesʽû%} pectino, ejecto {%r%}; latinum
+;
+13243 new traho; russ. <lang n="Russian">чешỳ</lang> {%ćesʽû%} pectino, ejecto {%r%}; latinum
+;---------------------------------------------------
+; <L>2389<pc>083-a<k1>kfzRa<k2>kfzRa
+13299 old Krischnus et Arǵunus. (Russ. <lang n="russian">черный</lang> {%ćernyĭ%} niger
+;
+13299 new Krischnus et Arǵunus. (Russ. <lang n="Russian">черный</lang> {%ćernyĭ%} niger
+;---------------------------------------------------
+; <L>2483<pc>088-a<k1>kravya<k2>kravya
+13980 old {#kravya#}¦ {%n.%} caro. (Lith. {%krauja-s%} sanguis, russ. <lang n="russian">кровь</lang> {%krovj%}
+;
+13980 new {#kravya#}¦ {%n.%} caro. (Lith. {%krauja-s%} sanguis, russ. <lang n="Russian">кровь</lang> {%krovj%}
+;---------------------------------------------------
+; <L>2491<pc>088-b<k1>kruD<k2>kruD
+14047 old comp. 102.; slav. <lang n="Slavonic">СϱЬДЪ</lang> {%srjd%} ira, furor, mutatâ gutturali
+;
+14047 new comp. 102.; slav. <lang n="Slavonic">сϱьдъ</lang> {%srjd%} ira, furor, mutatâ gutturali
+;---------------------------------------------------
+; <L>2491<pc>088-b<k1>kruD<k2>kruD
+14048 old in sibilantem, sicut e. c. in <lang n="Slavonic">СϱЪДЬЦЕ</lang> cor; fortasse etiam
+;
+14048 new in sibilantem, sicut e. c. in <lang n="Slavonic">сϱъдьуе</lang> cor; fortasse etiam
+;---------------------------------------------------
+; <L>2575<pc>093-a<k1>kzi<k2>kzi<h>1
+14616 old l. c. apte trahit gr. <lang n="greek">ϰϱείων</lang>, ita ut comp. <lang n="greek">εὐϱυϰϱείων</lang>
+;
+14616 new l. c. apte trahit gr. <lang n="greek">ϰϱείων</lang>, ita ut comp. <lang n="greek">εὐϱυϰωίων</lang>
+;---------------------------------------------------
+; <L>2757<pc>102-a<k1>gam<k2>gam<h>2
+15813 old {%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">земла̀</lang> {%ζemlà%}
+;
+15813 new {%źémiế%}, slav. <lang n="Slavonic">земΛѣ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="Russian">землà</lang> {%ζemlà%}
+;---------------------------------------------------
+; <L>2890<pc>107-b<k1>gF<k2>gF<h>1
+16638 old {%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жо̀ра</lang> {%schòra%}
+;
+16638 new {%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="Russian">жòра</lang> {%schòra%}
+;---------------------------------------------------
+; <L>2929<pc>109-b<k1>gOra<k2>gOra
+16918 old <lang n="russian">жилшый</lang> {%schiltyĭ%}, nostrum {%gelb%}; de nostro {%Gold%} v.
+;
+16918 new <lang n="Russian">жилшый</lang> {%schiltyĭ%}, nostrum {%gelb%}; de nostro {%Gold%} v.
+;---------------------------------------------------
+; <L>2983<pc>114-a<k1>Garma<k2>Garma
+17387 old v. {#kfmi#}; russ. <lang n="russian">горю</lang> {%gorjû%} uro, <lang n="russian">жар</lang> {%schar%} aestus; gr.
+;
+17387 new v. {#kfmi#}; russ. <lang n="Russian">горю</lang> {%gorjû%} uro, <lang n="Russian">жар</lang> {%schar%} aestus; gr.
+;---------------------------------------------------
+; <L>3029<pc>116-2a<k1>ca<k2>ca
+17695 old slav. <lang n="Slavonic">ЖЕ</lang> {%sche%}, gr. comp. 402.)
+;
+17695 new slav. <lang n="Slavonic">же</lang> {%sche%}, gr. comp. 402.)
+;---------------------------------------------------
+; <L>3066<pc>118-a<k1>catur<k2>catur<h>1
+17922 old masc. {#catvAras#} conferatur gr. <lang n="greek">τέσσαϱες, τέτταϱες</lang>,
+;
+17922 new masc. {#catvAras#} conferatur gr. <lang n="greek">πέσσαϱες, τέτταϱες</lang>,
+;---------------------------------------------------
+; <L>3066<pc>118-a<k1>catur<k2>catur<h>1
+17927 old <lang n="Slavonic">ЧЕͲЫϱїЕ</lang> {%ćetyrje%}; hib. {%ceathair%} masc., {%ceteora%} fem. =
+;
+17927 new <lang n="Slavonic">четыϱїе</lang> {%ćetyrje%}; hib. {%ceathair%} masc., {%ceteora%} fem. =
+;---------------------------------------------------
+; <L>3069<pc>118-a<k1>caturTa<k2>caturTa
+17944 old quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">ЧЕͲВЕϱͲⲀѦ</lang> {%ćetvertyĭ%},
+;
+17944 new quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">четвеϱтый</lang> {%ćetvertyĭ%},
+;---------------------------------------------------
+; <L>3069<pc>118-a<k1>caturTa<k2>caturTa
+17945 old fem. <lang n="Slavonic">ЧЕͲВЕϱͲЫЙ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
+;
+17945 new fem. <lang n="Slavonic">четвеϱтaѧ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
+;---------------------------------------------------
+; <L>3126<pc>121-b<k1>carv<k2>carv
+18373 old mando; conferatur etiam russ. <lang n="russian">жева́шь</lang> {%schevátj%} mandere,
+;
+18373 new mando; conferatur etiam russ. <lang n="Russian">жева́шь</lang> {%schevátj%} mandere,
+;---------------------------------------------------
+; <L>3126<pc>121-b<k1>carv<k2>carv
+18374 old ratione habitâ, litteram <lang n="russian">ж</lang> cum {%g%} cognatam esse
+;
+18374 new ratione habitâ, litteram <lang n="Russian">ж</lang> cum {%g%} cognatam esse
+;---------------------------------------------------
+; <L>3157<pc>123-a<k1>ci<k2>ci<h>1
+18596 old russ. <lang n="russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
+;
+18596 new russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
+;---------------------------------------------------
+; <L>3357<pc>134-b<k1>jana<k2>jana
+20046 old slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schenà%}.)
+;
+20046 new slav. <lang n="Slavonic">жена</lang> {%schenà%}.)
+;---------------------------------------------------
+; <L>3366<pc>135-a<k1>janI<k2>janI
+20103 old {%queen%}; de goth. {%qvinô%} et slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schena%} v. {#jana#}.)
+;
+20103 new {%queen%}; de goth. {%qvinô%} et slav. <lang n="Slavonic">жена</lang> {%schena%} v. {#jana#}.)
+;---------------------------------------------------
+; <L>3403<pc>136-b<k1>jala<k2>jala
+20319 old frigidus; russ. <lang n="russian">холодный</lang> {%cholodnyĭ%} {%id.%}; hib. {%gil%}
+;
+20319 new frigidus; russ. <lang n="Russian">холодный</lang> {%cholodnyĭ%} {%id.%}; hib. {%gil%}
+;---------------------------------------------------
+; <L>3443<pc>138-a<k1>jAnu<k2>jAnu
+20556 old {%glun%}, insertâ liquidâ; slav. <lang n="Slavonic">КОΛѢНО</lang> {%koljeno%}, lith.
+;
+20556 new {%glun%}, insertâ liquidâ; slav. <lang n="Slavonic">коΛѣно</lang> {%koljeno%}, lith.
+;---------------------------------------------------
+; <L>3484<pc>139-b<k1>jIv<k2>jIv
+20818 old {%gywas%} vivus, slav. <lang n="Slavonic">ЖИВꙋ</lang> {%schivû%} vivo; goth. {%qvivs%} vivus,
+;
+20818 new {%gywas%} vivus, slav. <lang n="Slavonic">живᴕ</lang> {%schivû%} vivo; goth. {%qvivs%} vivus,
+;---------------------------------------------------
+; <L>3490<pc>140-b<k1>jIvita<k2>jIvita
+20881 old {%gywatà%}; slav. <lang n="Slavonic">ЖИВОͲ</lang> {%schivot%}; lat. {%vita%} e {%vivita%}.)
+;
+20881 new {%gywatà%}; slav. <lang n="Slavonic">живот</lang> {%schivot%}; lat. {%vita%} e {%vivita%}.)
+;---------------------------------------------------
+; <L>3512<pc>141-a<k1>jF<k2>jF
+21025 old {#ati#} retulerim, ejectâ consonante; slav. <lang n="Slavonic">ЗϱѢЮ</lang> {%ζrjejû%}
+;
+21025 new {#ati#} retulerim, ejectâ consonante; slav. <lang n="Slavonic">зϱѣю</lang> {%ζrjejû%}
+;---------------------------------------------------
+; <L>3512<pc>141-a<k1>jF<k2>jF
+21026 old maturesco, russ. <lang n="russian">зерно</lang> {%ζerno%} granum a conterendo
+;
+21026 new maturesco, russ. <lang n="Russian">зерно</lang> {%ζerno%} granum a conterendo
+;---------------------------------------------------
+; <L>3512<pc>141-a<k1>jF<k2>jF
+21032 old manuariae, {%girnôs%} pl. mola manuaria; russ. <lang n="russian">жерновъ</lang>
+;
+21032 new manuariae, {%girnôs%} pl. mola manuaria; russ. <lang n="Russian">жерновъ</lang>
+;---------------------------------------------------
+; <L>3521<pc>142-a<k1>jYA<k2>jYA
+21139 old duplice nasali cum germ. {%cann%} conveniunt; slav. <lang n="Slavonic">ЗНⲀЮ</lang>
+;
+21139 new duplice nasali cum germ. {%cann%} conveniunt; slav. <lang n="Slavonic">знаю</lang>
+;---------------------------------------------------
+; <L>3615<pc>147-a<k1>tat<k2>tat<h>1
+21753 old Nom. masc. {%sa%} = {#sa#}, fem. {%sô%} = {#sA#}; gr. <lang n="greek">ΤΟ, ΤĀ, ὁ, ̔ᾱ, τό</lang>;
+;
+21753 new Nom. masc. {%sa%} = {#sa#}, fem. {%sô%} = {#sA#}; gr. <lang n="greek">ΤΟ, ΤᾹ, ὁ, ̔ᾱ, τό</lang>;
+;---------------------------------------------------
+; <L>3641<pc>148-b<k1>tanu<k2>tanu
+21931 old <lang n="Slavonic">ͲѢΛО</lang> {%tjelo%}.)
+;
+21931 new <lang n="Slavonic">тѣΛо</lang> {%tjelo%}.)
+;---------------------------------------------------
+; <L>3768<pc>154-a<k1>tu<k2>tu<h>1
+22713 old crescere; pers. <lang n="arabic">توان</lang> {%tuvân%} potestas, <lang n="arabic">توانم</lang> {%tuvânem%} possum;
+;
+22713 new crescere; pers. <lang n="Arabic">توان</lang> {%tuvân%} potestas, <lang n="Arabic">توانم</lang> {%tuvânem%} possum;
+;---------------------------------------------------
+; <L>3800<pc>155-a<k1>tul<k2>tul
+22895 old <lang n="greek">τλάω, τελάμων, τάλαντον</lang> (v. {#tulA#}); goth. {%thula%} tolero;
+;
+22895 new <lang n="greek">πλάω, τελάμων, τάλαντον</lang> (v. {#tulA#}); goth. {%thula%} tolero;
+;---------------------------------------------------
+; <L>3815<pc>156-a<k1>tURa<k2>tURa
+22981 old {#tURa#}¦ {%m.%} pharetra. RAGH. 7.54. (Slav. <lang n="Slavonic">ͲОУΛЪ</lang> {%tûl%} {%id.%}, mutato
+;
+22981 new {#tURa#}¦ {%m.%} pharetra. RAGH. 7.54. (Slav. <lang n="Slavonic">тоуΛъ</lang> {%tûl%} {%id.%}, mutato
+;---------------------------------------------------
+; <L>3833<pc>156-b<k1>tfp<k2>tfp
+23102 old (Cf. {#tfmp, tfP, tfmP#}; gr. <lang n="greek">τέϱπω, τϱέϕω</lang>; boruss.
+;
+23102 new (Cf. {#tfmp, tfP, tfmP#}; gr. <lang n="greek">πέϱπω, πϱέϕω</lang>; boruss.
+;---------------------------------------------------
+; <L>3833<pc>156-b<k1>tfp<k2>tfp
+23108 old egeo, {%thaurba%} id.; russ. <lang n="russian">шерплю̀</lang> {%terplju%} patior, tolero;
+;
+23108 new egeo, {%thaurba%} id.; russ. <lang n="Russian">шерплю̀</lang> {%terplju%} patior, tolero;
+;---------------------------------------------------
+; <L>3886<pc>160-a<k1>tri<k2>tri
+23494 old gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ͲϱїЕ</lang>
+;
+23494 new gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">тϱїе</lang>
+;---------------------------------------------------
+; <L>3886<pc>160-a<k1>tri<k2>tri
+23495 old fem. <lang n="Slavonic">ͲϱИ</lang> {%tri%}; goth. {%THRI%}, nom. m. f. {%threis%}. Ad fem.
+;
+23495 new fem. <lang n="Slavonic">тϱи</lang> {%tri%}; goth. {%THRI%}, nom. m. f. {%threis%}. Ad fem.
+;---------------------------------------------------
+; <L>3959<pc>162-b<k1>dakziRa<k2>dakziRa
+23905 old f. dextera manus; fortasse russ. <lang n="russian">югъ</lang> {%jug%} merdionalis
+;
+23905 new f. dextera manus; fortasse russ. <lang n="Russian">югъ</lang> {%jug%} merdionalis
+;---------------------------------------------------
+; <L>3959<pc>162-b<k1>dakziRa<k2>dakziRa
+23906 old plaga; <lang n="russian">южный</lang> {%juschnyĭ%} meridionalis, abjecto {%d%}, sicut
+;
+23906 new plaga; <lang n="Russian">южный</lang> {%juschnyĭ%} meridionalis, abjecto {%d%}, sicut
+;---------------------------------------------------
+; <L>4450<pc>188-1a<k1>na<k2>na
+27320 old slav. <lang n="Slavonic">НЕ</lang>; goth. {%ni%}; hib. {%ni%}.)
+;
+27320 new slav. <lang n="Slavonic">не</lang>; goth. {%ni%}; hib. {%ni%}.)
+;---------------------------------------------------
+; <L>4898<pc>209-a<k1>para<k2>para
+30239 old trahi posset slav. praep. insep. <lang n="Slavonic">ПϱЕ</lang> {%pre%} trans, e. c. {%preidû%}
+;
+30239 new trahi posset slav. praep. insep. <lang n="Slavonic">пϱе</lang> {%pre%} trans, e. c. {%preidû%}
+;---------------------------------------------------
+; <L>5159<pc>218-b<k1>pIlu<k2>pIlu
+31722 old {#pIlu#}¦ {%m.%} elephantus. AM. (Pers. <lang n="arabic">پيل</lang> {%pîl%}.)
+;
+31722 new {#pIlu#}¦ {%m.%} elephantus. AM. (Pers. <lang n="Arabic">پيل</lang> {%pîl%}.)
+;---------------------------------------------------
+; <L>6026<pc>255-b<k1>mad<k2>mad<h>1
+37118 old hib. {%misge%} «drunkenness» cf. pers. <lang n="arabic">مست</lang> {%mes-t%}
+;
+37118 new hib. {%misge%} «drunkenness» cf. pers. <lang n="Arabic">مست</lang> {%mes-t%}
+;---------------------------------------------------
+; <L>6041<pc>256-b<k1>maDya<k2>maDya
+37221 old {%medju%}; slav. <lang n="Slavonic">МЕЖДЮ</lang> {%meschdju%} inter.)
+;
+37221 new {%medju%}; slav. <lang n="Slavonic">междю</lang> {%meschdju%} inter.)
+;---------------------------------------------------
+; <L>6707<pc>290-b<k1>ruc<k2>ruc<h>1
+41789 old lucere, nostrum {%leuch-ten%}; slav. <lang n="Slavonic">ΛОУЧа</lang> {%lûća%} radius,
+;
+41789 new lucere, nostrum {%leuch-ten%}; slav. <lang n="Slavonic">Λоуча</lang> {%lûća%} radius,
+;---------------------------------------------------
+; <L>6707<pc>290-b<k1>ruc<k2>ruc<h>1
+41790 old <lang n="Slavonic">ΛОУНⲀ</lang> {%lû-na%} luna; hib. {%loiche, loichead%} «a light, candle,
+;
+41790 new <lang n="Slavonic">Λоуна</lang> {%lû-na%} luna; hib. {%loiche, loichead%} «a light, candle,
+;---------------------------------------------------
+; <L>6986<pc>306-b<k1>vatsara<k2>vatsara
+43802 old AM. (Cf. lith. {%wásara%} aestas, pers. <lang n="arabic">بهار</lang> {%behâr%} ver; gr.
+;
+43802 new AM. (Cf. lith. {%wásara%} aestas, pers. <lang n="Arabic">بهار</lang> {%behâr%} ver; gr.
+;---------------------------------------------------
+; <L>7102<pc>313-a<k1>vah<k2>vah
+44658 old <lang n="Slavonic">ВЕЗꙋ</lang> {%veζû%} veho; goth. {%ga-VAG%} movere ({%ga-viga, -vag,
+;
+44658 new <lang n="Slavonic">везᴕ</lang> {%veζû%} veho; goth. {%ga-VAG%} movere ({%ga-viga, -vag,
+;---------------------------------------------------
+; <L>7106<pc>314-b<k1>vahis<k2>vahis
+44741 old niHsarati#}. (Cf. slav. <lang n="Slavonic">БЕЗЪ</lang> {%beζ%} absque, nisi hoc,
+;
+44741 new niHsarati#}. (Cf. slav. <lang n="Slavonic">безъ</lang> {%beζ%} absque, nisi hoc,
+;---------------------------------------------------
+; <L>7106<pc>314-b<k1>vahis<k2>vahis
+44743 old sicut <lang n="Slavonic">НИЗЪ</lang> {%niζ%} deorsum ad {#ni#}.)
+;
+44743 new sicut <lang n="Slavonic">низъ</lang> {%niζ%} deorsum ad {#ni#}.)
+;---------------------------------------------------
+; <L>7156<pc>316-b<k1>vAra<k2>vAra
+45043 old vet. {%or, o%} in {%zuir-or, zuir-o%} bis; pers. <lang n="arabic">بار</lang> {%bâr%} vicis, <lang n="arabic">بارى</lang>
+;
+45043 new vet. {%or, o%} in {%zuir-or, zuir-o%} bis; pers. <lang n="Arabic">بار</lang> {%bâr%} vicis, <lang n="Arabic">بارى</lang>
+;---------------------------------------------------
+; <L>7156<pc>316-b<k1>vAra<k2>vAra
+45044 old {%bâri%} semel, <lang n="arabic">بار ديكر</lang> {%bâr dîger%} iterum; fortasse huc pertinet
+;
+45044 new {%bâri%} semel, <lang n="Arabic">بار ديكر</lang> {%bâr dîger%} iterum; fortasse huc pertinet
+;---------------------------------------------------
+; <L>7191<pc>317-b<k1>vi<k2>vi<h>1
+45232 old <lang n="arabic">بى</lang> {%bî%} sine, e. c. <lang n="arabic">بيباك</lang> metu vacuus, intrepidus; fortasse
+;
+45232 new <lang n="Arabic">بى</lang> {%bî%} sine, e. c. <lang n="Arabic">بيباك</lang> metu vacuus, intrepidus; fortasse
+;---------------------------------------------------
+; <L>7510<pc>329-b<k1>vfka<k2>vfka
+47097 old ex {%ulpus%} pro {%ulcus%}; hib. {%breach, brech%}; pers. <lang n="arabic">ڭرك </lang> {%gurk%},
+;
+47097 new ex {%ulpus%} pro {%ulcus%}; hib. {%breach, brech%}; pers. <lang n="Arabic">ڭرك </lang> {%gurk%},
+;---------------------------------------------------
+; <L>7522<pc>330-b<k1>vft<k2>vft<h>1
+47251 old {%vaurs-tva%} opus, v. gr. comp. 102.; pers. <lang n="arabic"> ڭردم</lang> {%gerdem%}
+;
+47251 new {%vaurs-tva%} opus, v. gr. comp. 102.; pers. <lang n="Arabic"> ڭردم</lang> {%gerdem%}
+;---------------------------------------------------
+; <L>7522<pc>330-b<k1>vft<k2>vft<h>1
+47252 old vertor, fio, mutâto {%v%} in {%g%}, <lang n="arabic"> ڭـرد</lang> {%gird%} rotundus, subst. circulus,
+;
+47252 new vertor, fio, mutâto {%v%} in {%g%}, <lang n="Arabic"> ڭـرد</lang> {%gird%} rotundus, subst. circulus,
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48499 old conferatur etiam pers. <lang n="arabic">خواندن</lang> {%kân-den%} recitare, cantare,
+;
+48499 new conferatur etiam pers. <lang n="Arabic">خواندن</lang> {%kân-den%} recitare, cantare,
+;---------------------------------------------------
+; <L>7693<pc>340-1b<k1>SaMs<k2>SaMs<h>1
+48501 old De <lang n="arabic">خاستن</lang> {%kâs-ten%} cupere v. 2. {#SaMs#}.)
+;
+48501 new De <lang n="Arabic">خاستن</lang> {%kâs-ten%} cupere v. 2. {#SaMs#}.)
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48516 old precari. (V. {#SAs#} praef. {#A#} et cf. pers. <lang n="arabic">خاستن</lang> {%kâsten%}
+;
+48516 new precari. (V. {#SAs#} praef. {#A#} et cf. pers. <lang n="Arabic">خاستن</lang> {%kâsten%}
+;---------------------------------------------------
+; <L>7694<pc>341-a<k1>SaMs<k2>SaMs<h>2
+48517 old cupere, velle, rogare, <lang n="arabic">خواهم</lang> {%kâh-em%} cupio etc., hib.
+;
+48517 new cupere, velle, rogare, <lang n="Arabic">خواهم</lang> {%kâh-em%} cupio etc., hib.
+;---------------------------------------------------
+; <L>7792<pc>346-a<k1>SaSa<k2>SaSa
+49190 old {%hara%}, lith. {%kiszkis, zuikis%}, russ. <lang n="russian">заецъ</lang> {%ζaez%}.)
+;
+49190 new {%hara%}, lith. {%kiszkis, zuikis%}, russ. <lang n="Russian">заецъ</lang> {%ζaez%}.)
+;---------------------------------------------------
+; <L>7924<pc>351-b<k1>SuD<k2>SuD
+50003 old slav. <lang n="Slavonic">ЧИСͲЪ</lang> {%ćis-t%}, lat. {%cas-tus%}. Vid. Pott. I.252.)
+;
+50003 new slav. <lang n="Slavonic">чистъ</lang> {%ćis-t%}, lat. {%cas-tus%}. Vid. Pott. I.252.)
+;---------------------------------------------------
+; <L>8029<pc>355-b<k1>SrA<k2>SrA
+50622 old {#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">ЗϱѢͲИ</lang> {%ζrje-ti%} maturescere,
+;
+50622 new {#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">зϱѣти</lang> {%ζrje-ti%} maturescere,
+;---------------------------------------------------
+; <L>8076<pc>359-a<k1>Svan<k2>Svan
+51010 old <lang n="greek">«τὴν γάϱ ϰύνα ϰαλέουσι σπάϰα Μῆδοι»</lang>, pers. <lang n="arabic">سك</lang>
+;
+51010 new <lang n="greek">«τὴν γάϱ ϰύνα ϰαλέουσι σπάϰα Μῆδοι»</lang>, pers. <lang n="Arabic">سك</lang>
+;---------------------------------------------------
+; <L>8109<pc>361-1a<k1>sa<k2>sa
+51287 old q. v.; slav. <lang n="Slavonic">С́Ъ</lang> {%ś%} ad {#sa#}, <lang n="Slavonic">Сꙋ</lang> {%sû%} autem ad {#sam#} retulerim, v.
+;
+51287 new q. v.; slav. <lang n="Slavonic">с'ъ</lang> {%ś%} ad {#sa#}, <lang n="Slavonic">сᴕ</lang> {%sû%} autem ad {#sam#} retulerim, v.
+;---------------------------------------------------
+; <L>8151<pc>362-b<k1>sakala<k2>sakala
+51495 old (Fortasse lith. {%cźielas%} totus, russ. <lang n="russian">цѣлый</lang> {%zielyï%} id.,
+;
+51495 new (Fortasse lith. {%cźielas%} totus, russ. <lang n="Russian">цѣлый</lang> {%zielyï%} id.,
+;---------------------------------------------------
+; <L>8151<pc>362-b<k1>sakala<k2>sakala
+51496 old slav. <lang n="Slavonic">ЦѢΛЪ</lang> {%ziel%} sanus, v. Mikl. p. 104.; polon. {%saly, salki%}
+;
+51496 new slav. <lang n="Slavonic">цѣΛъ</lang> {%ziel%} sanus, v. Mikl. p. 104.; polon. {%saly, salki%}
+;---------------------------------------------------
+; <L>8632<pc>385-a<k1>stiG<k2>stiG
+54642 old assequor, consequor, slav. vet. <lang n="Slavonic">СͲЬЗⲀ</lang> {%stiζa%} semita,
+;
+54642 new assequor, consequor, slav. vet. <lang n="Slavonic">стчза</lang> {%stiζa%} semita,
+;---------------------------------------------------
+; <L>8773<pc>394-b<k1>svap<k2>svap
+55792 old sopio, Grimm 1. 869., slav. <lang n="Slavonic">СЪП-И-ШИ</lang> {%sp-i-sʽi%} dormis.
+;
+55792 new sopio, Grimm 1. 869., slav. <lang n="Slavonic">съп-и-ши</lang> {%sp-i-sʽi%} dormis.
+;---------------------------------------------------
+; <L>8802<pc>396-a<k1>svAdu<k2>svAdu
+55977 old {%sladùs%}, mutato {%v%} in {%l%}, v. gr. comp. 20., slav. <lang n="Slavonic">СΛⲀДЪКЪ</lang>
+;
+55977 new {%sladùs%}, mutato {%v%} in {%l%}, v. gr. comp. 20., slav. <lang n="Slavonic">сΛадъкъ</lang>
+;---------------------------------------------------
+; <L>8879<pc>401-a<k1>hima<k2>hima
+56559 old <lang n="Slavonic">ЗИМⲀ</lang> {%ζima%} hiems, lith. {%źiếma%} id., gr. <lang n="greek">χιών, χεῖμα</lang>;
+;
+56559 new <lang n="Slavonic">зима</lang> {%ζima%} hiems, lith. {%źiếma%} id., gr. <lang n="greek">χιών, χεῖμα</lang>;
+;---------------------------------------------------
