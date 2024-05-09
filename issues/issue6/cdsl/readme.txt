@@ -347,7 +347,7 @@ miscellaneous edits to ../temp_bop_3a.txt,
   guided by cases in temp_alldiff_2x.txt
 
 ---
-'. infr.' -> '.infr.'  What is the abbreviation here?
+'. infr.' -> '.infr.'  What is the abbreviation here? AB: 'infr.' = infra
 '.\ninfr. ' -> '.infr.\n'
 '.\ninfr.' -> '.infr.\n'
 
@@ -499,7 +499,7 @@ Question: re Slavonic:
 1. What is the modern equivalent?  There is no 'slav...' in Google Translate
 2. Why did AB seem to 'lower-case' the entries?
    Because of limited font support for some upper-case?
-
+AB: it could mostly be Bulgarian (which is from Old Church Slavonic). 
 --------------------------------------------------------
 python cmp_misc.py 4  ../temp_bop_1_ab.txt ../temp_bop_1a_ab.txt temp_lang_ab_1_1a.txt
 
@@ -1043,4 +1043,103 @@ ___________________________________________________
 -----------------------------------------------------
 NOTES: ../temp_bop_1a_ab.txt
 4369<L>1532<pc>053-a<k1>uSIra SAK. 43.8.  print change from 'SAK. 43..'
+AB: not a print change, just a typo correction
+----------------------------------------------------
+05-09-2024  Actions based on AB review.
+cp temp_bop_4b.txt temp_bop_4c.txt
+manual edits of temp_bop_4c.txt and temp_bop_1a_ab.txt (AB version)
+---
+Re slavonic/russian, see AB comment at
+  https://github.com/sanskrit-lexicon/BOP/issues/5#issuecomment-1517967036
+---
+ć (preformed) vs. ć (combining)
+AB: Yes, we can go with the pre-formed letter.
+47 matches in 43 lines for "ć" in buffer: temp_bop_4c.txt preformed
+10 matches in 9 lines for "ć" in buffer: temp_bop_4c.txt combining
+Same for AB version
+Action change the combining to preformed in both files
+"ć" -> "ć"   10
+---
+'pronom.' is an abbreviation
+'pronom%}.' -> 'pronom.%}'
+
+1 match for "pronom\.%}" in buffer: temp_bop_1.txt
+0 matches for "pronom%}\." in buffer: temp_bop_4c.txt
+Nothing to change,  as AB noted.
+---
+\.»  0 times
+»\.  386 times
+AM». -> AM.»  L=904
+lat». -> AM.» L=1171
+--------------------
+
+Now for checking and installing ...
+python cmp_misc1.py 1  ../temp_bop_4c.txt ../temp_bop_1a_ab.txt temp_cmp_misc_4c_1.txt
+# 0 entries differ, as expected
+---
+# generate change file 4b to 4c
+python diff_to_changes_dict.py temp_bop_4b.txt temp_bop_4c.txt change_bop_4b_4c.txt
+11 lines changed
+---
+
+--------------------------------------------------------
+Install temp_bop_4c.txt to github and cologne.
+cd ../
+cp temp_bop_4c.txt /c/xampp/htdocs/cologne/csl-orig/v02/bop/bop.txt
+
+# remake local displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/
+sh generate_dict.sh bop  ../../bop
+sh xmlchk_xampp.sh bop
+# ok  as expected
+
+----
+# sync csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/
+git add .
+git commit -m "BOP: final adjustments https://github.com/sanskrit-lexicon/BOP/issues/6"
+git push
+
+---------------
+install changes to cologne server
+login to cologne ssh
+cd to csl-orig
+git pull
+cd to csl-pywork/v02
+sh generate_dict.sh bop  ../../BOPScan/2020/
+---------------
+Regenerate AB version
+
+# 1. deva form
+python bop_transcode.py slp1 deva temp_bop_1a_ab.txt temp_bop_1a_ab_deva.txt 
+37844 written to temp_bop_1a_ab_deva.txt
+
+check invertibility
+
+python bop_transcode.py deva slp1 temp_bop_1a_ab_deva.txt temp.txt 
+37844 written to temp.txt
+diff temp_bop_1a_ab.txt temp.txt | wc -l
+# 0 as expected
+rm temp.txt
+
+# 2. 
+python cdsl_AB.py CDSL,AB temp_bop_1a_ab_deva.txt BOP_main_L2_rev.txt
+
+diff -w ../BOP_main-L2.txt BOP_main_L2_rev.txt | wc -l
+# 476  (/ 476 4) = 119 lines different (approximate)
+-----
+
+Another view of the diff
+python cmp_misc1.py 1 ../temp_bop_1_ab.txt ../temp_bop_1a_ab.txt ../cmp_bop_1_ab_1a_ab.txt
+
+37844 lines read from ../temp_bop_1_ab.txt
+37844 lines read from ../temp_bop_1a_ab.txt
+17921 groups 8961 entries
+17921 groups 8961 entries
+8838 entries the same
+123 entries differ
+369 written to cmp_bop_1_ab_1a_ab.txt
+
+Note: change 'CD:' refers to temp_bop_1_ab.txt
+and 'AB:' referse to temp_bop_1a_ab.txt
 

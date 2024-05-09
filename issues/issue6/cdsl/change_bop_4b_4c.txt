@@ -1,0 +1,55 @@
+; <L>375<pc>013-a<k1>apa<k2>apa
+2008 old - goth. {%af-tarô%} retro, a tergo; cf. etiam lith. {%apaćia%}
+;
+2008 new - goth. {%af-tarô%} retro, a tergo; cf. etiam lith. {%apaćia%}
+;---------------------------------------------------
+; <L>375<pc>013-a<k1>apa<k2>apa
+2009 old pars inferior, {%apaćioj%} infra, {%apatinnis%} inferior; huc
+;
+2009 new pars inferior, {%apaćioj%} infra, {%apatinnis%} inferior; huc
+;---------------------------------------------------
+; <L>904<pc>030-a<k1>Aditya<k2>Aditya
+4855 old in each month of the year%}. AM».).
+;
+4855 new in each month of the year%}. AM.»).
+;---------------------------------------------------
+; <L>1171<pc>041-b<k1>iha<k2>iha
+6485 old Schmidt «De pron. gr. et lat». p. 16.; goth. {%ith%} si, nam,
+;
+6485 new Schmidt «De pron. gr. et lat.» p. 16.; goth. {%ith%} si, nam,
+;---------------------------------------------------
+; <L>1596<pc>056-a<k1>fgyajuHsAmavedin<k2>fgyajuHsAmavedin
+8805 old Rić (vulgo Rik) Yajus et Sâma habens aut noscens.
+;
+8805 new Rić (vulgo Rik) Yajus et Sâma habens aut noscens.
+;---------------------------------------------------
+; <L>2118<pc>072-b<k1>kiYcit<k2>kiYcit
+11560 old {%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
+;
+11560 new {%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
+;---------------------------------------------------
+; <L>3067<pc>118-a<k1>catur<k2>catur<h>2
+17680 old <lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+;
+17680 new <lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+;---------------------------------------------------
+; <L>3157<pc>123-a<k1>ci<k2>ci<h>1
+18329 old russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
+;
+18329 new russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
+;---------------------------------------------------
+; <L>3876<pc>159-b<k1>trayI<k2>trayI
+23088 old {#trayI#}¦ {%f.%} (a praec. signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et
+;
+23088 new {#trayI#}¦ {%f.%} (a praec. signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et
+;---------------------------------------------------
+; <L>4454<pc>188-1a<k1>naktam<k2>naktam
+26935 old {%noctu, NOCT%}; gr. <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
+;
+26935 new {%noctu, NOCT%}; gr. <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
+;---------------------------------------------------
+; <L>5142<pc>217-b<k1>piSAca<k2>piSAca
+31116 old {#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N. 12.7.
+;
+31116 new {#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N. 12.7.
+;---------------------------------------------------

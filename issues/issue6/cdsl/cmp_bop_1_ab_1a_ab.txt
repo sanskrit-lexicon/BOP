@@ -1,0 +1,369 @@
+* <L>334<pc>011-b<k1>antar
+CD: goth. {%undar%}, nostrum {%unter%}, slav. {%vn-ûtrj%}<sup>(*)</sup> intra). <F>(*) De {%û%}
+AB: goth. {%undar%}, nostrum {%unter%}, slav. {%vn-ûtrj%} <sup>(*)</sup> intra). <F>(*) De
+* <L>375<pc>013-a<k1>apa
+CD: praef.%} ab, de (gr. <lang n="greek">ἀπό</lang> lat. {%ab%}, goth. {%af%},
+AB: praef.%} ab, de (gr. <lang n="greek">ἀπό</lang>, lat. {%ab%}, goth. {%af%},
+* <L>888<pc>029-a<k1>Atman
+CD: convenit cum goth. {%ahma%} Th. {#ahman#} spiritus.).
+AB: convenit cum goth. {%ahma%} Th. {%ahman%} spiritus.).
+* <L>925<pc>030-b<k1>Ap
+CD: oriri potuit; etiam <lang n="greek">πϱυμνός, πϱυνός</lang>, mutato <lang n="greek">π</lang> in
+AB: oriri potuit; etiam <lang n="greek">πϱυμνός, πϱέμνον</lang>, mutato <lang n="greek">π</lang> in
+* <L>1062<pc>035-b<k1>As
+CD: 26.33. 3) peragere, perficere. RAM. I.29.21. ed. Ser.: {#svayaMvaram upAsmahe#}.
+AB: 26.33. 3) peragere, perficere. RAM. ed. Ser. I.29.21.: {#svayaMvaram upAsmahe#}.
+* <L>1096<pc>036-1a<k1>i
+CD: transgredi, praeterire. RAM. ed. Ser. [Page037-a+ 37] I.10.19.: {#atItya viviDAn
+AB: transgredi, praeterire. RAM. ed. Ser. I.10.19.: [Page037-a+ 37] {#atItya viviDAn
+* <L>1138<pc>040-a<k1>indradru
+CD: arbor) nomen arboris cujusdam (Pentaptera arǵuna). AM.
+AB: arbor) nomen arboris cujusdam (Pentaptera arjuna). AM.
+* <L>1192<pc>043-a<k1>Irkzy
+CD: {%Substant.%} {#IrzA#} et {%Adject.%} {#Irzu#}. {# Irz#} autem ex {#Ir#}
+AB: {%Substant.%} {#IrzA#} et {%Adject.%} {#Irzu#}. {#Irz#} autem ex {#Ir#} adjecto
+* <L>1594<pc>056-a<k1>fkza
+CD: {#f#} et cf. gr. <lang n="greek">ἄρϰτος</lang> hib. {%art%}, lat. {%ursus%},
+AB: {#f#} et cf. gr. <lang n="greek">ἄρϰτος</lang>, hib. {%art%}, lat. {%ursus%},
+* <L>1596<pc>056-a<k1>fgyajuHsAmavedin
+CD: (a {#fgyajuHsAmaveda#} s. {#in#}) Vêdos Rić (vulgo Rik) Yajus et
+AB: (a {#fgyajuHsAmaveda#} s. {#in#}) Vêdos Rić (vulgo Rik) Yajus et
+* <L>1739<pc>062-a<k1>kak
+CD: explicat per 1) {%to be proud.%} 2) {%to be unsteady.%}
+AB: explicat per 1) {%to be proud%}. 2) {%to be unsteady%}.
+* <L>1869<pc>065-b<k1>kapi
+CD: germ. vet. {%affo%}, v. Graff I.59.).
+AB: germ. vet. {%affo%}, v. Graff I.159.).
+* <L>1877<pc>066-a<k1>kamaRqalu
+CD: by the ascetic or religious student.» HIT. 60.16. DEV. 2.23.
+AB: by the ascetic or religious student». HIT. 60.16. DEV. 2.23.
+* <L>1888<pc>066-a<k1>kambugrIvA
+CD: to be indicative of exalted fortune.» AM., v. praec.
+AB: to be indicative of exalted fortune». AM., v. praec.
+* <L>1898<pc>066-b<k1>karaBa
+CD: to the root of the fingers.» AM.: {#maRibanDAd AkanizWam#}; SAK.
+AB: to the root of the fingers». AM.: {#maRibanDAd AkanizWam#}; SAK.
+* <L>2118<pc>072-b<k1>kiYcit
+CD: respondent Zend. <lang n="Avestan"> 𐬨𐬁𐬗𐬌𐬱</lang> {%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%},
+AB: respondent Zend. <lang n="Avestan"> 𐬨𐬁𐬗𐬌𐬱</lang> {%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%},
+* <L>2147<pc>074-a<k1>kirIwin
+CD: 1.3. BH. 11.17. 2) cognomen Arǵuni. DR. 5.15.
+AB: 1.3. BH. 11.17. 2) cognomen Arjuni. DR. 5.15.
+* <L>2249<pc>076-b<k1>kup
+CD: 3.56.: {#cukopa tasmE sa BfSam#}. {# kupita#} iratus. N. 20.32.
+AB: 3.56.: {#cukopa tasmE sa BfSam#}. {#kupita#} iratus. N. 20.32. -
+* <L>2267<pc>077-a<k1>kumBa
+CD: which swell in the rutting season.» DEV. 3.13. (Cf. <lang
+AB: which swell in the rutting season». DEV. 3.13. (Cf. <lang
+* <L>2282<pc>077-b<k1>kuruvaka
+CD: 2) {%A purple species of barleria.%} 3) {%Also a yellow
+AB: 2) {%A purple species of barleria%}. 3) {%Also a yellow
+* <L>2344<pc>079-a<k1>kf
+CD: 17.58., {%v. infra praef.%} {#vi#}. {# - upakfta#} {%n.%} auxilium.
+AB: 17.58., {%v. infra praef.%} {#vi#}. — {#upakfta#} {%n.%} auxilium. BR.
+* <L>2389<pc>083-a<k1>kfzRa
+CD: indutus. {%Dual.%} {#kfzRO#} Krischnus et Arǵunus. (Russ. <lang n="Russian">черный</lang> {%ćernyĭ%}
+AB: indutus. {%Dual.%} {#kfzRO#} Krischnus et Arjunus. (Russ. <lang n="Russian">черный</lang> {%ćernyĭ%}
+* <L>2395<pc>083-a<k1>kF
+CD: conjicere, spargere, perfundere, obruere, implere. GIT.-GOV. 4.14.: {#kirati sajalakaRajAlam#}; DR.
+AB: conjicere, spargere, perfundere, obruere, implere. GITA-GOV. 4.14.: {#kirati sajalakaRajAlam#}; DR.
+* <L>2437<pc>085-b<k1>koRa
+CD: a lute, a fiddle stick etc.» RAM. III.55.26.
+AB: a lute, a fiddle stick etc». RAM. III.55.26.
+* <L>2756<pc>100-b<k1>gam
+CD: veni, nostrum {%komme, kam%}, gr. comp.) [Page101-a+ 37] 109^{%a%}),1. Huc
+AB: veni, nostrum {%komme, kam%}, gr. comp. 109^{%a%}),1. [Page101-a+ 37] Huc
+* <L>2800<pc>104-a<k1>gARqIva
+CD: {#gARqIva#}¦ {%m.%} nomen Arǵuni arcûs.
+AB: {#gARqIva#}¦ {%m.%} nomen Arjuni arcûs.
+* <L>2835<pc>105-a<k1>guqAkeSa
+CD: praec. et {#keSa#} capillus) cognomen Arǵuni.
+AB: praec. et {#keSa#} capillus) cognomen Arjuni.
+* <L>2878<pc>107-a<k1>gfD
+CD: {#gfD#}¦ 4. {%P.%} desiderare, appetere. Yaǵurv. ap. Carey gr. p.
+AB: {#gfD#}¦ 4. {%P.%} desiderare, appetere. Yajurv. ap. Carey gr. p.
+* <L>2891<pc>107-b<k1>gF
+CD: (V. {#gir#} et cf. hib. {%goi-%} [Page108-a+ 37] {%rim%} <sup>(*)</sup>
+AB: (V. {#gir#} et cf. hib. {%goirim%} [Page108-a+ 37] <sup>(*)</sup> clamo;
+* <L>2938<pc>110-a<k1>gras
+CD: {#grasamAnaH samantAl lokAn#}; capere. N. 11.2. 23. (Cf. {#gF#} i.
+AB: {#grasamAnaH samantAl lokAn#}; capere. N. 11.22. 23. (Cf. {#gF#} i.
+* <L>3041<pc>116-2b<k1>cakz
+CD: pracakzate#}. <div n="pfx">c. {#vi#} dicere. YAǴURV. Carey 904.: {#ye nas
+AB: pracakzate#}. <div n="pfx">c. {#vi#} dicere. YAJURV. Carey 904.: {#ye nas
+* <L>3067<pc>118-a<k1>catur
+CD: metathesin zend. <lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+AB: metathesin zend. <lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+* <L>3110<pc>119-b<k1>car
+CD: deest, suppletur, in sententiis ut {%ǵêtuṅ śakyatê%}.</F>
+AB: deest, suppletur, in sententiis ut {%jêtuṅ śakyatê%}.</F>
+* <L>3157<pc>123-a<k1>ci
+CD: {%Haufen%}; forma russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales
+AB: {%Haufen%}; forma russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales
+* <L>3287<pc>130-a<k1>Cad
+CD: 3. {#Cad#}¦ 10. {%P.%} {#CadayAmi (Urjane#} <sup>(*)</sup>) educare, nutrire
+AB: 3. {#Cad#}¦ 10. {%P.%} {#CadayAmi#} ({#Urjane#} <sup>(*)</sup>) educare, nutrire
+* <L>3388<pc>136-a<k1>jaya
+CD: 19.28. {%Subst. m.%} 1) cognomen Arǵuni, victor. DR. 3.7. 2)
+AB: 19.28. {%Subst. m.%} 1) cognomen Arjuni, victor. DR. 3.7. 2)
+* <L>3448<pc>138-a<k1>jAmbUnada
+CD: exponitur%} RAM. I.31.49. <F>(*) Potius {%ǵambûnadî%}, scribitur enim quoque {%ǵambû%}
+AB: exponitur%} RAM. I.31.49. <F>(*) Potius {%jambûnadî%}, scribitur enim quoque {%jambû%}
+* <L>3475<pc>139-b<k1>jizRu
+CD: RAGH. 4.85. 10.18. 2) cognomen Arǵuni.
+AB: RAGH. 4.85. 10.18. 2) cognomen Arjuni.
+* <L>3484<pc>139-b<k1>jIv
+CD: libris invenitur forma caus. anomala {%ǵîvâpayâmi%} (Lass. XVIII.6.9. 14.16.), cujus
+AB: libris invenitur forma caus. anomala {%jîvâpayâmi%} (Lass. XVIII.6.9. 14.16.), cujus
+* <L>3528<pc>143-b<k1>jyAyas
+CD: major. 2) melior. BH. 3.1. 8.3) peregregius, optimus. RAGH. 18.33.
+AB: major. 2) melior. BH. 3.1. 8. 3) peregregius, optimus. RAGH.
+* <L>3656<pc>149-a<k1>tap
+CD: 3.14785.: [Page149-b+ 37] {#tApayan…raSmivAn iva tajasA; -tApta#} pro {#tApita#} splendens
+AB: 3.14785.: [Page149-b+ 37] {#tApayan…raSmivAn iva tajasA#}; - {#tApta#} pro {#tApita#}
+* <L>3843<pc>157-b<k1>tF
+CD: gr. <lang n="greek">τέϱ-μα, τέϱ-ϑϱον, τεϱέω, τέϱ-ε-ϱον, τοϱεύω, τιτϱάω, τιτϱαίνω, τιτϱώσϰω;
+AB: gr. <lang n="greek">τέϱ-μα, τέϱ-ϑϱον, τεϱέω, τέϱ-ε-τϱον, τοϱεύω, τιτϱάω, τιτϱαίνω, τιτϱώσϰω;
+* <L>3876<pc>159-b<k1>trayI
+CD: signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et {%Sâman%}). BH.
+AB: signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et {%Sâman%}). BH.
+* <L>3886<pc>160-a<k1>tri
+CD: nom. m. f.: gr. <lang n="greek">τϱῖες</lang>, lat. {%tres%}, lith. {%trys%},
+AB: nom. m. f.: gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%},
+* <L>3991<pc>163-b<k1>damB
+CD: = nE 'va#}, v. Westerg.); YAǴURV. 1.31. (Westerg.): {#adabDena tvA
+AB: = nE 'va#}, v. Westerg.); YAJURV. 1.31. (Westerg.): {#adabDena tvA
+* <L>4008<pc>164-a<k1>darSana
+CD: 3) consilium, propositum, institutum. R. [Page164-b+ 37] Schl. I.58.18. —
+AB: 3) consilium, propositum, institutum. R. Schl. I.58.18. [Page164-b+ 37] —
+* <L>4024<pc>165-a<k1>das
+CD: te asmat sumatir vidasat#} ({%praet. mltf.%}) «ne ille tuus nobis
+AB: te asmat sumatir vidasat#} ({%praet. mtf.%}) «ne ille tuus nobis
+* <L>4121<pc>171-b<k1>du
+CD: (Cf. {#danv, dru#}; gr. <lang n="greek">ύω, δονέω</lang>; v. {#danv#}.)
+AB: (Cf. {#danv, dru#}; gr. <lang n="greek">δύω, δονέω</lang>; v. {#danv#}.)
+* <L>4180<pc>174-a<k1>dfMh
+CD: Vêd. PAR.%} firmare, firmum reddere. YAǴ.-V.: {#pfTivIn dfMha; — pfTivIm
+AB: Vêd. PAR.%} firmare, firmum reddere. YAJ.-V.: {#pfTivIn dfMha; — pfTivIm
+* <L>4207<pc>175-b<k1>devadatta
+CD: (e {#deva#} et {#datta#} datus) Arǵuni concha. A. 5.24.
+AB: (e {#deva#} et {#datta#} datus) Arjuni concha. A. 5.24.
+* <L>4320<pc>180-a<k1>DanaYjaya
+CD: {#Danam#} et {#jaya#} vincens) {%nomen Arǵuni%}.
+AB: {#Danam#} et {#jaya#} vincens) {%nomen Arjuni%}.
+* <L>4352<pc>180-b<k1>DA
+CD: — {%Cum infin.%} R. Schl. [Page181-a+ 37] I.11.1.: {#rAjA yazwum
+AB: — {%Cum infin.%} R. Schl. I.11.1.: [Page181-a+ 37] {#rAjA yazwum
+* <L>4368<pc>183-a<k1>DAv
+CD: 11.80.: [Page183-b+ 37] {#vfzwiDOta#}; 16.49.; 19.0. — {%Caus.%} lavare. MAN.
+AB: 11.80.: [Page183-b+ 37] {#vfzwiDOta#}; 16.49.; 19.10. — {%Caus.%} lavare. MAN.
+* <L>4454<pc>188-1a<k1>naktam
+CD: <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
+AB: <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
+* <L>4523<pc>192-a<k1>naS
+CD: {#nah#} praef. {#vi#}; gr. <lang n="greek">νέϰύς, νεϰϱός</lang>; fortasse <lang n="greek">νόσος</lang>,
+AB: {#nah#} praef. {#vi#}; gr. <lang n="greek">νέϰυς, νεϰϱός</lang>; fortasse <lang n="greek">νόσος</lang>,
+* <L>4533<pc>193-a<k1>nAT
+CD: {#DftyA nATasva#}. 3) aegrotum esse. YAǴURV. (v. Westerg.): {#avatAn (avatAt)
+AB: {#DftyA nATasva#}. 3) aegrotum esse. YAJURV. (v. Westerg.): {#avatAn (avatAt)
+* <L>4542<pc>193-b<k1>nABi
+CD: n="greek">ο</lang>, sicut in <lang n="greek">ὄνυξ, ὀϕϱς, ὀδούς, ὄνομα</lang>; ita lat.
+AB: n="greek">ο</lang>, sicut in <lang n="greek">ὄνυξ, ὀϕϱύς, ὀδούς, ὄνομα</lang>; ita lat.
+* <L>4874<pc>208-b<k1>pad
+CD: 3.3. N. 13.12. (Gr. <lang n="greek">πούς</lang>, lat. {%PED, pes%}; v.
+AB: 3.3. N. 13.12. (Gr. <lang n="greek">ΠΟΔ, πούς</lang>, lat. {%PED, pes%};
+* <L>4898<pc>209-a<k1>para
+CD: (ut {%thana%} = {#tam#}, <lang n="greek">τοῦ</lang>); {%fairnjis%}, Them. {%fairnja%} vetus;
+AB: (ut {%thana%} = {#tam#}, <lang n="greek">τόν</lang>); {%fairnjis%}, Them. {%fairnja%} vetus;
+* <L>5042<pc>214-a<k1>pA
+CD: 1.192.: {#hayAn pAyayitvA#}. (Gr. <lang n="greek">ΡΩ, πέπωϰα, πῶϑι, ἐπόϑην</lang>; attenuato
+AB: 1.192.: {#hayAn pAyayitvA#}. (Gr. <lang n="greek">ΠΩ, πέπωϰα, πῶϑι, ἐπόϑην</lang>; attenuato
+* <L>5090<pc>215-b<k1>pArTa
+CD: {%Prithâ%} natus, cognomen {%Pândavorum%}, praecipue {%Arǵuni%}.
+AB: {%Prithâ%} natus, cognomen {%Pândavorum%}, praecipue {%Arjuni%}.
+* <L>5142<pc>217-b<k1>piSAca
+CD: {#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N.
+AB: {#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N.
+* <L>5196<pc>219-b<k1>punar
+CD: retro. {#punar ezyati#} redibit. DR. [Page220-a+ 37] 6.16. 3) adhuc.
+AB: retro. {#punar ezyati#} redibit. DR. 6.16. [Page220-a+ 37] 3) adhuc.
+* <L>5582<pc>233-a<k1>prI
+CD: ut videtur, litteris transpositis <lang n="greek">ΦΙΑ</lang> e <lang n="greek">ΦΛΑ</lang> cum
+AB: ut videtur, litteris transpositis <lang n="greek">ΦΙΛ</lang> e <lang n="greek">ΦΛΙ</lang> cum
+* <L>5634<pc>236-b<k1>Palguna
+CD: {#Palguna#}¦ {%n.%} cognomen {%Arǵuni%}.
+AB: {#Palguna#}¦ {%n.%} cognomen {%Arjuni%}.
+* <L>5643<pc>236-1a<k1>baMh
+CD: {#r#}; v. {#bahu#} = <lang n="greek">βαϑίς</lang> et cf. <lang n="greek">βένϑος,
+AB: {#r#}; v. {#bahu#} = <lang n="greek">βαϑύς</lang> et cf. <lang n="greek">βένϑος,
+* <L>5661<pc>236-1b<k1>banD
+CD: Ag. Benary «{%Römische Lautlehre%} p. 190.», cf. Pott. I.251.; lith.
+AB: Ag. Benary «{%Römische Lautlehre%} p. 190»., cf. Pott. I.251.; lith.
+* <L>5728<pc>239-a<k1>bIBatsu
+CD: (a praec. s. {#u#}) cognomen {%Arǵuni%}. A. 3.1. (ubi {#bIBatsur#}
+AB: (a praec. s. {#u#}) cognomen {%Arjuni%}. A. 3.1. (ubi {#bIBatsur#}
+* <L>5756<pc>241-a<k1>brU
+CD: etiam gr. <lang n="greek">ΡΈΩ, ϱ̔ῆμα, ϱ̔ήτωέ</lang>, abjectâ litterâ initiali sicut
+AB: etiam gr. <lang n="greek">ΡΈΩ, ϱ̔ῆμα, ϱ̔ήτωϱ</lang>, abjectâ litterâ initiali sicut
+* <L>5762<pc>241-1a<k1>Bakz
+CD: in {#u#}; cf. gr. <lang n="greek">ϕαγον; ϕάσηλος</lang> et <lang n="greek">ΦΑΓ,
+AB: in {#u#}; cf. gr. <lang n="greek">ΦΑΓ, ἔϕαγον; ϕάσηλος</lang> et <lang
+* <L>5775<pc>242-b<k1>BaYj
+CD: {#BaYj#}¦ 7. {%P.%} {#Banajmi#}, {%praet. mltf.%} {#aBANGam#}, {%fut.%} {#BaNkzyAmi#}, {%pass.%}
+AB: {#BaYj#}¦ 7. {%P.%} {#Banajmi#}, {%praet. mtf.%} {#aBANGam#}, {%fut.%} {#BaNkzyAmi#}, {%pass.%}
+* <L>5873<pc>247-a<k1>Buj
+CD: {%boghadoir%} «archer»; fortasse gr. <lang n="greek">ΦΥΤ, ϕεύγω</lang>, lat. {%FUG, fugio%}
+AB: {%boghadoir%} «archer»; fortasse gr. <lang n="greek">ΦΥΓ, ϕεύγω</lang>, lat. {%FUG, fugio%}
+* <L>6036<pc>256-b<k1>maDu
+CD: vel <lang n="greek">δ</lang> in <lang n="greek">λ</lang> lat. {%mel, mellis%} fortasse
+AB: vel <lang n="greek">δ</lang> in <lang n="greek">λ</lang>; lat. {%mel, mellis%} fortasse
+* <L>6045<pc>256-b<k1>man
+CD: in formâ caus.; gr. <lang n="greek">μῆνος</lang> = {#manas#}; <lang n="greek">μῆτις</lang>
+AB: in formâ caus.; gr. <lang n="greek">μένος</lang> = {#manas#}; <lang n="greek">μῆτις</lang>
+* <L>6264<pc>266-a<k1>muc
+CD: Amumoca tanucCadam#}; 13.21. 17.25. MAH. 1.095. <div n="pfx">c. {#ut#} solvere,
+AB: Amumoca tanucCadam#}; 13.21. 17.25. MAH. 1.4095. <div n="pfx">c. {#ut#} solvere,
+* <L>6296<pc>268-a<k1>muz
+CD: gAH#} «cripuistis alimentum Pani, {%nempe%} vaccas.» — {#muz#} cl. 4.
+AB: gAH#} «cripuistis alimentum Pani, {%nempe%} vaccas». — {#muz#} cl. 4.
+* <L>6322<pc>269-a<k1>mUza
+CD: mûr-is%} e {%mûs-is%}; gr. <lang n="greek">μῶς, μυ-ός</lang> e <lang n="greek">μυσ-ός</lang>;
+AB: mûr-is%} e {%mûs-is%}; gr. <lang n="greek">μῦς, μυ-ός</lang> e <lang n="greek">μυσ-ός</lang>;
+* <L>6327<pc>269-b<k1>mfga
+CD: (Wils.: 1) {%A deer, an antelope.%} 2) {%an animal in
+AB: (Wils.: 1) {%A deer, an antelope%}. 2) {%an animal in
+* <L>6336<pc>270-a<k1>mfq
+CD: exhilara: magnus es»; 17.1. 114.2.; YAǴURV. (v. Westerg.): {#na tvad
+AB: exhilara: magnus es»; 17.1. 114.2.; YAJURV. (v. Westerg.): {#na tvad
+* <L>6359<pc>271-b<k1>me
+CD: {%mjenaju%} muto, commuto; lat. {%mu-to%}; gr.<lang n="greek">ἀ-μείβω</lang>.) NA
+AB: {%mjenaju%} muto, commuto; lat. {%mu-to%}; gr. <lang n="greek">ἀ-μείβω</lang>.)
+* <L>6382<pc>272-b<k1>meha
+CD: (Cf. {#meQra, meza#}, gr. <lang n="greek">οιχός</lang>, v. {#mih#}.)
+AB: (Cf. {#meQra, meza#}, gr. <lang n="greek">μοιχός</lang>, v. {#mih#}.)
+* <L>6400<pc>273-a<k1>mnA
+CD: e. c. graece dicitur <lang n="greek">βΕβλη-ϰα</lang> a <lang n="greek">ΒΑΛ, πέπτώ-ϰα</lang>
+AB: e. c. graece dicitur <lang n="greek">βέβλη-ϰα</lang> a <lang n="greek">ΒΑΛ, πέπτω-ϰα</lang>
+* <L>6460<pc>276-a<k1>yam
+CD: {#BEkzyavat tAm aham upayaMsye viDAnataH#}; 3765.3791. 5181. Etiam {%PAR.%} MAN.
+AB: {#BEkzyavat tAm aham upayaMsye viDAnataH#}; 3765. 3791. 5181. Etiam {%PAR.%}
+* <L>6480<pc>277-b<k1>yA
+CD: <lang n="greek">ἵημι</lang> convenit cum <lang n="greek">ἵστνμι</lang> pro <lang n="greek">σίστημι</lang>; fut.
+AB: <lang n="greek">ἵημι</lang> convenit cum <lang n="greek">ἵστημι</lang> pro <lang n="greek">σίστημι</lang>; fut.
+* <L>6506<pc>279-a<k1>yAvat
+CD: antaN gacCAmi…tAvad dvitIyaM samupasTitam me#}; 43.2. 5) quum, {%de tempore,
+AB: antaN gacCAmi…tAvad dvitIyaM samupasTitam me#}; 43.12. 5) quum, {%de tempore,
+* <L>6509<pc>279-a<k1>yu
+CD: Vêd. etiam cl.%} 3. {%P.%} YAǴURV. (v. Westerg.): {#yuyoDy asmaj
+AB: Vêd. etiam cl.%} 3. {%P.%} YAJURV. (v. Westerg.): {#yuyoDy asmaj
+* <L>6707<pc>290-b<k1>ruc
+CD: gr. comp. 109^{%a%}).6. gr. <lang n="greek">λευ-ϰος, λύχ-νος</lang>, goth. {%liuh-ath%} lumen,
+AB: gr. comp. 109^{%a%}).6. gr. <lang n="greek">λευ-ϰός, λύχ-νος</lang>, goth. {%liuh-ath%} lumen,
+* <L>6711<pc>291-a<k1>ruj
+CD: [Page291-b+ 35] {%r%} in {%l%}, {%ǵ%} i. e. {%g%} in
+AB: [Page291-b+ 35] {%r%} in {%l%}, {%j%} i. e. {%g%} in
+* <L>6732<pc>293-a<k1>ruh
+CD: tollere, levare, collocare {%in aliquo loco.%} N. 8.19. 13.52. IN.
+AB: tollere, levare, collocare {%in aliquo loco%}. N. 8.19. 13.52. IN.
+* <L>6773<pc>295-b<k1>rohiRI
+CD: in {%fem.%}) astrum lunare <sup>(*)</sup>, {%in, mythologia%} una e {%Dakshi%}
+AB: in {%fem.%}) astrum lunare <sup>(*)</sup>, {%in mythologia%} una e {%Dakshi%}
+* <L>6820<pc>298-a<k1>laB
+CD: {#mudam paramikAM leBe#}; R. Schl. I.10.: 10.: {#lapsyateca tataH kAmam
+AB: {#mudam paramikAM leBe#}; R. Schl. I.10.10.: {#lapsyateca tataH kAmam fziputrAt#};
+* <L>6839<pc>299-b<k1>laz
+CD: <lang n="greek">λῶ, λῆμα, λωΐων, λωΐτεϱος, λώΐστος, λιλαίομαι</lang>, v. Pott. I.271.)
+AB: <lang n="greek">λῶ, λῆμα, λωΐων, λωΐτεϱος, λώϊστος, λιλαίομαι</lang>, v. Pott. I.271.)
+* <L>6989<pc>307-a<k1>vad
+CD: 8.28.: {#na kaYcid upAvadizwa#} (schol. Ǵ. {#upasAntvitavAn#}; BH.: {#praloBanavAkyam BAzate
+AB: 8.28.: {#na kaYcid upAvadizwa#} (schol. J. {#upasAntvitavAn#}; BH.: {#praloBanavAkyam BAzate
+* <L>7027<pc>310-a<k1>varizWa
+CD: illustrissimus; natu maximus; gr. <lang n="greek">ἄϱισος</lang>.)
+AB: illustrissimus; natu maximus; gr. <lang n="greek">ἄϱιστος</lang>.)
+* <L>7081<pc>311-b<k1>vas
+CD: v. 2. {#vas#}; gr. <lang n="greek">ἄσ-τν, Ϝάσ-τν, ἑσ-τία, Ἑστία</lang>, lat.
+AB: v. 2. {#vas#}; gr. <lang n="greek">ἄσ-τυ, Ϝάσ-τυ, ἑσ-τία, Ἑστία</lang>, lat.
+* <L>7138<pc>315-b<k1>vAtApi
+CD: {#vAtApi#}¦ {%m.%} nom. pr. {%Asuri.%} MAH. 3.8619.
+AB: {#vAtApi#}¦ {%m.%} nom. pr. {%Asuri%}. MAH. 3.8619.
+* <L>7191<pc>317-b<k1>vi
+CD: {%bî%} sine, e. c. <lang n="Arabic">???ك</lang> metu vacuus, intrepidus; fortasse
+AB: {%bî%} sine, e. c. <lang n="Arabic">بيباك</lang> metu vacuus, intrepidus; fortasse
+* <L>7256<pc>319-b<k1>vid
+CD: {%video%}, gr. <lang n="greek">ἸΔ, εἶδον, εἶδομαι; οἶδα</lang> = {#veda#} scio;
+AB: {%video%}, gr. <lang n="greek">ἸΔ, εἶδον, εἴδομαι; οἶδα</lang> = {#veda#} scio;
+* <L>7411<pc>324-b<k1>viS
+CD: {#devarAjasya BavanaM viviSAte#}. (Gr. <lang n="greek">ἵϰω/lang>; fortasse lat. {%viscus, viscera%}
+AB: {#devarAjasya BavanaM viviSAte#}. (Gr. <lang n="greek">ἵϰω</lang>; fortasse lat. {%viscus, viscera%}
+* <L>7510<pc>329-b<k1>vfka
+CD: syllabâ <lang n="greek">Ϝα</lang> in <lang n="greek">υ</lang> lat. {%lupus%} ex {%ulpus%}
+AB: syllabâ <lang n="greek">Ϝα</lang> in <lang n="greek">υ</lang>, lat. {%lupus%} ex {%ulpus%}
+* <L>7522<pc>330-b<k1>vft
+CD: 6.21. 5) dicere, narrare (v. 3. {#vft#}). R. Schl. I.5.4.:
+AB: 6.21. 5) dicere, narrare (v. 2. {#vft#}). R. Schl. I.5.4.:
+* <L>7534<pc>333-b<k1>vfD
+CD: Caus. {#varDayAmi#}; gr. <lang n="greek">βλασ-τός, βλάσ-τημ βλασ-τάνω</lang> e <lang n="greek">βλαϑ-τός</lang>
+AB: Caus. {#varDayAmi#}; gr. <lang n="greek">βλασ-τός, βλάσ-τη, βλασ-τάνω</lang> e <lang n="greek">βλαϑ-τός</lang>
+* <L>7634<pc>338-a<k1>vyaD
+CD: BHATT. 20.11.: {#AviDyaca srajam#} (schol. ǴAY. {#Sirasy Akzipya#}). <div n="pfx">c.
+AB: BHATT. 20.11.: {#AviDyaca srajam#} (schol. JAY. {#Sirasy Akzipya#}). <div n="pfx">c.
+* <L>7693<pc>340-1b<k1>SaMs
+CD: III.1.43.: {#AkzAritaH kzArito 'BiSaste#}; MAN. 2.85.: {#aBiSastAMs tu varjayet#}; 3.159.
+AB: III.1.43.: {#AkzAritaH kzArito 'BiSaste#}; MAN. 2.185.: {#aBiSastAMs tu varjayet#}; 3.159.
+* <L>7697<pc>341-b<k1>Sak
+CD: prodesse, {%hoegja%} moderare (Grimm. II.12. [Page342-a+ 37] n. 96.); gr.
+AB: prodesse, {%hoegja%} moderare (Grimm. II.12. n. 96.); [Page342-a+ 37] gr.
+* <L>7745<pc>343-b<k1>Sad
+CD: {#aSIyata nfmAMsAdAm balaM sugrIvavADitam#} (schol. ǴAY. {#avasannam#}, BHAR. {#avasAdam prAptam#}).
+AB: {#aSIyata nfmAMsAdAm balaM sugrIvavADitam#} (schol. JAY. {#avasannam#}, BHAR. {#avasAdam prAptam#}).
+* <L>7770<pc>345-b<k1>SaraBa
+CD: to inhabit particularly the snowy mountains.%} AM. 2) {%A young
+AB: to inhabit particularly the snowy mountains%}. AM. 2) {%A young
+* <L>7839<pc>347-a<k1>SAlva
+CD: of the central division of India.%} HEM. 4.23.) SA. 2.7.
+AB: of the central division of India%}. HEM. 4.23.) SA. 2.7.
+* <L>7950<pc>352-b<k1>SUr
+CD: 10. {%A.%} ({#vikrAntO#} {%K.%} {#vikrame#} {%v.%}; fortasse Denom. a sq.)
+AB: 10. {%A.%} ({#vikrAntO#} {%K.%} {#vikrame#} {%V.%}; fortasse Denom. a sq.)
+* <L>7983<pc>353-b<k1>So
+CD: gr. <lang n="greek">ϰῶνος</lang>, anglo-sax. [Page354-a+ 36]{%hvetan%} acuere, v. gr. comp.
+AB: gr. <lang n="greek">ϰῶνος</lang>, anglo-sax. [Page354-a+ 36] {%hvetan%} acuere, v. gr.
+* <L>8029<pc>355-b<k1>SrA
+CD: n="greek">ϰάγχϱυς</lang> forma redupl. pro <lang n="greek">ϰάϱχϱς</lang> (v. gr. 570.); goth.
+AB: n="greek">ϰάγχϱυς</lang> forma redupl. pro <lang n="greek">ϰάϱχϱυς</lang> (v. gr. 570.); goth.
+* <L>8037<pc>356-b<k1>SrI
+CD: Vischnûs%} uxor. N. 1.13. 2) foruna, [Page357-a+ 37] tfelicitas. SU.
+AB: Vischnûs%} uxor. N. 1.13. 2) fortuna, [Page357-a+ 37] felicitas. SU.
+* <L>8041<pc>357-a<k1>Sru
+CD: SuSrUzyante dvijAtayaH#}. (Gr. <lang n="greek">ϰλύω; ϰλ-τός</lang> = {#Sruta#}, v. praef.
+AB: SuSrUzyante dvijAtayaH#}. (Gr. <lang n="greek">ϰλύω; ϰλυ-τός</lang> = {#Sruta#}, v. praef.
+* <L>8089<pc>360-a<k1>Svi
+CD: gr. <lang n="greek">ϰύω, ϰύημα, ϰῦμα, ϰυΐτϰω, ϰύτος</lang>, v. {#SUnya#}; fortasse
+AB: gr. <lang n="greek">ϰύω, ϰύημα, ϰῦμα, ϰυΐσϰω, ϰύτος</lang>, v. {#SUnya#}; fortasse
+* <L>8377<pc>371-b<k1>salila
+CD: {#ila#}) aqua. (Cf. gr. <lang n="greek">ἅλς</lang>; lat. {%salum, sal, saliva%};
+AB: {#ila#}) aqua. (Cf. gr. <lang n="greek">σάλος, ἅλς</lang>; lat. {%salum, sal,
+* <L>8451<pc>375-a<k1>sAraTi
+CD: (e {#saraTa#} qui cum curru est-e {#sa#} et {#raTa#} -
+AB: (e {#saraTa#} qui cum curru est - e {#sa#} et
+* <L>8574<pc>382-a<k1>sev
+CD: 37] {#Aryasya sevyate#}. (Gr. <lang n="greek">σίβομαι</lang>. Fortasse goth. {%saivala%} anima,
+AB: 37] {#Aryasya sevyate#}. (Gr. <lang n="greek">σέβομαι</lang>. Fortasse goth. {%saivala%} anima,
+* <L>8632<pc>385-a<k1>stiG
+CD: consequor, slav. vet. <lang n="Slavonic">стчза</lang> {%stiζa%}semita, goth. {%staigs%} id., hib.
+AB: consequor, slav. vet. <lang n="Slavonic">стчза</lang> {%stiζa%} semita, goth. {%staigs%} id.,
+* <L>8718<pc>391-a<k1>sPuw
+CD: et 2. RAM. ed. Ser. [Page391-b+ 35] II.74.61.: {#kaTan duKena
+AB: et 2. RAM. ed. Ser. II.74.61.: [Page391-b+ 35] {#kaTan duKena
+* <L>8752<pc>393-b<k1>sru
+CD: <lang n="greek">ϱ̔έω</lang> e <lang n="greek">σϱέϜω, ϱ̔εύ-σις, ϱ̔εῦ-μα</lang> cet., lith. {%sraw-ju%}
+AB: <lang n="greek">ϱ̔έω</lang> e <lang n="greek">σϱέϜω, ϱ̔εύ-σω, ϱ̔εῦ-σις, ϱ̔εῦ-μα</lang> cet., lith.
+* <L>8773<pc>394-b<k1>svap
+CD: 18.11.: {#bAnDavA me svapanti#} (schol. ǴAY. {#dIrGanidrAm praveSitAH#}). — {#supta#}
+AB: 18.11.: {#bAnDavA me svapanti#} (schol. JAY. {#dIrGanidrAm praveSitAH#}). — {#supta#}
+* <L>8856<pc>400-a<k1>hA
+CD: giriH#}. (Cf. {#hi#}, gr. <lang n="greek">ϰιχάνε (ϰίχημι)</lang> forma redupl., cf.
+AB: giriH#}. (Cf. {#hi#}, gr. <lang n="greek">ϰιχάνω (ϰίχημι)</lang> forma redupl., cf.
+* <L>8902<pc>402-a<k1>hf
+CD: saMhftyE 'kArRavaM sarvaM tvaM Sozayasi raSmiBiH (saMhftya = saMhftyA ''tmAnam#}
+AB: saMhftyE 'kArRavaM sarvaM tvaM Sozayasi raSmiBiH#} ({#saMhftya = saMhftyA ''tmAnam#}
