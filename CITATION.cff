@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+type: dataset
+title: Bopp Glossarium Sanscritum
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/BOP
+date-released: 1847-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - skt-lat
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+preferred-citation:
+  type: book
+  title: Bopp Glossarium Sanscritum
+  year: 1847
+  authors:
+    - family-names: "Bopp"
+      given-names: "Franz"
