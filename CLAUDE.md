@@ -39,3 +39,33 @@ sh xmlchk_xampp.sh bop
 
 - **Python 3**
 - **bop.txt** — in `$BASE/cologne/csl-orig/v02/bop/bop.txt`
+
+## Data format
+
+Bopp entries use standard CDSL Sanskrit-lexicography markup, with **Latin** glosses.
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with `<pc>` print page-column ref | `<L>1<pc>001-a` |
+| `<k1>`, `<k2>` | Primary / secondary headword (SLP1) | `<k1>a<k2>a` |
+| `<h>N` | Homonym number | `<h>1` |
+| `<LEND>` | Entry end | |
+| `{#…#}` | Sanskrit text (SLP1) | `{#a#}` |
+| `{%…%}` | Latin gloss / italic display | `{%stirps%}` |
+
+Annotated example — the first entry of `bop.txt`:
+```
+<L>1<pc>001-a<k1>a<k2>a<h>1        # entry 1; print page 001 col a; headword "a"; homonym 1
+1. {#a#}¦ stirps demonstrativa; v. gr. 270.   # SLP1 headword ¦ Latin gloss
+<LEND>                             # entry end
+```
+
+## GitHub Issue Conventions
+
+This repository uses the Cologne dictionary-repo issue taxonomy. Every issue has exactly one **type**, one **severity**, and one **milestone**:
+
+- **Type** (9): link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **Severity** (3): minor, medium, hard
+- **Milestone** (4): Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+
+See the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md) for label definitions and the type→milestone mapping.
