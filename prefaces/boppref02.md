@@ -1,0 +1,14 @@
+---
+source_scan: bop_pref1.jpg
+source_page: Preface, 1
+volume: 1
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/boppref/boppref02.html
+---
+
+# PRAEFATIO.
+
+Continentur hoc libro omnes linguae sanscritae radices et vocabula usitatissima cum verbis graecis, latinis, germanicis, lithuanicis, slavicis, celticis comparata, et, quantum fieri potuit, librorum sanscritorum locis illustrata. Plurimae tamen radices apud auctores hactenus nondum repertae sunt, nonnullae tantum in dialecto Vêdicâ occurrunt, aliae cognatis linguis confirmantur. Ita obsoleta radix स्तिघ्, cui ascendendi notionem attribuunt grammatici, nostro *steigen*, graeco στείχω, ἔστιχον, russico *stignu* assequor (= स्तिघ्नोमि), lithuanico *staigio-s* festino, hibernico *staighre* gradus approbatur. Radicem क्षुय् ire nunc confirmatam videmus vetere linguae persicae dialecto, ubi *śiyu* (\*) item significat ire, unde *aśiyawam* ivi, profectus sum, quod saepius occurrit in memorabili Behistuniensi inscriptione, quam nuper edidit et ingeniose interpretatus est Vir clarissimus H. C. Rawlinson in libro *Journal of the Royal Asiatic Society of Great Britain and Ireland, Vol. X.*
+
+---
+
+(\*) *śiyu* inserto *i*, quod semivocali *y*, si alia quam *h* eam praecedit consonans, semper anteponitur, pronomine *tya* excepto, inde e. c. *aniya* alius = अन्य, sed *thahyâmahya* appellamur (cum terminatione Parasmaipadi = Vêd. मसि) a radice *thah*, quam non cum Benfeyo (*Die Persischen Keilinschriften* p. 83. s. v. *that*) ad scrt. गाह् retulerim, sed potius ad चत्र् e चकास्, ita ut *h* respondeat sanscrito स्, et *th* sanscrito च = *tsch*, sicut in *thastana*, quod Benfeyus apte ad sanscritum चेष्ट refert (l. c. p. 83.). Quod ad sibilantem attinet, quae in radice *śiyu* respondet sanscrito क्ष्, respiciatur zendicum *pĕrĕśâmi* et neopersicum پرسم *pursem* = scrt. पृच्छामि interrogo, nec non antiquae Persicae radix *as* venire, unde *arasam* veni, quod saepius in inscriptione Beh. occurrit, sanscritoque आर्छम् respondet. Aspiratam autem sibilantem in radice *śiyu* adhiberi censeo propter sequentem vocalem *i*, quae non raro aspirationem in antecedentem consonantem infert, inde e. c. *amśiya* sum contra *amahya*; ita *d꞉* (sic cum Holzmannio — *Beiträge zur Erklärung der persischen Keilinschriften* p. 61. — legimus pro Rawlinsonii *t꞉* et Lassenii *k'h*) nonnisi ante *i* vocalem loco fungitur sanscritorum ड् et ध्, e. c. in *yad꞉iya* si, *prid꞉iya* χαῖρε, salve, quorum prius convenit cum sanscrito यदि, alterum terminatione aequat formas Vêdicas et Zendicas ut श्रुधि, ـشـنـيـذـی *śtûidhi* (gramm. comp. §. 450.). Sanscrito respondent *g'* et *g꞉* (sic cum Holzmannio legimus pro Rawlinsonii *jh, j* et Lassenii *z', g'*), quorum prius invenitur ante *a*, alterum ante *i*, itaque e. c. *g'ad꞉iya* dele, caede = जहि e ह्धि, *g'iwa* vita = जीव.

@@ -1,0 +1,28 @@
+---
+source_scan: bop_title.jpg
+source_page: Title
+volume: 1
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/boppref/boppref01.html
+---
+
+# GLOSSARIUM SANSCRITUM
+
+GLOSSARIUM SANSCRITUM
+
+IN QUO
+
+OMNES RADICES ET VOCABULA USITATISSIMA EXPLICANTUR ET
+CUM VOCABULIS GRAECIS, LATINIS, GERMANICIS, LITHUANICIS,
+SLAVICIS, CELTICIS COMPARANTUR
+
+A
+
+FRANCISCO BOPP.
+
+BEROLINI
+
+PROSTAT IN LIBRARIA DÜMMLERIANA
+(GRUBE ET HARRWITZ)
+MDCCCXLVII.
+
+EX OFFICINA ACADEMICA.
