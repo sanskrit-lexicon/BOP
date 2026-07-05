@@ -1,5 +1,7 @@
 # BOP — Bopp *Glossarium Sanscritum*
 
+_Created: 02-05-2022 · Last updated: 05-07-2026_
+
 Development and correction repository for **Franz Bopp's *Glossarium Sanscritum* (1847)**, a Sanskrit→Latin dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bop/bop.txt) (8,961 entries); this repository holds correction and enrichment work (Greek-text research, per-issue corrections).
 
 ## Documentation
@@ -14,6 +16,28 @@ Development and correction repository for **Franz Bopp's *Glossarium Sanscritum*
 | `issues/` | Per-issue correction workflows (`issueNNN/` pattern) |
 | `prefaces/` | Front-matter OCR (title page, preface, abbreviation list) + EN/RU translation — see [Front matter](#front-matter-prefaces) below |
 | `CITATION.cff` | Machine-readable citation metadata |
+
+## Usage example
+
+A real entry from [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bop/bop.txt) — line 78, the "akaRwaka" entry:
+
+```
+78:{#akaRwaka#}¦ ({%BAH.%} ex {#a#} priv. et {#kaRwaka#} hostis) liber ab
+```
+
+To correct the Latin gloss (e.g. `liber ab` → `liber a`, an ablative-preposition fix), write a paired-line change file and apply it with `updateByLine.py`:
+
+```
+; issueNNN: fix Latin preposition in "akaRwaka" gloss
+78 old {#akaRwaka#}¦ ({%BAH.%} ex {#a#} priv. et {#kaRwaka#} hostis) liber ab
+78 new {#akaRwaka#}¦ ({%BAH.%} ex {#a#} priv. et {#kaRwaka#} hostis) liber a
+```
+
+```sh
+python updateByLine.py bop.txt change_78.txt bop_corrected.txt
+```
+
+(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious Latin-preposition fix is invented to demonstrate the change-file mechanics.)
 
 ## Timeline
 
@@ -166,3 +190,5 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
