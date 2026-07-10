@@ -1,21 +1,22 @@
 # BOP — Bopp *Glossarium Sanscritum*
 
-_Created: 02-05-2022 · Last updated: 05-07-2026_
+_Created: 02-05-2022 · Last updated: 11-07-2026_
 
 Development and correction repository for **Franz Bopp's *Glossarium Sanscritum* (1847)**, a Sanskrit→Latin dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bop/bop.txt) (8,961 entries); this repository holds correction and enrichment work (Greek-text research, per-issue corrections).
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide, correction workflow, and data-format reference.
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/BOP/blob/main/CLAUDE.md) — repository guide, correction workflow, and data-format reference.
+- The canonical csl-orig correction workflow (snapshot → `updateByLine.py` → promote → build → validate → batch PR) is documented once in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — follow it rather than the abbreviated illustration below.
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `greek/` | Greek loanword / citation research in Bopp entries |
-| `issues/` | Per-issue correction workflows (`issueNNN/` pattern) |
-| `prefaces/` | Front-matter OCR (title page, preface, abbreviation list) + EN/RU translation — see [Front matter](#front-matter-prefaces) below |
-| `CITATION.cff` | Machine-readable citation metadata |
+| [greek/](https://github.com/sanskrit-lexicon/BOP/tree/main/greek) | Greek loanword / citation research in Bopp entries |
+| [issues/](https://github.com/sanskrit-lexicon/BOP/tree/main/issues) | Per-issue correction workflows (`issueNNN/` pattern) |
+| [prefaces/](https://github.com/sanskrit-lexicon/BOP/tree/main/prefaces) | Front-matter OCR (title page, preface, abbreviation list) + EN/RU translation — see [Front matter](#front-matter-prefaces) below |
+| [CITATION.cff](https://github.com/sanskrit-lexicon/BOP/blob/main/CITATION.cff) | Machine-readable citation metadata |
 
 ## Usage example
 
@@ -25,7 +26,7 @@ A real entry from [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexic
 78:{#akaRwaka#}¦ ({%BAH.%} ex {#a#} priv. et {#kaRwaka#} hostis) liber ab
 ```
 
-To correct the Latin gloss (e.g. `liber ab` → `liber a`, an ablative-preposition fix), write a paired-line change file and apply it with `updateByLine.py`:
+To correct the Latin gloss (e.g. `liber ab` → `liber a`, an ablative-preposition fix), write a paired-line change file and apply it with `updateByLine.py` — the full end-to-end procedure (BOM/`<LEND>`/CRLF gotchas, XML validation, batching) is in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md):
 
 ```
 ; issueNNN: fix Latin preposition in "akaRwaka" gloss
@@ -138,7 +139,7 @@ pie showData
 - **Language pair**: Sanskrit → Latin
 - **Entries (digital edition)**: 8,961
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/BOP/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
@@ -162,31 +163,28 @@ flowchart LR
 
 ## Front matter (`prefaces/`)
 
-The dictionary's **front matter** (title page, preface, abbreviation list) has been OCR'd from the Cologne csldoc scans into faithful Markdown and translated into English and Russian. See [`prefaces/README.md`](prefaces/README.md) for the full index.
+The dictionary's **front matter** (title page, preface, abbreviation list) has been OCR'd from the Cologne csldoc scans into faithful Markdown and translated into English and Russian. See [prefaces/README.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/README.md) for the full index.
 
 - **Source language:** **Latin** (with Sanskrit in Devanāgarī + Roman transliteration, and comparative Greek, Old-Persian, Lithuanian, Slavic, Celtic forms).
 - **Cologne source:** front-matter index → [boppref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/boppref.html) — 5 scans: title page, preface (2 pp.), abbreviation list (2 pp.).
-- **Files:** `bopprefNN.md` (Latin source) + `.en.md` / `.ru.md` translations, one set per page. File-suffix conventions in [`prefaces/README.md`](prefaces/README.md).
-- **Consolidated editions:** [boppref_all.la.md](prefaces/boppref_all.la.md) · [boppref_all.en.md](prefaces/boppref_all.en.md) · [boppref_all.ru.md](prefaces/boppref_all.ru.md) — built reproducibly by [build_combined.py](prefaces/build_combined.py).
+- **Files:** `bopprefNN.md` (Latin source) + `.en.md` / `.ru.md` translations, one set per page. File-suffix conventions in [prefaces/README.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/README.md).
+- **Consolidated editions:** [boppref_all.la.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.la.md) · [boppref_all.en.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.en.md) · [boppref_all.ru.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.ru.md) — built reproducibly by [build_combined.py](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/build_combined.py).
 - **Signatures / dates:** no author signature or date in the front matter beyond the title-page imprint year **MDCCCXLVII (1847)**, Berlin, Dümmler. The preface (pp. V–VI) is unsigned.
 - The digitizer running-header/footer stamps and the library accession stamp (`M-1126`) were omitted as not part of the original.
 
-<details>
-<summary><strong>OCR run notes (2026-06-22)</strong> — cost, timing, and technical lessons</summary>
-
-Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process retrospective, not part of the deliverable. This was a **resume** run: pages 01–03 (title + preface) had been OCR'd and translated in a prior session that stalled; this run completed the missing abbreviation pages 04–05 and the consolidation/README scaffolding.
-
-**Cost.** Synchronous, single-thread (no subagents per retry rules). This resume run: ≈80–100k tokens, dominated by ~9 native-resolution crop reads (abbr1/abbr2 in 3 bands each + 2 layout overviews) plus the 4 translation writes and README/build work. Prior session (pages 01–03 OCR + 6 translations) not re-counted here.
-
-**Time.** Resume wall-clock ≈8 min, gated by sequential crop→read of the two abbreviation pages.
-
-**Technical lessons (reusable):**
-1. The two abbreviation scans were single-column (3328×4677); the *SIGLORUM EXPLICATIO* fit in 3 native-res bands per page scaled to 1900 px wide — clean Latin, no `[?]` needed.
-2. Sigla keys and bibliographic work-titles (Bhagavad-Gîta, Râmâyana, Rigveda, *Radices Sanscritae*, etc.) are kept verbatim in all three languages; only the connective Latin (`X. est …`) and the footnote prose are translated.
-3. Scans were already present from the stalled run — no re-download needed; reused `scans/*.jpg` directly (csldoc serves these as `.jpg`, not `.png`).
-4. The accession stamp `M-1126` / *Universität zu Köln, Seminar für Indologie* at the foot of the last scan is a library mark, not original — omitted.
-
-</details>
+> **OCR run notes (2026-06-22)** — cost, timing, and technical lessons
+>
+> Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process retrospective, not part of the deliverable. This was a **resume** run: pages 01–03 (title + preface) had been OCR'd and translated in a prior session that stalled; this run completed the missing abbreviation pages 04–05 and the consolidation/README scaffolding.
+>
+> **Cost.** Synchronous, single-thread (no subagents per retry rules). This resume run: ≈80–100k tokens, dominated by ~9 native-resolution crop reads (abbr1/abbr2 in 3 bands each + 2 layout overviews) plus the 4 translation writes and README/build work. Prior session (pages 01–03 OCR + 6 translations) not re-counted here.
+>
+> **Time.** Resume wall-clock ≈8 min, gated by sequential crop→read of the two abbreviation pages.
+>
+> **Technical lessons (reusable):**
+> 1. The two abbreviation scans were single-column (3328×4677); the *SIGLORUM EXPLICATIO* fit in 3 native-res bands per page scaled to 1900 px wide — clean Latin, no `[?]` needed.
+> 2. Sigla keys and bibliographic work-titles (Bhagavad-Gîta, Râmâyana, Rigveda, *Radices Sanscritae*, etc.) are kept verbatim in all three languages; only the connective Latin (`X. est …`) and the footnote prose are translated.
+> 3. Scans were already present from the stalled run — no re-download needed; reused `scans/*.jpg` directly (csldoc serves these as `.jpg`, not `.png`).
+> 4. The accession stamp `M-1126` / *Universität zu Köln, Seminar für Indologie* at the foot of the last scan is a library mark, not original — omitted.
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
