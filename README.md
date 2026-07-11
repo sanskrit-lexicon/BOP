@@ -6,6 +6,7 @@ Development and correction repository for **Franz Bopp's *Glossarium Sanscritum*
 
 ## Documentation
 
+- [docs/CORRECTION_MANUAL.md](https://github.com/sanskrit-lexicon/BOP/blob/main/docs/CORRECTION_MANUAL.md) — **operator manual**: the correction pipeline applied to BOP, the Greek-text campaign as replayable provenance, the per-issue pattern, symptom→cause→cure.
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/BOP/blob/main/CLAUDE.md) — repository guide, correction workflow, and data-format reference.
 - The canonical csl-orig correction workflow (snapshot → `updateByLine.py` → promote → build → validate → batch PR) is documented once in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — follow it rather than the abbreviated illustration below.
 
