@@ -2,7 +2,7 @@
 
 _Created: 02-05-2022 · Last updated: 11-07-2026_
 
-Development and correction repository for **Franz Bopp's *Glossarium Sanscritum* (1847)**, a Sanskrit→Latin dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bop/bop.txt) (8,961 entries); this repository holds correction and enrichment work (Greek-text research, per-issue corrections).
+Development and correction repository for **Franz Bopp's *Glossarium Sanscritum* (1847)**, a Sanskrit→Latin dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bop/bop.txt) (8,961 entries); this repository holds correction and enrichment work (Greek-text research, per-issue corrections).
 
 ## Documentation
 
@@ -21,7 +21,7 @@ Development and correction repository for **Franz Bopp's *Glossarium Sanscritum*
 
 ## Usage example
 
-A real entry from [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bop/bop.txt) — line 78, the "akaRwaka" entry:
+A real entry from [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bop/bop.txt) — line 78, the "akaRwaka" entry:
 
 ```
 78:{#akaRwaka#}¦ ({%BAH.%} ex {#a#} priv. et {#kaRwaka#} hostis) liber ab

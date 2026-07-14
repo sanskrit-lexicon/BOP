@@ -22,7 +22,7 @@ completed prefaces OCR.
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H516-Fable_BOP_correction_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H516-Fable_BOP_correction_pipeline_manual_10.07.26.md)
+[H516-Fable_BOP_correction_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H516-Fable_BOP_correction_pipeline_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Content read from `greek/readme.txt` (the campaign log),
 `issues/*/readme.txt`, README/CLAUDE.md/prefaces, and the canonical
