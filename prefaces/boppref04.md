@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_abbr1.jpg
 source_page: Abbreviations, 1
@@ -42,3 +44,5 @@ P. est 1) Parasmaipadum. 2) Pâtaliputra (ed. H. Brockhaus. Lipsiae 1835.)
 (\*\*\*) Qui minore, germanice scriptâ utuntur grammaticâ, respiciant dicti libri tabulam synopticam (p. 370. sq.), quae utriusque libri regularum ordinem exhibet.
 
 (\*\*\*\*) Kâśʾinâthi et Vôpadêvi grammaticorum explicationes nonnisi iis apposui radicibus, quarum significatio librorum locis non confirmari potuit. Ubi utriusque grammatici definitiones iisdem verbis sunt expressae, sigla omisi.
+
+_Dr. Mārcis Gasūns_

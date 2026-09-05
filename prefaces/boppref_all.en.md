@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `bopprefNN.en.md`. Index: [README.md](README.md).
+Per-page files: `bopprefNN.en.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -145,3 +147,5 @@ Westerg. is Westergaard's book entitled *Radices sanscritae*.
 (\*\*) In my book «Diluvium», Berlin, at F. Dümmler's.
 
 (\*\*\*) In my book «Ardschuna's Reise zu Indra's Himmel» (Arjuna's Journey to Indra's Heaven). Berlin, at Wilhelm Logier's.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_abbr1.jpg
 source_page: Abbreviations, 1
@@ -44,3 +46,5 @@ P. is 1) Parasmaipadum (active voice). 2) Pâtaliputra (ed. H. Brockhaus. Leipzi
 (\*\*\*) Those who use the smaller grammar written in German should consult the synoptic table of the said book (p. 370 sqq.), which exhibits the order of the rules of both books.
 
 (\*\*\*\*) The explanations of the grammarians Kâśʾinâtha and Vôpadêva I have appended only to those roots whose meaning could not be confirmed from passages of the books. Where the definitions of both grammarians are expressed in the same words, I have omitted the sigla.
+
+_Dr. Mārcis Gasūns_

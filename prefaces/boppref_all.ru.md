@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `bopprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `bopprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -145,3 +147,5 @@ Westerg. — это книга Вестергора под названием *R
 (\*\*) В моей книге «Diluvium», Берлин, у Ф. Дюммлера.
 
 (\*\*\*) В моей книге «Ardschuna's Reise zu Indra's Himmel» (Путешествие Арджуны на небо Индры). Берлин, у Вильгельма Логира.
+
+_Dr. Mārcis Gasūns_

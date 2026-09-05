@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_pref2.jpg
 source_page: Preface, 2
@@ -18,3 +20,5 @@ Libri, quibus illustrandis hoc glossarium praecipue inservit, sunt hi: 1) *Indra
 (\*) *t* finale post antecedentem vocalem *u* transit in *ś꞉*, post alias abjicitur, quam ob rem pro *parʾuviyat* (Rawlinsonii N. R. 8. 45. *hacâ parʾuviyat* ab antiquo) *parʾuviyata* legendum esse censeo, quod suffixo cum sanscritis formis in तस् convenit (v. e. c. अतस्, इतस्, शत्रुतस्). Veri ablativi autem, quanquam formâ cum instrumentali conveniunt, sunt *kabuǵiyaś* Cambyse (Rawl. I. 40.) et *darʾugâ* (IV. 37.). Etiam *bâbirʾuś* Babylone (II. 65.) verus est ablativus, nititurque ut *tanaôt* (gramm. compar. §. 180.). Genitivi forma *bâbirʾuwa* convenit cum sanscritis genitivis ut धेन्वास्, correpto *â* et abjecto *ś*, sicut semper post antecedentem vocalem *a* vel *â*.
 
 (\*\*) Ardschuna's Reise zu Indra's Himmel nebst anderen Episoden des Mahâ-Bhârata, Berlin 1824, bei W. Logier.
+
+_Dr. Mārcis Gasūns_

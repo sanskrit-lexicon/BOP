@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_abbr2.jpg
 source_page: Abbreviations, 2
@@ -34,3 +36,5 @@ Westerg. est Westergardii liber *Radices sanscritae* inscriptus.
 (\*\*) In libro meo «Diluvium» Berolini apud F. Dümmler.
 
 (\*\*\*) In libro meo «Ardschuna's Reise zu Indra's Himmel». Berol. apud Guilelmum Logier.
+
+_Dr. Mārcis Gasūns_

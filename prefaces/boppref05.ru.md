@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_abbr2.jpg
 source_page: Abbreviations, 2
@@ -36,3 +38,5 @@ Westerg. — это книга Вестергора под названием *R
 (\*\*) В моей книге «Diluvium», Берлин, у Ф. Дюммлера.
 
 (\*\*\*) В моей книге «Ardschuna's Reise zu Indra's Himmel» (Путешествие Арджуны на небо Индры). Берлин, у Вильгельма Логира.
+
+_Dr. Mārcis Gasūns_

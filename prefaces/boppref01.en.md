@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_title.jpg
 source_page: Title
@@ -28,3 +30,5 @@ ON SALE AT THE DÜMMLER BOOKSHOP
 1847.
 
 FROM THE ACADEMIC PRESS.
+
+_Dr. Mārcis Gasūns_

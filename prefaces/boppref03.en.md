@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_pref2.jpg
 source_page: Preface, 2
@@ -20,3 +22,5 @@ The books which have chiefly served for the illustration of this glossary are th
 (\*) Final *t* after a preceding vowel *u* passes into *ś꞉*, but after other vowels it is dropped; for which reason, in place of *parʾuviyat* (Rawlinson, N. R. 8. 45, *hacâ parʾuviyat* "from of old"), I hold that *parʾuviyata* should be read, since by its suffix it agrees with the Sanskrit forms in तस् (as for example अतस्, इतस्, शत्रुतस्). The true ablatives, however, though they agree in form with the instrumental, are *kabuǵiyaś* "Cambyses" (Rawl. I. 40) and *darʾugâ* (IV. 37). Likewise *bâbirʾuś* "Babylon" (II. 65) is a true ablative, and rests, like *tanaôt* (Comparative Grammar §. 180). The form of the genitive *bâbirʾuwa* agrees with the Sanskrit genitives such as धेन्वास्, with *â* shortened and *ś* dropped, as always after a preceding vowel *a* or *â*.
 
 (\*\*) Arjuna's Journey to Indra's Heaven, together with other Episodes of the Mahâ-Bhârata, Berlin 1824, at W. Logier's.
+
+_Dr. Mārcis Gasūns_

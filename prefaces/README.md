@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # BOP front matter — *Glossarium Sanscritum* prefaces
 
 Faithful OCR + translation of the **front matter** (title page, preface, abbreviation list) of **Franz Bopp's *Glossarium Sanscritum*** (Berlin: Dümmler, *MDCCCXLVII* = 1847; *ex officina academica*), the Sanskrit→Latin glossary digitized as Cologne dictionary code **`bop`**.
@@ -20,20 +22,20 @@ Faithful OCR + translation of the **front matter** (title page, preface, abbrevi
 
 | Language | File |
 |---|---|
-| Latin (source) | [boppref_all.la.md](boppref_all.la.md) |
-| English | [boppref_all.en.md](boppref_all.en.md) |
-| Russian | [boppref_all.ru.md](boppref_all.ru.md) |
-| — builder | [build_combined.py](build_combined.py) |
+| Latin (source) | [boppref_all.la.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.la.md) |
+| English | [boppref_all.en.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.en.md) |
+| Russian | [boppref_all.ru.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref_all.ru.md) |
+| — builder | [build_combined.py](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/build_combined.py) |
 
 ## Contents
 
 | Page | Section | Vol. | Source | EN | RU |
 |---|---|---|---|---|---|
-| 01 | Title | 1 | [boppref01.md](boppref01.md) | [en](boppref01.en.md) | [ru](boppref01.ru.md) |
-| 02 | Preface, 1 | 1 | [boppref02.md](boppref02.md) | [en](boppref02.en.md) | [ru](boppref02.ru.md) |
-| 03 | Preface, 2 | 1 | [boppref03.md](boppref03.md) | [en](boppref03.en.md) | [ru](boppref03.ru.md) |
-| 04 | Abbreviations, 1 | 1 | [boppref04.md](boppref04.md) | [en](boppref04.en.md) | [ru](boppref04.ru.md) |
-| 05 | Abbreviations, 2 | 1 | [boppref05.md](boppref05.md) | [en](boppref05.en.md) | [ru](boppref05.ru.md) |
+| 01 | Title | 1 | [boppref01.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref01.md) | [en](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref01.en.md) | [ru](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref01.ru.md) |
+| 02 | Preface, 1 | 1 | [boppref02.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref02.md) | [en](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref02.en.md) | [ru](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref02.ru.md) |
+| 03 | Preface, 2 | 1 | [boppref03.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref03.md) | [en](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref03.en.md) | [ru](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref03.ru.md) |
+| 04 | Abbreviations, 1 | 1 | [boppref04.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref04.md) | [en](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref04.en.md) | [ru](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref04.ru.md) |
+| 05 | Abbreviations, 2 | 1 | [boppref05.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref05.md) | [en](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref05.en.md) | [ru](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/boppref05.ru.md) |
 
 ## Notes
 
@@ -42,3 +44,5 @@ Faithful OCR + translation of the **front matter** (title page, preface, abbrevi
 - **Preface** (pp. 02–03, *PRAEFATIO*, printed pages V–VI) — Bopp's account of the roots, the Vedic dialect, and Old-Persian cognates (Behistun inscription, Rawlinson), with dense comparative footnotes.
 - **Abbreviation list** (pp. 04–05, *SIGLORUM EXPLICATIO*, printed page VIII on p. 05) — the sigla key: work-titles (Bhagavad-Gîta, Mahâ-Bhârata, Râmâyana, Rigveda, etc.) and grammatical terms, with footnote references to Bopp's own editions and to Westergaard, Wilkins, Lassen, and others. Sigla keys and bibliographic work-titles are kept verbatim; only the connective Latin and footnote prose are translated.
 - No author signature or date appears in the front matter beyond the title-page imprint year (1847).
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_abbr2.jpg
 source_page: Abbreviations, 2
@@ -36,3 +38,5 @@ Westerg. is Westergaard's book entitled *Radices sanscritae*.
 (\*\*) In my book «Diluvium», Berlin, at F. Dümmler's.
 
 (\*\*\*) In my book «Ardschuna's Reise zu Indra's Himmel» (Arjuna's Journey to Indra's Heaven). Berlin, at Wilhelm Logier's.
+
+_Dr. Mārcis Gasūns_

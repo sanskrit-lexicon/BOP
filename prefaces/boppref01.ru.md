@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bop_title.jpg
 source_page: Title
@@ -28,3 +30,5 @@ translation_of: boppref01.md
 1847.
 
 ИЗ АКАДЕМИЧЕСКОЙ ТИПОГРАФИИ.
+
+_Dr. Mārcis Gasūns_

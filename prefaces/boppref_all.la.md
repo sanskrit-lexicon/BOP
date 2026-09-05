@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (Latin source)
 
-Per-page files: `bopprefNN.md`. Index: [README.md](README.md).
+Per-page files: `bopprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BOP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -145,3 +147,5 @@ Westerg. est Westergardii liber *Radices sanscritae* inscriptus.
 (\*\*) In libro meo «Diluvium» Berolini apud F. Dümmler.
 
 (\*\*\*) In libro meo «Ardschuna's Reise zu Indra's Himmel». Berol. apud Guilelmum Logier.
+
+_Dr. Mārcis Gasūns_
