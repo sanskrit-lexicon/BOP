@@ -1,5 +1,7 @@
 # BOP — Bopp *Glossarium Sanscritum*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151301.svg)](https://doi.org/10.5281/zenodo.23151301)
+
 _Created: 02-05-2022 · Last updated: 11-07-2026_
 
 Development and correction repository for **Franz Bopp's *Glossarium Sanscritum* (1847)**, a Sanskrit→Latin dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bop/bop.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bop/bop.txt) (8,961 entries); this repository holds correction and enrichment work (Greek-text research, per-issue corrections).
